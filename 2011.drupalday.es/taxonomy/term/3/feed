@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalday.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Barcelona Drupal Day - logo</title>
+ <link>http://2011.drupalday.es/taxonomy/term/3</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Logo Drupal Day 2011</title>
+ <link>http://2011.drupalday.es/node/29</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://2011.drupalday.es/sites/default/files/styles/large/public/field/image/logo_drupalday.png&quot;&gt;&lt;a href=&quot;http://2011.drupalday.es/sites/default/files/field/image/logo_drupalday.png&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://2011.drupalday.es/sites/default/files/styles/large/public/field/image/logo_drupalday.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/3&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;logo&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 May 2011 10:49:01 +0000</pubDate>
+ <dc:creator>isaac.el.cec</dc:creator>
+ <guid isPermaLink="false">29 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/29#comments</comments>
+</item>
+</channel>
+</rss>

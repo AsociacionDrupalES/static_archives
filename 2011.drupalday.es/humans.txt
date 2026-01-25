@@ -1,0 +1,27 @@
+/* TEAM */
+Pedro Cambra
+http://cambrico.net
+@pcambra
+
+Marc Navarro
+http://es.linkedin.com/in/marcnavarrogabriel
+@flametes
+
+Siddharta Navarro
+http://ateneatech.com/
+@sidddi
+
+Jaume Ramonet
+http://www.jramonet.com/
+@isaac_el_cec
+
+Ramon Vilar
+http://ymbra.com/
+@rvilar
+
+/* THANKS */
+Associació Drupal.cat - http://www.drupal.cat
+Colaboradores - http://drupalday.es/colaboradores
+
+/* SITE */
+Tools:Drupal

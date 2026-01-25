@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalday.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Barcelona Drupal Day - Debate general</title>
+ <link>http://2011.drupalday.es/taxonomy/term/2</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Powerpoints + Videos</title>
+ <link>http://2011.drupalday.es/node/58</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Foros: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/2&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Debate general&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;¿Hubo posibilidad de grabar las ponencias en vídeo?&lt;/p&gt;
+&lt;p&gt;Sería muy interesante hacer como en la DrupalCamp y colgar los vídeos de las distintas sesiones para aquellos que no han podido asisitir a todas o, simplemente, para los que les apetezca repasarlas.&lt;/p&gt;
+&lt;p&gt;Fue muy interesante.&lt;/p&gt;
+&lt;p&gt;Saludos.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 27 Jun 2011 11:52:26 +0000</pubDate>
+ <dc:creator>RaulMuroc</dc:creator>
+ <guid isPermaLink="false">58 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/58#comments</comments>
+</item>
+<item>
+ <title>Fotos del Drupal day</title>
+ <link>http://2011.drupalday.es/node/55</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Foros: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/2&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Debate general&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hemos creado un grupo en Flickr para que todo el mundo pueda subir las fotos del Drupal day: &lt;a href=&quot;http://tinyurl.com/68hk5jj&quot;&gt;http://tinyurl.com/68hk5jj&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 18 Jun 2011 15:49:58 +0000</pubDate>
+ <dc:creator>Siddharta Navarro</dc:creator>
+ <guid isPermaLink="false">55 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/55#comments</comments>
+</item>
+<item>
+ <title>Propuesta de BOF: Drupal, mapas, geoposicionamiento y Realidad Aumentada</title>
+ <link>http://2011.drupalday.es/node/52</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Foros: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/2&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Debate general&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hola a todos,&lt;/p&gt;
+&lt;p&gt;No tengo muy claro cómo funcionan los BOF ni cómo se organizan/proponen, pero dado que me interesa mucho trabajar con mapas y drupal (y me gustaría hacerlo con Realidad Aumentada) he pensado que sería una buena cosa reunirnos unos cuantos que estemos interesados en estos temas para compartir experiencias, discutir cuales creemos que pueden ser los módulos que seguirán en el futuro, cómo conseguir determinados efectos...&lt;/p&gt;
+&lt;p&gt;¿A alguien le interesaría?&lt;/p&gt;
+&lt;p&gt;Saludos,&lt;/p&gt;
+&lt;p&gt;Carlos&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 16 Jun 2011 07:54:17 +0000</pubDate>
+ <dc:creator>c-c-m</dc:creator>
+ <guid isPermaLink="false">52 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/52#comments</comments>
+</item>
+<item>
+ <title>Speed Dating para empresas</title>
+ <link>http://2011.drupalday.es/node/51</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Foros: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/2&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Debate general&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Ha salido el tema del speed dating en otro hilo, relacionado con la búsqueda de empleo, pero creo que también se podría trasladar a encuentros empresariales rápidos, a modo de toma de contacto inicial. Dos empresas se reúnen 5 minutos y explican qué servicios dan, qué necesitan, etc... es una forma ideal de conocer a casi todos y de intercambiar tarjetas. Suena la campana y a seguir rotando!!! &lt;/p&gt;
+&lt;p&gt;Sólo a modo de sugerencia, como los asistentes al evento son demasiados, se podría hacer una prueba con los patrocinadores... y si sale bien y lo vemos productivo, se podría trasladar posteriormente a la drupalcamp. &lt;/p&gt;
+&lt;p&gt;Un saludo&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 15 Jun 2011 09:53:57 +0000</pubDate>
+ <dc:creator>frankgil</dc:creator>
+ <guid isPermaLink="false">51 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/51#comments</comments>
+</item>
+<item>
+ <title>#BOF Drupalcamp 2012 Madrid</title>
+ <link>http://2011.drupalday.es/node/50</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Foros: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/2&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Debate general&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Reunión para tener una charla y tomar ideas y ver como podría montarse la camp2012 en Madrid.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sobre todo&lt;/strong&gt; estamos buscando un &lt;strong&gt;lugar para el encuentro&lt;/strong&gt; que sea accesible económicamete, ya que de realizarse en Madrid se puede estimar casi 1.000 asistentes al evento.&lt;/p&gt;
+&lt;p&gt;También se planteará temas como:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Alojamiento,&lt;/li&gt;
+&lt;li&gt;Movilidad,&lt;/li&gt;
+&lt;li&gt;Actividades paralelas para &quot;viudxs&quot; de Drupal,&lt;/li&gt;
+&lt;li&gt;Difusión en medios,&lt;/li&gt;
+&lt;li&gt;Apoyo de empresas y universidades,&lt;/li&gt;
+&lt;li&gt;etc...&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 15 Jun 2011 08:19:35 +0000</pubDate>
+ <dc:creator>Oskar Calvo</dc:creator>
+ <guid isPermaLink="false">50 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/50#comments</comments>
+</item>
+<item>
+ <title>Oferta trabajo Drupal</title>
+ <link>http://2011.drupalday.es/node/49</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Foros: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/2&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Debate general&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;¡Hola a todos!&lt;/p&gt;
+&lt;p&gt;En papanatos.com buscamos un megamaster de Drupal para que se una a nuestras filas. El trabajo es presencial y es en Madrid.&lt;/p&gt;
+&lt;p&gt;Si estáis interesados o conocéis a alguien que puede estarlo por favor contactadme en: &lt;a href=&quot;mailto:castelo@papanatos.com&quot;&gt;castelo@papanatos.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Gracias!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 14 Jun 2011 20:55:47 +0000</pubDate>
+ <dc:creator>Antonio Castelo</dc:creator>
+ <guid isPermaLink="false">49 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/49#comments</comments>
+</item>
+<item>
+ <title>#Bof &quot;General Sherman&quot;</title>
+ <link>http://2011.drupalday.es/node/46</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Foros: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/2&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Debate general&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Para los entendidos, invitamos a todos a participar en este #BOF y terapia de grupo en el que hablaremos de aquellas cosas que harían llorar sangre a los meros mortales, de como el que estaba dormido por una eternidad se a levantado, y lo que no te tenía que ser es.&lt;/p&gt;
+&lt;p&gt;Este BOF es solo para gente con estomago, amantes de gatitos y de la calidad en el trabajo.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Oskar&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 13 Jun 2011 18:07:32 +0000</pubDate>
+ <dc:creator>Oskar Calvo</dc:creator>
+ <guid isPermaLink="false">46 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/46#comments</comments>
+</item>
+<item>
+ <title>Un tracker plis</title>
+ <link>http://2011.drupalday.es/node/45</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Foros: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/2&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Debate general&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Si no es mucha molestia activad envios recientes (aunque no pongais el link en ninguna parte)... más que nada por no ir penando de nodo en nodo para ver los comentarios XD&lt;/p&gt;
+&lt;p&gt;Salu2&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 13 Jun 2011 17:00:43 +0000</pubDate>
+ <dc:creator>niteman</dc:creator>
+ <guid isPermaLink="false">45 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/45#comments</comments>
+</item>
+<item>
+ <title>BoF #drupal-es</title>
+ <link>http://2011.drupalday.es/node/44</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Foros: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/2&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Debate general&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Quedada de los habitantes de #drupal-es para conocernos cara a cara.&lt;/p&gt;
+&lt;p&gt;Este BoF tiene derecho de admisión. Druplicon manda:&lt;/p&gt;
+&lt;p&gt;&amp;lt;jonhattan&amp;gt; seen ivenever-entered-the-irc&lt;br /&gt;
+&amp;lt;Druplicon&amp;gt; Sorry, I haven&#039;t seen ivenever-entered-the-irc.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 13 Jun 2011 07:49:23 +0000</pubDate>
+ <dc:creator>jonhattan</dc:creator>
+ <guid isPermaLink="false">44 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/44#comments</comments>
+</item>
+<item>
+ <title>Propuesta de BOF</title>
+ <link>http://2011.drupalday.es/node/36</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Foros: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/2&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Debate general&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Me gustaría hacer &quot;Cómo vender más usando Drupal. Ven y entre todos mejoraremos&quot;. La idea es hacer un taller dónde entre todos proponemos mejoras para nuestras tiendas online. Esto también según el éxito de gente se puede hacer más general o muy específico de las tiendas de los que vayamos.&lt;/p&gt;
+&lt;p&gt;¿Qué os parece?&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 04 Jun 2011 15:39:54 +0000</pubDate>
+ <dc:creator>Carlos_Rincon</dc:creator>
+ <guid isPermaLink="false">36 at http://2011.drupalday.es</guid>
+ <comments>http://2011.drupalday.es/node/36#comments</comments>
+</item>
+</channel>
+</rss>
