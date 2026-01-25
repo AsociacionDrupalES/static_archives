@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2014.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Spain 2014 - Theming &amp; Design &amp; Usability</title>
+ <link>http://2014.drupalcamp.es/es/session-tracks/theming-design-usability</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Hablar con imágenes</title>
+ <link>http://2014.drupalcamp.es/es/node/227</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;¿Qué impresión dan las imágenes de un sitio web? ¿Qué es lo que cuentan y cómo lo cuentan? Puedes contar lo mismo poniendo una ilustración o una foto, pero ¿es lo mismo? En los eventos Drupal pasamos mucho tiempo hablando de cómo ponemos tal o cual cosa en nuestro sitio web, y muy poco tiempo hablando de lo que ponemos.&lt;/p&gt;
+
+&lt;p&gt;En esta conferencia queremos hacer una introducción al lenguaje visual, de lo que significa poner una foto u otra, sustituir fotos por ilustraciones, qué valor tiene elegir un tipo de letra sobre otro, y lo haremos viendo muchos, muchos ejemplos. Queremos explicar que cualquier imagen en nuestra web tiene múltiples niveles de lectura, y por qué todas esas cosas son importantes. Si una imagen vale mil palabras, ¿no deberíamos tomarnos más en serio algo tan valioso?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Unprocessed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;nachenko&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/es/session-tracks/theming-design-usability&quot;&gt;Theming &amp;amp; Design &amp;amp; Usability&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Clients&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Marketing&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Project Managers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Site Builders&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Themers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Apr 2014 22:19:14 +0000</pubDate>
+ <dc:creator>nachenko</dc:creator>
+ <guid isPermaLink="false">227 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/es/node/227#comments</comments>
+</item>
+<item>
+ <title>Frontend performance: illusions &amp; browser rendering</title>
+ <link>http://2014.drupalcamp.es/es/node/215</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Browser rendering&amp;nbsp;- Introduction to how browsers transform your code into composited images as fast&amp;nbsp;they can.&lt;/p&gt;
+
+&lt;p&gt;Speed illusions&amp;nbsp;- Getting the user a functional site as early as possible. The user cares more about the first paint than the page load.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Outline:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Brief explanation of how browsers make sense of and render our mess.&lt;/li&gt;
+	&lt;li&gt;The path to the first paint - why it is important and how to get there faster.&lt;/li&gt;
+	&lt;li&gt;Rendering performance - how not to shoot yourself in the foot.&lt;/li&gt;
+	&lt;li&gt;Drupal - the current situation&amp;nbsp;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://asociaciondrupal.es/es/content/frontend-performance-illusions-browser-rendering&quot;&gt;You can watch the video of this talk here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-slides field--type-file field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2014.drupalcamp.es/sites/default/files/slides/Manuel_Garcia-DrupalCamp_Spain_2014-slides.pdf&quot; type=&quot;application/pdf; length=861824&quot;&gt;Manuel_Garcia-DrupalCamp_Spain_2014-slides.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;manuee&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/es/session-tracks/theming-design-usability&quot;&gt;Theming &amp;amp; Design &amp;amp; Usability&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;English&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;8&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Project Managers&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Site Builders&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Themers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 20 Apr 2014 18:17:16 +0000</pubDate>
+ <dc:creator>manuee</dc:creator>
+ <guid isPermaLink="false">215 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/es/node/215#comments</comments>
+</item>
+<item>
+ <title>La gallina es un ser despiadado y otros mitos del diseño web</title>
+ <link>http://2014.drupalcamp.es/es/node/202</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;&quot;La gallina es un ser cruel y despiadado, sin embargo el león un animal tranquilo y apacible... dijo la lombriz.&quot; Las personas no tenemos realidades, tenemos percepciones y dicha percepción varia de una persona a otra. En diseño web muchas de esas percepciones (de lombriz o de león) se han divulgado entre todos los diseñadores como mitos de buenas prácticas de diseño web. El resultado es que percibimos la misma realidad sin importar si somos lombrices, leones o triceratops.&lt;/p&gt;
+
+&lt;p&gt;Por ello repasaremos los mitos más famosos y los confrontaremos con estudios y datos actuales. Tratando de mostrar con hechos y no con creencias,&amp;nbsp;cuanto tienen de mito y cuanto de real, para así saber cuando aplicarlos (o no) en nuestros proyectos Drupal.&lt;/p&gt;
+
+&lt;p&gt;Listado de mitos: (&lt;em&gt;lista sujeta a cambios y actualizaciones&lt;/em&gt;):&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;La gente no hace scroll&lt;/li&gt;
+	&lt;li&gt;En los formularios pide la menor información posible&lt;/li&gt;
+	&lt;li&gt;Los adornos perjudican la usabilidad&lt;/li&gt;
+	&lt;li&gt;Y los iconos la mejoran&lt;/li&gt;
+	&lt;li&gt;Copia a Amazon y hazte rico&lt;/li&gt;
+	&lt;li&gt;Testea lo antes posible (incluso en papel)&lt;/li&gt;
+	&lt;li&gt;Compartir, compartir, compartir, (nadie comparte)&lt;/li&gt;
+	&lt;li&gt;La gente no lee, ponlo en imágenes&lt;/li&gt;
+	&lt;li&gt;...&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Unprocessed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;yujipolo&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/es/session-tracks/theming-design-usability&quot;&gt;Theming &amp;amp; Design &amp;amp; Usability&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Marketing&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Themers&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Case Studies&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 19 Apr 2014 13:22:28 +0000</pubDate>
+ <dc:creator>yujipolo</dc:creator>
+ <guid isPermaLink="false">202 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/es/node/202#comments</comments>
+</item>
+<item>
+ <title>Estrategia Responsive Web Design en Drupal</title>
+ <link>http://2014.drupalcamp.es/es/node/190</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;En esta sesión veremos qué soluciones existen hoy día para usar la técnica Responsive Web Design dentro de una estrategia multi-dispositivo en proyectos Drupal.&lt;/p&gt;
+
+&lt;p&gt;¿Me interesa más un framework o un theme base? ¿Creo un menú custom senzillo o instalo un módulo? Son preguntas que nos hacemos todos al iniciar un proyecto y que analizaremos pasando por cada una de las opciones disponibles.&lt;/p&gt;
+
+&lt;p&gt;Además, intentaremos aclarar de qué partes del desarrollo es responsable el Responsive Web Design y en qué momento debería plantearse.&lt;/p&gt;
+
+&lt;p&gt;Por último veremos qué ventajas que incorpora Drupal 8 en este aspecto.&lt;/p&gt;
+
+&lt;p&gt;Los temas que se desarrollarán serán:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Mobile first, adaptative, responsive, ...&lt;/li&gt;
+	&lt;li&gt;Breakpoints&lt;/li&gt;
+	&lt;li&gt;Responsive Images/Picture&lt;/li&gt;
+	&lt;li&gt;«Themes» responsive : Hablaremos tanto de versiones de Frameworks existentes como Bootstrap o Foundation, o &quot;base themes&quot; como Omega y Zen.&lt;/li&gt;
+	&lt;li&gt;Grids&lt;/li&gt;
+	&lt;li&gt;Menus RWD&lt;/li&gt;
+	&lt;li&gt;Módulos RWD&lt;/li&gt;
+	&lt;li&gt;Cambios Drupal 8&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;:&amp;nbsp;&lt;a href=&quot;http://pakmanlh.github.io/dcspain2014RWD/#1&quot;&gt;http://pakmanlh.github.io/dcspain2014RWD/#1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://asociaciondrupal.es/es/content/estrategia-responsive-web-design-en-drupal&quot;&gt;Puedes ver el vídeo de esta charla aquí&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;ckrina&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;pakmanlh&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/es/session-tracks/theming-design-usability&quot;&gt;Theming &amp;amp; Design &amp;amp; Usability&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;8&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Clients&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Marketing&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Site Builders&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Themers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 17 Apr 2014 10:17:46 +0000</pubDate>
+ <dc:creator>pakmanlh</dc:creator>
+ <guid isPermaLink="false">190 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/es/node/190#comments</comments>
+</item>
+<item>
+ <title>Lleva tu Drupal al móvil</title>
+ <link>http://2014.drupalcamp.es/es/node/181</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Descubre que puede ofrecerte Drupal para llevar tus páginas a los dispositivos portátiles, móviles, tablets, pantallas del coche. Hablaré sobre el soporte que dan los temas de Drupal a este respecto, módulos adicionales y&amp;nbsp;como aprovecharnos de ello.&lt;/p&gt;
+
+&lt;p&gt;Hablaré&amp;nbsp;también de los conceptos básicos de una estructura bien montada para hacer un buen responsive. Trucos para adaptar elementos al móvil, contenido relevante e irrelevante en una pantalla pequeña.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Para finalizar veremos como lanzar estilos css sin romper estos temas y personalizar al máximo nuestro Drupal sin perder tiempo.&lt;/p&gt;
+
+&lt;p&gt;En resumen:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Planificación&lt;/li&gt;
+	&lt;li&gt;Temas&lt;/li&gt;
+	&lt;li&gt;Grid&lt;/li&gt;
+	&lt;li&gt;Menús en responsive&lt;/li&gt;
+	&lt;li&gt;Display Suite&lt;/li&gt;
+	&lt;li&gt;Css sin romper nada&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Unprocessed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;jorgillo&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/es/session-tracks/theming-design-usability&quot;&gt;Theming &amp;amp; Design &amp;amp; Usability&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;English&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;7&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Site Builders&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Themers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 16 Apr 2014 08:41:47 +0000</pubDate>
+ <dc:creator>jorgillo</dc:creator>
+ <guid isPermaLink="false">181 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/es/node/181#comments</comments>
+</item>
+<item>
+ <title>Autobranding for dummies</title>
+ <link>http://2014.drupalcamp.es/es/node/178</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Todo futuro cliente tiene una pregunta para ti: &quot;¿Quién carajo eres y por qué debería importarme?&quot;. El branding es la respuesta empresarial a esa pregunta, es el arte y la ciencia de transmitir lo máximo y mejor de ti a aquellos que entran en contacto contigo, usando unos pocos símbolos, palabras e imágenes.&lt;/p&gt;
+
+&lt;p&gt;&quot;¿Y a mí que me importa?&quot;, te dirás. Bueno, malas noticias, tanto si lo pretendemos como si no, todos generamos imagen de marca con nuestra forma de vestir, de hablar, de responder a los mensajes, porque la marca es tu respuesta pública a la pregunta &quot;¿quién eres?&quot;. Si quieres tomar el control de la marca llamada &quot;TÚ&quot;, podemos empezar hablando de cómo funciona eso que llaman &quot;branding&quot;.&lt;/p&gt;
+
+&lt;p&gt;En esta charla hablaremos del proceso de creación de una marca, desde el concepto más básico antes incluso de tener nombre, hasta los desarrollos mas particulares, y lo haremos repasando montones de ejemplos reales de empresas grandes y pequeñas, para que veas cómo intentan hablar contigo a través de sus imágenes, sus eslóganes, sus mensajes y sus objetos. Veremos sus aciertos y sus errores, y más importante, veremos los por qués.&lt;br /&gt;
+&lt;br /&gt;
+Y si la cosa sale bien, os propongo un BOF donde repasaremos más casos reales: vuestras propias marcas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://asociaciondrupal.es/es/content/autobranding-dummies&quot;&gt;Puedes ver el vídeo de esta charla aquí&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-slides field--type-file field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2014.drupalcamp.es/sites/default/files/slides/presentacion_branding_0.pdf&quot; type=&quot;application/pdf; length=26540439&quot;&gt;presentacion_branding.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;nachenko&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/es/session-tracks/theming-design-usability&quot;&gt;Theming &amp;amp; Design &amp;amp; Usability&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Clients&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Marketing&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Project Managers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Business&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 15 Apr 2014 21:13:24 +0000</pubDate>
+ <dc:creator>nachenko</dc:creator>
+ <guid isPermaLink="false">178 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/es/node/178#comments</comments>
+</item>
+<item>
+ <title>Sass in Drupal</title>
+ <link>http://2014.drupalcamp.es/es/node/172</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;&lt;strong&gt;¿Sass en Drupal?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Como en otras Camps&amp;nbsp;anteriores, Sass, una nueva forma del uso del CSS es a día de hoy una realidad. Se hablará a un nivel intermedio, básico para&amp;nbsp;&quot;Maquetador&quot; e Intermedio para un Themer en Drupal.&lt;/p&gt;
+
+&lt;p&gt;- Veremos qué temas importantes usan Sass.&lt;/p&gt;
+
+&lt;p&gt;- Módulos y herramientas para ayudar al uso de Sass.&lt;/p&gt;
+
+&lt;p&gt;- Aplicación de Sass en un Theme sin Sass.&lt;/p&gt;
+
+&lt;p&gt;- Uso de Sass,&amp;nbsp;componentes dentro de un proyecto real y su organización más efectiva.&lt;/p&gt;
+
+&lt;p&gt;- Ruegos,&amp;nbsp;preguntas y flame para ver la opinion de Sass, su mal uso, errores, problemas encontrados, etc.... Si no hay mucho tiempo para esto lo podríamos pasar a un BOF.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Unprocessed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;nesta&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/es/session-tracks/theming-design-usability&quot;&gt;Theming &amp;amp; Design &amp;amp; Usability&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;8&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Themers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 15 Apr 2014 11:48:56 +0000</pubDate>
+ <dc:creator>nesta</dc:creator>
+ <guid isPermaLink="false">172 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/es/node/172#comments</comments>
+</item>
+<item>
+ <title>El universo JavaScript en Drupal 8</title>
+ <link>http://2014.drupalcamp.es/es/node/166</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Drupal 8 está a la vuelta de la esquina, y poco a poco, tenemos que ir viendo y acostumbrándonos a las novedades que nos trae. Ya llevamos un tiempo escuchando y viendo sesiones sobre algunas de las novedades más sonadas que nos trae, cómo por ejemplo, CMI, multilingual (esta vez de verdad de la buena!), views in core, etc. pero nadie nos habla de un compañero inseparable y que en D8 precisamente va a tener más importancia que nunca: nuestro colega JavaScript.&lt;/p&gt;
+
+&lt;p&gt;En esta sesión veremos qué novedades nos trae Drupal 8 en este sentido, repasaremos algunas buenas prácticas en desarrollos JS y todo vinculado dentro de Drupal. Algunos puntos de la sesión serán:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Actualización de jQuery e inclusión de plugins. ¿Qué nos aporta?&lt;/li&gt;
+	&lt;li&gt;Domready. ¿Para qué lo quiero si tengo jquery?&lt;/li&gt;
+	&lt;li&gt;Backbone, underscore. Esteroides para nuestros JS.&lt;/li&gt;
+	&lt;li&gt;Otras bibliotecas del core: modernizr, etc.&lt;/li&gt;
+	&lt;li&gt;Repaso al objeto JavaScript &lt;em&gt;Drupal&lt;/em&gt;. Theming con JavaScript&lt;/li&gt;
+	&lt;li&gt;Buenas prácticas JavaScript en nuestros desarrollos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://asociaciondrupal.es/es/content/el-universo-javascript-en-drupal-8&quot;&gt;Puedes ver el vídeo de esta charla aquí&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;rvilar&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/es/session-tracks/theming-design-usability&quot;&gt;Theming &amp;amp; Design &amp;amp; Usability&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;8&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Themers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 15 Apr 2014 10:13:56 +0000</pubDate>
+ <dc:creator>rvilar</dc:creator>
+ <guid isPermaLink="false">166 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/es/node/166#comments</comments>
+</item>
+<item>
+ <title>Responsive Web Design en Drupal con Display Suite</title>
+ <link>http://2014.drupalcamp.es/es/node/163</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;El &lt;strong&gt;Responsive Web Desing &lt;/strong&gt;(RWD) está ahora muy de moda, pero RWD no son sólo media queries, hacer &quot;que caigan cajas&quot; o reescalar el navegador viendo como se mueven.&lt;/p&gt;
+
+&lt;p&gt;¿Qué es realmente el RWD? ¿Cuándo es necesario utilizarlo? ¿Hay problemas de rendimiento?&amp;nbsp;El RWD es bastante potente bien aplicado, pero un gran error si no se estudia bien cómo presentar la información.&lt;/p&gt;
+
+&lt;p&gt;La charla la estructuraré:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Qué es el RWD y cuándo se debe aplicar.&lt;/li&gt;
+	&lt;li&gt;Mobile first o Desktop First.&lt;/li&gt;
+	&lt;li&gt;Herramientas de confianza para diseño y desarrollo&lt;/li&gt;
+	&lt;li&gt;RWD en Drupal&amp;nbsp;con Display Suite&lt;/li&gt;
+	&lt;li&gt;Dos casos reales de RWD en Drupal con Display Suite&lt;/li&gt;
+	&lt;li&gt;Extra: ¿se pueden realizar tests con RWD?&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Unprocessed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;isholgueras&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/es/session-tracks/theming-design-usability&quot;&gt;Theming &amp;amp; Design &amp;amp; Usability&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;English&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 15 Apr 2014 06:41:48 +0000</pubDate>
+ <dc:creator>isholgueras</dc:creator>
+ <guid isPermaLink="false">163 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/es/node/163#comments</comments>
+</item>
+<item>
+ <title>Omega 4</title>
+ <link>http://2014.drupalcamp.es/es/node/138</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;A veces a la hora de elegir un theme base, todo se reducía a una cuestión de gustos, pero ya no. Desde Omega 4 es una obligación mas que una elección para mi.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Un sistema de layouts bastante curioso y útil.&lt;/li&gt;
+	&lt;li&gt;Pensado para ser compatible con panels, context, ds y alguna que otra cosa mas.&lt;/li&gt;
+	&lt;li&gt;Unas tripas MODERNAS (SASS, Bower, LiveReload, Grunt, nodejs, gemas de ruby).&lt;/li&gt;
+	&lt;li&gt;Un paradigma de hooks basado en convención de nombres.&lt;/li&gt;
+	&lt;li&gt;Un exportador de configuraciones que funciona ;)&lt;/li&gt;
+	&lt;li&gt;Un poco de magia por aqui y por allá.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En esta charla vamos a mirar de cerca a este theme base y escudriñar en sus tripas. Finalmente vamos a ver cuanta magia se puede agregar usando un poco de panels everywhere.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Los slides de la charla están disponibles &lt;a href=&quot;http://capynet.github.io/Omega4Slides&quot;&gt;&lt;strong&gt;AQUÍ&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://asociaciondrupal.es/es/content/omega-4&quot;&gt;Puedes ver el vídeo de esta charla aquí&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;capynet&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/es/session-tracks/theming-design-usability&quot;&gt;Theming &amp;amp; Design &amp;amp; Usability&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;7&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Themers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 14 Apr 2014 17:42:51 +0000</pubDate>
+ <dc:creator>capynet</dc:creator>
+ <guid isPermaLink="false">138 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/es/node/138#comments</comments>
+</item>
+</channel>
+</rss>

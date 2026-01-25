@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Building flexible web services using Drupal | Drupal Developer Days Barcelona</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../sites/default/files/dddbcn_favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="../sites/default/files/css/css_6aaaef9543db88af6af66c4caeab70a5.css" />
+  <script type="text/javascript" src="../sites/default/files/js/js_ae62a8f4dae99c6d3a28558dc1dc0d8f.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" } });
+//--><!]]>
+</script>
+</head>
+<body class="not-front not-logged-in node-type-session no-sidebars page-sessions-building-flexible-web-services-using-drupal section-sessions">
+    <div id="page">
+    <header class="zone-wrapper">
+      <div id="site-header" class="container-16">
+        <hgroup id="branding" class="grid-16">
+          <a href="../index.html">
+                          <h2>Drupal Developer Days Barcelona</h2>
+                        <p></p>
+          </a>
+        </hgroup><!-- /#branding -->
+  
+                  <nav id="site-menu" class="grid-16">
+            <ul class="links main-menu"><li class="menu-1901 first"><a href="../index.html" title="">Home</a></li>
+<li class="menu-1642"><a href="../about-event.html" title="">Conference</a></li>
+<li class="menu-1973"><a href="../program/session-schedule/all.html" title="Drupal Developer Days Sessions">Program</a></li>
+<li class="menu-376"><a href="../community.html" title="Connect with attendees">Community</a></li>
+<li class="menu-1725"><a href="../visit-barcelona.html" title="Visit Barcelona">Barcelona</a></li>
+<li class="menu-2961 last"><a href="../sponsors.html" title="Sponsors">Sponsors</a></li>
+</ul>                      </nav><!-- /#site-menu -->
+              </div><!-- /#site-header -->
+      
+            <div id="header-regions" class="container-16 clearfix">
+                  <div id="header-first" class="grid-16">
+              <div id="block-block-5" class="block block-block">
+
+  <div class="content">
+    <ul id="header-menu">
+<li><a href="http://www.facebook.com/drupaldaysbcn"><img src="../sites/all/themes/dddbcn/img/fb-icon.png" width="24" height="24" /></a></li>
+<li><a href="http://www.twitter.com/drupaldaysbcn"><img src="../sites/all/themes/dddbcn/img/twitter-icon.png" width="24" height="24" /></a></li>
+<li><a href="../user/login.html">Login</a></li>
+
+</ul>  </div>
+</div>
+          </div><!-- /#header-first -->
+                      </div><!-- /#header-regions -->
+          </header>
+    
+        <div id="internal-nav" class="container-16 clearfix">
+      <div id="slogan-bcrumb" class="grid-10">
+                  <div id="bcrumb"><div class="breadcrumb"><a href="../index.html">Home</a> / Building flexible web services using Drupal</div></div><!-- /#bcrumb -->
+              </div>
+          </div><!-- /#internal-nav -->
+        
+        
+        <div class="container-16 clearfix">
+      <div class="grid-16">
+
+      </div>
+    </div><!-- /.container-xx -->
+        <div id="main-content-zone-wrapper" class="zone-wrapper">
+      <div id="main-content-container" class="container-16 clearfix">
+        <div id="main-wrapper" class="column grid-12">
+                                    
+                      <h1 class="title" id="page-title">Building flexible web services using Drupal</h1>
+                
+          <div id="main-content" class="region clearfix">
+            <article id="node-session-126" class="node session published not-promoted not-sticky full-view author-dahacouk odd clear-block">
+
+  
+      
+  <div class="content">
+    <div class="field field-type-userreference field-field-speakers">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Speakers(s):&nbsp;</div>
+                    <a href="../users/klokie.html">Klokie Grossfeld</a>, <a href="../users/dahacouk.html">Daniel Harris</a>        </div>
+        </div>
+</div>
+<p>Drupal can act as a <a href="http://en.wikipedia.org/wiki/REST">REST</a>ful API by using the <a href="http://drupal.org/project/services">Services</a> module. We've come up with a novel approach to creating, maintaining and sharing service definitions and tests using a staged workflow that we call Kendra Builder.</p>
+<h2>Overview of Services and Kendra components</h2>
+<h3>Kendra API</h3>
+<p>The Kendra API defines a set of resources for Drupal 7 <a href="http://drupal.org/project/services">Services</a>, with corresponding access rules that define their availability via a <a href="http://en.wikipedia.org/wiki/REST">ReST</a>ful HTTP endpoint. The HTTP-based API supports multiple request/response formats, and can be modified in real time via updates to the method definitions, to adjust to the requirements of the project.</p>
+<p>Well-defined methods, parameters, and response patterns are designed, documented and exported using the <a href="https://github.com/kendraio/kendra_builder">Kendra Builder</a>. The API is then initialized with the output from the Kendra Builder using the <a href="http://www.slideshare.net/kriszyp/jsonbased-service-oriented-architecture-for-the-web-presentation">Service Mapping Description</a> format, a community proposal for a standardised profile of <a href="http://json-schema.org/">JSON Schema</a> for describing a web service.</p>
+<p>Employing a RESTful communications pattern utilizing HTTP methods for CRUD and index operations, Kendra API supports XML or JSON envelopes. Clients (e.g. widgets or instances of the SARACEN Terminal application) accessing the endpoint may use either the “application/xml” or “application/json” HTTP content-type for requests and responses.</p>
+<p>Kendra API aims to implement basic features of the <a href="http://docs.opensocial.org/display/OSD/Specs">OpenSocial 2.0 API and Data Specifications</a> (Core API Server, Core Data, Social API Server, Social Data). Core data types defined by these specifications include “People”, “Groups”, “MediaItems”, and “Albums” in addition to the complementary support for the “ActivityEntry” data type from the Activity Streams specification which was added in the version 2.0 of the Social Data specification.</p>
+<h3>Kendra Builder</h3>
+<p>Kendra Builder is a platform for creating, editing, and publishing an API and endpoint specification in a format suitable for pursuing standardisation. Leveraging and formalising the <a href="http://json-schema.org/">JSON Schema</a> community proposal in order to provide a common interface for importing and exporting web-accessible resources, the platform comprises a suite of modules built on the <a href="http://drupal.org/">Drupal</a> framework. It is essentially an open-source platform for collaboratively building and editing the API resources with an interface that, in comparison to industry alternatives such as WSDL, is considerably streamlined and optimized for rapid development and collaboration.</p>
+<p>Kendra Builder stores metadata specifications describing the content, user profiles and methods intended to be implemented by the <a href="https://github.com/kendraio/kendra_api">Kendra API</a>. It also assists in defining the workflow from the requirements specification to the technical implementation in one complete application. For example, individual specific requirements have been identified that are used as starting points for defining the right methodologies that should be used to meet the requirements of the system. However, a clear workflow has been defined and can be followed from the start to finish of the implementation.</p>
+<p>Kendra Builder also allows for collaborative design between different participants contributing ideas, as it is purely accessible via a web browser. Integrated revision control allows for strict API versions to be released for parallel testing and production use.</p>
+<h3>Kendra Social</h3>
+<p>Kendra Social is a <a href="http://drupal.org">Drupal 7</a> <a href="http://drupal.org/documentation/build/distributions">installation profile</a> which contains pretty much all you need to set up a hub for social networking.</p>
+<p>Abstracting the parameters for integrating with various social network APIs, the Kendra Social subsystem provides a common interface for communicating with social networking services. Modular abstraction of methods to import and post content to various social networking APIs allows for a flexible base architecture that can be expanded to support future social networking platforms and functionality. Imported data from social network become part of a user’s profile. Internal mappings are therefore required in order to relate profile fields between different the various schemes employed on different social networks. Custom modules manage the service resource definitions, permissions integration, and user request brokering as well as implementation of all the various methods required for Terminal usage and OpenSocial compatibility.</p>
+<p>The profile import process uses an intermediate format (RDF) to perform this mapping, where the mappings are defined as configuration parameters to Kendra Social and may be changed at runtime. The choice to create a prototype implementation of the API for user and media profile storage using Drupal 7 core, running on a standard web server stack of Linux, Apache, MySQL and PHP (LAMP) has allowed for rapid development of custom modules to implement project requirements. The advanced Drupal “core” framework and large variety of contributed modules collectively implement many common functions such as session management, OAuth-based authentication and authorisation, and JSON and XML parsing. Leveraging this robust platform allows developers to shift efforts from meeting fundamental SOA-related requirements to project-specific functionality.</p>
+<p>Kendra API, Kendra Builder, and Kendra Social are free software developed by Kendra Foundation in collaboration with SARACEN and co-funded by the European Union. Sample code and the validation tool will be released under the GNU General Public License. Additionally, Kendra will Creative Commons license all of the API documentation, so users will be welcome to reuse and remix as appropriate.</p>
+<h3>Presentation</h3>
+<ul>
+<li><a href="http://drupal.org/project/services">Services</a> module</li>
+<li>Short overview of what Services does
+<ul>
+<li>Won't go into details of services implementation, as the Kendra Builder abstracts many of those details</li>
+</ul>
+</li>
+<li>Concepts
+<ul>
+<li>Endpoints</li>
+<li>REST</li>
+<li>Request &amp; response</li>
+</ul>
+</li>
+<li>Default services configuration
+<ul>
+<li>Default resources: node, taxonomy, etc.</li>
+</ul>
+</li>
+</ul>
+<h2>Usage</h2>
+<ul>
+<li>Making requests
+<ul>
+<li>REST</li>
+<li>JSON</li>
+<li>XMLRPC</li>
+</ul>
+</li>
+<li>Service resource definitions</li>
+<li>Mapping requests to drupal functions</li>
+<li>Passing parameters and doing type checking</li>
+<li>Access control</li>
+<li>Service abstraction</li>
+<li>Creating Services definitions</li>
+<li>Exporting JSON-Schema or SMD</li>
+<li>Documentation</li>
+<li>Testing</li>
+</ul>
+<h2>Advanced usage</h2>
+<ul>
+<li>Integration with OAuth for authorisation</li>
+</ul>
+<h2>Case study: <a href="http://www.saracen-p2p.eu">SARACEN</a></h2>
+<ul>
+<li>Media annotations
+<ul>
+<li><a href="https://github.com/kendraio/kendra_saracen_trial">code on GitHub</a></li>
+</ul>
+</li>
+</ul>
+<h2>Also mention</h2>
+<ul>
+<li>OStatus</li>
+<li>WebID</li>
+</ul>
+<h2>Acknowledgement</h2>
+<p>The research – carried out by <a href="https://www.kendra.io">Kendra Initiative</a> – leading to these results has received funding from the European Union's Seventh Framework Programme (FP7/2007-2013) under <a href="http://cordis.europa.eu/projects/rcn/94515_en.html">grant agreement 248474</a> <a href="http://www.saracen-p2p.eu">Socially Aware, collaboRative, scAlable Coding mEdia distributioN (SARACEN)</a>.</p>
+<h2>Speaking experience</h2>
+<p><a href="http://drupal.org/user/99862">Daniel Harris</a> spoke at <a href="http://paris2009.drupalcon.org">DrupalCon Paris 2009</a> on <a href="http://paris2009.drupalcon.org/session/using-drupal-media-asset-content-management-semantic-syndication-promotion-and-commerce.html">Using Drupal for Media Asset / Content Management, Semantic Syndication / Promotion and Commerce</a> and has a <a href="https://www.kendra.io/events">long history of speaking at conferences</a> for <a href="https://www.kendra.io">Kendra Initiative</a>.</p>
+<fieldset class="fieldgroup group-audience"><div class="field field-type-text field-field-experience">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Experience level:&nbsp;</div>
+                    Intermediate        </div>
+        </div>
+</div>
+</fieldset>
+  </div>
+      <nav class="node-links"><ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul></nav>
+  </article>          </div><!-- /#main-content -->
+          
+                    <div id="content-bottom">
+              <div id="block-block-9" class="block block-block">
+
+  <div class="content">
+    <!-- AddThis Button BEGIN --><!-- AddThis Button BEGIN --><div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f3f887d7ac2d209"></script><!-- AddThis Button END --><!-- AddThis Button END -->  </div>
+</div>
+          </div><!-- /#content-bottom -->
+                  </div><!-- /#main-wrapper -->
+      
+              
+                  <aside id="sidebar-last" class="column sidebar region grid-4">
+              <div id="block-views-Sponsors-block_5" class="block block-views">
+
+  <div class="content">
+    <div class="view view-Sponsors view-id-Sponsors view-display-id-block_5 gold-sponsor-sidebar-block view-dom-id-1">
+        <div class="view-header">
+      <h2>Gold sponsor</h2>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="http://omega8.cc/"><img src="../sites/default/files/imagecache/sponsor_logo_callout/omega.png" alt="" title=""  class="imagecache imagecache-sponsor_logo_callout imagecache-default imagecache-sponsor_logo_callout_default" width="150" height="32" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="../sponsors.html">View all</a></p>
+    </div>
+  
+  
+</div>   </div>
+</div>
+  <div id="block-views-sessions-block_2" class="block block-views">
+  <h2>Speakers</h2>
+
+  <div class="content">
+    <div class="view view-sessions view-id-sessions view-display-id-block_2 session-speakers view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-1">
+  <tbody>
+                <tr class="row-1 row-first">
+                  <td class="col-1 col-first">
+              
+  <span class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <a href="../users/klokie.html" title="View user profile."><img src="../sites/default/files/imagecache/avatar/pictures/picture-209.jpg" alt="klokie&#039;s picture" title="klokie&#039;s picture"  class="imagecache imagecache-avatar" width="125" height="125" /></a></div></div>
+  </span>
+  
+  <span class="views-field-value-3">
+                <span class="field-content">Klokie Grossfeld</span>
+  </span>
+  
+  <span class="views-field-name">
+                <span class="field-content">(<a href="../users/klokie.html" title="View user profile.">klokie</a>)</span>
+  </span>
+  
+  <div class="views-field-value">
+          <label class="views-label-value">
+        Organization:
+      </label>
+                <span class="field-content"><a href="../users/klokie.html" title="People who work with Kendra Foundation">Kendra Foundation</a></span>
+  </div>
+  
+  <div class="views-field-value-1">
+          <label class="views-label-value-1">
+        Personal information: Bio:
+      </label>
+                <div class="field-content"><p>Daniel “Klokie” Grossfeld is an entrepreneur, web expert, information architect, and musician. Klokie co-founded international multimedia and design collective Surface to Air in Paris, France in 2000 followed by a New York office in 2001. After...</div>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-2 row-last">
+                  <td class="col-1 col-first">
+              
+  <span class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <a href="../users/dahacouk.html" title="View user profile."><img src="../sites/default/files/imagecache/avatar/pictures/picture-152.jpg" alt="dahacouk&#039;s picture" title="dahacouk&#039;s picture"  class="imagecache imagecache-avatar" width="125" height="125" /></a></div></div>
+  </span>
+  
+  <span class="views-field-value-3">
+                <span class="field-content">Daniel Harris</span>
+  </span>
+  
+  <span class="views-field-name">
+                <span class="field-content">(<a href="../users/dahacouk.html" title="View user profile.">dahacouk</a>)</span>
+  </span>
+  
+  <div class="views-field-value">
+          <label class="views-label-value">
+        Organization:
+      </label>
+                <span class="field-content"><a href="../users/dahacouk.html" title="People who work with Kendra Initiative">Kendra Initiative</a></span>
+  </div>
+  
+  <div class="views-field-value-1">
+          <label class="views-label-value-1">
+        Personal information: Bio:
+      </label>
+                <div class="field-content"><p>Daniel Harris is an entrepreneur and Internet content expert. Daniel is currently leading an initiative, which he founded in 1999, to promote an open content marketplace for the Internet, called Kendra. The aim is to drive interoperability...</div>
+  </div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  <div id="block-views-attendees-block_2" class="block block-views">
+
+  <div class="content">
+    <div class="view view-attendees view-id-attendees view-display-id-block_2 block-num-attendees view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <a href="../community.html"><span class="attendees-number">311</span><span class="attendees-name"> ATTENDEES</span></a>    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+          </aside><!-- /#sidebar-last -->
+              </div><!-- /#main-content-container -->
+    </div>
+        
+        <footer id="footer-zone-wrapper" class="zone-wrapper">
+      <div id="footer-wrapper" class="container-16 clearfix">
+                          <div id="footer-last" class="grid-16">
+              <div id="block-views-organization_sponsors-block_1" class="block block-views">
+
+  <div class="content">
+    <div class="view view-organization-sponsors view-id-organization_sponsors view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="http://www.citilab.eu" title="Citilab"><img src="../sites/default/files/imagecache/sponsor_organitzation/logoFooterCitilab.gif" alt="" title=""  class="imagecache imagecache-sponsor_organitzation imagecache-default imagecache-sponsor_organitzation_default" width="161" height="70" /></a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="http://drupal.cat/" title="Drupal.cat"><img src="../sites/default/files/imagecache/sponsor_organitzation/logoFooterDrupalcat.gif" alt="" title=""  class="imagecache imagecache-sponsor_organitzation imagecache-default imagecache-sponsor_organitzation_default" width="288" height="70" /></a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="http://asociaciondrupal.es/" title="Asociación española de Drupal"><img src="../sites/default/files/imagecache/sponsor_organitzation/logoFooterAed.gif" alt="" title=""  class="imagecache imagecache-sponsor_organitzation imagecache-default imagecache-sponsor_organitzation_default" width="149" height="70" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+                          <div id="footer-message">
+                Built on COD, the open source <a href="http://usecod.com">conference and event management solution.</a>              </div><!-- /#footer-message -->
+                      </div><!-- /#footer-last -->
+              </div><!-- /#footer-wrapper -->
+    </footer>
+      </div><!-- /#page -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-20091629-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>

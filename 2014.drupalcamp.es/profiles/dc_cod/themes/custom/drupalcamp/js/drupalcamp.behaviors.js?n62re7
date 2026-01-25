@@ -1,0 +1,70 @@
+(function ($) {
+
+  Drupal.behaviors.drupalcampMmenu = {
+    attach: function (context, settings) {
+      
+      $('nav#main-menu-nav').mmenu({},{
+        clone: true
+      });
+
+      /*
+      var $menu = $('nav#mobile-menu-nav');
+
+      $menu.mmenu({
+        position  : 'right',
+        classes   : 'mm-light',
+        dragOpen  : true,
+        labels    : {
+          fixed   : !$.mmenu.support.touch
+        },
+      });
+      
+      
+      //  Click a menu-item
+      var $confirm = $('#confirmation');
+      $menu.find( 'li a' ).not( '.mm-subopen' ).not( '.mm-subclose' ).bind(
+        'click.example',
+        function( e )
+        {
+          e.preventDefault();
+          $confirm.show().text( 'You clicked "' + $.trim( $(this).text() ) + '"' );
+          $('nav#mobile-menu-nav').trigger( 'close' );
+        }
+      );
+      */
+      
+    }
+  };
+
+
+  /**
+   * Add Superfish to all Nice Menus with some basic options.
+   */
+   /*
+  Drupal.behaviors.MyMiceMenus = {
+    attach: function (context, settings) {
+      $('#main-menu-nav ul.nice-menu:not(.nice-menus-processed)').addClass('nice-menus-processed').each(function () {
+        $(this).superfish({
+          // Apply a generic hover class.
+          hoverClass: 'over',
+          // Disable generation of arrow mark-up.
+          autoArrows: false,
+          // Disable drop shadows.
+          dropShadows: false,
+          // Mouse delay.
+          delay: Drupal.settings.nice_menus_options.delay,
+          // Animation speed.
+          speed: Drupal.settings.nice_menus_options.speed
+        });
+
+        // Add in Brandon Aaron’s bgIframe plugin for IE select issues.
+        // http://plugins.jquery.com/node/46/release
+        $(this).find('ul').bgIframe({opacity:false});
+
+        $('ul.nice-menu ul').css('display', 'none');
+      });
+    }
+  };
+  */
+
+})(jQuery);

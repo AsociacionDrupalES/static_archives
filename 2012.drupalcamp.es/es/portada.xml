@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://2012.drupalcamp.es/es" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title></title>
+    <link>http://2012.drupalcamp.es/es</link>
+    <description>Últimas noticias de la Drupalcamp Spain 2012</description>
+    <language>es</language>
+          <item>
+    <title>¡Gracias!</title>
+    <link>http://2012.drupalcamp.es/es/gracias-180</link>
+    <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Gracias a todos los participantes, patrocinadores y voluntarios por formar parte de un evento tan genial como ha sido la Drupalcamp Spain 2012.&lt;/p&gt;
+&lt;p&gt;Os esperamos el año que viene. Más adelante se abrirá el plazo para enviar candidaturas para la localización de la Drupalcamp Spain 2013. De momento, estad al tanto del Drupal Day Santander, el cual se realizará entre mayo y junio de 2013. Y por supuesto, participad en &lt;a href=&quot;http://groups.drupal.org/node/186379&quot; target=&quot;_blank&quot;&gt;vuestros grupos locales&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Las fotos del evento se pueden encontrar en &lt;a href=&quot;http://www.flickr.com/groups/2118152@N21/pool/&quot; target=&quot;_blank&quot;&gt;el grupo de Flickr&lt;/a&gt;, mientras que los vídeos de las ponencias se publicarán en la &lt;a href=&quot;https://vimeo.com/drupales&quot; target=&quot;_blank&quot;&gt;cuenta de Vimeo de la Asociación Española de Drupal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¡Saludos desde la organización y nos vemos pronto!&lt;/p&gt;
+  &lt;/div&gt;
+</description>
+     <pubDate>Tue, 23 Oct 2012 18:26:30 +0000</pubDate>
+ <dc:creator>juampy</dc:creator>
+ <guid isPermaLink="false">180 at http://2012.drupalcamp.es</guid>
+  </item>
+  <item>
+    <title>Fiesta</title>
+    <link>http://2012.drupalcamp.es/es/fiesta</link>
+    <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;¡Este Sábado por la noche la Drupalcamp se va de fiesta!&lt;/p&gt;
+&lt;p&gt;A las 21:00 empezará el acontecimiento en el bar llamado &quot;La petisqueria&quot;, situado en la calle &lt;strong&gt;Apodaca 17&lt;/strong&gt;, donde podremos disfrutar de las cervezas y las tapas típicas de Madrid.&lt;br /&gt;&lt;a href=&quot;https://maps.google.es/maps?q=Apodaca+17&amp;amp;hl=en&amp;amp;sll=40.426994,-3.699464&amp;amp;sspn=0.002266,0.001961&amp;amp;hnear=Calle+de+Apodaca,+17,+28004+Madrid,+Comunidad+de+Madrid&amp;amp;t=m&amp;amp;z=17&quot;&gt;Ver en el mapa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;¡Os esperamos!&lt;/p&gt;
+  &lt;/div&gt;
+</description>
+     <pubDate>Thu, 18 Oct 2012 06:06:20 +0000</pubDate>
+ <dc:creator>rafinskipg</dc:creator>
+ <guid isPermaLink="false">175 at http://2012.drupalcamp.es</guid>
+  </item>
+  <item>
+    <title>Concurso fotográfico</title>
+    <link>http://2012.drupalcamp.es/es/concurso-fotografico-173</link>
+    <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Durante la celebración de la Drupal Camp Spain 2012, organizaremos un concurso fotográfico del evento. ¡Todos los asistentes están invitados a participar!&lt;/p&gt;
+&lt;p&gt;Participar es muy sencillo y solo tiene que cumplir las siguientes condiciones:&lt;/p&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Tags  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-tags&quot;&gt;
+    &lt;a href=&quot;/es/tags/concurso-fotografico&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;concurso fotográfico&lt;/a&gt;  &lt;/div&gt;
+</description>
+     <pubDate>Wed, 17 Oct 2012 13:11:07 +0000</pubDate>
+ <dc:creator>David Hernández</dc:creator>
+ <guid isPermaLink="false">173 at http://2012.drupalcamp.es</guid>
+  </item>
+  <item>
+    <title>Apertura del registro de BoFs y Talleres</title>
+    <link>http://2012.drupalcamp.es/es/apertura-del-registro-de-bofs-y-talleres-166</link>
+    <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Los BoFs (Birds of a Feather) son reuniones informales en las que un grupo de personas discute sobre un tema en particular. En los Talleres una o varias personas realizan ejercicios prácticos acerca de un tema en particular. Todos los participantes pueden proponer un BoF o Workshop en cualquiera de las salas disponibles.&lt;/p&gt;
+&lt;p&gt;El listado de BoFs y Talleres registrados se encuentra &lt;a href=&quot;/calendario#block-views-schedule-block_1&quot;&gt;debajo del calendario&lt;/a&gt;. Si hay algún tema relacionado con Drupal sobre el que te gustaría discutir en grupo, o quieres realizar un taller, puedes buscar una sala y horario libre y registrarlo.&lt;/p&gt;
+  &lt;/div&gt;
+</description>
+     <pubDate>Wed, 10 Oct 2012 09:46:34 +0000</pubDate>
+ <dc:creator>juampy</dc:creator>
+ <guid isPermaLink="false">166 at http://2012.drupalcamp.es</guid>
+  </item>
+  <item>
+    <title>De Madrid al cielo</title>
+    <link>http://2012.drupalcamp.es/es/de-madrid-al-cielo-147</link>
+    <description>
+  &lt;div class=&quot;field-image&quot;&gt;
+    &lt;a href=&quot;/es/de-madrid-al-cielo-147&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://2012.drupalcamp.es/sites/default/files/styles/medium/public/field/image/madrid.jpg&quot; width=&quot;220&quot; height=&quot;146&quot; alt=&quot;Madrid de noche&quot; /&gt;&lt;/a&gt;  &lt;/div&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Madrid, la capital de España desde 1562, es también centro geográfico de la Península Ibérica. Su altitud, al estar sobre una meseta, y la cercanía a las montañas que la rodean, influencian su clima, caracterizado por sus veranos calientes e inviernos relativamente fríos.&lt;/p&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Tags  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-tags&quot;&gt;
+    &lt;a href=&quot;/es/tags/madrid&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;madrid&lt;/a&gt;  &lt;/div&gt;
+</description>
+     <pubDate>Wed, 03 Oct 2012 16:29:57 +0000</pubDate>
+ <dc:creator>leandro</dc:creator>
+ <guid isPermaLink="false">147 at http://2012.drupalcamp.es</guid>
+  </item>
+  <item>
+    <title>Calendario de ponencias</title>
+    <link>http://2012.drupalcamp.es/es/calendario-de-ponencias-145</link>
+    <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Ya puedes ver el &lt;a href=&quot;/es/calendario&quot;&gt;listado de ponencias elegidas&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ahora tienes la difícil tarea de escoger entre las 24 seleccionadas, o esperar a ver qué BoFs o talleres se organizan.&lt;/p&gt;
+  &lt;/div&gt;
+</description>
+     <pubDate>Wed, 03 Oct 2012 02:40:27 +0000</pubDate>
+ <dc:creator>juampy</dc:creator>
+ <guid isPermaLink="false">145 at http://2012.drupalcamp.es</guid>
+  </item>
+  <item>
+    <title>Comenzamos a evaluar las ponencias</title>
+    <link>http://2012.drupalcamp.es/es/comenzamos-evaluar-las-ponencias-113</link>
+    <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Una vez cerrado el período de votación, pasamos a evaluar todas las ponencias propuestas. El comité de evaluación se basará en la votación y en otros aspectos para construir un calendario de ponencias variado en cuanto a niveles de audiencia y temáticas.&lt;/p&gt;
+&lt;p&gt;El calendario definitivo se publicará aquí, en la web, en cuanto esté listo.&lt;/p&gt;
+&lt;p&gt;¡Gracias a todos los que han participado en la votación y mucha suerte a los que han propuesto ponencias!&lt;/p&gt;
+  &lt;/div&gt;
+</description>
+     <pubDate>Mon, 24 Sep 2012 08:48:17 +0000</pubDate>
+ <dc:creator>juampy</dc:creator>
+ <guid isPermaLink="false">113 at http://2012.drupalcamp.es</guid>
+  </item>
+  <item>
+    <title>¡Las votaciones están abiertas!</title>
+    <link>http://2012.drupalcamp.es/es/las-votaciones-estan-abiertas-106</link>
+    <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Ya puedes votar tus sesiones favoritas propuestas para la Drupal Camp. Las votaciones terminarán el día &lt;strong&gt;23 de Septiembre&lt;/strong&gt;, así que, ¡date prisa!&lt;/p&gt;
+&lt;p&gt;Para elegir las sesiones que se presentarán, no solo se usarán los votos de usuarios. También serán revisadas por un comité, que intentará elegir un calendario equilibrado, tanto de niveles como de temáticas. Este comité valorará el posible interés de la charla, así como la calidad de la propuesta.&lt;/p&gt;  &lt;/div&gt;
+</description>
+     <pubDate>Tue, 18 Sep 2012 15:31:38 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">106 at http://2012.drupalcamp.es</guid>
+  </item>
+  <item>
+    <title>Abierta la Presentación de ponencias para la DrupalCamp Spain 2012</title>
+    <link>http://2012.drupalcamp.es/es/abierta-la-presentacion-de-ponencias-para-la-drupalcamp-spain-2012-20</link>
+    <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Update: Se amplia el plazo de presentación hasta el 10 de Septiembre de 2012 incluido&lt;/strong&gt;&lt;br /&gt;
+Te invitamos a presentar tu ponencia para este evento. El último día para enviar ponencias es el &lt;strike&gt;5&lt;/strike&gt; &lt;strong&gt;10&lt;/strong&gt; de Septiembre de 2012.&lt;br /&gt;
+El evento se celebrará los días 20 y 21 de Octubre de 2012.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Si tú eres:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Entusiasta del Open Source&lt;/li&gt;
+&lt;li&gt;Desarrollador Drupal&lt;/li&gt;
+&lt;li&gt;Empresario buscando nuevos talentos o negocios&lt;/li&gt;
+&lt;li&gt;Diseñador&lt;/li&gt;
+&lt;li&gt;Profesional web, administrador de sistemas, etc.&lt;/li&gt;
+&lt;/ul&gt;  &lt;/div&gt;
+</description>
+     <pubDate>Sun, 17 Jun 2012 09:43:39 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">20 at http://2012.drupalcamp.es</guid>
+  </item>
+  <item>
+    <title>Bienvenido a la DrupalCamp Spain 2012</title>
+    <link>http://2012.drupalcamp.es/es/bienvenido-la-drupalcamp-spain-2012-19</link>
+    <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;El mayor evento anual organizado por y para los amantes de &lt;a href=&quot;http://drupal.org/&quot;&gt;Drupal&lt;/a&gt; en España, este año 2012 se celebrará en Madrid, en la &lt;a href=&quot;http://www.eui.upm.es/&quot;&gt;Escuela Universitaria de Informática de la UPM&lt;/a&gt; durante el fin de semana del 20 y 21 de Octubre.&lt;/p&gt;  &lt;/div&gt;
+</description>
+     <pubDate>Sun, 17 Jun 2012 09:24:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">19 at http://2012.drupalcamp.es</guid>
+  </item>
+  </channel>
+</rss>

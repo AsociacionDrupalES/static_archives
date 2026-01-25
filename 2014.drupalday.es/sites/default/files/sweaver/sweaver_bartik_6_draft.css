@@ -1,0 +1,85 @@
+#name-and-slogan {
+  color: #2e2c2e;
+  font-size: 35px;
+  margin-bottom: 15px;
+}
+
+#name-and-slogan a {
+  color: #2b2a2b;
+}
+
+body {
+  font-family: Arial, Helvetica,Sans-Serif;
+}
+
+#main-menu {
+  font-size: 22px;
+}
+
+#block-block-1 {
+  width: 242px;
+}
+
+#block-block-1 .addthis_counter {
+  margin-top: 30px;
+}
+
+#secondary-menu a {
+  color: #2e2c2e;
+}
+
+#secondary-menu li a {
+  color: #2e2c2e;
+}
+
+#sidebar-second {
+  width: 375px;
+}
+
+.one-sidebar #content {
+  text-align: justify;
+  width: 584px;
+  border-right-width: 1px;
+  border-top-style: dashed;
+  border-left-style: dashed;
+  border-right-style: dashed;
+  border-bottom-style: dashed;
+  border-top-color: #2b2a2b;
+  border-left-color: #2b2a2b;
+  border-right-color: #2b2a2b;
+  border-bottom-color: #2b2a2b;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+}
+
+#featured {
+  padding-bottom: 0px;
+  padding-top: 1px;
+}
+
+#main-menu ul {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#main-menu a {
+  font-size: 16px;
+}
+
+#logo {
+  padding-bottom: 0px;
+}
+
+.region-header {
+  margin-top: 28px;
+}
+
+body .with-secondary-menu .region-header {
+  margin-bottom: 28px;
+}
+
+.without-secondary-menu .region-header {
+  margin-top: 28px;
+}
+

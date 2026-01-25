@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2012.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Spain 2012 Madrid - English</title>
+ <link>http://2012.drupalcamp.es/es/idioma/english</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Open Source Machine Translation for Drupal: Walkthrough and Cheat Sheet</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/open-source-machine-translation-drupal-walkthrough-and-cheat-sheet-109</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/jvdbogae&quot;&gt;jvdbogae&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;You don&#039;t need Google Translate or Bing Translator to get Machine Translation (MT) into your Drupal site. There is an Open Source solution, called Moses SMT which allows you to take full control of Machine-Translation, DIY-style. If you have ever tried or intended to wire Moses SMT to Drupal, but got intimidated because of the complexity of the task, this session may be useful for you.&lt;/p&gt;
+&lt;p&gt;Walkthrough&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;We will discuss the topic as a hands-on exercise, allowing participants to effectively experience a systems set-up.&lt;/li&gt;
+&lt;li&gt;We will present a Hello World case, focusing on practical issues, such as server set-up, code compilation, hardening, integration and maintenance of your solution (sorry, no noisy channel model theory in this tutorial).&lt;/li&gt;
+&lt;li&gt;We will also demo a real-world scenario which demonstrates the possibilities of MT integration and customization, featuring crowd-based proofreading and custom MT models.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Cheat Sheet&lt;br /&gt;
+For those who want to do some more exploration:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;we will provide a brief overview of some gotchas and FAQs&lt;/li&gt;
+&lt;li&gt;we will discuss the most interesting resources to get you up to speed withMoses SMT and Drupal&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;&lt;br /&gt;
+Joachim Van den Bogaert&lt;br /&gt;&lt;a href=&quot;http://www.linkedin.com/pub/joachim-van-den-bogaert/9/394/8a9&quot; target=&quot;_blank&quot;&gt;http://www.linkedin.com/pub/joachim-van-den-bogaert/9/394/8a9&lt;/a&gt;&lt;br /&gt;
+joachim [at] crosslang [dot] com&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/english&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;English&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Thu, 20 Sep 2012 15:34:18 +0000</pubDate>
+ <dc:creator>Lodeba</dc:creator>
+ <guid isPermaLink="false">109 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/open-source-machine-translation-drupal-walkthrough-and-cheat-sheet-109#comments</comments>
+</item>
+<item>
+ <title>Las cosas que encontrámos en tu sitio</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/las-cosas-que-encontramos-en-tu-sitio-95</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/clients&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Clients&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/themers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Themers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/hernani&quot;&gt;hernani&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;A part of my job in Acquia is looking for complex websites and evaluate them looking to several aspects. Clients hire us during a short period of time to look at vectors like site architecture, best pratices and general configuration and rely on our expertise to trace problems regarding performance, security and daily maintenance traumas.&lt;br /&gt;
+What we find is a mix of common good pratices that are not followed with a good amount of unique and singular problems that sometimes no one never cross across in the Drupal world. In this session I will share a good amount of bad examples that are common to find in site audits and also some tricky problems we had to solve when facing unknows and horrible black holes.&lt;br /&gt;
+More important I will explain what is our method to find and advise about them and guarantee that these horrible headaches are never part of your website daily routine.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/english&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;English&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 05 Sep 2012 17:00:08 +0000</pubDate>
+ <dc:creator>hernani</dc:creator>
+ <guid isPermaLink="false">95 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/las-cosas-que-encontramos-en-tu-sitio-95#comments</comments>
+</item>
+<item>
+ <title>Business Integration on Drupal Commerce Projects</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/business-integration-drupal-commerce-projects-93</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/clients&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Clients&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/dcanetma&quot;&gt;dcanetma&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/pvhee&quot;&gt;pvhee&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;&lt;em&gt;One of the common challenges facing IT organizations today is to provide a consistent version of organization data across all systems.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This challenge extends to our drupal projects when we need to exchange data with legacy enterprise resource systems, on a secure and structured way.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Examples on this scenario would be product catalog and order synchronization,bulk client migrations on drupal commerce sites.&lt;/p&gt;
+&lt;p&gt;In this session, we&#039;ll introduce you to a series of data integration tools for your Drupal projects:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://drupal.org/projects/feeds&quot;&gt;Feeds&lt;/a&gt;, the most popular data import/export module suite&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pentaho.org&quot;&gt;Pentaho Data Integration&lt;/a&gt; an open source suite that comes with data extract, transform and load (ETL) capabilities, a graphical design environment, and an open and standards-based architecture.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://drupal.org/project/commerce&quot;&gt;Drupal Commerce&lt;/a&gt;, a commerce framework in Drupal. See also pcambra´s session for an introduction: &lt;a href=&quot;http://bit.ly/Nzw7Or&quot;&gt;http://bit.ly/Nzw7Or&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;We&#039;ll present you first-hand experiences that will help open a friendly discussion of this approach over proprietary and homegrown data integration tools.&lt;br /&gt;
+There are no stand-alone solutions. It&#039;s drupal, so be water my friend.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/english&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;English&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 05 Sep 2012 16:51:19 +0000</pubDate>
+ <dc:creator>dcanetma</dc:creator>
+ <guid isPermaLink="false">93 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/business-integration-drupal-commerce-projects-93#comments</comments>
+</item>
+<item>
+ <title>Writing maintainable code</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/writing-maintainable-code-90</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/themers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Themers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/david-hernandez&quot;&gt;David Hernández&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;We, as developers, are always dealing with code wrote by other people. Usually, when that happens, we found ourselves trying to understand what does each piece of code and walking in circles around the code.&lt;/p&gt;
+&lt;p&gt;To avoid this problem and make the life of our development team easier, we have to put an effort in writing maintainable code. During this session, we will see some common issues, approaches to fix them, advices and examples of how we can achieve our target.&lt;/p&gt;
+&lt;p&gt;This session is intended to any experience level and to anyone who contributes code to an open source project or who works in a development team.&lt;/p&gt;
+&lt;p&gt;About me: I&#039;ve been working with Drupal for more than three years, with &lt;a href=&quot;http://io1.biz&quot;&gt;iO1&lt;/a&gt;, where I work as Development Manager. I&#039;m an active member of the spanish drupal community, where I organize the drupaladas of &lt;a href=&quot;http://twitter.com/drupalval&quot;&gt;@drupalval&lt;/a&gt;. You can find me on &lt;a href=&quot;http://twitter.com/david_baltha&quot;&gt;twitter&lt;/a&gt; or in my &lt;a href=&quot;http://davidhernandez.info&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/61255405&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/61255405&quot;&gt;Writing maintainable code - David Hernández Ruiz&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/english&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;English&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Slides  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/zip&quot; src=&quot;/modules/file/icons/package-x-generic.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/david-maintenance.zip&quot; type=&quot;application/zip; length=2740223&quot;&gt;david-maintenance.zip&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 05 Sep 2012 10:56:26 +0000</pubDate>
+ <dc:creator>David Hernández</dc:creator>
+ <guid isPermaLink="false">90 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/writing-maintainable-code-90#comments</comments>
+</item>
+<item>
+ <title>Cloud-driven Development: a better workflow, less worries, and more power</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/cloud-driven-development-better-workflow-less-worries-and-more-power-85</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/pvhee&quot;&gt;pvhee&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Platform-as-a-service (PaaS) solutions have recently sprung up for Drupal, with &lt;a href=&quot;https://www.getpantheon.com/&quot;&gt;Pantheon&lt;/a&gt; and &lt;a href=&quot;https://www.acquia.com/products-services/acquia-dev-cloud&quot;&gt;Acquia Dev Cloud&lt;/a&gt; leading the race. The advantages are plentiful: zero set-up costs, instant upscaling, the use of powerful services such as Apache Solr, Varnish, Redis/Memcached, automated Drupal core updates, site profiling tools, etc.&lt;/p&gt;
+&lt;p&gt;In this session, I’ll make Drupal developers familiar with PaaS, and show the concepts of “Cloud-driven development” to speed up development and deployment processes. I will show how to use your local, development, test and production environments to organize your Drupal development, and push changes back and forth using Git, Features and Drush, eliminating the need to share the database and pushing changes exclusively via code. Finally, Drush will make your deployment a breeze. &lt;/p&gt;
+&lt;p&gt;With the free developer subscription of &lt;a href=&quot;https://www.getpantheon.com/&quot;&gt;Pantheon&lt;/a&gt; and a series of Drush commands and scripts, you will be able to start developing and deploying your own Drupal projects in the cloud, and never again worry about your server. After all, you are a Drupal Developer, not a System Administrator!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Assumptions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;You know Drupal, Git and Drush, and have some experience with Features.&lt;/li&gt;
+&lt;li&gt;This session will be in English&lt;/li&gt;
+&lt;/ul&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/61432580&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/61432580&quot;&gt;Cloud Driven-Development: a better workflow, less worries, and more power - Peter Vanhee&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/english&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;English&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Tue, 04 Sep 2012 14:35:12 +0000</pubDate>
+ <dc:creator>pvhee</dc:creator>
+ <guid isPermaLink="false">85 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/cloud-driven-development-better-workflow-less-worries-and-more-power-85#comments</comments>
+</item>
+<item>
+ <title>Content moderation workflow with Workbench</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/content-moderation-workflow-workbench-71</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/clients&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Clients&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/e0ipso&quot;&gt;e0ipso&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;&lt;em&gt;Workbench is a suite of Drupal modules that provides authors, editors, and publishers with a unified interface for managing content relevant to them. Used by organizations of all shapes and sizes, Workbench is a solution that allows people to focus on their content, rather than on learning Drupal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This session will focus on how to get Workbench working, what can it do &quot;out of the box&quot; and how we can alter the default settings to serve our purposes. All seen from a live demo.&lt;/p&gt;
+&lt;p&gt;At the end of the session some guidelines will be given to developers to develop modules that integrate to the suite.&lt;/p&gt;
+&lt;p&gt;This is the same session I presented at &lt;a href=&quot;http://barcelona2012.drupaldays.org/sessions/content-moderation-workflow-workbench&quot;&gt;Drupal Developer Days 2012&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/61255408&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/61255408&quot;&gt;Content moderation workflow with Workbench( incluídas preguntas) - Mateu Aguiló Bosch&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/english&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;English&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/principiante&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Principiante&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 29 Aug 2012 09:49:40 +0000</pubDate>
+ <dc:creator>e0ipso</dc:creator>
+ <guid isPermaLink="false">71 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/content-moderation-workflow-workbench-71#comments</comments>
+</item>
+<item>
+ <title>Automating Drupal Development with Patterns</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/automating-drupal-development-patterns-38</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/drozas&quot;&gt;drozas&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/liaohao&quot;&gt;liaohao&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Complex websites and web applications can be created by combining configurations of Modules, Content Types (CCK,) Views, Panels, Menus, Blocks, Categories, Roles / Permissions, etc.This site setup and configuration process is a very time consuming and repetitive bottleneck.&lt;br /&gt;
+Patterns module (&lt;a href=&quot;http://drupal.org/project/patterns&quot;&gt;http://drupal.org/project/patterns&lt;/a&gt;) is built to bypass this bottleneck by managing and automating site configuration that is stored in YAML, XML or PHP serialized arrays.&lt;br /&gt;
+The main goal of the session is providing an introduction to the use of patterns: from the use of the current components to reuse your configuration, to an explanation on how to make the settings of your contrib or custom modules automatically exportable.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/61432578&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/61432578&quot;&gt;Automating Drupal Development with Patterns - David Rozas / Hao Liao&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/english&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;English&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Slides  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/zip&quot; src=&quot;/modules/file/icons/package-x-generic.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/patterns_drupalcamp_madrid.zip&quot; type=&quot;application/zip; length=4619480&quot;&gt;patterns_drupalcamp_madrid.zip&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Tue, 24 Jul 2012 08:10:56 +0000</pubDate>
+ <dc:creator>drozas</dc:creator>
+ <guid isPermaLink="false">38 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/automating-drupal-development-patterns-38#comments</comments>
+</item>
+</channel>
+</rss>

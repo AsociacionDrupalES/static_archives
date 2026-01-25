@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="//noticias" xmlns:dc="http://purl.org/dc/elements/1.1/" content="http://purl.org/rss/1.0/modules/content/" dc="http://purl.org/dc/terms/" foaf="http://xmlns.com/foaf/0.1/" og="http://ogp.me/ns#" rdfs="http://www.w3.org/2000/01/rdf-schema#" sioc="http://rdfs.org/sioc/ns#" sioct="http://rdfs.org/sioc/types#" skos="http://www.w3.org/2004/02/skos/core#" xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Noticias</title>
+    <link>//noticias</link>
+    <description></description>
+    <language>es</language>
+          <item>
+    <title>Arranca el Drupal Day</title>
+    <link>//node/48</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Aunque el Drupal Day empiece oficialmente el sábado, hoy ya puedes empezar a drupalear si ya estás por Valencia. Esta tarde, sobre las 4 y hasta las 8 o 8:30 estaremos en el ITI, lugar de celebración del evento. Ven a conocernos y a hablar con otros drupaleros. Después iremos a tomar unas cervezas y tal vez a cenar, pero nos iremos pronto porque mañana hay que empezar con las pilas cargadas.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 27 Apr 2012 10:19:28 +0000</pubDate>
+ <dc:creator>David Hernández</dc:creator>
+ <guid isPermaLink="false">48 at /</guid>
+  </item>
+  <item>
+    <title>Más libros gracias a Ediciones ENI</title>
+    <link>//node/47</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.ediciones-eni.com/&quot;&gt;Ediciones ENI&lt;/a&gt;&lt;/strong&gt; se suma al Drupal Day y regala 5 ejemplares del libro &lt;a href=&quot;http://www.ediciones-eni.com/libros/drupal-7-crear-y-administrar-sus-sitios-web/.03bbb019897c58446f567f5a08f81d2b.html&quot;&gt;Drupal 7. Crear y administrar sus sitios web&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Además, al hacer un pedido en su web y puedes utilizar el código &lt;strong&gt;DRUPALDAY&lt;/strong&gt; y te ofrecerán un descuento del 5%, sin gastos de envío en península y Baleares, y acceso a la versión digital online gratis durante un año por la compra del libro impreso.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 24 Apr 2012 10:46:38 +0000</pubDate>
+ <dc:creator>carlescliment</dc:creator>
+ <guid isPermaLink="false">47 at /</guid>
+  </item>
+  <item>
+    <title>Llévate un libro por tu entrada con donación</title>
+    <link>//node/31</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;¡&lt;a href=&quot;http://www.forcontu.com&quot;&gt;Forcontu&lt;/a&gt; te ofrece libros gratis por tu entrada con donación!&lt;br /&gt;&lt;br /&gt;En efecto, &lt;strong&gt;Forcontu&lt;/strong&gt; ha arrimado el hombro y ha querido contribuir en el Drupal Day Valencia 2012 ofreciendo libros gratis a los asistentes. Si te decides a echarnos una mano tú también con la entrada con donación, obtendrás gratis el libro en PDF de &lt;a href=&quot;http://www.forcontu.com/descarga/d7incpdf&quot;&gt;Experto en Drupal 7 - Nivel Inicial&lt;/a&gt;. El 100% del dinero recaudado en las entradas con donación irá destinado a mejorar el evento.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Apr 2012 21:24:16 +0000</pubDate>
+ <dc:creator>carlescliment</dc:creator>
+ <guid isPermaLink="false">31 at /</guid>
+  </item>
+  <item>
+    <title>Alojamiento para el Drupal Day</title>
+    <link>//node/22</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Como en otras ocasiones, hemos buscado algunas ofertas en hoteles que están bien comunicados o cerca del lugar del evento. Para el Drupal Day, hemos encontrado este hotel:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotel Holiday Inn&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Cuatro estrellas, muy cerca del centro y de las zonas por las que saldremos por la noche. Línea de bus directa (línea 1) en la puerta del hotel que te deja en la puerta del Drupal Day. El hotel está situado a 500 metros de la Ciudad de las Artes y de las Ciencias de Valencia.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 26 Mar 2012 20:07:57 +0000</pubDate>
+ <dc:creator>David Hernández</dc:creator>
+ <guid isPermaLink="false">22 at /</guid>
+  </item>
+  <item>
+    <title>¡Apúntate ya!</title>
+    <link>//node/21</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Finalmente, las entradas para el Drupal Day ya están a la venta, a un precio de 10 € que incluye almuerzo, comida y mucho Drupal. Además, hemos hay otro tipo de entrada disponible con una donación especial que incluirá una camiseta de regalo de tirada muy limitada.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 16 Mar 2012 18:15:18 +0000</pubDate>
+ <dc:creator>David Hernández</dc:creator>
+ <guid isPermaLink="false">21 at /</guid>
+  </item>
+  <item>
+    <title>Agenda de ocio</title>
+    <link>//node/19</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Un Drupal Day es mucho más que un día de Drupal. Desde la organización queremos llevar esta premisa hasta las últimas consecuencias para que, además de hablar y aprender sobre Drupal, disfrutéis de un estupendo fin de semana en Valencia, nos conozcamos de primera mano unos a otros y volváis a casa con una agradable y divertida experiencia en la maleta. Con este objetivo hemos pensado unas cuantas actividades de tiempo libre. ¡Esperamos que os gusten!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Viernes&lt;/strong&gt;:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Mar 2012 09:23:48 +0000</pubDate>
+ <dc:creator>David Hernández</dc:creator>
+ <guid isPermaLink="false">19 at /</guid>
+  </item>
+  <item>
+    <title>El Drupal Day va hacia delante</title>
+    <link>//drupal-day</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;La semana pasada lanzamos la página web del Drupal Day 2012, que se celebrará en Valencia, el 28 de abril. La idea que tenemos para el Drupal Day es que sea un evento hecho por y para drupaleros, donde cualquiera pueda proponer algo y nosotros haremos nuestro mejor esfuerzo para que salga adelante. Para ello, hemos habilitado una zona de contacto desde donde nos podréis mandar vuestras sugerencias de cualquier tipo: sugerir temas a tratar, sugerencias para la web o para el evento.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 31 Jan 2012 19:25:03 +0000</pubDate>
+ <dc:creator>David Hernández</dc:creator>
+ <guid isPermaLink="false">9 at /</guid>
+  </item>
+  </channel>
+</rss>

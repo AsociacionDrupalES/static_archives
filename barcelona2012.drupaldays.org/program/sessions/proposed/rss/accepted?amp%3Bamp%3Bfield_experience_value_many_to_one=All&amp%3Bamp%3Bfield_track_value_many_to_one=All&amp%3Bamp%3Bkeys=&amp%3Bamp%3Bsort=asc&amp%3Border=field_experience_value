@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://barcelona2012.drupaldays.org/program/sessions/accepted?field_experience_value_many_to_one=All&amp;field_track_value_many_to_one=All&amp;keys=" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sessions</title>
+    <link>https://barcelona2012.drupaldays.org/program/sessions/accepted?field_experience_value_many_to_one=All&amp;field_track_value_many_to_one=All&amp;keys=</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>Drupal 8&#039;s Multilingual Wonderland</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/drupal-8s-multilingual-wonderland</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/g%C3%A1bor-hojtsy&quot; title=&quot;View user profile.&quot;&gt;Gábor Hojtsy&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come to this session to get a report of the plans for Drupal 8&#039;s multilingual support as well as all the progress made to date especially including the results of the sprint before the conference. We&#039;ll cover what is needed for even a basic multilingual site in Drupal 7 and then what is being built into Drupal 8 and what are the remaining plans until the code is frozen for the development version.&lt;/p&gt;
+&lt;p&gt;If you actually want to get involved, it is best to arrive a few days earlier for the Drupal 8 Multilingual Initiative (D8MI) sprint. See &lt;a href=&quot;http://barcelona2012.drupaldays.org/drupal-8-multilingual-initiative-sprint&quot; title=&quot;http://barcelona2012.drupaldays.org/drupal-8-multilingual-initiative-sprint&quot;&gt;http://barcelona2012.drupaldays.org/drupal-8-multilingual-initiative-sprint&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;https://barcelona2012.drupaldays.org/profiles/cod/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;https://barcelona2012.drupaldays.org/sites/default/files/slides/D8MIBarcelona.pdf&quot; type=&quot;application/pdf; length=6939415&quot;&gt;D8MIBarcelona.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1400-1500&quot;&gt;16 June 14:00 - 15:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/nodeone-hall&quot;&gt;NodeOne Hall&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Multilingual        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Beginner        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/drupal-8s-multilingual-wonderland#comments</comments>
+ <pubDate>Mon, 06 Feb 2012 18:33:21 +0000</pubDate>
+ <dc:creator>Gábor Hojtsy</dc:creator>
+ <guid isPermaLink="false">43 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Drupal Search and Solr Wizardry</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/drupal-search-and-solr-wizardry</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/nick&quot; title=&quot;View user profile.&quot;&gt;Nick&lt;/a&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                      &lt;div class=&quot;field-label-inline&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/mh86&quot; title=&quot;View user profile.&quot;&gt;mh86&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;In this session we will try to give you a good overview of all the Search modules in Drupal 7. This includes Search (Core), Search API, Apachesolr and many more. This session will not be aimed at SEO but more towards how to make the best search experience for your project.&lt;/p&gt;
+&lt;p&gt;Breaking News : Session overhaul! This will only be about search_api, search_api_solr and apachesolr contrib and custom modules and what you can do to leverage all of it. We&#039;ll also discuss the future of search in Drupal and hopefully have a constructive BOF afterwards. As of now, Search API Solr and the Apachesolr maintainers are co-operating with eachother to make the initial experience as easy and as in-obtrusive as possible. I&#039;ll explain you all about these initiatives and how you can help.&lt;/p&gt;
+&lt;p&gt;On the planning :&lt;br /&gt;
+What happened with the Apache Solr Module since september? And why was the role of Barcelona so important?&lt;br /&gt;
+What is on the roadmap for Apache Solr?&lt;br /&gt;
+What is on the roadmap for search_api_solr?&lt;br /&gt;
+What initiatives are rolling out in the Drupal search zone?&lt;br /&gt;
+What does Display Suite do in this Search session?&lt;br /&gt;
+Bonus : Code snippets for all!&lt;br /&gt;
+Brainstorm about possible future tracks?&lt;/p&gt;
+&lt;p&gt;As a Drupal developer I (Nick) am very actively involved in the search world of Drupal. I am co-maintainer of the Apachesolr module and I have helped with many others. Drupal Search was also a topic of my Master Thesis so I&#039;d be happy to explain you all I know and learned in the last couple of months!&lt;/p&gt;
+&lt;p&gt;Matthias works for Epiqo and they are heavily involved in the development of Search API.&lt;/p&gt;
+&lt;p&gt;Slides can be found here : &lt;a href=&quot;http://nickveenhof.github.com/devdays_solr_wizardry&quot; title=&quot;http://nickveenhof.github.com/devdays_solr_wizardry&quot;&gt;http://nickveenhof.github.com/devdays_solr_wizardry&lt;/a&gt;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/17-june-1300-1400&quot;&gt;17 June 13:00 - 14:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/omega8cc-room&quot;&gt;Omega8.cc Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Devops        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/drupal-search-and-solr-wizardry#comments</comments>
+ <pubDate>Fri, 10 Feb 2012 12:11:45 +0000</pubDate>
+ <dc:creator>Nick</dc:creator>
+ <guid isPermaLink="false">45 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Continuous Integration with Jenkins and Aegir</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/continuous-integration-jenkins-and-aegir</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/iler&quot; title=&quot;View user profile.&quot;&gt;iler&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;In this session we will examine how you can build Continuous Integration (CI) system to support your site development workflow by using &lt;a href=&quot;http://jenkins-ci.org/&quot;&gt;Jenkins&lt;/a&gt; and &lt;a href=&quot;http://www.aegirproject.org/&quot;&gt;Aegir&lt;/a&gt;. Also using Jenkins and Aegir to go through the whole process from development to staging and finally to production will be covered.&lt;/p&gt;
+&lt;p&gt;Continuous integration – the practice of frequently integrating one&#039;s new or changed code with the existing code repository – should occur frequently enough that no intervening window remains between commit and build, and such that no errors can arise without developers noticing them and correcting them immediately.&lt;/p&gt;
+&lt;p&gt;The session will show you how to configure Jenkins and Aegir for CI, what kind of installation profile and repository structure can be used and the magic that actually makes the build happen!&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/67094477&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/67094477&quot;&gt;Continuous Integration with Jenkins and Aegir&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociaci&amp;oacute;n Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Code examples:&lt;br /&gt;
+&lt;a href=&quot;https://github.com/iler/builds&quot; title=&quot;https://github.com/iler/builds&quot;&gt;https://github.com/iler/builds&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/iler/devdays&quot; title=&quot;https://github.com/iler/devdays&quot;&gt;https://github.com/iler/devdays&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;https://barcelona2012.drupaldays.org/profiles/cod/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;https://barcelona2012.drupaldays.org/sites/default/files/slides/barcelona-ci-session.pdf&quot; type=&quot;application/pdf; length=495502&quot;&gt;barcelona-ci-session.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1300-1400&quot;&gt;16 June 13:00 - 14:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/nodeone-hall&quot;&gt;NodeOne Hall&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Development        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/continuous-integration-jenkins-and-aegir#comments</comments>
+ <pubDate>Fri, 10 Feb 2012 13:58:32 +0000</pubDate>
+ <dc:creator>iler</dc:creator>
+ <guid isPermaLink="false">46 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Mastering Drupal cache</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/mastering-drupal-cache</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/slashrsm&quot; title=&quot;View user profile.&quot;&gt;slashrsm&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Drupal has a built in Cache API, which allows module developers to save output of the expensive parts of code to be re-used in future. This not only makes code faster and more responsive, but will also save a lot of server resources.&lt;/p&gt;
+&lt;p&gt;The result of proper use of Drupal&#039;s caching mechanisms will result in more satisfied users and substantial savings, caused by lower hardware requirements. &lt;/p&gt;
+&lt;p&gt;Drupal&#039;s cache API is really easy to use, so every developer should use it. You do not know how to so it? Come to this session and you will find out!&lt;/p&gt;
+&lt;!--break--&gt;&lt;!--break--&gt;&lt;p&gt;
+The following topics will be presented during this session:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Caching basics and cache implementation in Drupal 7.&lt;/li&gt;
+&lt;li&gt;How to use cache in my own code?&lt;/li&gt;
+&lt;li&gt;What are cache bins and cache backends?&lt;/li&gt;
+&lt;li&gt;Which cache backend is the best choice for my project?&lt;/li&gt;
+&lt;li&gt;How to implement advanced cache control?&lt;/li&gt;
+&lt;li&gt;How to use Views and Panels cache?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Slides are accessible&lt;/strong&gt; on my &lt;a href=&quot;http://janezurevc.name/static/bcn_cache&quot;&gt;blog&lt;/a&gt;. Source code is accessible on &lt;a href=&quot;https://github.com/slashrsm/cache_presentation/tree/barcelona2012&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/46140167&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1300-1400&quot;&gt;16 June 13:00 - 14:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/small-room&quot;&gt;Small Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Performance        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/mastering-drupal-cache#comments</comments>
+ <pubDate>Sun, 12 Feb 2012 22:37:02 +0000</pubDate>
+ <dc:creator>slashrsm</dc:creator>
+ <guid isPermaLink="false">47 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Media in Drupal 7</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/media-drupal-7</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/slashrsm&quot; title=&quot;View user profile.&quot;&gt;slashrsm&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Media handling has been pretty inhomogeneous in previous versions of Drupal. A lot of contrib modules were trying to address the same problem. As a result we ended up  with at least a bit different solution on every project. There is an informal initiative that tries to solve this in Drupal 7.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://drupal.org/project/media&quot;&gt;Media&lt;/a&gt; and associated modules are trying to standardize asset handling in Drupal 7. With stream wrappers, central media library, assets being fieldable entities and possibility to re-use existing assets, Media offers a solid and reliable base for most of needs related to asset handling in D7.&lt;/p&gt;
+&lt;p&gt;In this session you&#039;re going to hear:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to make assets fieldable entities?&lt;/li&gt;
+&lt;li&gt;How to use Media&#039;s central library and how to re-use existing assets?&lt;/li&gt;
+&lt;li&gt;How to use Views with Media?&lt;/li&gt;
+&lt;li&gt;How to use assets, that are stored remotely?&lt;/li&gt;
+&lt;li&gt;How to process your assets on-the-fly?&lt;/li&gt;
+&lt;ul&gt;
+&lt;/ul&gt;&lt;/ul&gt;&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Beginner        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/media-drupal-7#comments</comments>
+ <pubDate>Mon, 13 Feb 2012 09:04:30 +0000</pubDate>
+ <dc:creator>slashrsm</dc:creator>
+ <guid isPermaLink="false">48 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Behavior Driven Development with Drupal</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/behavior-driven-development-drupal</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/alex&quot; title=&quot;View user profile.&quot;&gt;al.ex&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;In this session, I&#039;ll explain the benefits of practicing test driven development and a variation called behavior driven development.&lt;/p&gt;
+&lt;p&gt;You&#039;ll learn the basics of how to write your modules &quot;&lt;a title=&quot;Write Drupal modules outside-in&quot; href=&quot;http://bdd.alexo.it&quot;&gt;outside-in&lt;/a&gt;&quot; utilizing a BDD framework for PHP called Behat (&lt;a title=&quot;http://behat.org&quot; href=&quot;http://behat.org/&quot;&gt;http://behat.org&lt;/a&gt;, &lt;a title=&quot;Behat module&quot; href=&quot;http://drupal.org/project/behat&quot;&gt;http://drupal.org/project/behat&lt;/a&gt;).&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/17-june-1100-1200&quot;&gt;17 June 11:00 - 12:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/nodeone-hall&quot;&gt;NodeOne Hall&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Devops        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Advanced        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/behavior-driven-development-drupal#comments</comments>
+ <pubDate>Mon, 13 Feb 2012 14:13:50 +0000</pubDate>
+ <dc:creator>al.ex</dc:creator>
+ <guid isPermaLink="false">49 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Drupal and the rise of the Documents</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/drupal-and-rise-documents</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/omissis&quot; title=&quot;View user profile.&quot;&gt;omissis&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;It has been nearly three years since the term &#039;NoSQL&#039; was coined and since then it contributed to shape the idea of a set of new technologies that soon conquered the mind(and heart :) of many developers. The good ol&#039; relational model has been replaced with new solutions and methods that helped to formulate a whole new kind of approach to database design and data persistence. Better performances and scalability were the two requirements that drove to this little revolution: almost nobody could tell to have never heard of tools like CouchDB, Redis, Hadoop or BerkeleyDB. MongoDB is part of the family, too: during this session we will take a look at its strengths and weaknesses, together with the tools and techniques to use to integrate it with Drupal.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/drupal-and-rise-documents#comments</comments>
+ <pubDate>Mon, 20 Feb 2012 21:57:12 +0000</pubDate>
+ <dc:creator>omissis</dc:creator>
+ <guid isPermaLink="false">54 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>/* Talking about code */</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/talking-about-code</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/solipsist&quot; title=&quot;View user profile.&quot;&gt;solipsist&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;When you&#039;re just one person, or three, knowing how something is done or why is not that hard. You can rely on comments in code, and when necessary ask the person. But as your organization grows it gets harder. Your group, team or company becomes a repository of knowledge, of how a certain website works, of why a module was written a certain way, or how something should be done. But this repository is increasingly hard to search and access.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At NodeOne we&#039;ve devised several ways to keep knowledge flowing between developers, even as teams grow.&lt;/p&gt;
+&lt;h3&gt;In this session on knowledge management for developers and teams I will talk about&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The problem of obstacles to sharing knowledge of solutions, implementations or projects.&lt;/li&gt;
+&lt;li&gt;How you can organize your projects and schedule to make exchange of knowledge easier.&lt;/li&gt;
+&lt;li&gt;Ways to work that helps share knowledge and information between developers.&lt;/li&gt;
+&lt;li&gt;Tools you can build in Drupal that will help you store and share, and turn that &quot;tacit&quot; knowledge Joe has, into something searchable and available to Karl who was just hired.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;About the speaker&lt;/h3&gt;
+&lt;p&gt;Jakob is a co-founder and CKO of NodeOne, a 58 strong Drupal consultancy based in Scandinavia. He specializes in web strategy and manages NodeOne&#039;s intellectual capital and knowledge. He&#039;s been working with Drupal since 2005 and has a background in cognitive science and computer science.&lt;/p&gt;
+&lt;p&gt;Jakob has previously been speaking at DrupalCons and DrupalCamps on estimating techniques and on NodeOne&#039;s platform distribution NodeStream.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1400-1500&quot;&gt;16 June 14:00 - 15:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/small-room&quot;&gt;Small Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Development        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Beginner        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/talking-about-code#comments</comments>
+ <pubDate>Tue, 21 Feb 2012 13:57:29 +0000</pubDate>
+ <dc:creator>solipsist</dc:creator>
+ <guid isPermaLink="false">55 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Stuff Drupal with Feeds and custom feeds plugins</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/stuff-drupal-feeds-and-custom-feeds-plugins</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/imiksu&quot; title=&quot;View user profile.&quot;&gt;iMiksu&lt;/a&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                      &lt;div class=&quot;field-label-inline&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/merilainen&quot; title=&quot;View user profile.&quot;&gt;mErilainen&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;This session will cover advanced techniques to feed data into Drupal with the flexible Feeds module and its add-ons.&lt;/p&gt;
+&lt;p&gt;We will have code examples and snippets, but also a use case how to play with these toys.&lt;/p&gt;
+&lt;p&gt;We will show a use case where customized parsing and processing has been used and takes in addition advantage of add-on modules such as Feeds Tamper, Querypath and XPath Parsers.&lt;/p&gt;
+&lt;p&gt;If you have ever fought with difficult and possibly non-valid input data or need to integrate Drupal to external source, this session could be very valuable for you.&lt;/p&gt;
+&lt;p&gt;This session will cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The anatomy of Feeds&lt;/li&gt;
+&lt;li&gt;How to implement a Feeds plugin (processor)&lt;/li&gt;
+&lt;li&gt;How to implement a Feeds tamper plugin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;https://barcelona2012.drupaldays.org/profiles/cod/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;https://barcelona2012.drupaldays.org/sites/default/files/slides/stuff-drupal-with-feeds.pdf&quot; type=&quot;application/pdf; length=2364940&quot;&gt;stuff-drupal-with-feeds.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1000-1100&quot;&gt;16 June 10:00 - 11:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/small-room&quot;&gt;Small Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Development        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/stuff-drupal-feeds-and-custom-feeds-plugins#comments</comments>
+ <pubDate>Fri, 24 Feb 2012 08:22:39 +0000</pubDate>
+ <dc:creator>iMiksu</dc:creator>
+ <guid isPermaLink="false">57 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>10 tips to run Drupal based, mobile &amp; multi-device apps</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/10-tips-run-drupal-based-mobile-multi-device-apps</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/mtopolov&quot; title=&quot;View user profile.&quot;&gt;mtopolov&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;During this session we&#039;ll learn on concrete 4 examples (Mobile site for Orange, mobile site for biggest french luxury group, iPad native application based on Drupal for the biggest french bank and several responsive websites for Johnson&amp;amp;Johnson group) why and how use Drupal as base for a multi-device world.&lt;/p&gt;
+&lt;p&gt;You will learn during this session : &lt;/p&gt;
+&lt;p&gt;- Why mobile is so f***ing important&lt;br /&gt;
+- How do decide what to do : mobile version, web-app, responsive design, native application&lt;br /&gt;
+- How create a mobile version of you site with Drupal&lt;br /&gt;
+- How could we make a desktop design responsive&lt;br /&gt;
+- How create a native application (iOS, Android) using Drupal as back-end&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/46199181&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1100-1200&quot;&gt;16 June 11:00 - 12:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/small-room&quot;&gt;Small Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Frontend &amp;amp; mobile        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/10-tips-run-drupal-based-mobile-multi-device-apps#comments</comments>
+ <pubDate>Fri, 02 Mar 2012 07:40:32 +0000</pubDate>
+ <dc:creator>mtopolov</dc:creator>
+ <guid isPermaLink="false">60 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>ECK - How to use Entities in Drupal 7</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/eck-how-use-entities-drupal-7</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/kars-t&quot; title=&quot;View user profile.&quot;&gt;Kars-T&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;With Drupal 7 we got a powerful tool called entities.&lt;br /&gt;
+But a year later they still feel strange to many people. For example I did a &lt;a href=&quot;http://drupalcamp-essen.de/12/sessions/entities-and-fields-new-core-concepts-drupal-7&quot;&gt;session about entities and fields at Drupal Camp Essen, Germany&lt;/a&gt; and it showed only 10% of the audience really knew what entities are.&lt;/p&gt;
+&lt;p&gt;In this session we will talk about what entities are and should be used for. And I will show you how you can create new entities with the use of the &lt;a href=&quot;http://drupal.org/project/eck&quot;&gt;ECK&lt;/a&gt; module.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/eck-how-use-entities-drupal-7#comments</comments>
+ <pubDate>Wed, 07 Mar 2012 10:31:12 +0000</pubDate>
+ <dc:creator>Kars-T</dc:creator>
+ <guid isPermaLink="false">61 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Profiling Drupal with devel and xhprof</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/profiling-drupal-devel-and-xhprof</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/kars-t&quot; title=&quot;View user profile.&quot;&gt;Kars-T&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;You want to speed up your Drupal and don&#039;t know what to do?&lt;/p&gt;
+&lt;p&gt;Your website performs bad but why?&lt;/p&gt;
+&lt;p&gt;In this session I will show you tools how you can find out how your Drupal behaves. Which parts of your PHP script are taking the most load and slow your system. Just install the devel module and xhprof and connect them. At the end of the session you should be able to run performance analysis on your own.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/65367121&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/65367121&quot;&gt;Profiling Drupal with devel and xhprof&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociaci&amp;oacute;n Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/17-june-1400-1500&quot;&gt;17 June 14:00 - 15:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/nodeone-hall&quot;&gt;NodeOne Hall&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Performance        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/profiling-drupal-devel-and-xhprof#comments</comments>
+ <pubDate>Wed, 07 Mar 2012 10:35:13 +0000</pubDate>
+ <dc:creator>Kars-T</dc:creator>
+ <guid isPermaLink="false">62 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Displaying external data on the fly with Views and CTools</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/displaying-external-data-fly-views-and-ctools</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/balintk&quot; title=&quot;View user profile.&quot;&gt;balintk&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--break--&gt;&lt;!--break--&gt;&lt;p&gt;Let&#039;s imagine that you have data from somewhere outside your Drupal website, and you would like to use this data inside your site, and that you can access that data through a web service (with an API). The Feeds module offers a solution for importing external content. But when we are dealing with a huge amount of data, and/or presenting up-to-date information is crucial, this approach might be inefficient because refetching large data sets is a time and CPU consuming task. &lt;/p&gt;
+&lt;p&gt;In this session, I would like to show how you can present external data in Drupal without actually storing it. The goal is, as always, to utilize standard Drupal tools -- and therefore I am presenting a solution based on Views and CTools. You will learn the concept of how to implement a Views query backend to create listings for your external content, and how to create the necessary CTools plugins (arguments, contexts, content types) to build the individual content pages through the power of Page Manager.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/65283398&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/65283398&quot;&gt;Displaying external data on the fly with Views and CTools&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociaci&amp;oacute;n Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;https://barcelona2012.drupaldays.org/profiles/cod/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;https://barcelona2012.drupaldays.org/sites/default/files/slides/flyviews.pdf&quot; type=&quot;application/pdf; length=772556&quot;&gt;flyviews.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/17-june-1300-1400&quot;&gt;17 June 13:00 - 14:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/nodeone-hall&quot;&gt;NodeOne Hall&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Development        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Advanced        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/displaying-external-data-fly-views-and-ctools#comments</comments>
+ <pubDate>Wed, 07 Mar 2012 18:24:32 +0000</pubDate>
+ <dc:creator>balintk</dc:creator>
+ <guid isPermaLink="false">63 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Entity Translation</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/entity-translation</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/floretan&quot; title=&quot;View user profile.&quot;&gt;floretan&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;For a long time, the standard content translation mechanism for Drupal has been to have one separate piece of content for each language. Entity Translation is an alternative translation mechanism that takes advantage of the multilingual storage of Drupal 7&#039;s Field API.&lt;/p&gt;
+&lt;p&gt;What are the benefits of using Entity Translation? What are the drawbacks? Is it the right tool for your project? That&#039;s what we&#039;ll discuss in this session.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/79551416&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/79551416&quot;&gt;Entity Translation. Florian Lorétan&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociaci&amp;oacute;n Drupal&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1700-1800&quot;&gt;16 June 17:00 - 18:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/omega8cc-room&quot;&gt;Omega8.cc Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Multilingual        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/entity-translation#comments</comments>
+ <pubDate>Wed, 14 Mar 2012 09:55:45 +0000</pubDate>
+ <dc:creator>floretan</dc:creator>
+ <guid isPermaLink="false">64 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Responsive Web Design: everything has changed</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/responsive-web-design-everything-has-changed</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/htmlboy&quot; title=&quot;View user profile.&quot;&gt;htmlboy&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Responsive Web Design has become the answer for accessing websites through very different devices such as laptops, tablets, mobile phones and TVs with very different sizes, resolutions and capabilities. Besides from flexible grids and media, RWD is changing the way developers work. How should we serve images for small phones and big displays? How will HD screens change the rules? Which are the challenges for CMS systems?&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/45583432&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/17-june-1400-1500&quot;&gt;17 June 14:00 - 15:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/omega8cc-room&quot;&gt;Omega8.cc Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Frontend &amp;amp; mobile        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/responsive-web-design-everything-has-changed#comments</comments>
+ <pubDate>Fri, 16 Mar 2012 14:46:58 +0000</pubDate>
+ <dc:creator>htmlboy</dc:creator>
+ <guid isPermaLink="false">67 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Designing and building for the editor experience</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/designing-and-building-editor-experience</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/pixelmord&quot; title=&quot;View user profile.&quot;&gt;pixelmord&lt;/a&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                      &lt;div class=&quot;field-label-inline&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/danielnolde&quot; title=&quot;View user profile.&quot;&gt;daniel.nolde&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The editor experience is somehow a blind spot in a lot of projects.&lt;br /&gt;
+There might exist a great design for the “frontend”, a lot of efforts go into building a good user experience for site visitors and we also put a lot of work in functionality, but very often we are missing out on usability for editors.&lt;br /&gt;
+There are a lot of sites that are used extensively by editors and for them the “frontend” is the “backend”. The out of the box functionality just isn’t enough, to make them love to work with Drupal for content management.&lt;br /&gt;
+In this session we want to show, what modules and techniques you can use right now to design and build for a way better editor friendly interface.&lt;br /&gt;
+&lt;strong&gt;Topics:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Common pain points in content management&lt;/li&gt;
+&lt;li&gt;Modules you can use to build an editor friendly backend&lt;/li&gt;
+&lt;li&gt;Strategies for the “intuitive” interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here&#039;s link to the previous version of the slides of the presentation when I held it during Frontend United Conference earlier this year:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/pixelmord/designing-and-building-for-the-editor-experience-12649776&quot; target=&quot;_blank&quot;&gt;Slides for Designing and Building for the Editor Experience&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I uploaded the modified slides from today&#039;s presentation - see attachment below&lt;/p&gt;
+&lt;p&gt;The Content Menu module Daniel created and presented can be found here:&lt;br /&gt;
+&lt;a href=&quot;http://www.drupal.org/project/content_menu&quot;&gt;Content Menu Module&lt;/a&gt;&lt;br /&gt;
+A blogpost and screencast for Content Menu module can be found here:&lt;br /&gt;
+&lt;a href=&quot;http://wunderkraut.com/en/blog/content-menu-module-%E2%80%93-menu-authoring-made-easy-new-module-screencast&quot;&gt;Blogpost and screencast for Content Menu Module&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;https://barcelona2012.drupaldays.org/profiles/cod/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;https://barcelona2012.drupaldays.org/sites/default/files/slides/designing and building for the editor experience DevDays.pdf&quot; type=&quot;application/pdf; length=5243041&quot;&gt;designing and building for the editor experience DevDays.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1000-1100&quot;&gt;16 June 10:00 - 11:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/omega8cc-room&quot;&gt;Omega8.cc Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Sites building &amp;amp; Case studies        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/designing-and-building-editor-experience#comments</comments>
+ <pubDate>Mon, 19 Mar 2012 10:18:28 +0000</pubDate>
+ <dc:creator>pixelmord</dc:creator>
+ <guid isPermaLink="false">68 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Content moderation workflow with Workbench</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/content-moderation-workflow-workbench</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/e0ipso&quot; title=&quot;View user profile.&quot;&gt;e0ipso&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Workbench is a suite of Drupal modules that provides authors, editors, and publishers with a unified interface for managing content relevant to them. Used by organizations of all shapes and sizes, Workbench is a solution that allows people to focus on their content, rather than on learning Drupal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This session will focus on how to get Workbench working, what can it do &quot;out of the box&quot; and how we can alter the default settings to serve our purposes. All seen from a live demo.&lt;/p&gt;
+&lt;p&gt;At the end of the session some guidelines will be give to developers to develop modules that integrate to the suite.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/49148124&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;https://barcelona2012.drupaldays.org/profiles/cod/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;https://barcelona2012.drupaldays.org/sites/default/files/slides/ddd-workbench.pdf&quot; type=&quot;application/pdf; length=5781706&quot;&gt;ddd-workbench.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1500-1600&quot;&gt;16 June 15:00 - 16:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/small-room&quot;&gt;Small Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Sites building &amp;amp; Case studies        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Beginner        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/content-moderation-workflow-workbench#comments</comments>
+ <pubDate>Thu, 29 Mar 2012 11:43:38 +0000</pubDate>
+ <dc:creator>e0ipso</dc:creator>
+ <guid isPermaLink="false">70 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Performance 101</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/performance-101</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/manarth&quot; title=&quot;View user profile.&quot;&gt;manarth&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Maybe your site&#039;s getting a million hits a day. Or maybe just 10. You still want a faster site, right?&lt;/p&gt;
+&lt;p&gt;This session covers the tools and techniques I use on everything from my blog site which picks up maybe a dozen hits a day, right through to sites reaching millions of hits every day. Practical advice on Drupal modules, system configuration, and benchmarking.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/66599402&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/66599402&quot;&gt;Performance 101&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociaci&amp;oacute;n Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1700-1800&quot;&gt;16 June 17:00 - 18:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/nodeone-hall&quot;&gt;NodeOne Hall&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Performance        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/performance-101#comments</comments>
+ <pubDate>Fri, 30 Mar 2012 21:16:15 +0000</pubDate>
+ <dc:creator>manarth</dc:creator>
+ <guid isPermaLink="false">71 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>Drupal Commerce nuts &amp; bolts for contrib developers</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/drupal-commerce-nuts-bolts-contrib-developers</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/pcambra&quot; title=&quot;View user profile.&quot;&gt;pcambra&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Drupal Commerce provides a lean core of commerce functionality, which is meant to be extended with contrib modules for common use cases.&lt;br /&gt;
+And these days, everyone is writing a Commerce module. Haven&#039;t started yours yet? Come learn how Commerce uses D7 technologies (entities, fields, the ajax and testing frameworks...) and contrib modules (Entity API, Views, Rules) to achieve an unpreceded level of flexibility.&lt;br /&gt;
+Learn about important patterns such as API/UI separation, building UIs with Views (including embedding forms), storing prices, price precalculation, etc. Then learn how to apply the lessons learned to your own code, especially if it is code that interacts with Drupal Commerce. In the end, see how a few of the existing Drupal Commerce contributed modules have incorporated some of those lessons.&lt;br /&gt;
+ A basic knowledge of how Drupal Commerce works and what D7 brings to the table is recommended. Teaching you every mentioned technology from scratch would take more than a few sessions, the goal of this one is to connect the dots and provide you with an overview of things you need to know and the ways you could and should use them.&lt;/p&gt;
+&lt;h2&gt;Slides&lt;/h2&gt;
+&lt;p&gt;The slides are in impress.js, you can find them &lt;a href=&quot;http://cambrico.net/sites/cambrico.net/files/slides/commerce_slides/commerce_nb.html#/first&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1100-1200&quot;&gt;16 June 11:00 - 12:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/omega8cc-room&quot;&gt;Omega8.cc Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Development        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/drupal-commerce-nuts-bolts-contrib-developers#comments</comments>
+ <pubDate>Sun, 01 Apr 2012 15:06:58 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">72 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  <item>
+    <title>NodeStream: A distribution platform</title>
+    <link>https://barcelona2012.drupaldays.org/sessions/nodestream-distribution-platform</link>
+    <description>&lt;div class=&quot;field field-type-userreference field-field-speakers&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/fabsor&quot; title=&quot;View user profile.&quot;&gt;fabsor&lt;/a&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                      &lt;div class=&quot;field-label-inline&quot;&gt;
+              Speakers(s):&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/users/pontusnilsson&quot; title=&quot;View user profile.&quot;&gt;pontus_nilsson&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;When building Drupal sites today, you are often faced with two choices: Start out from scratch building a solution on top of the Drupal ecosystem, or go with an already made solution in form of a distribution. NodeStream presents a middle way: a platform distribution designed from the ground up to provide a good base to stand on when developing both custom projects and ready-to-use products.&lt;/p&gt;
+&lt;p&gt;This talk is about how you can build a platform that can be used across various projects based on the NodeStream distribution. I&#039;m going to cover the following topics:&lt;/p&gt;
+&lt;p&gt;* What&#039;s the difference between a platform and a distribution?&lt;br /&gt;
+* What you benefit from building on a platform rather than building from scratch.&lt;br /&gt;
+* How to structure features with re-usability in mind.&lt;br /&gt;
+* How you can create an installation profile that uses NodeStream as a base.&lt;br /&gt;
+* How distribution upgrades can be managed.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/16-june-1500-1600&quot;&gt;16 June 15:00 - 16:00&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/rooms/omega8cc-room&quot;&gt;Omega8.cc Room&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;fieldset class=&quot;fieldgroup group-audience&quot;&gt;&lt;div class=&quot;field field-type-text field-field-track&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Track:&amp;nbsp;&lt;/div&gt;
+                    Sites building &amp;amp; Case studies        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-experience&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Experience level:&amp;nbsp;&lt;/div&gt;
+                    Intermediate        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+     <comments>https://barcelona2012.drupaldays.org/sessions/nodestream-distribution-platform#comments</comments>
+ <pubDate>Mon, 02 Apr 2012 20:43:32 +0000</pubDate>
+ <dc:creator>fabsor</dc:creator>
+ <guid isPermaLink="false">73 at https://barcelona2012.drupaldays.org</guid>
+  </item>
+  </channel>
+</rss>

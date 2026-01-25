@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Abstracting Social Networking functionality in Drupal | Drupal Developer Days Barcelona</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../sites/default/files/dddbcn_favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="../sites/default/files/css/css_6aaaef9543db88af6af66c4caeab70a5.css" />
+  <script type="text/javascript" src="../sites/default/files/js/js_ae62a8f4dae99c6d3a28558dc1dc0d8f.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" } });
+//--><!]]>
+</script>
+</head>
+<body class="not-front not-logged-in node-type-sprint no-sidebars page-abstracting-social-networking-functionality-drupal section-abstracting-social-networking-functionality-drupal">
+    <div id="page">
+    <header class="zone-wrapper">
+      <div id="site-header" class="container-16">
+        <hgroup id="branding" class="grid-16">
+          <a href="../index.html">
+                          <h2>Drupal Developer Days Barcelona</h2>
+                        <p></p>
+          </a>
+        </hgroup><!-- /#branding -->
+  
+                  <nav id="site-menu" class="grid-16">
+            <ul class="links main-menu"><li class="menu-1901 first"><a href="../index.html" title="">Home</a></li>
+<li class="menu-1642"><a href="../about-event.html" title="">Conference</a></li>
+<li class="menu-1973"><a href="../program/session-schedule/all.html" title="Drupal Developer Days Sessions">Program</a></li>
+<li class="menu-376"><a href="../community.html" title="Connect with attendees">Community</a></li>
+<li class="menu-1725"><a href="../visit-barcelona.html" title="Visit Barcelona">Barcelona</a></li>
+<li class="menu-2961 last"><a href="../sponsors.html" title="Sponsors">Sponsors</a></li>
+</ul>                      </nav><!-- /#site-menu -->
+              </div><!-- /#site-header -->
+      
+            <div id="header-regions" class="container-16 clearfix">
+                  <div id="header-first" class="grid-16">
+              <div id="block-block-5" class="block block-block">
+
+  <div class="content">
+    <ul id="header-menu">
+<li><a href="http://www.facebook.com/drupaldaysbcn"><img src="../sites/all/themes/dddbcn/img/fb-icon.png" width="24" height="24" /></a></li>
+<li><a href="http://www.twitter.com/drupaldaysbcn"><img src="../sites/all/themes/dddbcn/img/twitter-icon.png" width="24" height="24" /></a></li>
+<li><a href="../user/login.html">Login</a></li>
+
+</ul>  </div>
+</div>
+          </div><!-- /#header-first -->
+                      </div><!-- /#header-regions -->
+          </header>
+    
+        <div id="internal-nav" class="container-16 clearfix">
+      <div id="slogan-bcrumb" class="grid-10">
+                  <div id="bcrumb"><div class="breadcrumb"><a href="../index.html">Home</a> / Abstracting Social Networking functionality in Drupal</div></div><!-- /#bcrumb -->
+              </div>
+          </div><!-- /#internal-nav -->
+        
+        
+        <div class="container-16 clearfix">
+      <div class="grid-16">
+
+      </div>
+    </div><!-- /.container-xx -->
+        <div id="main-content-zone-wrapper" class="zone-wrapper">
+      <div id="main-content-container" class="container-16 clearfix">
+        <div id="main-wrapper" class="column grid-12">
+                                    
+                      <h1 class="title" id="page-title">Abstracting Social Networking functionality in Drupal</h1>
+                
+          <div id="main-content" class="region clearfix">
+            <article id="node-sprint-130" class="node sprint published promoted not-sticky full-view author-dahacouk odd clear-block">
+
+  
+      <footer class="submitted">Submitted by <a href="../users/dahacouk.html" title="View user profile.">dahacouk</a> on Mon, 2012-04-30 21:39</footer>
+    
+  <div class="content">
+    <div class="field field-type-userreference field-field-speakers">
+      <div class="field-label">Leader(s):&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="../users/klokie.html">Klokie Grossfeld</a>, <a href="../users/dahacouk.html">Daniel Harris</a>        </div>
+        </div>
+</div>
+<h2>Objectives</h2>
+<ul>
+<li>Provide a common interface to access common functions across multiple social networks. Making it easier for:
+<ul>
+<li>Developers to create and maintain social network integration modules.</li>
+<li>Site builders to utilise social network integration modules that harmoniously work together.</li>
+<li>Users to access social networks functionality.</li>
+</ul>
+</li>
+<li>Let's work on <a href="http://groups.drupal.org/node/232878">clarifying these objectives</a> over the next few weeks leading up to the Abstracting Social Networking functionality in Drupal sprint.</li>
+<li>There are numerous modules for Drupal social networking integration.
+<ul>
+<li>Connecting with other networks</li>
+<li>Pulling in content</li>
+<li>Pushing out content</li>
+<li>What else?</li>
+</ul>
+</li>
+</ul>
+<p>See the <a href="http://groups.drupal.org/files/abstracting-social-networking-functionality-in-drupal-stack-2.png">Abstracting Social Networking functionality in Drupal stack</a> diagram.<br />
+<img src="http://groups.drupal.org/files/abstracting-social-networking-functionality-in-drupal-stack-2.png" alt="Abstracting Social Networking functionality in Drupal stack" /></p>
+<h2>Sprint pages</h2>
+<ul>
+<li>We're using the wiki page <a href="http://groups.drupal.org/node/232878">Abstracting Social Networking functionality in Drupal wiki</a> to prepare for the sprint.</li>
+<li>And you can sign up in the <a href="http://groups.drupal.org/node/232888">Abstracting Social Networking functionality in Drupal event</a> page.</li>
+</ul>
+<h2>Sprint</h2>
+<p>The main sprint day will be Friday 15th June 2012 from 10:30 in the morning. We will also have access to dedicated sprint space on Saturday 16th and Sunday 17th if we wish to continue. Win a free ticket (see below for details).</p>
+<p><a href="http://groups.drupal.org/node/232888" class="button">Sign up for the sprint</a></p>
+<h2>Competition</h2>
+<ul>
+<li>The prize is one free ticket for Drupal Developer Days Barcelona 2012 worth 25.00 EUR. No cash alternative available.</li>
+<li>To enter the competition is simple: <a href="http://groups.drupal.org/node/232888">register for the sprint</a> and make sure you <strong>contribute to the <a href="http://groups.drupal.org/node/232878">Abstracting Social Networking functionality in Drupal wiki</a> page</strong>. Also, use the <em>Log message</em> when you edit the <a href="http://groups.drupal.org/node/232878">wiki</a> page.</li>
+<li>The prize will go to the person with the best (in the eyes of the judges) contribution to the <a href="http://groups.drupal.org/node/232878">wiki</a> page.</li>
+<li>There are no other prizes. Though we'll have some prizes to award during the sprint.</li>
+<li>The deadline for the competition is Thursday 7th June 2012 at 23:59 CEST.</li>
+<li>The judges are <a href="http://drupal.org/user/99862">Daniel Harris</a> and <a href="http://drupal.org/user/507094">Klokie Grossfeld</a> of <a href="http://groups.drupal.org/kendraio">Kendra Initiative</a></li>
+<li>We will announce the winner on Friday 8th June at 12:00 CEST.</li>
+<li>If you have already purchased a ticket then you can still enter this competition. If you win you can sell it or give it away (for those precious Drupal Karma points). Unfortunately, we can't directly refund your previously purchased ticket.</li>
+<li>And before you ask the answer is: no, we won't be pulling this cheap "free ticket" stunt for Munich DrupalCon 2012! ;-)</li>
+</ul>
+<h2>Code review</h2>
+<ul>
+<li>We should be able to abstract these into a social networking API
+<ul>
+<li>OAuth for authorisation</li>
+<li>Pluggable layer for
+<ul>
+<li>Notifications</li>
+<li>Pulling in and using content</li>
+<li>Posting to other networks</li>
+<li>What else?</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2>Future directions (need to add website links)</h2>
+<ul>
+<li>Federated social networking
+<ul>
+<li>WebID</li>
+<li>OStatus
+<ul>
+<li>PubSubHubbub</li>
+</ul>
+</li>
+<li>OpenSocial
+<ul>
+<li>Portable Contacts</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>What else?</li>
+</ul>
+<h2>Use Cases</h2>
+<ul>
+<li>What do we want to be able to do with social networks?
+<ul>
+<li>Downloading friends' lists</li>
+<li>Posting pages</li>
+<li>What else?</li>
+</ul>
+</li>
+</ul>
+<h2>Posted to</h2>
+<ul>
+<li><a href="http://groups.drupal.org/social-networking-sites" title="http://groups.drupal.org/social-networking-sites">http://groups.drupal.org/social-networking-sites</a></li>
+<li><a href="http://groups.drupal.org/federated-social-web" title="http://groups.drupal.org/federated-social-web">http://groups.drupal.org/federated-social-web</a></li>
+<li><a href="http://groups.drupal.org/facebook-api" title="http://groups.drupal.org/facebook-api">http://groups.drupal.org/facebook-api</a></li>
+<li><a href="http://groups.drupal.org/google-plus" title="http://groups.drupal.org/google-plus">http://groups.drupal.org/google-plus</a></li>
+<li><a href="http://groups.drupal.org/kendraio" title="http://groups.drupal.org/kendraio">http://groups.drupal.org/kendraio</a></li>
+<li><a href="http://drupal.org/node/1461190">Choice between fbconnect and fboauth</a></li>
+<li>Where else should we post?</li>
+</ul>
+<h2>Acknowledgement</h2>
+<p>The research – carried out by <a href="http://groups.drupal.org/kendraio">Kendra Initiative</a> – leading to these results has received funding from the European Union's Seventh Framework Programme (FP7/2007-2013) under <a href="http://cordis.europa.eu/projects/rcn/94515_en.html">grant agreement 248474</a> <a href="http://www.saracen-p2p.eu">Socially Aware, collaboRative, scAlable Coding mEdia distributioN (SARACEN)</a>.</p>
+<h2>Speaking experience</h2>
+<p><a href="http://drupal.org/user/99862">Daniel Harris</a> spoke at <a href="http://paris2009.drupalcon.org">DrupalCon Paris 2009</a> on <a href="http://paris2009.drupalcon.org/session/using-drupal-media-asset-content-management-semantic-syndication-promotion-and-commerce.html">Using Drupal for Media Asset / Content Management, Semantic Syndication / Promotion and Commerce</a> and has a <a href="https://www.kendra.io/events">long history of speaking at conferences</a> for <a href="https://www.kendra.io">Kendra Initiative</a>.</p>
+<fieldset class="fieldgroup group-audience"><legend>Audience</legend><div class="field field-type-text field-field-experience">
+      <div class="field-label">Experience level:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Intermediate        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-sprint-date">
+      <div class="field-label">Date:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-start">Fri, 2012-06-15 12:30</span><span class="date-display-separator"> - </span><span class="date-display-end">Sun, 2012-06-17 17:00</span>        </div>
+        </div>
+</div>
+</fieldset>
+  </div>
+      <nav class="node-links"><ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul></nav>
+  </article>          </div><!-- /#main-content -->
+          
+                    <div id="content-bottom">
+              <div id="block-block-9" class="block block-block">
+
+  <div class="content">
+    <!-- AddThis Button BEGIN --><!-- AddThis Button BEGIN --><div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f3f887d7ac2d209"></script><!-- AddThis Button END --><!-- AddThis Button END -->  </div>
+</div>
+          </div><!-- /#content-bottom -->
+                  </div><!-- /#main-wrapper -->
+      
+              
+                  <aside id="sidebar-last" class="column sidebar region grid-4">
+              <div id="block-views-Sponsors-block_5" class="block block-views">
+
+  <div class="content">
+    <div class="view view-Sponsors view-id-Sponsors view-display-id-block_5 gold-sponsor-sidebar-block view-dom-id-1">
+        <div class="view-header">
+      <h2>Gold sponsor</h2>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="http://omega8.cc/"><img src="../sites/default/files/imagecache/sponsor_logo_callout/omega.png" alt="" title=""  class="imagecache imagecache-sponsor_logo_callout imagecache-default imagecache-sponsor_logo_callout_default" width="150" height="32" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="../sponsors.html">View all</a></p>
+    </div>
+  
+  
+</div>   </div>
+</div>
+  <div id="block-views-sessions-block_2" class="block block-views">
+  <h2>Speakers</h2>
+
+  <div class="content">
+    <div class="view view-sessions view-id-sessions view-display-id-block_2 session-speakers view-dom-id-2">
+    
+  
+  
+      <div class="view-empty">
+      <p>No sessions have been submitted.</p>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  <div id="block-views-attendees-block_2" class="block block-views">
+
+  <div class="content">
+    <div class="view view-attendees view-id-attendees view-display-id-block_2 block-num-attendees view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <a href="../community.html"><span class="attendees-number">311</span><span class="attendees-name"> ATTENDEES</span></a>    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+          </aside><!-- /#sidebar-last -->
+              </div><!-- /#main-content-container -->
+    </div>
+        
+        <footer id="footer-zone-wrapper" class="zone-wrapper">
+      <div id="footer-wrapper" class="container-16 clearfix">
+                          <div id="footer-last" class="grid-16">
+              <div id="block-views-organization_sponsors-block_1" class="block block-views">
+
+  <div class="content">
+    <div class="view view-organization-sponsors view-id-organization_sponsors view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="http://www.citilab.eu" title="Citilab"><img src="../sites/default/files/imagecache/sponsor_organitzation/logoFooterCitilab.gif" alt="" title=""  class="imagecache imagecache-sponsor_organitzation imagecache-default imagecache-sponsor_organitzation_default" width="161" height="70" /></a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="http://drupal.cat/" title="Drupal.cat"><img src="../sites/default/files/imagecache/sponsor_organitzation/logoFooterDrupalcat.gif" alt="" title=""  class="imagecache imagecache-sponsor_organitzation imagecache-default imagecache-sponsor_organitzation_default" width="288" height="70" /></a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="http://asociaciondrupal.es/" title="Asociación española de Drupal"><img src="../sites/default/files/imagecache/sponsor_organitzation/logoFooterAed.gif" alt="" title=""  class="imagecache imagecache-sponsor_organitzation imagecache-default imagecache-sponsor_organitzation_default" width="149" height="70" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+                          <div id="footer-message">
+                Built on COD, the open source <a href="http://usecod.com">conference and event management solution.</a>              </div><!-- /#footer-message -->
+                      </div><!-- /#footer-last -->
+              </div><!-- /#footer-wrapper -->
+    </footer>
+      </div><!-- /#page -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-20091629-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>

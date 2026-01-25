@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2012.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Spain 2012 Madrid - Castellano</title>
+ <link>http://2012.drupalcamp.es/en/idioma/castellano</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Keynote Mozilla</title>
+ <link>http://2012.drupalcamp.es/en/node/168</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audiencia:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/clients&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Clients&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/designers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Designers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/marketing&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Marketing&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/themers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Themers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Ponentes:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/nukeador&quot;&gt;nukeador&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/willyaranda&quot;&gt;willyaranda&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Rubén Martin (@nukeador) y Guillermo López Leal (@willyaranda), miembros de Mozilla Hispano, la comunidad de Mozilla en español, darán una ponencia sobre &lt;strong&gt;El Futuro de la Web Como Plataforma&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Los contenidos a exponer serán los siguientes:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;La web es la Plataforma, el futuro de HTML5.&lt;/li&gt;
+&lt;li&gt;Identidad en la web.&lt;/li&gt;
+&lt;li&gt;Proyectos: Firefox para escritorio y Android, Firefox OS.&lt;/li&gt;
+&lt;li&gt;¿Quién es Mozilla?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/mozilla_hispano&quot; target=&quot;_blank&quot;&gt;@mozilla_hispano&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/en/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/en/nivel/principiante&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Principiante&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Thu, 11 Oct 2012 15:44:29 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">168 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/168#comments</comments>
+</item>
+<item>
+ <title>Drupal y node.js ¿Amigos o Enemigos? </title>
+ <link>http://2012.drupalcamp.es/en/node/103</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audiencia:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Ponentes:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/karlosgliberal&quot;&gt;karlosgliberal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Node.js es una de las tecnología de moda en estos últimos años. La posibilidad de trabajar con javascript (y sus particularidades) desde el lado del servidor han dado un vuelco a la creación de aplicaciones web.  &lt;/p&gt;
+&lt;p&gt;Node.js &lt;strong&gt;&quot;proporcionar una manera fácil para construir programas de red escalables&quot;&lt;/strong&gt;. Su potencia a la hora de gestionar conexiones concurrentes (de forma sencilla) hizo que saltara a la fama. Ahora el ecosistema de node es brutal y muchas sus posibilidades. &lt;/p&gt;
+&lt;p&gt;Por lo tanto esta sesión tiene tres propuestas:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+   Conocer como funciona node, su sistema de paquetes (npm), revisar alguno de sus proyectos mas importantes
+&lt;/li&gt;
+&lt;li&gt;
+  Ver en que medida node.js se puede integrar con Drupal
+&lt;/li&gt;
+&lt;li&gt;
+Debate: Drupal/node.js ¿Amigos o Enemigos?
+&lt;/li&gt;
+&lt;/ul&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/61949922&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/61949922&quot;&gt;Drupal node.js ¿Amigos o enemigos? / Karlos G. Liberal&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preseantación de la charla &lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;http://blog.elfilo.net/charla_nodejs/#/&quot;&gt;http://blog.elfilo.net/charla_nodejs/&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/karlosgliberal/charla_nodejs&quot;&gt;https://github.com/karlosgliberal/charla_nodejs&lt;/a&gt;&lt;br /&gt;
+Código ejemplo twitter y puredata &lt;a href=&quot;https://github.com/karlosgliberal/tweetosc&amp;gt;https://github.com/karlosgliberal/tweetosc &amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;#10;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;&quot;&gt;&lt;/a&gt;&lt;/p&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/en/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/en/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Mon, 10 Sep 2012 19:24:55 +0000</pubDate>
+ <dc:creator>karlosgliberal</dc:creator>
+ <guid isPermaLink="false">103 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/103#comments</comments>
+</item>
+<item>
+ <title>Symfony en Drupal 8. Los detalles..</title>
+ <link>http://2012.drupalcamp.es/en/node/101</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audiencia:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Ponentes:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/peterlozano&quot;&gt;peterlozano&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Como muchos sabréis, la próxima versión de Drupal va a sufrir grandes cambios en su arquitectura debido a la inclusión de varios componentes del framework Symfony.&lt;/p&gt;
+&lt;p&gt;En las últimas Drupalcon he estado involucrado en el grupo de trabajo que lleva a cabo esta iniciativa.&lt;/p&gt;
+&lt;p&gt;Este trabajo se engloba dentro de la iniciativa &lt;a href=&quot;http://groups.drupal.org/wscci&quot;&gt;WSCCI&lt;/a&gt;, para convertir la capa más interna de Drupal en un framework capaz de implementar todo tipo de web services.&lt;/p&gt;
+&lt;p&gt;Me gustaría explicar un poco:&lt;/p&gt;
+&lt;p&gt;* A qué se debe esta decisión de incluir partes de Symfony en Drupal.&lt;br /&gt;
+* Como va a afectar a los desarrolladores de webs o módulos.&lt;br /&gt;
+* Detalles sobre la integración de Symfony en Drupal Core.&lt;br /&gt;
+* Beneficios que aporta esta iniciativa.&lt;br /&gt;
+* Como obtener más información y como colaborar en la iniciativa WSCCI.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/53235702&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/53235702&quot;&gt;Symfony en Drupal 8 - Pedro Lozano&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/en/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/en/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Diapositivas  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/symfony-drupal-8.pdf&quot; type=&quot;application/pdf; length=959753&quot;&gt;symfony-drupal-8.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Mon, 10 Sep 2012 07:19:31 +0000</pubDate>
+ <dc:creator>peterlozano</dc:creator>
+ <guid isPermaLink="false">101 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/101#comments</comments>
+</item>
+<item>
+ <title>Sparql</title>
+ <link>http://2012.drupalcamp.es/en/node/100</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audiencia:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Ponentes:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/davidam&quot;&gt;davidam&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Sparql se trata de un lenguaje estandarizado para la consulta de grafos RDF, normalizado por el RDF Data Access Working Group (DAWG) del World Wide Web Consortium (W3C). Es una tecnología clave en el desarrollo de la Web Semántica.&lt;/p&gt;
+&lt;p&gt;En esta sesión se verán ejemplos prácticos de uso de sparql tanto en php en general, como en Drupal en particular.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/en/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/en/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Mon, 10 Sep 2012 01:20:03 +0000</pubDate>
+ <dc:creator>davidam</dc:creator>
+ <guid isPermaLink="false">100 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/100#comments</comments>
+</item>
+<item>
+ <title>Drupal: Cómo hacer fácil lo difícil</title>
+ <link>http://2012.drupalcamp.es/en/node/99</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audiencia:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/clients&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Clients&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/designers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Designers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Ponentes:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/brjapon&quot;&gt;brjapon&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Cuando nos enfrentamos a la &lt;strong&gt;construcción de un sitio web&lt;/strong&gt; usando un &lt;strong&gt;CMS &lt;/strong&gt;como &lt;strong&gt;Drupal &lt;/strong&gt;es fácil enredarse en el uso de la herramienta soslayando un trabajo previo de diseño de arquitectura y contenidos que, de cualquier forma, intentaremos hacer a medida que vamos construyendo el sitio en el servidor. Podemos encontrarnos, por ejemplo, con un conjunto instalado de bastantes módulos contribuidos que nuestra web no usa ni necesita. También puede darse el caso de aspectos concretos resueltos con varios módulos de forma poco elegante y compleja. Estos puntos contribuyen, junto con otros derivados de una insuficiente planificación, a crear un sitio web lento y poco eficiente.&lt;br /&gt;
+Drupal es &lt;strong&gt;muy potente&lt;/strong&gt; y &lt;strong&gt;flexible&lt;/strong&gt;, seguramente el CMS más completo del mercado. Pero estas mismas características son las que provocan grandes dolores de cabeza a los &lt;em&gt;Site Builders&lt;/em&gt;. A modo de dato, el &lt;strong&gt;total de módulos de Drupal&lt;/strong&gt; contabilizados &lt;strong&gt;a final de 2011&lt;/strong&gt; asciende a la escalofriante cifra de &lt;strong&gt;15.128&lt;/strong&gt;. ¿Cómo casar mis necesidades con el mínimo número de piezas de Drupal que mejor resuelven mi problemática concreta?&lt;br /&gt;
+Así, en cualquier proyecto de construcción de un sitio web, se hace necesario seguir una &lt;strong&gt;metodología sistemática de desarrollo&lt;/strong&gt;.&lt;br /&gt;
+Esta ponencia tiene el objetivo de proporcionar una &lt;strong&gt;aproximación SENCILLA y EFICAZ &lt;/strong&gt;para la construcción de un &lt;strong&gt;sitio web con Drupal&lt;/strong&gt;. Presentaremos un camino directo y limpio de casar los diferentes aspectos del desarrollo de un sitio con la arquitectura de la herramienta, incluyendo:&lt;/p&gt;
+&lt;ol&gt;&lt;li class=&quot;rteindent1&quot;&gt;
+		Requisitos/ &lt;strong&gt;especificaciones &lt;/strong&gt;del &lt;strong&gt;cliente &lt;/strong&gt;del sitio web a construir&lt;/li&gt;
+&lt;li class=&quot;rteindent1&quot;&gt;
+		&lt;strong&gt;Arquitectura &lt;/strong&gt;del sitio&lt;/li&gt;
+&lt;li class=&quot;rteindent1&quot;&gt;
+		Desarrollo de &lt;strong&gt;contenidos&lt;/strong&gt;&lt;/li&gt;
+&lt;li class=&quot;rteindent1&quot;&gt;
+		&lt;strong&gt;Diseño &lt;/strong&gt;gráfico&lt;/li&gt;
+&lt;li class=&quot;rteindent1&quot;&gt;
+		&lt;strong&gt;Implementación&lt;/strong&gt;&lt;/li&gt;
+&lt;li class=&quot;rteindent1&quot;&gt;
+		Mantenimiento y &lt;strong&gt;mejora continua&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Veremos cómo deben enlazarse estas tareas en el tiempo de forma planificada y cómo se traduce su realización en una &lt;em&gt;arquitectura bajo Drupal&lt;/em&gt; &lt;strong&gt;sencilla&lt;/strong&gt; y &lt;strong&gt;eficiente&lt;/strong&gt;.&lt;br /&gt;
+ &lt;br /&gt;
+ &lt;br /&gt;
+ &lt;br /&gt;
+ &lt;br /&gt;
+ &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/en/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/en/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Sun, 09 Sep 2012 20:26:22 +0000</pubDate>
+ <dc:creator>brjapon</dc:creator>
+ <guid isPermaLink="false">99 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/99#comments</comments>
+</item>
+<item>
+ <title>Software Libre para la creación de recursos culturales</title>
+ <link>http://2012.drupalcamp.es/en/node/98</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audiencia:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/designers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Designers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/marketing&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Marketing&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/themers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Themers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Ponentes:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/aracelicorbo&quot;&gt;AraceliCorbo&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;El uso de software libre para generar recursos culturales en centros de arte y museos, con un gran valor documental y promocional, se debe a muchos factores. Entre ellos, su independencia con respecto a las licencias, su bajo costo, la existencia real de una comunidad de desarrolladores que actualiza, depura y asiste en soporte a los usuarios, la especial dedicación y atención a la estética, el respeto por los estándares web, la accesibilidad y la usabilidad.&lt;/p&gt;
+&lt;p&gt;Desde el punto de vista de un profesional de la información y de la documentación, también es elegido el uso del software libre por su sencilla administración y porque no son necesarias grandes estructuras, ni especializados equipos técnicos.&lt;/p&gt;
+&lt;p&gt;Museos como Artium, Centro-Museo Vasco de Arte Contemporáneo, ubicado en Vitoria-Gasteiz y MUSAC, Museo de Arte Contemporáneo de Castilla y León, han generado numerosos recursos culturales apoyados en el uso de software libre y las redes sociales. En Artium nos encontramos con recursos on-line como el catálogo social de la Biblioteca; DokuArt, el archivo documental de dosieres de exposiciones, artistas y escritores; la Guía de Recursos on-line sobre Arte Contemporáneo, etc. Y en MUSAC, con ADACYL, Archivo Digital de Artistas de Castilla y León; catálogos on-line de las exposiciones; RADAR, Revista de Cultura y Pensamiento, etc. Además de, en ambos, del uso de herramientas Web 2.0. para la difusión de las actividades y producciones propias del museo y la comunicación con el usuario.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/en/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/en/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Thu, 06 Sep 2012 13:52:53 +0000</pubDate>
+ <dc:creator>AraceliCorbo</dc:creator>
+ <guid isPermaLink="false">98 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/98#comments</comments>
+</item>
+<item>
+ <title>¿Por qué es mi sitio tan lento? </title>
+ <link>http://2012.drupalcamp.es/en/node/94</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audiencia:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Ponentes:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/hernani&quot;&gt;hernani&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;O cómo diagnosticar lo que está errado con un sitio Drupal.&lt;/p&gt;
+&lt;p&gt;Drupal es una plataforma poderosa y flexible para crear aplicaciones web con funcionalidades avanzadas sin construir todo a partir de cero. Esta flexibilidad deducida del uso de una potente framework y del trabajo de una comunidad súper activa puede abstraer desarrolladores de comprender lo que está Drupal haciendo entre bastidores.&lt;/p&gt;
+&lt;p&gt;La mayoría de las ponencias de performance en Drupal se enfocan en aspectos como cambios de infraestructura, estrategias de caching o comparación de performance entre módulos o arquitecturas. Desafortunadamente cuando los problemas de performance ocurren, los equipos de desarrollo también siguen diversas estrategias para remplazar diferentes aspectos de su plataforma o revisar sitios específicos como slow queries antes de intentar comprender cuál es el verdadero problema.&lt;/p&gt;
+&lt;p&gt;Sin embargo, la mayoría de las veces se debería analizar lo que se está llevando a cabo con la aplicación y comprender por qué tarda tanto en realizarlo. Drupal es una plataforma utilizada por millones de páginas web en todo el mundo y su performance puede ser fácilmente comparada y analizada.&lt;/p&gt;
+&lt;p&gt;En Acquia hicimos decenas de evaluaciones de performance, y aunque la mayoría de las veces encontramos los mismos problemas, en ciertas ocasiones, encontramos situaciones que sólo podrían ser detectadas cuando medimos y analizamos lo que tiene que ejecutarse cada vez que una página es visualizada.&lt;/p&gt;
+&lt;p&gt;En ésta ponencia, se explicará cómo detectar problemas de performance en Drupal usando módulos simples como Devel, profilers como XhProf y revisando  informaciones de logs desde el servidor web al servidor de base de datos.&lt;/p&gt;
+&lt;p&gt;Desde el drupal_bootstrap() a la última llamada de theme() hablaremos de los bottlenecks comunes de Drupal, basándonos en un sitio web real. Para todos los problemas de esta plataforma encontraremos la brecha y valoraremos el cambio realizado por nuestra solución.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/54806887&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/54806887&quot;&gt;¿Por qué mi sitio es tan lento? - Hernáni Borges de Freitas&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Slides in:&lt;br /&gt;&lt;a href=&quot;http://www.slideshare.net/hernanibf/my-site-is-slow&quot;&gt;http://www.slideshare.net/hernanibf/my-site-is-slow&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/en/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/en/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Diapositivas  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/madrid2012.pdf&quot; type=&quot;application/pdf; length=8216132&quot;&gt;madrid2012.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 05 Sep 2012 16:56:09 +0000</pubDate>
+ <dc:creator>hernani</dc:creator>
+ <guid isPermaLink="false">94 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/94#comments</comments>
+</item>
+<item>
+ <title>Field Types API: Field, widgets y formatters</title>
+ <link>http://2012.drupalcamp.es/en/node/92</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audiencia:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Ponentes:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/mordonez&quot;&gt;mordonez&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Desarrollar tipos de campos (field types) en Drupal es sencillo una vez se conoce las bases. Crear tu propio field en ocasiones puede ser una mejora de usabilidad y/o rendimiento para tu proyecto. Si quieres aprender a crear tu propio field, conocer mejor Field Types API y ver un poco de código, esta es tu sesión.&lt;/p&gt;
+&lt;p&gt;Temas que seguramente se tratarán:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fields&lt;/li&gt;
+&lt;li&gt;Ventajas&lt;/li&gt;
+&lt;li&gt;Como crear tu propio field&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;&lt;li&gt;Widgets&lt;/li&gt;
+&lt;li&gt;formatters&lt;/li&gt;
+&lt;li&gt;validations&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ejemplos (custom y contrib)&lt;/li&gt;
+&lt;li&gt;Documentación&lt;/li&gt;
+&lt;li&gt;Drupal 8?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Será una sesión técnica y con código de ejemplo.&lt;/p&gt;
+&lt;p&gt;Cualquier sugerencia será bienvenida ;)&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/61432582&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/61432582&quot;&gt;Field types API: Field, widgets y formatters(con preguntas) _ Miguel Ordoñez&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/en/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/en/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Diapositivas  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/drupalcamp2012_fields.pdf&quot; type=&quot;application/pdf; length=2102578&quot;&gt;drupalcamp2012_fields.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 05 Sep 2012 15:15:14 +0000</pubDate>
+ <dc:creator>mordonez</dc:creator>
+ <guid isPermaLink="false">92 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/92#comments</comments>
+</item>
+<item>
+ <title>Git y Drupal</title>
+ <link>http://2012.drupalcamp.es/en/node/91</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audiencia:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/themers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Themers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Ponentes:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/juampy&quot;&gt;juampy&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;&lt;a href=&quot;http://git-scm.com/&quot; target=&quot;_blank&quot;&gt;Git&lt;/a&gt; es el sistema de control de versiones de todos los proyectos en &lt;a href=&quot;http://drupal.org/documentation/git&quot; target=&quot;_blank&quot;&gt;http://drupal.org&lt;/a&gt;. En esta charla se explicarán funcionalidades avanzadas de Git enfocadas a un proyecto Drupal tales como:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Gestión de &lt;a href=&quot;http://nvie.com/posts/a-successful-git-branching-model/&quot; target=&quot;_blank&quot;&gt;ramas&lt;/a&gt; locales y remotas.&lt;/li&gt;
+&lt;li&gt;Diferencias entre los comandos pull y rebase.&lt;/li&gt;
+&lt;li&gt;Variables de configuración (git config).&lt;/li&gt;
+&lt;li&gt;Configurar hooks &lt;a href=&quot;http://drupal.org/node/1763674&quot; target=&quot;_blank&quot;&gt;pre-commit&lt;/a&gt; y post-commit.&lt;/li&gt;
+&lt;li&gt;Resolución de conflictos.&lt;/li&gt;
+&lt;li&gt;Buscar y formatear el log (git log y git bisect).&lt;/li&gt;
+&lt;li&gt;Analizar diferencias entre ramas.&lt;/li&gt;
+&lt;li&gt;Modificar commits antes del push (git rebase -i).&lt;/li&gt;
+&lt;li&gt;Localizar cuándo se introdujo un bug (git blame).&lt;/li&gt;
+&lt;li&gt;Gestión de tags (git tag).&lt;/li&gt;
+&lt;li&gt;Guardar cambios temporalmente (git stash).&lt;/li&gt;
+&lt;li&gt;Ver el histórico de acciones (git reflog).&lt;/li&gt;
+&lt;li&gt;Submódulos (git submodule).&lt;/li&gt;
+&lt;li&gt;Crear y &lt;a href=&quot;http://drupal.org/patch/apply&quot; target=&quot;_blank&quot;&gt;aplicar&lt;/a&gt; un parche (git format-patch, git am y git apply).&lt;/li&gt;
+&lt;/ul&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/55596907&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/55596907&quot;&gt;Git y Drupal - Juan Pablo Novillo Requena&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/55596907&quot; target=&quot;_blank&quot;&gt;Ver vídeo&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.slideshare.net/juampy72/git-y-drupal&quot; target=&quot;_blank&quot;&gt;Ver diapositivas&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/en/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/en/nivel/medio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Medio&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Diapositivas  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/git_y_drupal.pdf&quot; type=&quot;application/pdf; length=874086&quot;&gt;git_y_drupal.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 05 Sep 2012 11:02:20 +0000</pubDate>
+ <dc:creator>juampy</dc:creator>
+ <guid isPermaLink="false">91 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/91#comments</comments>
+</item>
+<item>
+ <title>¡No todo va en el TPL!</title>
+ <link>http://2012.drupalcamp.es/en/node/89</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audiencia:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/audience/themers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Themers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Ponentes:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/vengador&quot;&gt;vengador&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/en/asistentes/e0ipso&quot;&gt;e0ipso&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Cuando nos metemos a tocar la capa de &lt;strong&gt;theme&lt;/strong&gt; en &lt;a href=&quot;http://drupal.org&quot;&gt;Drupal&lt;/a&gt; las primeras veces se suelen cometer una serie de &lt;strong&gt;errores&lt;/strong&gt; típicos.&lt;/p&gt;
+&lt;p&gt;El &lt;em&gt;propósito&lt;/em&gt; de la sesión es mostrar algunos de estos errores y hablar de &lt;strong&gt;buenas prácticas&lt;/strong&gt; que podemos seguir para hacernos la vida más fácil a nosotros mismos.&lt;/p&gt;
+&lt;p&gt;Entre otras cosas que te acabarán sonando:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Template (plantilla).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://drupal.org/project/ds&quot;&gt;Display Suite&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Tema base.&lt;/li&gt;
+&lt;li&gt;Función de (pre)procesado.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Para que puedas ver cómo funciona lo que te contaremos, haremos una &lt;em&gt;demostración&lt;/em&gt; práctica al final de la sesión.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/61949920&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/61949920&quot;&gt;¡No todo va en el TPL! / Moisés Rodríguez Carmona y Mateu Aguiló Bosch&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/en/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/en/nivel/principiante&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Principiante&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 05 Sep 2012 09:00:47 +0000</pubDate>
+ <dc:creator>e0ipso</dc:creator>
+ <guid isPermaLink="false">89 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/89#comments</comments>
+</item>
+</channel>
+</rss>

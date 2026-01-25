@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2012.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Spain 2012 Madrid - Avanzado</title>
+ <link>http://2012.drupalcamp.es/es/nivel/avanzado</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Symfony en Drupal 8. Los detalles..</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/symfony-en-drupal-8-los-detalles-101</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/peterlozano&quot;&gt;peterlozano&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Como muchos sabréis, la próxima versión de Drupal va a sufrir grandes cambios en su arquitectura debido a la inclusión de varios componentes del framework Symfony.&lt;/p&gt;
+&lt;p&gt;En las últimas Drupalcon he estado involucrado en el grupo de trabajo que lleva a cabo esta iniciativa.&lt;/p&gt;
+&lt;p&gt;Este trabajo se engloba dentro de la iniciativa &lt;a href=&quot;http://groups.drupal.org/wscci&quot;&gt;WSCCI&lt;/a&gt;, para convertir la capa más interna de Drupal en un framework capaz de implementar todo tipo de web services.&lt;/p&gt;
+&lt;p&gt;Me gustaría explicar un poco:&lt;/p&gt;
+&lt;p&gt;* A qué se debe esta decisión de incluir partes de Symfony en Drupal.&lt;br /&gt;
+* Como va a afectar a los desarrolladores de webs o módulos.&lt;br /&gt;
+* Detalles sobre la integración de Symfony en Drupal Core.&lt;br /&gt;
+* Beneficios que aporta esta iniciativa.&lt;br /&gt;
+* Como obtener más información y como colaborar en la iniciativa WSCCI.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/53235702&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/53235702&quot;&gt;Symfony en Drupal 8 - Pedro Lozano&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Slides  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/symfony-drupal-8.pdf&quot; type=&quot;application/pdf; length=959753&quot;&gt;symfony-drupal-8.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Mon, 10 Sep 2012 07:19:31 +0000</pubDate>
+ <dc:creator>peterlozano</dc:creator>
+ <guid isPermaLink="false">101 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/symfony-en-drupal-8-los-detalles-101#comments</comments>
+</item>
+<item>
+ <title>Drupal + Solr para mucho más que búsquedas</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/drupal-solr-para-mucho-mas-que-busquedas-81</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/clients&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Clients&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/davidgil&quot;&gt;david.gil&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;En esta sesión exploraremos las posibilidades que aporta una integración entre Drupal y Apache Solr. A través de esta combinación de herramientas no solo podremos construir una experiencia de búsqueda satisfactoria para nuestros portales sino que además podemos distribuir parte de la carga de procesamiento en nuestros portales de Mysql hacia Solr.&lt;/p&gt;
+&lt;p&gt;¿Quieres tomar el control del sistema de búsquedas e ir mas alla de las configuraciones por defecto?.&lt;br /&gt;
+¿Imaginas las posibilidades de añadir datos personalizados a Solr?&lt;br /&gt;
+¿Has oído hablar de NoSQL? Solr puede ayudarte.&lt;br /&gt;
+Tienes curiosidad en definir nuevas facetas, ordenaciones personalizadas, crea nuevos widgets para realizar filtrados y facetas…&lt;br /&gt;
+Será una sesión bastante técnica, con este programa:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introducción a Solr&lt;/strong&gt;&lt;br /&gt;
+	•	Instalemos un ecosistema Drupal + Solr para desarrollo&lt;br /&gt;
+	•	Introducción a los módulos necesarios y configuración básica de los mismos&lt;br /&gt;
+	•	Que es un campo de Solr y como podemos map ear campos de Drupal&lt;br /&gt;
+	•	Como podemos añadir datos a Solr&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sistemas de búsqueda facetados&lt;/strong&gt;&lt;br /&gt;
+	•	¿Que es un sistema de búsquedas facetado y como lo construimos con Solr y Drupal?&lt;br /&gt;
+	•	Extensión de facetapi para crear nuevas facetas. Hooks interesantes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Solr avanzado&lt;/strong&gt;&lt;br /&gt;
+	•	Ordenaciones personalizadas y otros hooks relevantes&lt;br /&gt;
+	•	Usando Solr para descargar a MySQL del procesamiento de listados. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;David Gil&lt;/strong&gt; es el responsable de desarrollo en &lt;a href=&quot;http://www.biko2.com&quot;&gt;Biko2&lt;/a&gt;, y responsable técnico de la arquitectura de grandes sitios construidos con Drupal y Solr como el nuevo portal del Museo Reina Sofia o la red social dontknow. Además es autor del capítulo &quot;Drupal + Solr&quot; en la serie de libros de Forcontu en su nivel avanzado.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Tue, 04 Sep 2012 09:57:13 +0000</pubDate>
+ <dc:creator>david.gil</dc:creator>
+ <guid isPermaLink="false">81 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/drupal-solr-para-mucho-mas-que-busquedas-81#comments</comments>
+</item>
+<item>
+ <title>Panels vs. Context: Estrategias de composición de páginas en Drupal 7</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/panels-vs-context-estrategias-de-composicion-de-paginas-en-drupal-7-80</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/designers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Designers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/themers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Themers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/luisortizramos&quot;&gt;luisortizramos&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;El sistema de bloques de Drupal es flexible, pero en muchos casos no lo suficiente.&lt;/p&gt;
+&lt;p&gt;Panels y Context son los módulos que abanderan las dos estrategias más conocidas para la composición de páginas con disposiciones complejas.&lt;/p&gt;
+&lt;p&gt;Analizaremos y compararemos ambos módulos y sus complementos más conocidos para poder, al desarrollar un proyecto, tomar una decisión razonada más allá de los gustos personales.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sobre mi:&lt;/strong&gt; Ingeniero Superior en Informática por la UPC, trabajo con Drupal desde 2008 para &lt;a href=&quot;http://ateneatech.com&quot;&gt;Atenea tech&lt;/a&gt;, empresa de la que soy co-fundador.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/61961073&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/61961073&quot;&gt;Panels Vs Context: Estrategias de composición de páginas en Drupal 7 / Luis Ortiz Ramos&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Slides  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/context_vs_panels.pdf&quot; type=&quot;application/pdf; length=2755685&quot;&gt;context_vs_panels.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Tue, 04 Sep 2012 09:33:38 +0000</pubDate>
+ <dc:creator>luisortizramos</dc:creator>
+ <guid isPermaLink="false">80 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/panels-vs-context-estrategias-de-composicion-de-paginas-en-drupal-7-80#comments</comments>
+</item>
+<item>
+ <title>Arquitectura de proyectos Drupal</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/arquitectura-de-proyectos-drupal-78</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/rvilar&quot;&gt;rvilar&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Drupal es una herramienta en la cuál es fácil entrar: nos ponemos unos días leyendo y documentándonos, vamos probando módulos, flipamos con su potencia, y fácilmente, construimos sitios de distintos tipos. Hasta ahí, el nivel inicial-medio de un &quot;experto&quot; en Drupal. Pero qué camino hay de ese punto hasta construir un sitio en el que hay que gestionar los módulos contribuidos y sus versiones instaladas (con sus parches, librerías y demás), los módulos desarrollados a medida, el tema (ya sea a medida, contribuido, o una mezcla de ambos) y toda la configuración hecha a medida de Drupal. Si a todo esto, le añadimos distintos entornos y la necesidad de uso de una herramienta de control de versiones, lo que nos encontramos es el día a día de una Drupal Shop profesional, y por tanto, llegamos a la frontera de pasar a ser unos &quot;expertos&quot; en Drupal.&lt;/p&gt;
+&lt;p&gt;Esta sesión se presenta cómo una segunda parte de &lt;a href=&quot;http://www.ymbra.com/es/blog/ramon/desarrollo-y-arquitectura-de-proyectos-con-features-drupal-day-2012&quot;&gt;la sesión propuesta en el pasado Drupal Day Valencia&lt;/a&gt; debido al éxito y al número de preguntas y ganas por saber más que expresó el público que asistió. Igual que la sesión del Drupal Day, no se pretende hacer una clase &quot;magistral&quot; de un tema, sino abrir la veda y exponer una forma de trabajar, y poder discutir si esta u otra es la forma &quot;correcta&quot; o mejor para encarar ciertos desarrollos.&lt;/p&gt;
+&lt;p&gt;Así, lo que se va a mostrar en esta sesión será:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Cómo arquitecturizar nuestros desarrollos para no morir en un futuro mantenimiento.&lt;/li&gt;
+&lt;li&gt;Exportables. Toda configuración hecha directamente en Drupal, debemos pasarla a código. Explicaré cómo hacerlo, con qué y sobretodo, cómo separar las funcionalidades en paquetes separados.&lt;/li&gt;
+&lt;li&gt;Git en nuestro día a día como desarrolladores. Mi idea no es explicar los comandos que nos da Git, sino que simplemente, explicar qué meter bajo control de versiones, qué no, y cómo hacerlo sin crear duplicados.&lt;/li&gt;
+&lt;li&gt;Un proyecto = un perfil de instalación. Qué nos ofrece esta herramienta y cómo podemos usarlo para gestionar nuestros desarrollos&lt;/li&gt;
+&lt;li&gt;Drush.make. Para qué y cómo usar drush.make en el desarrollo de un proyecto&lt;/li&gt;
+&lt;li&gt;Paso entre entornos. Cómo podemos pasar entre entornos de forma fácil y segura y sin perder mucho pelo por el camino.&lt;/li&gt;
+&lt;li&gt;Algunas notas e ideas para el desarrollo.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Y cómo podréis comprender, al salir de esta sesión no se será un experto en Drupal, sino que se mostraran la forma de trabajo, y las ideas que usamos en el día a día en nuestros desarrollos profesionales en Ymbra.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¿Qué no explicaré en esta sesión?&lt;/strong&gt;&lt;/p&gt;
+&lt;dl&gt;&lt;dt&gt;Features y Ctools&lt;/dt&gt;
+&lt;dd&gt;Mi idea no es explicar qué es un exportable y cómo funciona esta parte, sino que simplemente decir que existen y pasar directamente a consejos para su uso y para crear arquitecturas de proyectos basados en estos módulos. Si queréis una introducción a esto, podéis revisar la presentación que hice en &lt;a href=&quot;http://www.ymbra.com/es/blog/ramon/desarrollo-y-arquitectura-de-proyectos-con-features-drupal-day-2012&quot;&gt;el pasado Drupal Day de Valencia&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;Git&lt;/dt&gt;
+&lt;dd&gt;No se explicará qué es ni cómo funciona. La idea en esta sesión es exponer el uso que se le puede dar para gestionar un proyecto y cual puede/debe ser su configuración. Si alguien busca una introducción a Git, puede mirar &lt;a href=&quot;http://www.ymbra.com/es/blog/ramon/introduccion-git&quot;&gt;una sesión que se dio en Drupal.cat&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;Perfiles de instalación&lt;/dt&gt;
+&lt;dd&gt;No pretendo explicar qué es un perfil de instalación ni para qué sirve. En principio, la gente que venga debe saber qué son. En la sesión se expondrá qué beneficios nos reporta el hecho de trabajar con estos en el desarrollo de nuestros proyectos y cómo hacerlo.&lt;/dd&gt;
+&lt;dt&gt;Drush.make&lt;/dt&gt;
+&lt;dd&gt;Igual que con los perfiles de instalación, aquí no se explicará qué es Drush y Drush.make y cómo funcionan, sino que directamente se expondrá cómo lo usamos, qué nos aporta y cómo podemos enlazar todo esto con los perfiles, Git y el paso entre entornos.&lt;/dd&gt;
+&lt;/dl&gt;&lt;p&gt;Ven y verás de qué va todo esto!&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/54306049&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/54306049&quot;&gt;Arquitectura Proyectos Drupal R Vilar&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://drupal.org/user/293298&quot;&gt;Ramon Vilar (rvilar)&lt;/a&gt; es cofundador de &lt;a href=&quot;http://ymbra.com/&quot;&gt;Ymbra&lt;/a&gt; y lleva más de cuatro años de pleno en la atmósfera Drupal. De formación ingeniero informático y de vocación orador, se dedica a evangelizar en Drupal a su paso. Dedica parte de su tiempo en Ymbra a mejorar Drupal y los módulos que usa, pero sobretodo, se centra en la traducción catalana de la cual es administrador. &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Slides  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/arq-drupal-dcspain2012.pdf&quot; type=&quot;application/pdf; length=465010&quot;&gt;arq-drupal-dcspain2012.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Mon, 03 Sep 2012 15:34:41 +0000</pubDate>
+ <dc:creator>rvilar</dc:creator>
+ <guid isPermaLink="false">78 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/arquitectura-de-proyectos-drupal-78#comments</comments>
+</item>
+<item>
+ <title>Domesticar Drupal con Rules</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/domesticar-drupal-con-rules-57</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/sidddi&quot;&gt;sidddi&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Rules es uno de los conjuntos de módulos más utilizados en Drupal 7, estando presente en muchos desarrollos. Este módulo nos ayuda a evitar la cantidad de código personalizado, automatizando tareas en función de eventos ejecutados.&lt;/p&gt;
+&lt;p&gt;En esta sesión, presentaré el módulo para aquellos que todavía no lo conocen y posteriormente iremos hacia características avanzadas -como componentes, loops, etc.- así como algunos ejemplos que nos ayudaran a dar una imagen práctica de hasta dónde podemos llegar con Rules.&lt;/p&gt;
+&lt;p&gt;Por último, veremos otros módulos relacionados como Rules Links o Views Bulk Operations.&lt;/p&gt;
+&lt;p&gt;Sobre mi: Ingeniero Superior en Informática por la UPC, trabajo con Drupal desde 2008 para &lt;a href=&quot;http://ateneatech.com&quot;&gt;Atenea tech&lt;/a&gt;, empresa de la que soy co-fundador.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Tue, 07 Aug 2012 13:09:29 +0000</pubDate>
+ <dc:creator>sidddi</dc:creator>
+ <guid isPermaLink="false">57 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/domesticar-drupal-con-rules-57#comments</comments>
+</item>
+<item>
+ <title>Drupal e integración continua</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/drupal-e-integracion-continua-56</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/rafinskipg&quot;&gt;rafinskipg&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Charla sobre la integración continua en Drupal.&lt;br /&gt;
+Apoyándonos en los conocimientos adquiridos desarrollaremos una charla basada en los siguientes pilares:&lt;br /&gt;
+  Jenkins y la automatización de los tests.&lt;br /&gt;
+  Testado de features en el sistema de CI.&lt;br /&gt;
+  Detección de commits.&lt;br /&gt;
+  Ejemplo de lanzado de tests Simpletest desde Drush con Jenkins.&lt;br /&gt;
+  Uso de herramientas como phpcpd&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/63394224&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/63394224&quot;&gt;Drupal e integración continua - Rafael Pedrola Gimeno&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Documentación subida a : &lt;a href=&quot;http://www.monchacos.com/monchacos/ci&quot;&gt;http://www.monchacos.com/monchacos/ci&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Slides  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/drupalcamp_2012_drupal_e_integracion_continua.pdf&quot; type=&quot;application/pdf; length=617004&quot;&gt;drupalcamp_2012_drupal_e_integracion_continua.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Mon, 06 Aug 2012 13:02:34 +0000</pubDate>
+ <dc:creator>rafinskipg</dc:creator>
+ <guid isPermaLink="false">56 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/drupal-e-integracion-continua-56#comments</comments>
+</item>
+<item>
+ <title>Procedimientos, herramientas y estrategias para el desarrollo con drush, make y perfiles de instalación</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/procedimientos-herramientas-y-estrategias-para-el-desarrollo-con-drush-make-y-perfiles-de</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/proyect-managers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Project managers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/jonhattan&quot;&gt;jonhattan&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;En esta sesión se expondrán varios procedimientos para el desarrollo basado en drush, make y perfiles de instalación. Se tratarán a su vez distintas herramientas, utilidades y estrategias para las fases del proceso de desarrollo.&lt;/p&gt;
+&lt;p&gt;En la sesión se hará énfasis en la replicabilidad característica de las distribuciones, así como en la reutilización de componentes, más común en el desarrollo cotidiano de sitios web o aplicaciones a medida. En cualquier caso, las características del proyecto que tengamos entre manos son las que definirán en gran medida la idoneidad de los procedimientos, herramientas y estrategias a seguir.&lt;/p&gt;
+&lt;p&gt;Entre los procedimientos se verán varias alternativas que he identificado:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Procedimiento iterativo.&lt;br /&gt;
+Se parte de un makefile y profile base. Se construyen nuevas funcionalidades y se actualizan el profile y makefile iterativamente.&lt;/li&gt;
+&lt;li&gt;Procedimiento &lt;em&gt;lanzadera&lt;/em&gt;.&lt;br /&gt;
+Se usa un makefile y tal vez un profile para la puesta en marcha de una instalación base y se continúa un procedimiento &quot;clásico&quot;, en el que no se retorna al makefile o el profile.&lt;/li&gt;
+&lt;li&gt;Procedimiento &lt;em&gt;pragmático&lt;/em&gt;.&lt;br /&gt;
+Consiste en construir una aplicación o sitio web y posteriormente generar/elaborar makefile y profile.&lt;/li&gt;
+&lt;li&gt;Procedimientos que incluyen migración o importación de datos.&lt;/li&gt;
+&lt;li&gt;Procedimientos híbridos.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Entre las utilidades y herramientas veremos:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt; Configuración de entornos.&lt;br /&gt;
+Se estudiarán varios comandos y utilidades de drush para configurar y movernos entre entornos.&lt;/li&gt;
+&lt;li&gt;Construcción de makefiles.&lt;br /&gt;
+Haremos un repaso a la estructura de los ficheros .make incluyendo todas sus características avanzadas. Veremos varias opciones que nos permitirán adoptar diferentes estrategias, según el tipo de proyecto o el entorno en que se trabaje.&lt;/li&gt;
+&lt;li&gt;Construcción de perfiles de instalación.&lt;br /&gt;
+Explicación de las características de los perfiles de instalación. Se verán varias herramientas y trucos para agilizar el proceso de desarrollo.&lt;/li&gt;
+&lt;li&gt;Comandos para agilizar el desarrollo web.&lt;br /&gt;
+Programar y depurar drupal desde la línea de comandos.&lt;/li&gt;
+&lt;li&gt;Estrategias para la importación de contenidos.&lt;/li&gt;
+&lt;li&gt;Herramientas para la generación (semi)automática de makefiles y profiles.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Se trata de una sesión orientada al desarrollo basado en el uso línea de comandos y programación de componentes. El alcance viene delimitado por lo ya expuesto: drush, make y profiles. No se entrará en detalles sobre la exportación de configuraciones a código (features), estrategias de despliegue en producción o la sincronización de contenidos entre entornos.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/54244659&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/54244659&quot;&gt;Procedimientos, herramientas y estrategias para el desarrollo con drush, make y perfiles de instalación. Jonathan Araña Cruz&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Slides  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/drush_make_profiles.pdf&quot; type=&quot;application/pdf; length=204786&quot;&gt;drush_make_profiles.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Sun, 05 Aug 2012 09:45:49 +0000</pubDate>
+ <dc:creator>jonhattan</dc:creator>
+ <guid isPermaLink="false">53 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/procedimientos-herramientas-y-estrategias-para-el-desarrollo-con-drush-make-y-perfiles-de#comments</comments>
+</item>
+<item>
+ <title>Drupal Mobile</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/drupal-mobile-47</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audiencia/site-builder&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Site Builder&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/rteijeiro&quot;&gt;rteijeiro&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Esta sesión explicará paso a paso el procedimiento de desarrollo de una interfaz RESTful con Drupal y el módulo Services y su posterior integración en una aplicación móvil desarrollada en JQuery Mobile y PhoneGap.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/56481868&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/56481868&quot;&gt;Drupal Mobile -Rubén Teijeiro&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Slides  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/drupal-mobile.pdf&quot; type=&quot;application/pdf; length=1377617&quot;&gt;drupal-mobile.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Fri, 03 Aug 2012 09:26:32 +0000</pubDate>
+ <dc:creator>rteijeiro</dc:creator>
+ <guid isPermaLink="false">47 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/drupal-mobile-47#comments</comments>
+</item>
+<item>
+ <title>Automating Drupal Development with Patterns</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/automating-drupal-development-patterns-38</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/drozas&quot;&gt;drozas&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/liaohao&quot;&gt;liaohao&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Complex websites and web applications can be created by combining configurations of Modules, Content Types (CCK,) Views, Panels, Menus, Blocks, Categories, Roles / Permissions, etc.This site setup and configuration process is a very time consuming and repetitive bottleneck.&lt;br /&gt;
+Patterns module (&lt;a href=&quot;http://drupal.org/project/patterns&quot;&gt;http://drupal.org/project/patterns&lt;/a&gt;) is built to bypass this bottleneck by managing and automating site configuration that is stored in YAML, XML or PHP serialized arrays.&lt;br /&gt;
+The main goal of the session is providing an introduction to the use of patterns: from the use of the current components to reuse your configuration, to an explanation on how to make the settings of your contrib or custom modules automatically exportable.&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/61432578&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/61432578&quot;&gt;Automating Drupal Development with Patterns - David Rozas / Hao Liao&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/english&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;English&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Slides  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/zip&quot; src=&quot;/modules/file/icons/package-x-generic.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/patterns_drupalcamp_madrid.zip&quot; type=&quot;application/zip; length=4619480&quot;&gt;patterns_drupalcamp_madrid.zip&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Tue, 24 Jul 2012 08:10:56 +0000</pubDate>
+ <dc:creator>drozas</dc:creator>
+ <guid isPermaLink="false">38 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/automating-drupal-development-patterns-38#comments</comments>
+</item>
+<item>
+ <title>Depuración y profiling en Drupal: casos prácticos</title>
+ <link>http://2012.drupalcamp.es/es/sesiones/depuracion-y-profiling-en-drupal-casos-practicos-24</link>
+ <description>  &lt;span class=&quot;field-label&quot;&gt;
+    Audience:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-audience inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/developers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Developers&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/es/audience/devops&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Devops&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Presenters:
+  &lt;/span&gt;
+
+&lt;ul class=&quot;field-session-presenter inline&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/es/asistentes/trunks&quot;&gt;trunks&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Habitualmente, todas las sesiones que se presentan en congresos web relacionados con la comunidad PHP sobre depuración y profiling, y en concreto sobre las herramientas xdebug y xhprof no suelen ir más allá de las instrucciones de instalación y una presentación vaga de las interfaces de usuario y/o sus modelos de uso.&lt;/p&gt;
+&lt;p&gt;Con esta charla pretendemos olvidarnos de esos pasos previos, ofrecer a los desarrolladores un conjunto de casos prácticos en los que estas herramientas nos pueden ser no solo útiles, sino imprescindibles para poder depurar el problema en algunos casos incluso en menos de 5 minutos, cuando en otras condiciones o usando otro tipo de herramientas de depuración, podríamos desquiciarnos durante horas sin conseguir aproximar el problema.&lt;/p&gt;
+&lt;p&gt;El objetivo de la sesión es que todos los asistentes vean xhprof y xdebug como dos herramientas imprescindibles para el desarrollo web, y las tengan no solo instaladas de serie en sus plataformas de desarrollo, sino que sean parte de sus herramientas habituales de trabajo.&lt;/p&gt;
+&lt;p&gt;Happy hacking!&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/61516511&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/61516511&quot;&gt;Depuración y profiling en Drupal: casos prácticos - Javier Carranza Abadía&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/drupales&quot;&gt;Asociación Drupal&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Idioma:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-lang inline&quot;&gt;
+    &lt;a href=&quot;/es/idioma/castellano&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Castellano&lt;/a&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Nivel:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-session-level inline&quot;&gt;
+    &lt;a href=&quot;/es/nivel/avanzado&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;Avanzado&lt;/a&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Slides  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-slides&quot;&gt;
+    &lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2012.drupalcamp.es/sites/default/files/slides/drupalcamp_2012_0.pdf&quot; type=&quot;application/pdf; length=69400&quot;&gt;drupalcamp_2012.pdf&lt;/a&gt;&lt;/span&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Tue, 19 Jun 2012 07:32:58 +0000</pubDate>
+ <dc:creator>trunks</dc:creator>
+ <guid isPermaLink="false">24 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/sesiones/depuracion-y-profiling-en-drupal-casos-practicos-24#comments</comments>
+</item>
+</channel>
+</rss>

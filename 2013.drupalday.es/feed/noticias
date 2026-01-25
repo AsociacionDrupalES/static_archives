@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://2013.drupalday.es/" xmlns:dc="http://purl.org/dc/elements/1.1/" content="http://purl.org/rss/1.0/modules/content/" dc="http://purl.org/dc/terms/" foaf="http://xmlns.com/foaf/0.1/" og="http://ogp.me/ns#" rdfs="http://www.w3.org/2000/01/rdf-schema#" sioc="http://rdfs.org/sioc/ns#" sioct="http://rdfs.org/sioc/types#" skos="http://www.w3.org/2004/02/skos/core#" xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Noticias</title>
+    <link>http://2013.drupalday.es/</link>
+    <description></description>
+    <language>es</language>
+          <item>
+    <title>Nuevas imágenes de las camisetas del evento</title>
+    <link>http://2013.drupalday.es/camisetas_modelo</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Así de bien quedan las camisetas del Drupal Day Santander. Recordamos que se pueden adquirir durante todo el sábado en la recepción.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 18 Jul 2013 10:34:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">70 at http://2013.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Excursión a la Península de La Magdalena</title>
+    <link>http://2013.drupalday.es/node/67</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;El 21 de julio se realizará un paseo para los asistentes al Drupal Day. Los asistentes que se encuentren el domingo en Santander, podrán disfrutar de un paseo por la &lt;a href=&quot;http://es.wikipedia.org/wiki/Pen%C3%ADnsula_de_La_Magdalena&quot; target=&quot;_blank&quot;&gt;Península de la Magdalena&lt;/a&gt;, sin duda una de las visitas obligadas para cualquier visitante a Santander. &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 17 Jul 2013 15:31:51 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">67 at http://2013.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Camisetas del Evento</title>
+    <link>http://2013.drupalday.es/camisetas</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;style&gt;&lt;/style&gt;&lt;p&gt;Ya tenemos listas las camisetas oficiales del evento preparadas. Estarán a la venta durante todo el día.&lt;br /&gt;
+Precio especial: 15€.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 16 Jul 2013 14:47:20 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">64 at http://2013.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Sprint D8 durante el DrupalDay</title>
+    <link>http://2013.drupalday.es/node/58</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A parte de las sesiones y talleres de las que podremos disfrutar durante el sábado, también podremos participar en el sprint que se llevará a cabo durante todo el día. Si ya conoces algo de Drupal 8 o quieres introducirte en esta nueva versión la mejor manera de hacerlo es participar en el sprint: no solo aprenderás, si no que además contribuirás a hacer este CMS mejor.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 10 Jul 2013 11:34:12 +0000</pubDate>
+ <dc:creator>David Hernández</dc:creator>
+ <guid isPermaLink="false">58 at http://2013.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Visita al Supercomputador Altamira</title>
+    <link>http://2013.drupalday.es/node/56</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;El viernes se realizará una visita guiada al CPD del &lt;a href=&quot;http://www.ifca.unican.es/&quot; target=&quot;_blank&quot;&gt;Instituto de Física de Cantabria&lt;/a&gt;, en el que se podrá ver el supercomputador &lt;a href=&quot;http://es.wikipedia.org/wiki/Altamira_(supercomputador)&quot; target=&quot;_blank&quot;&gt;Altamira&lt;/a&gt; perteneciente a la &lt;a href=&quot;http://es.wikipedia.org/wiki/Red_Espa%C3%B1ola_de_Supercomputaci%C3%B3n&quot; target=&quot;_blank&quot;&gt;red española de supercomputación&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 02 Jul 2013 14:07:01 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">56 at http://2013.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Descuentos en los trenes</title>
+    <link>http://2013.drupalday.es/node/53</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Están disponibles para los asistentes descuentos para todos los tipos de trayectos de tren en los días cercanos al Drupal Day. Para disponer del cupón de descuento tan solo debes inscribirte y recibirás instrucciones en el email para usarlo.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 24 Jun 2013 14:11:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">53 at http://2013.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Acercándonos al Drupal Day 2013</title>
+    <link>http://2013.drupalday.es/node/51</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Nos vamos acercando al &lt;strong&gt;Drupal Day 2013&lt;/strong&gt;, que se celebrará en Santander el día &lt;strong&gt;20 de Julio&lt;/strong&gt;. Un evento diseñado para que los drupaleros disfruten de su pasión y compartan una jornada especial de aprendizaje y diversión.&lt;/p&gt;
+&lt;p&gt;La &lt;strong&gt;Facultad de Ciencias de la Universidad de Cantabria&lt;/strong&gt; acogerá este evento, con la ciudad de Santander en plena semana de fiestas como contexto. Poco a poco se irán añadiendo los contenidos, ideas y posibilidades que ofrecerá este nuevo Drupal Day; así que permaneced atentos a esta web.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 17 Jun 2013 16:56:25 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">51 at http://2013.drupalday.es</guid>
+  </item>
+  </channel>
+</rss>

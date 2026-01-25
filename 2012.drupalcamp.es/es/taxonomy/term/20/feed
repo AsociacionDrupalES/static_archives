@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2012.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Spain 2012 Madrid - concurso fotográfico</title>
+ <link>http://2012.drupalcamp.es/es/tags/concurso-fotografico</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Concurso fotográfico</title>
+ <link>http://2012.drupalcamp.es/es/concurso-fotografico-173</link>
+ <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Durante la celebración de la Drupal Camp Spain 2012, organizaremos un concurso fotográfico del evento. ¡Todos los asistentes están invitados a participar!&lt;/p&gt;
+&lt;p&gt;Participar es muy sencillo y solo tiene que cumplir las siguientes condiciones:&lt;/p&gt;
+&lt;p&gt;1.- Ser uno de los asistentes a la Drupal Camp 2012.&lt;br /&gt;
+2.- Realizar tu fotografía durante el evento. Las fotos válidas serán las enviadas desde la apertura de la Camp hasta la hora de comer del domingo.&lt;br /&gt;
+3.- La fotografía tiene que estar relacionada con el evento.&lt;br /&gt;
+4.- Twittear la foto con el hashtag #FotosDCSpain2012&lt;br /&gt;
+5.- Se pueden enviar tantas fotos como quieras.&lt;br /&gt;
+6.- La organización del evento se reserva el derecho a eliminar cualquier foto del concurso.&lt;br /&gt;
+7.- El autor de la foto conservará todos los derechos de la foto, solo pedimos que nos deje emplearla para promocionar los eventos y/o a la AED.&lt;/p&gt;
+&lt;p&gt;Aunque no necesario para participar, nos gustaría tener un sitio centralizado donde tener todas las fotos del evento. Así que, por favor, súbelas a nuestro &lt;a href=&quot;http://www.flickr.com/groups/2118152@N21/&quot;&gt;grupo de Flickr&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La elección del ganador se tomará durante la sesión de cierre de la Drupal Camp. ¡Habrá premio para el ganador!&lt;/p&gt;
+&lt;p&gt;¡Buena suerte a todos!&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Tags:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-tags inline&quot;&gt;
+    &lt;a href=&quot;/es/tags/concurso-fotografico&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;concurso fotográfico&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 17 Oct 2012 13:11:07 +0000</pubDate>
+ <dc:creator>David Hernández</dc:creator>
+ <guid isPermaLink="false">173 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/es/concurso-fotografico-173#comments</comments>
+</item>
+</channel>
+</rss>

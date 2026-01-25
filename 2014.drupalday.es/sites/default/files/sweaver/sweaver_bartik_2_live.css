@@ -1,0 +1,33 @@
+#name-and-slogan {
+  color: #2e2c2e;
+  font-size: 35px;
+}
+
+#name-and-slogan a {
+  color: #2b2a2b;
+}
+
+body {
+  font-family: Arial, Helvetica,Sans-Serif;
+}
+
+#main-menu {
+  font-size: 22px;
+}
+
+#block-block-1 {
+  width: 242px;
+}
+
+#block-block-1 .addthis_counter {
+  margin-top: 30px;
+}
+
+#secondary-menu a {
+  color: #2e2c2e;
+}
+
+#secondary-menu li a {
+  color: #2e2c2e;
+}
+

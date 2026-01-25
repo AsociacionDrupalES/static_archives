@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://2014.drupalday.es/eu/berriak" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Berriak</title>
+    <link>http://2014.drupalday.es/eu/berriak</link>
+    <description></description>
+    <language>eu</language>
+          <item>
+    <title>Proposatutako saioetarako izen ematea zabalik</title>
+    <link>http://2014.drupalday.es/eu/noticia/proposatutako-saioetarako-izen-ematea-zabalik</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Hizkuntza &lt;/label&gt;
+ Euskara
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/eu/noticia/proposatutako-saioetarako-izen-ematea-zabalik&quot;&gt;Proposatutako saioetarako izen ematea zabalik&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Edozeinek &lt;a href=&quot;/user/register?destination=node/add/sesion&quot;&gt;proposa ditzazke ekitaldirako hitzaldiak&lt;/a&gt;, gero batzorde batek egingo du aukeraketa.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Saioak proposatzeko berreste-data irailaren 21 igandea da&lt;/strong&gt; eta &lt;strong&gt;aukeratutako hitzaldiak urriaren 8an iragarriko dira&lt;/strong&gt;. Zure hitzaldiak hautatua izateko aukera gehiago izan ditzan, hemen dituzu kontuan izan beharko zenituzkeen aholku eta puntu batzuk.&lt;/p&gt;
+&lt;p&gt;Hitzaldiak iragartzen direnean, haietako bakoitzeko egutegia jarriko dugu.&lt;/p&gt;
+&lt;p&gt;Sar zaitez edo eman izena iruzkinak egiteko.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/eu/noticia/proposatutako-saioetarako-izen-ematea-zabalik&quot;&gt;Irakurri gehiago&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 10 Aug 2014 17:10:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">20 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Drupal Day 2014-ra hurbilduz</title>
+    <link>http://2014.drupalday.es/eu/noticia/drupal-day-2014-ra-hurbilduz</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/eu/noticia/drupal-day-2014-ra-hurbilduz&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;http://2014.drupalday.es/sites/default/files/styles/teaser_big/public/universidad_de_deusto.jpg?itok=Nktgy2xM 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;http://2014.drupalday.es/sites/default/files/styles/teaser/public/universidad_de_deusto.jpg?itok=SiyamnLz 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;http://2014.drupalday.es/sites/default/files/styles/teaser/public/universidad_de_deusto.jpg?itok=SiyamnLz 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;http://2014.drupalday.es/sites/default/files/styles/teaser/public/universidad_de_deusto.jpg?itok=SiyamnLz 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  srcset=&quot;http://2014.drupalday.es/sites/default/files/styles/teaser/public/universidad_de_deusto.jpg?itok=SiyamnLz 350w&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Hizkuntza &lt;/label&gt;
+ Euskara
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/eu/noticia/drupal-day-2014-ra-hurbilduz&quot;&gt;Drupal Day 2014-ra hurbilduz&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;&lt;strong&gt;Bilbon azaroaren 8an&lt;/strong&gt; ospatuko den &lt;strong&gt;Drupal Day 2014&lt;/strong&gt;-ra hurbiltzen ari gara.&lt;/p&gt;
+&lt;p&gt;Drupaleroek beren pasioaz goza dezaten, ikasteko eta dibertitzeko ekitaldi berezia diseinatu dugu.&lt;/p&gt;
+&lt;p&gt;Bilboko hiriarekin batera, &lt;strong&gt;Deusto-ko Unibertsitateko Ingeniaritza Fakultateak&lt;/strong&gt; ekitaldi hau jasoko du.&lt;/p&gt;
+&lt;p&gt;Pixkanaka edukiak, ideiak eta Drupal Day berri honek eskainiko dituen aukerak gehitzen joango gara, beraz adi egon web orri honi.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/eu/noticia/drupal-day-2014-ra-hurbilduz&quot;&gt;Irakurri gehiago&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 10 Aug 2014 17:01:34 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">19 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Drupal Day 2014, Ongi Etorri</title>
+    <link>http://2014.drupalday.es/eu/noticia/drupal-day-2014-ongi-etorri</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Hizkuntza &lt;/label&gt;
+ Euskara
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/eu/noticia/drupal-day-2014-ongi-etorri&quot;&gt;Drupal Day 2014, Ongi Etorri&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;&lt;strong&gt;Drupal Day&lt;/strong&gt;-en edizio berria aurkezten dugu, &lt;strong&gt;Bilbon&lt;/strong&gt; oraingo hau.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bilbon&lt;/strong&gt; ospatuko da &lt;strong&gt;Deustoko Unibertsitateko Ingeniaritzako Fakultatean azaroaren 8an&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Laster informazio gehiago izango dugu.&lt;/p&gt;
+&lt;p&gt;Ez izan zalantzarik gure &lt;strong&gt;buletinera harpidetzeko&lt;/strong&gt;, unean uneko jakinarazpenak nahi izan ezkero.&lt;/p&gt;
+&lt;p&gt;Zuen zain gaude!&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/eu/noticia/drupal-day-2014-ongi-etorri&quot;&gt;Irakurri gehiago&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 10 Aug 2014 16:07:16 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">18 at http://2014.drupalday.es</guid>
+  </item>
+  </channel>
+</rss>

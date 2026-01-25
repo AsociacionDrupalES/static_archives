@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://2015.drupalday.es/noticias" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Noticias</title>
+    <link>https://2015.drupalday.es/noticias</link>
+    <description></description>
+    <language>es</language>
+          <item>
+    <title>¡¡Sesiones confirmadas!!</title>
+    <link>https://2015.drupalday.es/noticia/sesiones-confirmadas</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/sesiones-confirmadas&quot;&gt;¡¡Sesiones confirmadas!!&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;¡Ya tenemos todas las sesiones del Drupal Day Murcia 2015 confirmadas!&lt;/p&gt;
+&lt;p&gt;Las sesiones se repartirán en &lt;strong&gt;dos tracks&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;El track principal: este track enfoca sus charlas principalmente a usarios más avanzados y en especial a &lt;strong&gt;Drupal 8&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;El track secundario: este track está enfocado a usuarios noveles y nuevos interesados en Drupal, constará de &lt;strong&gt;talleres y sesiones más básicas&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://2015.drupalday.es/sesiones&quot;&gt;Todas las sesiones aquí.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/sesiones-confirmadas&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 20 Nov 2015 20:16:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">100 at https://2015.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Abiertas las inscripciones para la Murcia LanParty 2015</title>
+    <link>https://2015.drupalday.es/noticia/abiertas-las-inscripciones-para-la-murcia-lanparty-2015</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/abiertas-las-inscripciones-para-la-murcia-lanparty-2015&quot;&gt;Abiertas las inscripciones para la Murcia LanParty 2015&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Qué mejor manera de completar la visita al Drupal Day qué formar parte de la Murcia Lan Party que se celebrará en el mismo sitio (Palacio de los Deportes de Murcia) desde el 4 al 8 de Diciembre.&lt;/p&gt;
+&lt;p&gt;Los precios de las inscripciones serán de 37 € hasta el domingo 15 de noviembre y de 43 € a partir de dicha fecha.&lt;/p&gt;
+&lt;p&gt;Para más información: &lt;a href=&quot;http://www.murcialanparty.com/&quot; target=&quot;_blank&quot;&gt;http://www.murcialanparty.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/abiertas-las-inscripciones-para-la-murcia-lanparty-2015&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 12 Nov 2015 18:31:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">93 at https://2015.drupalday.es</guid>
+  </item>
+  <item>
+    <title>¿Cómo van a ser las sesiones del Drupal Day 2015?</title>
+    <link>https://2015.drupalday.es/noticia/como-van-ser-las-sesiones-del-drupal-day-2015</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/como-van-ser-las-sesiones-del-drupal-day-2015&quot;&gt;¿Cómo van a ser las sesiones del Drupal Day 2015?&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Las sesiones en este &lt;strong&gt;DrupalDay&lt;/strong&gt; serán propuestas directamente a posibles ponentes según las temáticas que el &lt;strong&gt;grupo local de Murcia&lt;/strong&gt; y la &lt;strong&gt;Asociación Española de Drupal&lt;/strong&gt; acuerden.&lt;/p&gt;
+&lt;p&gt;Por otro lado, si estás interesado en dar una charla en el &lt;strong&gt;DrupalDay&lt;/strong&gt; no dudes en &lt;a href=&quot;/node/add/sesion&quot;&gt;proponerla desde aquí&lt;/a&gt;, ya que también estamos abiertos a escuchar cualquier propuesta, tienes más información &lt;a href=&quot;http://2015.drupalday.es/pagina/informacion-para-ponentes&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/como-van-ser-las-sesiones-del-drupal-day-2015&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Nov 2015 19:57:11 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">85 at https://2015.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Fiesta y ocio en Murcia</title>
+    <link>https://2015.drupalday.es/noticia/fiesta-y-ocio-en-murcia</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/fiesta-y-ocio-en-murcia&quot;&gt;Fiesta y ocio en Murcia&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Al DrupalDay 2015 de Murcia se viene a aprender y a disfrutar de la comunidad drupalera. Pero el fin de semana es muy largo así que, además de las charlas, hemos preparado una serie de actividades. Esperamos que, a través de ellas, podáis conocer mejor Murcia.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/fiesta-y-ocio-en-murcia&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 30 Oct 2015 14:05:10 +0000</pubDate>
+ <dc:creator>nesimo</dc:creator>
+ <guid isPermaLink="false">83 at https://2015.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Drupal Day 2015, ¡Bienvenidos a Murcia!</title>
+    <link>https://2015.drupalday.es/noticia/drupal-day-2015-bienvenidos-murcia</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/drupal-day-2015-bienvenidos-murcia&quot;&gt;Drupal Day 2015, ¡Bienvenidos a Murcia!&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Os presentamos la nueva edición de &lt;strong&gt;Drupal Day&lt;/strong&gt;, esta vez &lt;strong&gt;en Murcia&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Esta edición se celebrará el día &lt;strong&gt;5 de Diciembre de 2015&lt;/strong&gt; en el &lt;strong&gt;Palacio de los Deportes de Murcia&lt;/strong&gt; dentro del evento &lt;strong&gt;Murcia Lan Party&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Próximamente tendremos más información.&lt;/p&gt;
+&lt;p&gt;Podéis comunicaros con nosotros a través del hashtag &lt;a href=&quot;https://twitter.com/search?q=%23DdayMurcia2015&quot;&gt;#DdayMurcia2015&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;¡Os esperamos!&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/drupal-day-2015-bienvenidos-murcia&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 20 Oct 2015 18:52:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">75 at https://2015.drupalday.es</guid>
+  </item>
+  </channel>
+</rss>

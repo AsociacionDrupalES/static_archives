@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://2014.drupalday.es/noticias" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Noticias</title>
+    <link>http://2014.drupalday.es/noticias</link>
+    <description></description>
+    <language>es</language>
+          <item>
+    <title>Fiesta Drupal Day: viernes y sábado</title>
+    <link>http://2014.drupalday.es/noticia/fiesta-drupal-day-viernes-y-sabado</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/fiesta-drupal-day-viernes-y-sabado&quot;&gt;Fiesta Drupal Day: viernes y sábado&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Como suele ser tradicional en estos eventos, se realizan citas para poder encontrarnos todos y todas y poder charlar tranquilamente.&lt;/p&gt;
+&lt;p&gt;Es vez no va a ser menos, por lo tanto, aquí tenemos las citas.&lt;/p&gt;
+&lt;p&gt;El &lt;strong&gt;lugar&lt;/strong&gt; elegido para la &lt;strong&gt;fiesta&lt;/strong&gt; es un &lt;strong&gt;Iris Pub&lt;/strong&gt; llamado &lt;strong&gt;Mo&#039;r O&#039;rless&lt;/strong&gt;, que se encuentra en la &lt;strong&gt;calle Ledesma de Bilbao&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Viernes: 21:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sábado: 21:30&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Como llegar: &lt;/strong&gt;Metro Bilbao: Abando por la salida Berastegi&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/fiesta-drupal-day-viernes-y-sabado&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 06 Nov 2014 11:28:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">68 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Bilbao en 3 minutos</title>
+    <link>http://2014.drupalday.es/noticia/bilbao-en-3-minutos</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/bilbao-en-3-minutos&quot;&gt;Bilbao en 3 minutos&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;En estos vídeo se puede dar ver rápidamente Bilbao, pero lo mejor, es conocerlo por ti mismo!&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/bilbao-en-3-minutos&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 28 Oct 2014 16:03:01 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">66 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title> ¿Quieres ser voluntario en el DrupalDay 2014?</title>
+    <link>http://2014.drupalday.es/noticia/quieres-ser-voluntario-en-el-drupalday-2014</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/quieres-ser-voluntario-en-el-drupalday-2014&quot;&gt; ¿Quieres ser voluntario en el DrupalDay 2014?&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Quedan dos semanas para la celebración del DrupalDay y desde la organización estamos trabajando duro para que todo esté preparado para ese día.&lt;/p&gt;
+&lt;p&gt;Aún así &lt;strong&gt;el día del evento necesitaremos ayuda para que todo salga bien&lt;/strong&gt;, si estás interesado en participar como voluntario en el evento sólo tienes que &lt;strong&gt;enviarnos un mail a comunicacion[at]drupal[dot]es&lt;/strong&gt; y nos pondremos en contacto contigo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¿En que puedes ayudarnos? &lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/quieres-ser-voluntario-en-el-drupalday-2014&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 27 Oct 2014 21:31:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">65 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Ya tenemos ganadores de las entradas para la LibreCon 2014</title>
+    <link>http://2014.drupalday.es/noticia/ya-tenemos-ganadores-de-las-entradas-para-la-librecon-2014</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/ya-tenemos-ganadores-de-las-entradas-para-la-librecon-2014&quot;&gt;Ya tenemos ganadores de las entradas para la LibreCon 2014&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Tal y como anunciamos ayer se realizó el sorteo de las entradas para la LibreCon 2014 y &lt;strong&gt;los afortunados han sido: “David Gil” (@david_gil_biko2&lt;/strong&gt;&lt;strong&gt;) y “Juan Jose Jacobo (@jujaan&lt;/strong&gt;&lt;strong&gt;)”.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¡¡¡ Enhorabuena !!! &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Desarrollo del sorteo &lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Para realizar el sorteo se utilizó un script de bash creado por la organizacón, podeis ver el código del script en &lt;a href=&quot;https://gist.github.com/keopx/074e673ea225bb20e012&quot;&gt;https://gist.github.com/keopx/074e673ea225bb20e012&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/ya-tenemos-ganadores-de-las-entradas-para-la-librecon-2014&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 15 Oct 2014 07:22:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">64 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Sorteamos 2 entradas para la LibreCon</title>
+    <link>http://2014.drupalday.es/noticia/sorteamos-2-entradas-para-la-librecon</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/sorteamos-2-entradas-para-la-librecon&quot;&gt;Sorteamos 2 entradas para la LibreCon&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px&quot;&gt;Queda menos de un mes para la celebración del DrupalDay y desde la organización estamos preparando algunas sorpresas para todos los asistentes al evento.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/sorteamos-2-entradas-para-la-librecon&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 13 Oct 2014 13:10:00 +0000</pubDate>
+ <dc:creator>franxo</dc:creator>
+ <guid isPermaLink="false">63 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Sesiones aceptadas para el DrupalDay 2014</title>
+    <link>http://2014.drupalday.es/noticia/sesiones-aceptadas-para-el-drupalday-2014</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/sesiones-aceptadas-para-el-drupalday-2014&quot;&gt;Sesiones aceptadas para el DrupalDay 2014&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px&quot;&gt;Por fin llegó el día de presentaros las &lt;strong&gt;sesiones que se darán en el próximo DrupalDay 2014.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/sesiones-aceptadas-para-el-drupalday-2014&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 07 Oct 2014 20:38:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">61 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title> ¿Te acuerdas de las sesiones del Drupal Day 2013?</title>
+    <link>http://2014.drupalday.es/noticia/te-acuerdas-de-las-sesiones-del-drupal-day-2013</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/te-acuerdas-de-las-sesiones-del-drupal-day-2013&quot;&gt; ¿Te acuerdas de las sesiones del Drupal Day 2013?&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Ya queda menos para la presentación de las sesiones que se darán este año en el DrupalDay 2014 de Bilbao y seguimos haciendo memoria recordando las sesiones que se presentaron en el DrupalDay 2013 en Santander&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/te-acuerdas-de-las-sesiones-del-drupal-day-2013&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 28 Sep 2014 18:52:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">59 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title> ¿Te acuerdas de las sesiones del Drupal Day 2012?</title>
+    <link>http://2014.drupalday.es/noticia/te-acuerdas-de-las-sesiones-del-drupal-day-2012</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/te-acuerdas-de-las-sesiones-del-drupal-day-2012&quot;&gt; ¿Te acuerdas de las sesiones del Drupal Day 2012?&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Mientras dura la selección de sesiones para el DrupalDay 2014 de Bilbao, desde la organización te recomendamos que hagas memoria y disfrutes de los videos de las charlas elegidas para el DrupalDay de 2012 que se realizó en Valencia.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/te-acuerdas-de-las-sesiones-del-drupal-day-2012&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 28 Sep 2014 18:48:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">58 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Ampliamos el plazo de la inscripcion de sesiones propuestas hasta el 28 de septiembre</title>
+    <link>http://2014.drupalday.es/noticia/ampliamos-el-plazo-de-la-inscripcion-de-sesiones-propuestas-hasta-el-28-de-septiembre</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/ampliamos-el-plazo-de-la-inscripcion-de-sesiones-propuestas-hasta-el-28-de-septiembre&quot;&gt;Ampliamos el plazo de la inscripcion de sesiones propuestas hasta el 28 de septiembre&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Ampliamos la fecha límite para proponer sesiones, la nueva fecha limite será &lt;strong&gt;el domingo 28 de septiembre y las charlas elegidas se anunciarán el día 8 de octubre&lt;/strong&gt;. Para que tu charla tenga más posibilidades de ser elegida, &lt;a href=&quot;/pagina/informacion-para-ponentes&quot;&gt;aquí hay algunos consejos y puntos que deberías tener en cuenta&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cualquier persona puede &lt;a href=&quot;/user/register?destination=node/add/sesion&quot;&gt;proponer charlas para el evento&lt;/a&gt;, después estas serán elegidas por un comité.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/ampliamos-el-plazo-de-la-inscripcion-de-sesiones-propuestas-hasta-el-28-de-septiembre&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 16 Sep 2014 16:58:28 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">34 at http://2014.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Abierta la inscripcion de sesiones propuestas</title>
+    <link>http://2014.drupalday.es/noticia/abierta-la-inscripcion-de-sesiones-propuestas</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/abierta-la-inscripcion-de-sesiones-propuestas&quot;&gt;Abierta la inscripcion de sesiones propuestas&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Ya esta disponible para que cualquier persona pueda &lt;a href=&quot;/user/register?destination=node/add/sesion&quot;&gt;proponer charlas para el evento&lt;/a&gt;, después estas serán elegidas por un comité.&lt;/p&gt;
+&lt;p&gt;La fecha límite para proponer sesiones es hasta &lt;strong&gt;el domingo &lt;s&gt;21 de septiembre&lt;/s&gt; 28 de septiembre y las charlas elegidas se anunciarán el día 8 de octubre&lt;/strong&gt;. Para que tu charla tenga más posibilidades de ser elegida, &lt;a href=&quot;/pagina/informacion-para-ponentes&quot;&gt;aquí hay algunos consejos y puntos que deberías tener en cuenta&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/abierta-la-inscripcion-de-sesiones-propuestas&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 01 Aug 2014 11:37:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">16 at http://2014.drupalday.es</guid>
+  </item>
+  </channel>
+</rss>

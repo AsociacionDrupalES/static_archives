@@ -1,0 +1,12 @@
+.node-type-fspeaker .view-mode-full{
+	width: 100%;
+	overflow: hidden;
+}
+.node-type-fspeaker .field.field-name-field-fspeaker-picture{
+	float: left;
+	width: 33%
+}
+.node-type-fspeaker .field.field-name-field-fspeaker-bio{
+	float: right;
+	width: 66%
+}

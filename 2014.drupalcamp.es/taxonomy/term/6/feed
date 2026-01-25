@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2014.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Spain 2014 - Development &amp; Performance</title>
+ <link>http://2014.drupalcamp.es/session-tracks/development-performance</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Caso de éxito: Drupal, Commerce y otros amigos en una gran ONG</title>
+ <link>http://2014.drupalcamp.es/caso-de-%C3%A9xito-drupal-commerce-y-otros-amigos-en-una-gran-ong</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;En esta charla queremos compartir nuestra experienca desarrollando un ecosistema de webs con Drupal para una gran ONG española centrándonos en su tienda y en su web principal.&lt;/p&gt;
+
+&lt;p&gt;La tienda en cuestión tenía unos requerimientos de productos muy complejos: productos físicos con envío, productos que permitían enviar una tarjeta digital, productos que permitían enviar una tarjeta física, personalización de las tarjetas tanto físicas como digitales y otros requerimientos avanzados como flujos de navegación de muchos pasos y variaciones (debido a la mencionada complejidad de los productos). Además, dicha tienda debería ser multilenguaje, estar integrada a nivel de usuarios con la web principal de la ONG (siendo versiones mayores diferentes de Drupal), así como con otros sistemas externos como Oracle y edición de nodos mediante un sistema de personalización realizado en HTML 5 y Flash.&lt;/p&gt;
+
+&lt;p&gt;La web principal y un conjunto de microsites que formaban el ecosistema presentaban retos parecidos: integración con una base de datos externa Oracle, recepción y procesado de SMS premium, centralización de usuarios en la web principal, fuerte componente de diseño en los microsites y sobre todo un importante requerimiento en cuanto a escalabilidad dado que algunos de los sitios fueron promocionados en programas de radio y televisión produciéndose verdaderos aluviones de visitas en momentos puntuales.&lt;/p&gt;
+
+&lt;p&gt;Por último, fue necesario establecer entornos de desarrollo y staging para cada una de las webs en desarrollo, lo que implicó usar una infraestructura de sistemas para la gestión de los despliegues, recargas de base de datos desde producción a entornos de desarrollo, etc&lt;/p&gt;
+
+&lt;p&gt;Se comentarán como se solucionaron todos estos problemas con las herramientas y módulos que ofrece Drupal, la infraestructura de servidores usadas, herramientas de despliegue, y detallaremos con números algunas de las capacidades de las webs desarrolladas para mostrar que Drupal es perfectamente capaz de abordar un proyecto de gran complejidad y gran número de visitas exitosamente.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://asociaciondrupal.es/es/content/caso-de-exito-drupal-commerce-y-otros-amigos-en-una-gran-ong&quot;&gt;Puedes ver el vídeo de esta charla aquí&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;sanzante&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;trigop&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;jtutor@metadrop.net&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/session-tracks/development-performance&quot;&gt;Development &amp;amp; Performance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;7&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Clients&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Devops&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Case Studies&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Business&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Apr 2014 09:32:51 +0000</pubDate>
+ <dc:creator>sanzante</dc:creator>
+ <guid isPermaLink="false">228 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/caso-de-%C3%A9xito-drupal-commerce-y-otros-amigos-en-una-gran-ong#comments</comments>
+</item>
+<item>
+ <title>Rendimiento: Persiguiendo al conejo blanco</title>
+ <link>http://2014.drupalcamp.es/rendimiento-persiguiendo-al-conejo-blanco</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;El rendimiento es sexy y muchas veces aparece rodeado de una especie de halo místico como si se tratase de magia negra... En esta sesión expondré las técnicas más comunes para localizar problemas de rendimiento (y de algún otro tipo), poniendo en duda algunos mitos, como el de que Drupal no escala, y compartiendo experiencias reales.&lt;/p&gt;
+
+&lt;p&gt;No esperes la manida receta Varnish+Memcached, porque aunque hoy en día sigue siendo el &quot;Workhorse&quot;, y la comentaremos, no trataremos de resolver el problema del rendimiento en general sino de como localizar y solucionar tus problemas de rendimiento.&lt;/p&gt;
+
+&lt;p&gt;Tampoco esperes soluciones mágicas NoSQL, a no ser que las traiga algún asistente (patches welcome!)... pero tranquilo, es más que posible que no las necesites.&lt;/p&gt;
+
+&lt;p&gt;Y sobre todo no esperes soluciones &quot;cloud&quot;, la nube tiene un papel (sobre todo en la escalabilidad y ante bruscas variaciones de demanda)... pero aún le queda mucha vida a la &quot;Edad del hierro&quot;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Público objetivo:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Perfiles de desarrollo backend y sistemas, aunque puede ser de utilidad también para jefes de proyecto.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sobre mi:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mi nombre es Pedro González (&lt;a href=&quot;https://drupal.org/user/39078&quot;&gt;NITEMAN en drupal.org&lt;/a&gt;). Trabajo como consultor, de rendimiento y sistemas principalmente, para&amp;nbsp;&lt;a href=&quot;http://sbitmedia.com/&quot;&gt;SB IT Media SL&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cuento con casi 8 años y medio de experiencia con Drupal, casi toda&amp;nbsp;en webs con millones de impresiones mensuales, y llevo un par de años atrapado por la cultura DevOps.&lt;/p&gt;
+
+&lt;p&gt;En 2012 co-organice la&amp;nbsp;&lt;a href=&quot;http://2012.drupalcamp.es/&quot;&gt;Drupalcamp Spain de Madrid&lt;/a&gt;&amp;nbsp;y, desde entonces, soy miembro de la junta de la&amp;nbsp;&lt;a href=&quot;http://asociaciondrupal.es/&quot;&gt;AED&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong style=&quot;font-size: 13px;&quot;&gt;Diapositivas:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;356&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;http://www.slideshare.net/slideshow/embed_code/34953959&quot; style=&quot;border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;&quot; width=&quot;427&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://www.slideshare.net/niteman_es/rendimiento-persiguiendo-al-conejo-blanco&quot; target=&quot;_blank&quot; title=&quot;Rendimiento: Persiguiendo al conejo blanco&quot;&gt;Rendimiento: Persiguiendo al conejo blanco&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/niteman_es&quot; target=&quot;_blank&quot;&gt;Pedro González Serrano&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;p&gt;Presentación en &lt;a href=&quot;http://www.slideshare.net/niteman_es/rendimiento-persiguiendo-al-conejo-blanco&quot;&gt;SlideShare&lt;/a&gt;, &lt;a href=&quot;https://speakerdeck.com/niteman/rendimiento-persiguiendo-al-conejo-blanco&quot;&gt;SpeakersDeck&lt;/a&gt; y &lt;a href=&quot;http://2014.drupalcamp.es/sites/default/files/slides/Persiguiendo%20al%20conejo%20blanco.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://asociaciondrupal.es/es/content/rendimiento-persiguiendo-al-conejo-blanco&quot;&gt;Puedes ver el vídeo de esta charla aquí&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-slides field--type-file field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2014.drupalcamp.es/sites/default/files/slides/Persiguiendo%20al%20conejo%20blanco.pdf&quot; type=&quot;application/pdf; length=3017679&quot;&gt;Persiguiendo al conejo blanco.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;NITEMAN&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/session-tracks/development-performance&quot;&gt;Development &amp;amp; Performance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Devops&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Project Managers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Apr 2014 21:59:36 +0000</pubDate>
+ <dc:creator>NITEMAN</dc:creator>
+ <guid isPermaLink="false">226 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/rendimiento-persiguiendo-al-conejo-blanco#comments</comments>
+</item>
+<item>
+ <title>Construcción de portales dinámicos: Listados configurables por usuario</title>
+ <link>http://2014.drupalcamp.es/construcci%C3%B3n-de-portales-din%C3%A1micos-listados-configurables-por-usuario</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Creación de listados dinámicos (vistas) configurables por el usuario de forma sencilla, de forma que los editores de un site con conocimientos minímos puedan crear sus propias listas de unos determinados tipos de contenidos, simplemente creando nuevas paginas. Nos va a permitir:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Ordenación parametrizable&lt;/li&gt;
+	&lt;li&gt;Filtros&amp;nbsp;configurables&amp;nbsp;por el usuario en distintos campos&lt;/li&gt;
+	&lt;li&gt;Multiples URLs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nos basamos en módulos altamente probados:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Bloques&lt;/li&gt;
+	&lt;li&gt;Vistas&lt;/li&gt;
+	&lt;li&gt;Context&lt;/li&gt;
+	&lt;li&gt;Display Suite&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Se aportan ejemplos de casos de uso reales en proyectos de Indra.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://asociaciondrupal.es/es/content/construccion-de-portales-dinamicos-listados-configurables-por-usuario&quot;&gt;Puedes ver el vídeo de esta charla aquí&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;carlos.carrascal&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/session-tracks/development-performance&quot;&gt;Development &amp;amp; Performance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;7&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Project Managers&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Site Builders&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Apr 2014 14:32:58 +0000</pubDate>
+ <dc:creator>carlos.carrascal</dc:creator>
+ <guid isPermaLink="false">223 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/construcci%C3%B3n-de-portales-din%C3%A1micos-listados-configurables-por-usuario#comments</comments>
+</item>
+<item>
+ <title>Migrate in core</title>
+ <link>http://2014.drupalcamp.es/migrate-core</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;h4&gt;The session&lt;/h4&gt;
+
+&lt;p&gt;The Migrate contrib project is great, many have used it before and it has brought some huge sites over to the Drupal side :)&lt;/p&gt;
+
+&lt;p&gt;There was a lot of talk about replacing the upgrade path with it during the years but the project only kicked off at DrupalCon Prague at 2013 September. Since then a team has formed, migrate has been rewritten with the new Drupal 8 APIs.&amp;nbsp;It&#039;s more extensible than ever and yet it kept all the battle tested edge case handling. &lt;/p&gt;
+
+&lt;p&gt;This talk will introduce the audience to this initiative and&amp;nbsp;show you how to&amp;nbsp;write a migration in Drupal 8.&lt;/p&gt;
+
+&lt;h4&gt;The speaker&lt;/h4&gt;
+
+&lt;a href=&quot;http://penyaskito.com&quot;&gt;Christian López&lt;/a&gt; (&lt;a href=&quot;http://drupal.org/user/959536&quot;&gt;penyaskito&lt;/a&gt;) is an active member of the Drupal community and works for Cocomore AG, a &lt;a href=&quot;http://drupal.cocomore.com&quot;&gt;Drupal agency based in Frankfurt and Sevilla&lt;/a&gt;.
+
+
+
+
+Among other contributions, he is part of&amp;nbsp;the &lt;a href=&quot;http://drupal8multilingual.com&quot;&gt;Drupal 8 Multilingual Initiative&lt;/a&gt; team&amp;nbsp;and the &lt;a href=&quot;http://groups.drupal.org/imp&quot;&gt;Migrate in Core Initiative team&lt;/a&gt;.
+
+&amp;nbsp;
+
+
+&lt;p&gt;&lt;a href=&quot;http://asociaciondrupal.es/es/content/migrate-core&quot;&gt;You can watch the video of this talk here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;penyaskito&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/session-tracks/development-performance&quot;&gt;Development &amp;amp; Performance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;English&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;8&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Project Managers&lt;/div&gt;&lt;div class=&quot;field__item even&quot;&gt;Site Builders&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Apr 2014 10:50:46 +0000</pubDate>
+ <dc:creator>penyaskito</dc:creator>
+ <guid isPermaLink="false">221 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/migrate-core#comments</comments>
+</item>
+<item>
+ <title>Taller Autoscaling de Drupal en AWS</title>
+ <link>http://2014.drupalcamp.es/taller-autoscaling-de-drupal-en-aws</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;La idea es realizar una demo en directo sobre Amazon Web Services de autoescalado web bajo demanda.&lt;/p&gt;
+
+&lt;p&gt;Inicialmente se explicarán de manera resumida conceptos básicos de autoscaling en AWS y luego partiendo de una arquitectura básica ya creada se generará carga de manera que se pueda comprobar en tiempo real como la plataforma crece y decrece según las necesidades de cada momento.&lt;/p&gt;
+
+&lt;p&gt;Dada la complejidad práctica lo ideal sería disponer de al menos una hora y media para la realización del taller de una manera totalmente provechosa aunque a lo mejor se podría realizar una versión reducida en 1 hora obviando bastante de la parte explicativa y reduciendo los ejemplos..&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://asociaciondrupal.es/es/content/taller-autoscaling-de-drupal-en-aws&quot;&gt;Puedes ver el vídeo de esta charla aquí&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;txetxuvel&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/session-tracks/development-performance&quot;&gt;Development &amp;amp; Performance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Devops&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Apr 2014 09:53:18 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">219 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/taller-autoscaling-de-drupal-en-aws#comments</comments>
+</item>
+<item>
+ <title>Descentralizando entornos LAMP</title>
+ <link>http://2014.drupalcamp.es/descentralizando-entornos-lamp</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Históricamente los entornos LAMP sobre los que se configuran aplicaciones como Drupal han estado basados inicialmente en servidores monolíticos que incluían servidor web, servidor de aplicaciones y servidor de base de datos funcionando como una pieza prácticamente única y siendo el único paso de escalado posible el separar las bases de datos del servidor web/aplicación.&lt;/p&gt;
+
+&lt;p&gt;En la charla se pretende enfocar la arquitectura desde el punto de vista de descentralización mediante el uso de sistemas de almacenamientos, CDNs, cachés, escalabilidad horizontal, colas y workers, gestores de búsqueda, etc. ya sean propios o mediante servicios cloud.&lt;/p&gt;
+
+&lt;p&gt;Así mismo se hará haciendo hincapié en la realidad del coste del tiempo real que limita en gran medida la escalabilidad de las arquitecturas y su nula necesidad en muchos casos.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Unprocessed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;txetxuvel&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/session-tracks/development-performance&quot;&gt;Development &amp;amp; Performance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;Devops&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Apr 2014 09:51:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">218 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/descentralizando-entornos-lamp#comments</comments>
+</item>
+<item>
+ <title>Usando annotaciones en proyectos Symfony2</title>
+ <link>http://2014.drupalcamp.es/usando-annotaciones-en-proyectos-symfony2</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Hay un gran debate entre si las annotations en un proyecto son buenas o malas.&lt;/p&gt;
+
+&lt;p&gt;Lejos de entrar en un debate completamente subjetivo, ya que es algo que depende mucho del contexto, veremos el set de annotations mas relevantes del framework.&lt;/p&gt;
+
+&lt;p&gt;Para que sirven, como funcionan, como crear Annotations propias y como estas afectan a tu proyecto. También veremos como, a pesar de que algunos lo asocian como una penalización de rendimiento, no es así, para nada.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Unprocessed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;mmoreram&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/session-tracks/development-performance&quot;&gt;Development &amp;amp; Performance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 20 Apr 2014 15:39:35 +0000</pubDate>
+ <dc:creator>mmoreram</dc:creator>
+ <guid isPermaLink="false">213 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/usando-annotaciones-en-proyectos-symfony2#comments</comments>
+</item>
+<item>
+ <title>Trabajar con Colas en Symfony2</title>
+ <link>http://2014.drupalcamp.es/trabajar-con-colas-en-symfony2</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Como trabajar con colas en Symfony2?&lt;br /&gt;
+Normalmente la gente no suele utilizar las colas, entre muchas cosas, porque ignora lo que son y/o les parece demasiado complicado instalar y mantener algún entorno preparado para ello.&lt;/p&gt;
+
+&lt;p&gt;Es por esto, que vamos a ver soluciones fáciles y rápidas para trabajar con colas y así poder mejorar el tiempo de respuesta de algunas páginas ( por ejemplo mandar mails, actualizar índices de solr o elasticsearch, hacer operaciones muy pesadas asíncronamente... )&lt;/p&gt;
+
+&lt;p&gt;Para esto trabajaremos con dos bundles como ejemplos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/mmoreram/GearmanBundle&quot;&gt;https://github.com/mmoreram/GearmanBundle&lt;/a&gt;&amp;nbsp;- Un bundle para trabajar con entorno Gearman&lt;br /&gt;
+&lt;a href=&quot;https://github.com/mmoreram/RSQueueBundle&quot;&gt;https://github.com/mmoreram/RSQueueBundle&lt;/a&gt;&amp;nbsp;- Un bundle para trabajar con colas utilizando Redis ( patrones producer/consumer y publisher/subscriber )&lt;/p&gt;
+
+&lt;p&gt;La finalidad de la charla es animar a que la gente utilize colas en sus proyectos sin miedo y les saquen partido al concepto asincronía.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Unprocessed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;mmoreram&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/session-tracks/development-performance&quot;&gt;Development &amp;amp; Performance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 20 Apr 2014 15:37:47 +0000</pubDate>
+ <dc:creator>mmoreram</dc:creator>
+ <guid isPermaLink="false">212 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/trabajar-con-colas-en-symfony2#comments</comments>
+</item>
+<item>
+ <title>Taller: Introducción al desarrollo de módulos</title>
+ <link>http://2014.drupalcamp.es/taller-introducci%C3%B3n-al-desarrollo-de-m%C3%B3dulos</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;En el taller se mostrara la creación de un modulo básico, veremos ejemplos existentes y como poder aprovecharlos para hacer nuestros desarrollos a medida.&lt;/p&gt;
+
+&lt;p&gt;Se explicara por encima algunos conceptos.&lt;/p&gt;
+
+&lt;p&gt;Puedes facilitar lo que deseas encontrarte en el taller, de esta manera intentare &lt;strong&gt;ajustarme a lo que los asistentes&lt;/strong&gt; desearían conocer :)&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Formulario&lt;/strong&gt;:&lt;a href=&quot;https://docs.google.com/forms/d/1CRHEpx18oDz5Hs6CQdTXJjgWuAD-suQWDWGX19O54FY/viewform&quot;&gt; https://docs.google.com/forms/d/1CRHEpx18oDz5Hs6CQdTXJjgWuAD-suQWDWGX19O54FY/viewform&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sera necesario tener instalado el entorno de desarrollo, un entorno con Drupal en LAMP, MAMP, WAMP o similar para poder trabajar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recomendación&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Drupal 7&lt;/li&gt;
+	&lt;li&gt;IDE de desarrollo.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Algunos módulos que veremos, por ello es aconsejable instalarlos.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Modulo Devel&lt;/li&gt;
+	&lt;li&gt;Modulo Coder&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Están disponibles maquinas virtuales o instaladores para facilitar:&lt;/p&gt;
+
+Maquina Virtual
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://drupalcamp2014.keopx.net/&quot;&gt;http://drupalcamp2014.keopx.net/&lt;/a&gt; (recomendado)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://bitnami.com/stack/drupal/installer&quot;&gt;https://bitnami.com/stack/drupal/installer&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://bitnami.com/stack/drupal/virtual-machine&quot;&gt;https://bitnami.com/stack/drupal/virtual-machine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+Presentación
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://drupalcamp2014.keopx.net/&quot;&gt;http://drupalcamp2014.keopx.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;PD: Hablaremos de manera superficial de D6, pues es muy similar a D7.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-slides field--type-file field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2014.drupalcamp.es/sites/default/files/slides/DrupalCampSpain_2014_Introducci%C3%B3n_al_desarrollo_de_m%C3%B3dulos_en_Drupal_7.pdf&quot; type=&quot;application/pdf; length=972372&quot;&gt;DrupalCampSpain_2014_Introducción_al_desarrollo_de_módulos_en_Drupal_7.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Accepted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;keopx&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/session-tracks/development-performance&quot;&gt;Development &amp;amp; Performance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;field__item odd&quot;&gt;7&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-target-audience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Target audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Developers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 20 Apr 2014 09:45:05 +0000</pubDate>
+ <dc:creator>keopx</dc:creator>
+ <guid isPermaLink="false">210 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/taller-introducci%C3%B3n-al-desarrollo-de-m%C3%B3dulos#comments</comments>
+</item>
+<item>
+ <title>Features Black Magic</title>
+ <link>http://2014.drupalcamp.es/features-black-magic</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Tame the &lt;a href=&quot;https://drupal.org/project/features&quot; target=&quot;_blank&quot;&gt;Features&lt;/a&gt; animal and stop thinking &lt;em&gt;&quot;will it work this time when I deploy to Production?&quot;&lt;/em&gt;&amp;nbsp;We will go over the main tips that will help you&amp;nbsp;understand how Features module works and also give you the tools to complement what it can&#039;t do.&lt;/p&gt;
+
+&lt;p&gt;Things like managing&amp;nbsp;fields,&amp;nbsp;content types and&amp;nbsp;taxonomies or&amp;nbsp;instaling modules&amp;nbsp;are common scenarios where Features may not work as you expect. On these cases, setting up an upgrade path with &lt;a href=&quot;https://github.com/drush-ops/drush&quot; target=&quot;_blank&quot;&gt;Drush&lt;/a&gt; and &lt;a href=&quot;https://api.drupal.org/api/drupal/modules%21system%21system.api.php/function/hook_update_N/7&quot; target=&quot;_blank&quot;&gt;hook_update_N()&lt;/a&gt;&amp;nbsp;is critical in order to ensure that you and your peers are working over the exact same codebase and configuration, and that the time you deploy it to production it will have just what you expect.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This session can be given in Spanish if required by the organization.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;fieldset class=&quot;field-group-fieldset group-schedule-info collapsible  form-wrapper&quot; id=&quot;node_session_rss_group_schedule_info&quot;&gt;&lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;Schedule info&lt;/span&gt;&lt;/legend&gt;&lt;div class=&quot;fieldset-wrapper&quot;&gt;&lt;div class=&quot;field field--name-field-accepted field--type-list-integer field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Unprocessed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;
+&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;juampy&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-track field--type-taxonomy-term-reference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/session-tracks/development-performance&quot;&gt;Development &amp;amp; Performance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;English&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-drupal-version field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal version:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;None&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 19 Apr 2014 21:56:46 +0000</pubDate>
+ <dc:creator>juampy</dc:creator>
+ <guid isPermaLink="false">209 at http://2014.drupalcamp.es</guid>
+ <comments>http://2014.drupalcamp.es/features-black-magic#comments</comments>
+</item>
+</channel>
+</rss>

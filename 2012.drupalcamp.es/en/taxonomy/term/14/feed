@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2012.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Spain 2012 Madrid - madrid</title>
+ <link>http://2012.drupalcamp.es/en/tags/madrid</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>From Madrid to the sky</title>
+ <link>http://2012.drupalcamp.es/en/madrid-sky-170</link>
+ <description>
+  &lt;div class=&quot;field-image&quot;&gt;
+    &lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://2012.drupalcamp.es/sites/default/files/styles/large/public/field/image/madrid.jpg&quot; width=&quot;275&quot; height=&quot;183&quot; alt=&quot;Madrid at night&quot; /&gt;  &lt;/div&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Madrid, Spanish capitol since 1562, is the geographic centre of the Iberic Peninsula. It&#039;s height, and the fact of being over a plateau and surrounded by mountains defines its weather with warm summers and not so cold winters.&lt;/p&gt;
+&lt;p&gt;As a capitol, it is a very monumental city, with a very popular hearth centre built during the Habsburg reign. &lt;a href=&quot;http://www.museodelprado.com/&quot; target=&quot;_blank&quot;&gt;The Prado Museum&lt;/a&gt; is considered one of the best galleries all over the world.&lt;/p&gt;
+&lt;p&gt;But Madrid is also a city that never sleeps. It has a huge amount of bars, cafes, theatres, discos which open literally all night. Therefore, do not be surprised if you get caught at a traffic jam at 4am in the night.&lt;/p&gt;
+&lt;p&gt;Here are some useful links to get you started:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://todosobremadrid.com&quot;&gt;General information about Madrid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pinterest.com/search/?q=madrid&quot; target=&quot;_blank&quot;&gt;Madrid&#039;s Pinterest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.flickr.com/search/?q=madrid&amp;amp;f=hp&quot; target=&quot;_blank&quot;&gt;Madrid at Flickr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Tags:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-tags inline&quot;&gt;
+    &lt;a href=&quot;/en/tags/madrid&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;madrid&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Sun, 14 Oct 2012 21:47:15 +0000</pubDate>
+ <dc:creator>juampy</dc:creator>
+ <guid isPermaLink="false">170 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/madrid-sky-170#comments</comments>
+</item>
+<item>
+ <title>De Madrid al cielo</title>
+ <link>http://2012.drupalcamp.es/en/node/147</link>
+ <description>
+  &lt;div class=&quot;field-image&quot;&gt;
+    &lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://2012.drupalcamp.es/sites/default/files/styles/large/public/field/image/madrid.jpg&quot; width=&quot;275&quot; height=&quot;183&quot; alt=&quot;Madrid de noche&quot; /&gt;  &lt;/div&gt;
+
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Madrid, la capital de España desde 1562, es también centro geográfico de la Península Ibérica. Su altitud, al estar sobre una meseta, y la cercanía a las montañas que la rodean, influencian su clima, caracterizado por sus veranos calientes e inviernos relativamente fríos.&lt;/p&gt;
+&lt;p&gt;Como de ella se espera, es ciertamente una ciudad de gran e impresionante monumentalidad, que entre sus puntos culminantes cuenta con un centro histórico peculiarísimo, construido en la época en que la dinastía Habsburgo reinaba en España, de ahí el nombre de &quot;&lt;i&gt;El Madrid de los Austrias&lt;/i&gt;&quot;, y como no, el &lt;a href=&quot;http://www.museodelprado.com/&quot; target=&quot;_blank&quot;&gt;Museo del Prado&lt;/a&gt;, una de las más importantes pinacotecas del mundo.&lt;/p&gt;
+&lt;p&gt;Aunque ya sólo por su oferta cultural merece la visita, es Madrid también una capital excepcionalmente viva. Su rutilante vida nocturna, con multitud de bares, pubs, café-teatros y discotecas abiertos hasta bien entrada la mañana, la han hecho famosa desde hace muchos años. No te sorprenda por tanto, verse envuelto en un atasco de tráfico a las 4 de la mañana del domingo, y tenga la seguridad de que la mayoría de la gente en ese momento no va camino del trabajo.&lt;/p&gt;
+&lt;p&gt;¿Qué más se podría decir en pocas palabras acerca de una de las grandes capitales de Europa?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://todosobremadrid.com&quot;&gt;Información general sobre Madrid&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://pinterest.com/search/?q=madrid&quot; target=&quot;_blank&quot;&gt;Pinterest de Madrid&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.flickr.com/search/?q=madrid&amp;amp;f=hp&quot; target=&quot;_blank&quot;&gt;Madrid en Flickr&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;span class=&quot;field-label&quot;&gt;
+    Tags:
+  &lt;/span&gt;
+
+  &lt;div class=&quot;field-tags inline&quot;&gt;
+    &lt;a href=&quot;/en/tags/madrid&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot;&gt;madrid&lt;/a&gt;  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 03 Oct 2012 16:29:57 +0000</pubDate>
+ <dc:creator>leandro</dc:creator>
+ <guid isPermaLink="false">147 at http://2012.drupalcamp.es</guid>
+ <comments>http://2012.drupalcamp.es/en/node/147#comments</comments>
+</item>
+</channel>
+</rss>
