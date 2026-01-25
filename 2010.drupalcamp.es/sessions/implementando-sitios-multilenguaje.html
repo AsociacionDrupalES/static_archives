@@ -1,0 +1,435 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <title>Implementando Sitios Multilenguaje | DrupalcampSpain</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../sites/drupalcamp.es/files/barcelona2010c_favicon.ico" type="image/x-icon" />
+ <link type="text/css" rel="stylesheet" media="all" href="../sites/drupalcamp.es/files/css/css_2c4d9fb89ee8f1c7051f7ea1bf03dafa.css" />
+ <!--[if lte IE 7]>
+<link rel="stylesheet" href="/sites/2010.drupalcamp.es/themes/barcelona2010/css/estilo_ie.css" type="text/css" />
+<![endif]-->
+ <script type="text/javascript" src="../sites/drupalcamp.es/files/js/js_14522803ed7fc94c6f4ba75deb91114b.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "CTools": { "pageId": "page-57e5df0060c598af9b2a7daf0bb154aa" }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "thickbox": { "close": "Cerrar", "next": "Siguiente \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Imagen !current de !total" }, "extlink": { "extTarget": 0, "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" }, "views": { "ajax_path": "/views/ajax", "ajaxViews": [ { "view_name": "attendees", "view_display_id": "block_2", "view_args": "", "view_path": "node/312", "view_base_path": "attendees", "view_dom_id": 2, "pager_element": 0 } ] } });
+//--><!]]>
+</script>
+ <script type="text/javascript"> </script>
+</head>
+<body class="sessions">
+<div id="wrap">
+<div id="cabecera">
+<div class="contenedor">
+   <h1 class="oculto">DrupalcampSpain</h1>
+        <div class="menulogin"><div class="menu_izq">&nbsp;</div><ul class="links"><li class="menu-3572 first"><a href="http://drupalcamp.es/node/331/" title="">Actos Sociales</a></li>
+<li class="menu-678"><a href="../news.html" title="Noticias y anuncios del DrupalCamp">Noticias</a></li>
+<li class="menu-752"><a href="../attendees.html" title="Assitentes al evento">Asistentes</a></li>
+<li class="menu-716"><a href="../forum.html" title="Temas de discusión sobre el DrupalCamp">Forums</a></li>
+<li class="menu-683"><a href="../preguntas-mas-frecuentes.html" title="Preguntas más frecuentes">FAQ</a></li>
+<li class="menu-2759"><a href="../contact.html" title="">Contacto</a></li>
+<li class="menu-3464"><a href="../user.html" title="Acceso a tus datos de cuenta">Mi cuenta</a></li>
+<li class="menu-3571 last"><a href="../programa.html" title="">Programa</a></li>
+</ul><div class="menu_der">&nbsp;</div></div>
+		<a href="../index.html" title="Principal"><img src="../sites/all/themes/barcelona2010c/img/logo.png" alt="Logotipo" class="logo" /></a> 
+        <div class="menuprincipal"><ul class="links"><li class="menu-682 first"><a href="../informacion.html" title="Information">Información</a></li>
+<li class="menu-760"><a href="../sessions.html" title="">Sesiones</a></li>
+<li class="menu-3514"><a href="../sponsors.html" title="">Patrocinadores</a></li>
+<li class="menu-3486 last"><a href="../simpatizantes.html" title="Los mas cachondos (y cachondas...) de la DrupalCamp!">Simpatizantes</a></li>
+</ul></div>
+    </div>
+</div>
+<div id="centro">
+<div class="contenedor"></div>
+</div>
+  <div id="cuerpo">
+  <div class="contenedor" style="text-align: left; display: block;">
+    
+    <div id="page">
+     
+      
+      <div id="block-archive_block-archive_block" class="block block-archive_block">
+    <div class="title">Site archived</div>
+  
+  <div class="content">This site has been archived. All the functionality has been disabled and only the content is keeped for historic purposes.</div>
+</div>
+
+
+            <h2 class="title">Implementando Sitios Multilenguaje</h2>
+      
+      
+            <div id="node-312" class="node node-session">
+  
+  
+  
+  <div class="terms"><ul class="links inline"><li class="taxonomy_term_224 first"><a href="../taxonomy/term/224.html" rel="tag" title="">i18n</a></li>
+<li class="taxonomy_term_309"><a href="../category/etiquetas-de-sesion/internacionalizacion.html" rel="tag" title="">internacionalizacion</a></li>
+<li class="taxonomy_term_308"><a href="../category/etiquetas-de-sesion/multilenguaje.html" rel="tag" title="">multilenguaje</a></li>
+<li class="taxonomy_term_307"><a href="../category/etiquetas-de-sesion/multisitio.html" rel="tag" title="">multisitio</a></li>
+<li class="taxonomy_term_226"><a href="../taxonomy/term/226.html" rel="tag" title="">traducción</a></li>
+<li class="taxonomy_term_207"><a href="../category/categorí/casos-reales.html" rel="tag" title="">Casos reales</a></li>
+<li class="taxonomy_term_208"><a href="../category/categorí/construcción-del-sitio.html" rel="tag" title="">Construcción del sitio</a></li>
+<li class="taxonomy_term_211"><a href="../category/nivel-de-experiencia/intermedio.html" rel="tag" title="">Intermedio</a></li>
+<li class="taxonomy_term_212 last"><a href="../category/nivel-de-experiencia/principiante.html" rel="tag" title="">Principiante</a></li>
+</ul></div>
+
+  <div class="content"><fieldset class="fieldgroup group-session-logistics"><legend>Logística</legend><div class="field field-type-text field-field-session-day">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Día:&nbsp;</div>
+                    Domingo        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-session-time">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Hora:&nbsp;</div>
+                    11:00 - 11:45        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-session-room">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Room:&nbsp;</div>
+                    Sala Forcontu        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-session-duration">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Duración:&nbsp;</div>
+                    45 minutes        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-session-computer">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Computer:&nbsp;</div>
+                    Usaré mi portátil Windows        </div>
+        </div>
+</div>
+</fieldset>
+<p>En un mundo multiparlante, con poblaciones cada vez mas informatizadas, y con acceso a la Web, proveer sitios en un único idioma, restringe nuestro alcance desde el mismo proyecto.<br />
+Durante la sesión se mostrarán los requerimientos y tareas básicas para una configuración de un sitio multilenguaje, mostrando la forma de traducir Contenido, Node References, Términos de Taxonomía, Menues, Views, Allowed Values, etc. También se expondrá un modulo propio desarrollado para la traducción de Node References pudiendo vincular 2 contenidos y mostrar su traducción según configuración del sitio y/o del usuario.</p>
+<p>Update:<br />
+Ya he subido el material.<br />
+Hemos instalado un sitio de prueba usado como demo que se puede usar para que prueben las cosas que estan en la ppt.<br />
+El sitio es traducciones.sandboxdrupal.com.ar<br />
+Pueden ingresar con<br />
+usuario: generico<br />
+contraseña: 123456</p>
+<p>Saludos!</p>
+<div class="field field-type-filefield field-field-session-slides">
+      <div class="field-label">Presentación:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <div class="filefield-file clear-block"><div class="filefield-icon field-icon-application-vnd.ms-powerpoint"><img class="field-icon-application-vnd.ms-powerpoint"  alt="application/vnd.ms-powerpoint icon" src="../sites/all/modules/filefield/icons/protocons/16x16/mimetypes/x-office-presentation.png" /></div><a href="../sites/drupalcamp.es/files/multilenguaje.ppt" type="application/vnd.ms-powerpoint; length=912384">multilenguaje.ppt</a></div>        </div>
+              <div class="field-item even">
+                    <div class="filefield-file clear-block"><div class="filefield-icon field-icon-application-rar"><img class="field-icon-application-rar"  alt="application/rar icon" src="../sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-octet-stream.png" /></div><a href="../sites/drupalcamp.es/files/translated_nodereference.rar" type="application/rar; length=2081">translated_nodereference.rar</a></div>        </div>
+        </div>
+</div>
+<div class="field field-type-emvideo field-field-session-video">
+      <div class="field-label">Video:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="http://blip.tv/file/3502373"><img src="http://a.images.blip.tv/Drupalcamp-ImplementandoSitiosMultilenguaje196-31.jpg" alt="See video" title="See video"  width="120" height="90" /></a>        </div>
+        </div>
+</div>
+</div>
+
+  <div class="links"><ul class="links inline"><li class="comment_forbidden first last"><span><a href="../user/login%3Fdestination=node%252F312%2523comment-form.html">Inicie sesión</a> o <a href="../user/register%3Fdestination=node%252F312%2523comment-form.html">regístrese</a> para enviar comentarios</span></li>
+</ul></div>
+</div>
+
+<div id="comments">
+  <a id="comment-110"></a>
+<div id="comment-110" class="comment">
+    <h4 class="title">
+    <a href="implementando-sitios-multilenguaje.html#comment-110" class="active">Cambio de idioma en los contenidos</a>      </h4>
+  
+  
+    <div class="date">Mié, 17/02/2010 - 12:59</div>
+  <div class="author">eduserrat</div>
+  
+  <div class="content"><p>Hola muy buenas,</p>
+<p>Yo he usado el módulo "i18n" para crear un sitio multilenguaje (<a href="http://www.laff.es" title="www.laff.es" rel="nofollow">www.laff.es</a>) y me funciona todo bien excepto una cosa. Al cambiar de idioma, no me cambian directamente los contenidos o página en la que esté. Hay alguna manera de que lo haga ? La única manera que tengo de cambiar el idioma del contenido, es en la misma página y si en el modo edición de ésta le he especificado cual página es la traducida... No sé si me explico... :P</p>
+<p>De todas formas, me interesa mucho esta sesión por la utilidad de un sitio multilenguaje, que hoy en dia son muchos...</p>
+</div>
+
+  <div class="links"><ul class="links"><li class="comment_forbidden first last"><span><a href="../user/login%3Fdestination=node%252F312%2523comment-form.html">Inicie sesión</a> o <a href="../user/register%3Fdestination=node%252F312%2523comment-form.html">regístrese</a> para enviar comentarios</span></li>
+</ul></div>
+</div>
+
+<a id="comment-111"></a>
+<div id="comment-111" class="comment">
+    <h4 class="title">
+    <a href="implementando-sitios-multilenguaje.html#comment-111" class="active">Tu sitio</a>      </h4>
+  
+  
+    <div class="date">Mié, 17/02/2010 - 14:17</div>
+  <div class="author">ggalanternik</div>
+  
+  <div class="content"><p>Hola, Edu.<br />
+Estoy mirando tu sitio me surgen algunas consultas para hacerte. Veo que la interfaz de Drupal se traduce correctamente según se vaya seleccionando el lenguaje en la lista de idiomas. :)<br />
+El contenido no cambia, y aquí te pregunto: has generado los contenidos traducidos para cada nota? En la edición del, deberías tener un Tab Traduccion (Translate) donde creas las distintas versiones del nodo. Entiendo que has hecho esto pero buscas una alternativa.<br />
+Algo que se puede investigar, aunque no lo recomiendo en términos generales, es el uso de la funcion t() para mostrar el contenido. De hecho, yo mostraré un módulo nuevo que crea un formatter que invoca a una función de traducción, (más compleja que t ) que puede servirte de guía. Si usas t() estarías dejando la traducción al modelo de traducción de la interfaz de Drupal, por lo que también deberás hacer las traducciones, pero no en cada nodo sino insertando los Strings de tus notas en la tabla de traducciones con sus respectivos Strings traducidos.<br />
+Uf, no se entendió mucho, no? Pero después de mi sesión (y otra más que estaba dando vueltas por ahí y que ahora no encuentro, sobre el modelo de traducciones del core), se entienda más :)<br />
+igualmente, si querés podemos verlo cuando nos encontremos allí<br />
+saludos!</p>
+</div>
+
+  <div class="links"><ul class="links"><li class="comment_forbidden first last"><span><a href="../user/login%3Fdestination=node%252F312%2523comment-form.html">Inicie sesión</a> o <a href="../user/register%3Fdestination=node%252F312%2523comment-form.html">regístrese</a> para enviar comentarios</span></li>
+</ul></div>
+</div>
+
+<a id="comment-119"></a>
+<div id="comment-119" class="comment">
+    <h4 class="title">
+    <a href="implementando-sitios-multilenguaje.html#comment-119" class="active">Re:Cambio de idioma en los contenidos, Re:Tu sitio</a>      </h4>
+  
+  
+    <div class="date">Vie, 19/02/2010 - 12:00</div>
+  <div class="author">eduserrat</div>
+  
+  <div class="content"><p>Hola de nuevo Gabriel,</p>
+<p>Pues si, veo que me has cojido la idea y tal y como dices es como lo he hecho. Hemos traducido cada página manualmente, es decir, creando una página nueva y luego usando el Tab Traduccion (Translate) para que Drupal sepa cual pagina tiene que ir a buscar para el otro idioma. Hasta aquí todo bien.</p>
+<p>El problema viene cuando en el bloque de lenguajes general seleccionas un idioma. Porque todos los menús/interfície si que cambia de idioma pero no los contenidos. Porque Drupal no entiende eso?</p>
+<p>Yendo a buscar soluciones, ahora mismo no se mucho que hacer... No sé si existe algún módulo que te ayude en eso. Es una lástima que i18n no sirva para esto tambien pero seguiré buscando una solución para eso.</p>
+<p>Si tienes alguna solución/módulo para esto, me encantaria verlo. Ya miraré en la programación de sesiones cuando haces la tuya. Nos vemos ahí !</p>
+<p>Un saludo !</p>
+</div>
+
+  <div class="links"><ul class="links"><li class="comment_forbidden first last"><span><a href="../user/login%3Fdestination=node%252F312%2523comment-form.html">Inicie sesión</a> o <a href="../user/register%3Fdestination=node%252F312%2523comment-form.html">regístrese</a> para enviar comentarios</span></li>
+</ul></div>
+</div>
+
+<a id="comment-130"></a>
+<div id="comment-130" class="comment">
+    <h4 class="title">
+    <a href="implementando-sitios-multilenguaje.html#comment-130" class="active">a ver...</a>      </h4>
+  
+  
+    <div class="date">Lun, 22/02/2010 - 20:16</div>
+  <div class="author">ggalanternik</div>
+  
+  <div class="content"><p>Una consulta. El contenido lo estas viendo a traves de una View?  Si es asi, necesitas el modulo Select Translation, que te provee un filto de views para selección de lenguaje.<br />
+Otra cosa puede ser el tema de Alias. Los alias tienen idioma, por lo que si le has configurado a un alias un idioma particular te puede estar afectando. Segun veo en tu sitio, las cosas deberian funcionar.<br />
+saludos!<br />
+Gabriel</p>
+</div>
+
+  <div class="links"><ul class="links"><li class="comment_forbidden first last"><span><a href="../user/login%3Fdestination=node%252F312%2523comment-form.html">Inicie sesión</a> o <a href="../user/register%3Fdestination=node%252F312%2523comment-form.html">regístrese</a> para enviar comentarios</span></li>
+</ul></div>
+</div>
+
+<a id="comment-196"></a>
+<div id="comment-196" class="comment">
+    <h4 class="title">
+    <a href="implementando-sitios-multilenguaje.html#comment-196" class="active">problemas con las imagenes</a>      </h4>
+  
+  
+    <div class="date">Sáb, 24/07/2010 - 09:46</div>
+  <div class="author">alex_cu</div>
+  
+  <div class="content"><p>Hola por aki, keria consultarles un problema al ke no encuentro solucion. He montado un sitio para 2 idiomas, con el ingles como default y he generado las traducciones usando el tab Translate, pero las imagenes ke tengo en el contenido original, a pesar de ser llamadas desde la misma fuente, no aparecen en el contenido, solo se ve la informacion de los tags title y alt. Me llama la atencion ke el path ke aparece en internet adiciona un "es" delante del camino de las imagenes, esto es, la imagen XX para el contenido en ingles es sites/default/images/XX.jpg, pero para la traduccion, es/sites/default/images/XX.jpg.</p>
+<p>Alguno de Uds puede darme un tip para seguir buscando?? O la solucion??</p>
+<p>Saludos</p>
+</div>
+
+  <div class="links"><ul class="links"><li class="comment_forbidden first last"><span><a href="../user/login%3Fdestination=node%252F312%2523comment-form.html">Inicie sesión</a> o <a href="../user/register%3Fdestination=node%252F312%2523comment-form.html">regístrese</a> para enviar comentarios</span></li>
+</ul></div>
+</div>
+
+</div>
+    </div>
+
+        <div id="right-sidebar" class="sidebar"><div id="block-views-attendees-block_4" class="block block-views">
+  
+  <div class="content"><div class="view view-attendees view-id-attendees view-display-id-block_4 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-769.jpg" alt="Imagen de ggalanternik" title="Imagen de ggalanternik"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  
+  <div class="views-field-value-1">
+          <label class="views-label-value-1">
+        Nombre Completo:
+      </label>
+                <span class="field-content">Gabriel Galanternik</span>
+  </div>
+  
+  <div class="views-field-value-2">
+                <span class="field-content"><a href="http://www.tesis-oys.com.ar">http://www.tesis-oys.com.ar</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+
+<div id="block-block-15" class="block block-block">
+  
+  <div class="content"><a href="../paquetes-de-patrocinio.html" title="sponsor"><img src="../sites/all/themes/barcelona2010c/img/necesita.png" alt="DrupalCamp Spain 2010 Sponsor"></a></div>
+</div>
+
+</div>
+      </div>
+  </div>
+  </div>
+
+  <div id="pie">
+  <div class="contenedor">
+  <div class="columnas">
+	<div class="pie_izq"><div id="block-views-attendees-block_2" class="block block-views">
+    <div class="title">Asistentes</div>
+  
+  <div class="content"><div class="view view-attendees view-id-attendees view-display-id-block_2 view-dom-id-2">
+        <div class="view-header">
+      <p><a href="../attendees.html" class="view-all" rel="nofollow">View All</a></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-725.png" alt="Imagen de juan.santiago" title="Imagen de juan.santiago"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-875.jpg" alt="Imagen de rcarhuatocto" title="Imagen de rcarhuatocto"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-723.jpg" alt="Imagen de miguel.angel" title="Imagen de miguel.angel"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-914.jpg" alt="Imagen de v" title="Imagen de v"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-908.jpg" alt="Imagen de jsanz" title="Imagen de jsanz"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-671.jpg" alt="Imagen de Xavi" title="Imagen de Xavi"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-895.jpg" alt="Imagen de silvina.rusinek" title="Imagen de silvina.rusinek"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-1046.jpg" alt="Imagen de ag2020" title="Imagen de ag2020"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+
+</div>	<div class="pie_der"><div id="block-locale-0" class="block block-locale">
+    <div class="title">Idiomas</div>
+  
+  <div class="content"><ul><li class="en first"><a href="../en/sessions/implementando-sitios-multilenguaje.html" class="language-link">English</a></li>
+<li class="es last active"><a href="implementando-sitios-multilenguaje.html" class="language-link active">Español</a></li>
+</ul></div>
+</div>
+
+<div id="block-views-sponsors-block_2" class="block block-views">
+  
+  <div class="content"><div class="view view-sponsors view-id-sponsors view-display-id-block_2 view-dom-id-3">
+        <div class="view-header">
+      <p><a href="../sponsors.html" class="view-sponsors" rel="nofollow">View all Sponsors</a></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-sponsor-image-fid">
+                <span class="field-content"><a href="../sponsors/vectorsf.html" class="imagecache imagecache-sponsor-footer imagecache-linked imagecache-sponsor-footer_linked"><img src="../sites/drupalcamp.es/files/imagecache/sponsor-footer/Logo_VectorSF.JPG" alt="" title=""  class="imagecache imagecache-sponsor-footer" width="210" height="84" /></a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+
+<div id="block-block-16" class="block block-block">
+    <div class="title">Total asistentes</div>
+  
+  <div class="content"><p><span id='total_preregistros'>350</span></p></div>
+</div>
+
+</div>	</div>
+	<div class="texto_pie">
+	<a href="../creditos.html" title="Quien hace posible todo esto">créditos</a>	</div>
+    
+	</div>
+  </div>
+  <script type="text/javascript" src="../sites/drupalcamp.es/files/js/js_e6eac597e5dffd88510ac19d73a5d854.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-12669056-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+</body>
+</html>
+

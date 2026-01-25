@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Negocio</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/209/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Presentación de la Colección de libros Aprende Drupal con Forcontu</title>
+ <link>http://2010.drupalcamp.es/en/sessions/presentacion-de-la-coleccion-de-libros-aprende-drupal-con-forcontu</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    11:00 - 11:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Windows        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;h3&gt;Presentación de la Colección de libros Aprende Drupal con Forcontu&lt;/h3&gt;
+&lt;h4&gt;Presentación en exclusiva en la Drupalcamp&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.forcontu.com/libros&quot; target=&quot;_blank&quot; alt=&quot;libros Drupal&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;En esta sesión os presentaremos la nueva colección de libros en español &lt;strong&gt;Aprende Drupal con Forcontu&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/Presentacion_Aprende_Drupal_con_Forcontu_DrupalcampSpain2010.pdf&quot; type=&quot;application/pdf; length=5377444&quot;&gt;Presentacion_Aprende_Drupal_con_Forcontu_DrupalcampSpain2010.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgeqzUAI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/en/sessions/presentacion-de-la-coleccion-de-libros-aprende-drupal-con-forcontu&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/presentacion-de-la-coleccion-de-libros-aprende-drupal-con-forcontu#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/keynote">Keynote</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-PresentacinDeLaColeccinDeLibrosAprendeDrupalConForcontu290.flv" fileSize="146713946" type="video/x-flv" duration="2262" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-PresentacinDeLaColeccinDeLibrosAprendeDrupalConForcontu612-995.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-PresentacinDeLaColeccinDeLibrosAprendeDrupalConForcontu290.flv" length="146713946" type="video/x-flv" />
+ <pubDate>Tue, 23 Feb 2010 19:01:35 +0000</pubDate>
+ <dc:creator>fran.gil</dc:creator>
+ <guid isPermaLink="false">375 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Proyectos escalables con Drupal, caso de éxito con lanetro.com uno de los sitios con más tráfico de España</title>
+ <link>http://2010.drupalcamp.es/en/sessions/proyectos-escalables-con-drupal-caso-de-exito-con-lanetrocom-uno-de-los-sitios-con-mas-traf</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    16:00 - 16:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Forcontu        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Crónicas de un programador que heredó un proyecto (lanetro.com) que no seguía las buenas prácticas de Drupal y petaba por todos lados. Narraremos cómo reconducimos y refactorizamos un proyecto que parecía ir directo al fracaso y que al final se ha convertido en un caso de éxito de una aplicación bien hecha en Drupal.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/proyectos-escalables-drupal.pdf&quot; type=&quot;application/pdf; length=2631916&quot;&gt;proyectos-escalables-drupal.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdPJMwI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/proyectos-escalables-con-drupal-caso-de-exito-con-lanetrocom-uno-de-los-sitios-con-mas-traf#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/rendimiento-y-escalabilidad">Rendimiento y escalabilidad</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-ConstruyendoProyectosEscalablesConDrupal179.flv" fileSize="202406904" type="video/x-flv" duration="3070" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-ConstruyendoProyectosEscalablesConDrupal988-230.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-ConstruyendoProyectosEscalablesConDrupal179.flv" length="202406904" type="video/x-flv" />
+ <pubDate>Tue, 23 Feb 2010 18:57:27 +0000</pubDate>
+ <dc:creator>p.cerda</dc:creator>
+ <guid isPermaLink="false">374 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Ecosistemas turísticos: nuevas tendencias por ociotipos 2.0 y su implementación con Drupal</title>
+ <link>http://2010.drupalcamp.es/en/sessions/ecosistemas-turisticos-nuevas-tendencias-por-ociotipos-20-y-su-implementacion-con-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Viernes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    17:00 - 17:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;La Tecnología está revolucionando el sector turístico en un entorno Web 2.0 tanto en destinos como productos para cada tipo de turista, nuevas iniciativas y campañas en red, influencia de la opinión del cliente y de las redes sociales. Desde este enfoque presentamos nuestra experiencia resolviendo este nuevo reto mediante la utilización de la plataforma Drupal.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/VSF Pres_DrupalCamp 20100223.pdf&quot; type=&quot;application/pdf; length=2279178&quot;&gt;VSF Pres_DrupalCamp 20100223.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/en/sessions/ecosistemas-turisticos-nuevas-tendencias-por-ociotipos-20-y-su-implementacion-con-drupal&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/ecosistemas-turisticos-nuevas-tendencias-por-ociotipos-20-y-su-implementacion-con-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/desarrollo-de-negocio">desarrollo de negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/geolocalizacion">geolocalización</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/internacionalizacion">internacionalizacion</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/turismo">turismo</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-EcosistemasTursticosNuevasTendenciasPorOciotipos20YSuIm455.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-EcosistemasTursticosNuevasTendenciasPorOciotipos20YSuIm455-14.jpg" />
+</media:content>
+ <pubDate>Tue, 23 Feb 2010 14:23:46 +0000</pubDate>
+ <dc:creator>acaceres@vectorsf.com</dc:creator>
+ <guid isPermaLink="false">372 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Drupal en la web de España para la Exposición Universal Shanghái 2010</title>
+ <link>http://2010.drupalcamp.es/en/sessions/drupal-en-la-web-de-espana-para-la-exposicion-universal-shanghai-2010</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Presentación del proyecto web para la representación de España en la Exposición Universal en Shanghái 2010. El proyecto contempla varias instancias con usos diferentes, el sitio corporativo de la Sociedad Estatal para Exposiciones Internacionales, multi-idioma (español, inglés, chino).&lt;/p&gt;
+&lt;p&gt;Nos centraremos en el encargo concreto, la metodología y los procesos de calidad vinculados, así como los retos técnicos y el resultado final del proyecto.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/drupal-en-la-web-de-espana-para-la-exposicion-universal-shanghai-2010#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/blogs">blogs</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/drupal">drupal</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/espana">españa</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/exposicion">exposicion</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/shanghai">shanghai</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-DrupalEnLaWebDeEspaaParaLaExposicinUniversalShanghi20728.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-DrupalEnLaWebDeEspaaParaLaExposicinUniversalShanghi20728-975.jpg" />
+</media:content>
+ <pubDate>Fri, 19 Feb 2010 18:00:45 +0000</pubDate>
+ <dc:creator>marcg</dc:creator>
+ <guid isPermaLink="false">365 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Aprovecha el networking para potenciar tu negocio</title>
+ <link>http://2010.drupalcamp.es/en/sessions/aprovecha-el-networking-para-potenciar-tu-negocio</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    11:00 - 11:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil MacOSX        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Consejos muy básicos sobre networking para freelances o pequeñas empresas que están empezando y quieren darse a conocer tanto en el mundo online como en el mundo real™.&lt;/p&gt;
+&lt;p&gt;Presentación en slideshare: &lt;a href=&quot;http://www.slideshare.net/JordiBufi/aprovecha-el-networking-para-potenciar-tu-negocio&quot; title=&quot;http://www.slideshare.net/JordiBufi/aprovecha-el-networking-para-potenciar-tu-negocio&quot; rel=&quot;nofollow&quot;&gt;http://www.slideshare.net/JordiBufi/aprovecha-el-networking-para-potenci...&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/networking.pdf&quot; type=&quot;application/pdf; length=892453&quot;&gt;networking.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdjHaAI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/aprovecha-el-networking-para-potenciar-tu-negocio#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/eventos">eventos</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/freelance">freelance</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/identidad-digital">identidad digital</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/negocios">negocios</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/networking">networking</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/redes-sociales-verticales">redes sociales verticales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-AprovechaElNetworkingParaPotenciarTuNegocio582.flv" fileSize="129343502" type="video/x-flv" duration="1935" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-AprovechaElNetworkingParaPotenciarTuNegocio382-663.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-AprovechaElNetworkingParaPotenciarTuNegocio582.flv" length="129343502" type="video/x-flv" />
+ <pubDate>Wed, 17 Feb 2010 22:52:16 +0000</pubDate>
+ <dc:creator>Jordi Bufí</dc:creator>
+ <guid isPermaLink="false">357 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Construyendo el futuro: Distribuciones y Productos basados en Drupal</title>
+ <link>http://2010.drupalcamp.es/en/sessions/construyendo-el-futuro-distribuciones-y-productos-basados-en-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;¿Es un CMS o es un Framework o ambas, o ninguna de las dos? ¿Qué es Drupal y qué queremos que sea? ¿Qué relación existe entre #smallcore y Open Atrium? ¿Por qué Drupal no es Wordpress? &lt;/p&gt;
+&lt;p&gt;Hablaremos de las últimas &quot;tendencias&quot; en el desarrollo de Drupal (Drupal 7, smallcore, D7UX...) y veremos brevemente algunos productos basados en Drupal como Open Atrium, Managing News.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/construyendo-el-futuro-distribuciones-y-productos-basados-en-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/distribuciones">distribuciones</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/smallcore">smallcore</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-ConstruyendoElFuturoDistribucionesYProductosBasadosEnDru283.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-ConstruyendoElFuturoDistribucionesYProductosBasadosEnDru283-318.jpg" />
+</media:content>
+ <pubDate>Fri, 12 Feb 2010 19:02:53 +0000</pubDate>
+ <dc:creator>Jose Reyero</dc:creator>
+ <guid isPermaLink="false">340 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Presentación de la asociación catalana de empresas para el software libre CatPL</title>
+ <link>http://2010.drupalcamp.es/en/sessions/presentacion-de-la-asociacion-catalana-de-empresas-para-el-software-libre-catpl</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Forcontu        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Albert Calvet, presidente de la CatPL (&lt;a href=&quot;http://www.catpl.org/&quot; title=&quot;http://www.catpl.org/&quot; rel=&quot;nofollow&quot;&gt;http://www.catpl.org/&lt;/a&gt;), asociación catalana de empresas para el software libre, nos presentará la asociación, sus actividades y nos explicará porque debemos asociarnos.&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/presentacion-de-la-asociacion-catalana-de-empresas-para-el-software-libre-catpl#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/asociacion">asociación</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/comunidad">comunidad</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/empresa">empresa</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/negocio">negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <pubDate>Thu, 11 Feb 2010 17:47:21 +0000</pubDate>
+ <dc:creator>albert</dc:creator>
+ <guid isPermaLink="false">336 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>SEO DRUPAL EXTRAVAGANZA !</title>
+ <link>http://2010.drupalcamp.es/en/sessions/seo-drupal-extravaganza</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Viernes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    15:00 - 15:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Windows        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;This session talks about the Search Engine Optimazition (SEO) process and how to integrate it into a Drupal project.&lt;br /&gt;
+It would feature must-have modules for on-page optimization and  i would go through a practical  example of SEO automation using the nodeAPI .&lt;br /&gt;
+Questions and answer session would be in both english and spanish.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/seo-drupal-extravaganza#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/nodeapi">nodeapi</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/seo">SEO</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-SEODRUPALEXTRAVAGANZA931.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-SEODRUPALEXTRAVAGANZA931-515.jpg" />
+</media:content>
+ <pubDate>Thu, 11 Feb 2010 17:00:40 +0000</pubDate>
+ <dc:creator>koredeola</dc:creator>
+ <guid isPermaLink="false">335 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>DRUPAL, UN NEGOCIO Orientado al Cliente</title>
+ <link>http://2010.drupalcamp.es/en/sessions/drupal-un-negocio-orientado-al-cliente</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    15:00 - 15:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil MacOSX        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;El objetivo de esta sesion es profundizar el impacto y alcance economico que tiene el uso y la adopcion de Drupal en una organizacion de negocios.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/drupal-un-negocio-orientado-al-cliente#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/alcance">alcance.</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/drupal-como-negocio">drupal como negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/estrategia">estrategia</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/ventajas-economicas">Ventajas economicas</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-DRUPALUNNEGOCIOOrientadoAlCliente235.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-DRUPALUNNEGOCIOOrientadoAlCliente235-841.jpg" />
+</media:content>
+ <pubDate>Thu, 11 Feb 2010 14:56:42 +0000</pubDate>
+ <dc:creator>juan.santiago</dc:creator>
+ <guid isPermaLink="false">334 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>SCRUM y la Gestión de Proyectos web. Experiencias y casos reales. La pareja: scrum + drupal</title>
+ <link>http://2010.drupalcamp.es/en/sessions/scrum-y-la-gestion-de-proyectos-web-experiencias-y-casos-reales-la-pareja-scrum-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    16:00 - 16:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;El objetivo de la sesión es compartir nuestras experiencias en la utilización de Scrum en la gestión de proyectos desarrollados con drupal. Mediante casos reales explicaremos cómo organizamos y desarrollamos un proyecto drupal con scrum.&lt;/p&gt;
+&lt;p&gt;- Introducción. Por qué utilizar scrum&lt;br /&gt;
+- Quien es quien con scrum. Roles: &quot;product owner&quot;, &quot;scrum master&quot;, y el equipo&lt;br /&gt;
+- Redacción del Product Backlog&lt;br /&gt;
+- Planificación de sprint&lt;br /&gt;
+- Scrum diario&lt;br /&gt;
+- Retrospectiva de sprint&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/en/sessions/scrum-y-la-gestion-de-proyectos-web-experiencias-y-casos-reales-la-pareja-scrum-drupal&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/scrum-y-la-gestion-de-proyectos-web-experiencias-y-casos-reales-la-pareja-scrum-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/gestion">gestión</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/metodologia-desarrollo">metodología desarrollo</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/planificacion">planificación</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesi%C3%B3n/scrum-y-la-gesti%C3%B3n-de-proyectos-web">SCRUM y la Gestión de Proyectos WEB</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-SCRUMYLaGestinDeProyectosWebExperienciasYCasosRealesL434.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-SCRUMYLaGestinDeProyectosWebExperienciasYCasosRealesL434-423.jpg" />
+</media:content>
+ <pubDate>Tue, 09 Feb 2010 09:18:32 +0000</pubDate>
+ <dc:creator>miren</dc:creator>
+ <guid isPermaLink="false">323 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

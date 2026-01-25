@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - ¿Quieres ayudar?</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/216/0</link>
+ <description>Los voluntarios son siempre bienvenidos</description>
+ <language>es</language>
+<item>
+ <title>Drupalcamp 2010-2011</title>
+ <link>http://2010.drupalcamp.es/forum/%C2%BFquieres-ayudar/drupalcamp-2010-2011</link>
+ <description>&lt;p&gt;Para la próxima DrupalCamp, de ser posible (viabilidad personal básicamente) me encantaría poder ayudar de manera voluntaria.&lt;/p&gt;
+&lt;p&gt;Saludos!&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/%C2%BFquieres-ayudar/drupalcamp-2010-2011#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/216">¿Quieres ayudar?</category>
+ <pubDate>Wed, 07 Jul 2010 10:28:29 +0000</pubDate>
+ <dc:creator>rodrix1985</dc:creator>
+ <guid isPermaLink="false">399 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Emitir DrupalCamp Online</title>
+ <link>http://2010.drupalcamp.es/forum/%C2%BFquieres-ayudar/emitir-drupalcamp-online</link>
+ <description>&lt;p&gt;Buenas.&lt;/p&gt;
+&lt;p&gt;El otro día comente con unos amigo la intención de grabar el evento para poder posteriormente el subir los vídeos a la web.&lt;/p&gt;
+&lt;p&gt;A este amigo se le ocurrió la brillante idea (eso opino), el emitir la conferencia en formato online.&lt;/p&gt;
+&lt;p&gt;¿Que os parece la idea?&lt;/p&gt;
+&lt;p&gt;Yo por mi parte decir que ya he probado el sistema y es valido, solo necesito mi portátil, internet y mi webcam, vamos que tengo todo lo necesario (espero que haya wifi).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/forum/%C2%BFquieres-ayudar/emitir-drupalcamp-online&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/forum/%C2%BFquieres-ayudar/emitir-drupalcamp-online#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/216">¿Quieres ayudar?</category>
+ <pubDate>Thu, 11 Feb 2010 18:58:03 +0000</pubDate>
+ <dc:creator>keopx</dc:creator>
+ <guid isPermaLink="false">337 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Opciones voluntarios</title>
+ <link>http://2010.drupalcamp.es/forum/%C2%BFquieres-ayudar/opciones-voluntarios</link>
+ <description>&lt;p&gt;Hola,&lt;/p&gt;
+&lt;p&gt;Inauguro esta sección del foro ya que me gustaría daros una mano en lo referente al tema de los voluntarios. Además creo que esta comunidad tiene mucho potencial y hay que unirse para trabajar y sacar adelante este gran proyecto que es el DrupalCamp. A mí me queda mucho por recorrer y espero poder salir vivo, ejjejejeje.&lt;/p&gt;
+&lt;p&gt;Veréis yo de momento no puedo ofrecer clases magistrales de Drupal ya que estoy en la fase de aprendizaje (que no es poco!!). Llevo un par de años más o menos conviviendo y conociendo Drupal, y todavía me queda mucho por recorrer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/forum/%C2%BFquieres-ayudar/opciones-voluntarios&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/forum/%C2%BFquieres-ayudar/opciones-voluntarios#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/216">¿Quieres ayudar?</category>
+ <pubDate>Tue, 26 Jan 2010 19:32:15 +0000</pubDate>
+ <dc:creator>microride</dc:creator>
+ <guid isPermaLink="false">300 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

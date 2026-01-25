@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - performance</title>
+ <link>http://2011.drupalcamp.es/en/taxonomy/term/8/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Make your Drupal sites fly with Varnish Cache</title>
+ <link>http://2011.drupalcamp.es/en/sessions/make-your-drupal-sites-fly-varnish-cache</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://varnish-cache.org/&quot;&gt;Varnish Cache&lt;/a&gt; has rapidly grown to be the de facto Reverse Proxy Cache package of choice. In this presentation I will explain the basics of Varnish, describe how I use it on a daily basis at my employer &lt;a href=&quot;http://kpn.com/&quot;&gt;KPN&lt;/a&gt;, the largest Telco and IT firm in the Netherlands and how you can use it to dramatically increase overall performance of your Drupal site. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;About me&lt;/li&gt;
+&lt;li&gt;About Varnish&lt;/li&gt;
+&lt;li&gt;History and business/support model&lt;/li&gt;
+&lt;li&gt;Varnish architectural overview&lt;/li&gt;
+&lt;li&gt;Varnish 3.x&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presenter(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/en/users/sqyd&quot; title=&quot;View user profile.&quot;&gt;SqyD&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/15-mayo-1300-1400&quot;&gt;2 Octubre 13:00 - 13:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/room-02&quot;&gt;Sala 2: Cenatic&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/en/sessions/make-your-drupal-sites-fly-varnish-cache&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/en/sessions/make-your-drupal-sites-fly-varnish-cache#comments</comments>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/performance">performance</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/scalability">Scalability</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/varnish">varnish</category>
+ <pubDate>Mon, 25 Jul 2011 12:24:31 +0000</pubDate>
+ <dc:creator>SqyD</dc:creator>
+ <guid isPermaLink="false">373 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

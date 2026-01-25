@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - gestión de proyectos</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/243/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Open Atrium para la gestión de proyectos</title>
+ <link>http://2010.drupalcamp.es/sessions/open-atrium-para-la-gestion-de-proyectos</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    12:00 - 12:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Forcontu        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Windows        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Open Atrium es una distribución Drupal creada por Development Seed pensada como una Intranet de gestión de proyectos. En esta sesión se explicará cómo instalar y poner en marcha esta distribución Drupal, así como mostrar diferentes casos en los que podemos aplicar Open Atrium en la gestión de proyectos basados en experiencias de negocio reales.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-vnd.openxmlformats-officedocument.presentationml.presentation&quot;&gt;&lt;img class=&quot;field-icon-application-vnd.openxmlformats-officedocument.presentationml.presentation&quot;  alt=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/x-office-presentation.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/Open atrium gestion proyectos - Drupal Camp 2010.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=747443&quot;&gt;Open atrium gestion proyectos - Drupal Camp 2010.pptx&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdb9YwI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/open-atrium-para-la-gestion-de-proyectos#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/atenea-tech">atenea tech</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/drupal">drupal</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/empresa">empresa</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/gestion-de-proyectos">gestión de proyectos</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/open-atrium">open atrium</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-OpenAtrium306.flv" fileSize="164463699" type="video/x-flv" duration="2561" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-OpenAtrium996-451.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-OpenAtrium306.flv" length="164463699" type="video/x-flv" />
+ <pubDate>Tue, 19 Jan 2010 13:11:50 +0000</pubDate>
+ <dc:creator>sidddi</dc:creator>
+ <guid isPermaLink="false">268 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,274 @@
+body{margin:0;padding:0;background:#006783;font-family:Tahoma,Verdana,Arial,Helvetica,sans-serif;line-height:1.6em;font-size:80%;color:#000}
+strong{font-weight:bold;color:#096185;}
+a{color:#006783;}	
+a:hover{color:#4DBDD3;}
+.oculto{display:none;}
+h3{color:#006783;}
+/*input, textarea{font-size:0.9em;padding:5px;background:#75B1BF;border:1px solid #006783;}*/
+input, textarea {border-radius: 8px; -webkit-border-radius:8px; -moz-border-radius:8px;background-color:#75B1BF;border:medium none;font-family:Arial,Helvetica,sans-serif;
+font-size:1em;
+font-weight:bold;
+margin-bottom:20px;
+padding:10px;
+color:#FFF;
+}
+html.js input.form-autocomplete{padding:4px;}
+.form-submit{background:#006783;font-style:normal;padding:9px;color:#fff;border:0px solid none;}
+.form-submit:hover { background: #2087A3 }
+.form-submit:focus { background: #75B1BF }
+#wrap{background:#fff url(../img/fondo-pie.png) repeat-x center bottom;float:left;width:100%;padding-bottom:32px;}
+.contenedor{margin:0 auto;padding:0px;width:970px;}
+#cabecera{height:150px;background:#FFF;}
+.encabezado{float:right;width:600px;}
+#centro{height:150px;background:#006783 url(../img/cabecera_des.png) no-repeat center bottom;margin-bottom:30px;}
+#centro-front{height:250px;background:#006783 url(../img/cabecera_des.png) no-repeat center bottom;margin-bottom:30px;}
+body.inicio #centro, body.izquierda #centro{height:227px;}
+body.inicio .panels-flexible-1-right .pane-block { margin-bottom: 20px }
+#cuerpo{/*min-height:500px;  height:auto !important;  height:500px;*/padding-bottom:20px;}
+#cuerpo .title{color:#74878A;font-size:2em;padding-bottom:15px;}
+#right-sidebar .title{font-size:1.5em;}
+#cabecera a{text-decoration:none;}
+#mainlogo { position: absolute }
+.menulogin{background:#006783;float:right;height:28px;padding-right:0;text-align:center;}
+
+.view-display-id-page_1 .views-field-picture {
+	text-align: center;
+	margin: 0px;
+}
+.menulogin a{color:#fff;font-size:0.9em;}
+.menulogin a:hover, .menulogin a.active{color:#FEC900;}
+.menuprincipal{float:right;height:60px;margin-top:92px;clear:right}
+.menuprincipal ul.links li{display:block;float:left;height:55px;text-align:center;margin-right:10px;}
+.menuprincipal ul.links li:hover, .menuprincipal ul.links li.active{background:transparent url(../img/boton.png) no-repeat center bottom;color:#4DBDD3;}
+.menuprincipal a{font-size:1.4em;color:#000;display:block;height:55px;}
+.menuprincipal a:hover, .menuprincipal a.active{color:#006783;}
+img.logo{float:left;margin-top: 15px;/*width:380px;*/}
+#pie{color:#fff;float:left;width:100%;}
+#pie .contenedor{background:transparent url(../img/pie.png) no-repeat right 15px;min-height:250px;  height:auto !important;  height:250px;}
+.pie_izq{float:left;}
+.pie_der{width:430px;float:left;padding-left:30px;}
+.texto_pie{float:right;font-size:0.75em;}
+.texto_pie a{color:#fff;}
+#pie .title{color:#75B1BF;font-size:1.5em;}
+.columnas{float:left;width:100%;margin-top:20px;}
+#page{border-right:1px dashed;float:left;padding-right:15px;width:700px;}
+.inicio #page{border-right:none;width:960px;}
+#right-sidebar{width:240px;float:right;}
+body.centro #page{width:100%;padding-right:0;border:none;}
+#block-block-1{left:631px;position:relative;width:324px;top:22px;}
+#block-block-12{left:631px;position:relative;width:324px;top:22px;}
+body.izquierda #page{width:530px;padding:0 0 0 20px;border-left:1px dashed;border-right:none;}
+#left-sidebar{width:400px;float:left;}
+.view-drupalcamp-tickets h3{font-size:1.2em;font-weight:bold;border-bottom:2px solid;}
+.view-drupalcamp-tickets .item-list ul li {list-style-image:none;list-style-position:outside;list-style-type:none;margin:0 0 0.25em 0.5em;padding:0;}
+.view-drupalcamp-tickets .views-field-body .field-content{background:#DAE9EC;padding:5px;margin:10px 0 10px 0;}
+input.node-add-to-cart{background:transparent url(../img/boton-apunto.png) center -1px; width:80px;height:31px;}
+.error {color:#FFFFFF;}
+p {margin-bottom: 10px;}
+h3 {font-size: 1.4em;margin-bottom: 10px;padding-top: 15px;}
+ol {list-style-type: decimal;color:#000;}
+ol li{padding-bottom:10px;}
+#block-block-3 {float:right;}
+body.simpatizantes #page .view-attendees td {height:120px;}
+body.simpatizantes th, body.simpatizantes td {border:none;}
+
+/* crincon - Modificaciones para juitter */
+body.drupalcampspain-en-twitter #page {
+	width: 99%;
+	border-right: none;
+	position: relative;
+	top: -70px;
+}
+
+body.drupalcampspain-en-twitter #juitterTabsWrapper {
+	display: none;
+}
+
+body.drupalcampspain-en-twitter #juitterContainer {
+	font-size: 1.6em;
+}
+
+body.drupalcampspain-en-twitter #juitter-main-wrapper {
+	clear: both;
+}
+
+body.drupalcampspain-en-twitter #juitterContainer .twittLI {
+	height: auto;
+	line-height: 1.6em;
+	padding: 10px 0;
+}
+
+body.drupalcampspain-en-twitter #cuerpo .title {
+	float: right;
+}
+
+body.drupalcampspain-en-twitter #juitterContainer .twittList a {
+	color: #006783;
+}
+
+.social-icons {
+  text-align: center;
+}
+
+.social-icon-img {
+  display: inline;
+  margin-right: 9px;
+}
+
+.social-icon-img a:hover {
+  opacity: 0.7
+}
+
+#conferencia-espanol {
+  text-align: center;
+}
+
+.view-Participantes table td {
+  padding: 0 0 35px;
+  border: medium none;
+}
+
+.view-Participantes.view-display-id-page_1 .col-5 .views-field-picture,
+.view-Participantes.view-display-id-page_1 .col-5 .views-field-name {
+  margin-right: 0
+}
+
+.view-Participantes .views-field-picture,
+.view-Participantes .views-field-name {
+  margin-right: 67px;
+  text-align: center;
+  width: 85px;
+  overflow: hidden;
+}
+
+.bloque-participantes .views-field-picture {
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+#block-views-Participantes-block_1,
+#block-views-preinscritos-block_1 {padding:5px;background:#75B1BF;float:left;border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius:5px;border:1px solid #ccc;}
+#block-views-Participantes-block_1 div.title { padding: 0 0 10px 11px }
+#block-views-Participantes-block_1 .view-Participantes .views-row {float:left;padding:2px;}
+#block-views-Participantes-block_1 .view-Participantes td { padding-bottom: 10px }
+#block-views-Participantes-block_1 .view-Participantes .row-last td { padding-bottom: 5px }
+#block-views-Participantes-block_1 .view-Participantes .views-row .picture img{width:60px;height:60px;border:1px solid #ccc;}
+#block-views-Participantes-block_1 a.view-all {display:none;height:30px;left:200px;position:absolute;text-align:right;top:15px;width:60px;}
+#block-views-Participantes-block_1 .title {color:#fff;}
+#block-views-Participantes-block_1 .more-link { padding-right: 11px }
+#block-views-Participantes-block_1 .more-link a:hover { color: #000 }
+
+#block-views-preinscritos-block_1 div.title { padding: 0 11px 10px 11px; color:#fff; }
+#block-views-preinscritos-block_1 .view-content p { text-align: center; font-size: 3em}
+
+
+#block-views-preinscritos-block_2 { clear: both; margin-top: 10px; }
+#block-views-preinscritos-block_2 {padding:5px;background:#75B1BF;float:left;border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius:5px;border:1px solid #ccc;}
+#block-views-Participantes-block_2 div.title { padding: 0 0 10px 11px }
+#block-views-Participantes-block_2 .view-Participantes .views-row {float:left;padding:2px;}
+#block-views-Participantes-block_2 .view-Participantes td { padding-bottom: 10px }
+#block-views-Participantes-block_2 .view-Participantes .row-last td { padding-bottom: 5px }
+#block-views-Participantes-block_2 .view-Participantes .views-row .picture img{width:60px;height:60px;border:1px solid #ccc;}
+#block-views-Participantes-block_2 a.view-all {display:none;height:30px;left:200px;position:absolute;text-align:right;top:15px;width:60px;}
+#block-views-Participantes-block_2 .title {color:#fff;}
+#block-views-Participantes-block_2 .more-link { padding-right: 11px }
+#block-views-Participantes-block_2 .more-link a:hover { color: #000 }
+
+#block-views-preinscritos-block_2 div.title { padding: 0 11px 10px 11px; color:#fff; }
+#block-views-preinscritos-block_2 .view-content p { text-align: center; font-size: 3em}
+
+/* book */
+.book-navigation ul.menu { padding-bottom: 1em }
+
+/* drupal tabs */
+  /* primary */
+  #page ul.tabs { padding: 5px 10px; border-color: #006783; margin-bottom: 20px }
+  #page ul.tabs a { padding: 5px 10px; border-radius: 5px 5px 0 0; -moz-border-radius: 5px 5px 0 0 ; -webkit-border-radius:5px 5px 0 0;
+    border-color: #006783 #006783 #FFF #006783; color: #006783; border-width: 1px; border-style: solid solid none solid }
+  #page ul.tabs a.active { color: #006783; border-bottom: 1px solid #FFF }
+  #cuerpo #page ul.secondary,
+  #cuerpo #page ul.secondary li { border: none; margin: 0; padding: 0; overflow: hidden }
+  #cuerpo #page ul.secondary a { border: 1px solid #999; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius:5px; background: #DDD; margin: 0 1em 10px 0;
+    display: block; float: left; padding: 3px 7px; font-size: 12px }
+  #cuerpo #page ul.secondary a.active { border: 1px solid #006783; background: #FFF }
+  #cuerpo #page ul.secondary a.active:hover,
+  #cuerpo #page ul.secondary a:hover { border: 1px solid #006783; background: #EEE }
+
+  /* secondary */
+  #page ul.tabs 
+
+/* registro de usuarios */
+#user-register .password-confirm span.error,
+#user-register .password-strength span.error { color: #FF0000 }
+#page #user-register .password-confirm span.ok,
+#page #user-register .password-strength span.ok { color: #008000 }
+#user-register .password-description { padding: 5px 10px }
+
+#user-register input,
+#user-login input { margin-bottom: 0 }
+#user-register .form-item,
+#user-login .form-item { margin-bottom: 20px }
+
+/* pagina de un usuario */
+
+#page .profile .picture { background: #FFF; margin: 0; padding: 0 0 0 20px; }
+
+/* calendario de sesiones */
+.session-calendar tr td.time-label { width: 80px; color: #999 }
+.session-calendar { margin-bottom: 20px }
+.view-schedule.view-display-id-page_1 h2 { color: #74878A; font-size: 18px; padding-bottom: 10px; text-align: center; margin-top: 20px }
+
+/* foros */
+#forum table { width: 100% }
+.node .terms ul li { padding: 0 0.5em 0 0 }
+.node-forum .date { float: right; color: #999 }
+.node-forum .terms { float: left; margin-bottom: 1em }
+.node-forum .content { clear: both; margin: 1em 0 }
+
+/* 
+ * ADMIN
+ */
+
+/* node add */
+#page .node-form fieldset { border: 1px solid #999; padding: 1px 10px; margin: 20px 0 }
+#page .node-form fieldset.collapsed { border: 1px solid #DDD; }
+.node-form fieldset legend { display: block }
+
+#page .messages { background: #EAF8E4; color: #3E642F; padding: 15px; border: 1px solid #3E642F; margin: 0 0 20px }
+
+/* facebook twitter share */
+.facebookshare-box,
+.tweetbutton { float: right; }
+.view-sessions li.views-row {
+  list-style: none;
+}
+
+div.node li {
+  list-style: disc;
+  margin-left: 1em;
+  padding-left: 1em;
+  margin-bottom: 10px;
+}
+
+.view-news li.views-row {
+  list-style: none;
+}
+/*
+.program #page {
+  width: 100%;
+  border-right: none;
+}
+*/
+
+.view-Sponsors .views-row {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+#block-views-Sponsors-block_9 table.views-view-grid {
+  margin: 20px 0 20px 175px;
+}
+
+#block-views-Sponsors-block_10 table.views-view-grid {
+  margin: 20px 0 20px 175px;
+}

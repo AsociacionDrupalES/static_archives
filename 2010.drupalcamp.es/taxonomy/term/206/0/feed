@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Rendimiento y escalabilidad</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/206/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Proyectos escalables con Drupal, caso de éxito con lanetro.com uno de los sitios con más tráfico de España</title>
+ <link>http://2010.drupalcamp.es/sessions/proyectos-escalables-con-drupal-caso-de-exito-con-lanetrocom-uno-de-los-sitios-con-mas-traf</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    16:00 - 16:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Forcontu        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Crónicas de un programador que heredó un proyecto (lanetro.com) que no seguía las buenas prácticas de Drupal y petaba por todos lados. Narraremos cómo reconducimos y refactorizamos un proyecto que parecía ir directo al fracaso y que al final se ha convertido en un caso de éxito de una aplicación bien hecha en Drupal.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/proyectos-escalables-drupal.pdf&quot; type=&quot;application/pdf; length=2631916&quot;&gt;proyectos-escalables-drupal.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdPJMwI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/proyectos-escalables-con-drupal-caso-de-exito-con-lanetrocom-uno-de-los-sitios-con-mas-traf#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/rendimiento-y-escalabilidad">Rendimiento y escalabilidad</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-ConstruyendoProyectosEscalablesConDrupal179.flv" fileSize="202406904" type="video/x-flv" duration="3070" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-ConstruyendoProyectosEscalablesConDrupal988-230.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-ConstruyendoProyectosEscalablesConDrupal179.flv" length="202406904" type="video/x-flv" />
+ <pubDate>Tue, 23 Feb 2010 18:57:27 +0000</pubDate>
+ <dc:creator>p.cerda</dc:creator>
+ <guid isPermaLink="false">374 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Upgrading Drupal</title>
+ <link>http://2010.drupalcamp.es/sessions/upgrading-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    12:00 - 12:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Where do you start when upgrading a website with an active community around it? How do you preserve the data for thousands of users and nodes? How do you move away from obsolete modules? How do you limit downtime to a few hours? These are common questions when upgrading websites from Drupal 5 to Drupal 6, and we&#039;ll see how to solve them and add new functionality on top of it!&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/Upgrading_Drupal_Barcelona.pdf&quot; type=&quot;application/pdf; length=322645&quot;&gt;Upgrading_Drupal_Barcelona.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdeCVgI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/upgrading-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/best-practices">best practices</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/deployment">deployment</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/migration">migration</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/update">update</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/upgrade">upgrade</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/rendimiento-y-escalabilidad">Rendimiento y escalabilidad</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-UpgradingDrupal434.flv" fileSize="145268602" type="video/x-flv" duration="2250" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-UpgradingDrupal257-915.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-UpgradingDrupal434.flv" length="145268602" type="video/x-flv" />
+ <pubDate>Thu, 21 Jan 2010 08:18:11 +0000</pubDate>
+ <dc:creator>Florian Lorétan</dc:creator>
+ <guid isPermaLink="false">282 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Crear temas para Iphone con Drupal</title>
+ <link>http://2010.drupalcamp.es/sessions/crear-temas-para-iphone-con-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Caso práctico de como crear un tema para que sea visible nuestra web de forma optima en un Iphone o Ipod.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/charlamoviles.pdf&quot; type=&quot;application/pdf; length=1820837&quot;&gt;charlamoviles.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-livestream&quot;&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/crear-temas-para-iphone-con-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/iphone">Iphone</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/themas">themas</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/rendimiento-y-escalabilidad">Rendimiento y escalabilidad</category>
+ <media:content url="http://www.livestream.com/emision_en_directo/video?clipId=pla_36e677d0-ccf2-41de-9ff4-3d9132bfcfff" type="text/html; charset=utf-8"></media:content>
+ <pubDate>Tue, 19 Jan 2010 13:59:49 +0000</pubDate>
+ <dc:creator>oskar</dc:creator>
+ <guid isPermaLink="false">271 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Como cumplir la LOPD con Drupal</title>
+ <link>http://2010.drupalcamp.es/sessions/como-cumplir-la-lopd-con-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Viernes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    17:00 - 17:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Una sesión dedicada al correcto cumplimiento de la LOPD en las páginas webs.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/lopd.pdf&quot; type=&quot;application/pdf; length=88134&quot;&gt;lopd.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/como-cumplir-la-lopd-con-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/drupal">drupal</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/lopd">LOPD</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/rendimiento-y-escalabilidad">Rendimiento y escalabilidad</category>
+ <pubDate>Tue, 19 Jan 2010 13:58:39 +0000</pubDate>
+ <dc:creator>oskar</dc:creator>
+ <guid isPermaLink="false">269 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Why does Solr shine so bright and more on Apache Solr/Lucene</title>
+ <link>http://2010.drupalcamp.es/sessions/why-does-solr-shine-so-bright-and-more-apache-solrlucene</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;This session is an introduction about apache solr/lucene and how to use it in drupal.&lt;br /&gt;
+If there is enough animo I&#039;ll put a proposal for a more advanced session or even a workshop in solr.&lt;/p&gt;
+&lt;p&gt;Required?&lt;br /&gt;
+A bit of drupal knowledge&lt;br /&gt;
+A good ear&lt;/p&gt;
+&lt;p&gt;What will you learn?&lt;br /&gt;
+- Why are so many people fan of it?&lt;br /&gt;
+- Is it expensive? When should I use it?&lt;br /&gt;
+- How can I try it?&lt;br /&gt;
+- What do I need? Can I set it up without using that acquia service?&lt;br /&gt;
+- Make your own google subsite?&lt;br /&gt;
+- Can I integrate ubercart in this?&lt;br /&gt;
+- Where is this development going to?&lt;br /&gt;
+...and much more questions I&#039;ll try to answer!&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/apachesolr.pdf&quot; type=&quot;application/pdf; length=764084&quot;&gt;apachesolr.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/why-does-solr-shine-so-bright-and-more-apache-solrlucene#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/apache-solr">apache solr</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/lucene">lucene</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/performance">performance</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/search">search</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/views">views</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/rendimiento-y-escalabilidad">Rendimiento y escalabilidad</category>
+ <pubDate>Mon, 11 Jan 2010 17:10:47 +0000</pubDate>
+ <dc:creator>nick.veenhof</dc:creator>
+ <guid isPermaLink="false">253 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

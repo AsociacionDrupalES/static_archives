@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - generalitat</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/370/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>LaFarga.cat y punttic.cat. Drupal en la Generalitat de Catalunya</title>
+ <link>http://2010.drupalcamp.es/sessions/lafargacat-y-puntticcat-drupal-en-la-generalitat-de-catalunya</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    otro        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Muestra de las experiencias de drupal en la Genralitat de Catalunya alrededor de dos proyectos estrella: lafarga.cat y punntic.cat&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/lafargacat-y-puntticcat-drupal-en-la-generalitat-de-catalunya#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/administracion">administración</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/comunidad">comunidad</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/generalitat">generalitat</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <pubDate>Fri, 19 Feb 2010 14:20:21 +0000</pubDate>
+ <dc:creator>frambla</dc:creator>
+ <guid isPermaLink="false">363 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

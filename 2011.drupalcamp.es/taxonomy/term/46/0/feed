@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - Microformatos</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/46/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Microformatos en Drupal</title>
+ <link>http://2011.drupalcamp.es/sesiones/microformatos-en-drupal</link>
+ <description>&lt;p&gt;Los microformatos (&lt;a href=&quot;http://microformats.org/&quot; title=&quot;http://microformats.org/&quot;&gt;http://microformats.org/&lt;/a&gt;) es una de las formas mas simples de web semántica. Muy usados en otros CMS como wordpress permiten la interacción con plugins generando la posibilidad de, por ejemplo, exportar contactos de forma automática.&lt;/p&gt;
+&lt;p&gt;Además del valor de la semantización los microformatos tienen un gran valor para el SEO mejorando el resultado de posicionamiento de nuestro site.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/quiron&quot; title=&quot;Ver perfil de usuario.&quot;&gt;quiron&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/microformatosv2.pdf&quot; type=&quot;application/pdf; length=481795&quot;&gt;microformatosv2.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1500-1600&quot;&gt;2 Octubre 15:00 - 15:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/auditorio-emergya&quot;&gt;Auditorio Emergya&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Vídeo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-ustream&quot;&gt;&lt;object type=&#039;application/x-shockwave-flash&#039; height=&#039;420&#039; width=&#039;100%&#039; data=&#039;http://ustream.tv/flash/video/17638441&#039; id=&#039;ustream-video-1&#039; &gt;&lt;param name=&#039;movie&#039; value=&#039;http://www.ustream.tv/flash/video/17638441&#039; /&gt;&lt;param name=&#039;allowScriptAccess&#039; value=&#039;always&#039; /&gt;&lt;param name=&#039;quality&#039; value=&#039;best&#039; /&gt;&lt;param name=&#039;scale&#039; value=&#039;noScale&#039; /&gt;&lt;param name=&#039;wmode&#039; value=&#039;transparent&#039; /&gt;&lt;param name=&#039;FlashVars&#039; value=&#039;autoplay=false&#039; /&gt;&lt;param name=&#039;allowfullscreen&#039; value=&#039;true&#039; /&gt;&lt;/object&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/microformatos-en-drupal&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/microformatos-en-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/hcalendar">hcalendar</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/hcard">hcard</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/microformatos">Microformatos</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/seo">SEO</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/tags">tags</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/web-semantica">web semantica</category>
+ <pubDate>Tue, 24 May 2011 19:07:48 +0000</pubDate>
+ <dc:creator>quiron</dc:creator>
+ <guid isPermaLink="false">307 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

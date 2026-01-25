@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - less</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/83/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Drupal 7 Front-end Development</title>
+ <link>http://2011.drupalcamp.es/sesiones/drupal-7-front-end-development</link>
+ <description>&lt;p&gt;El objetivo: &lt;strong&gt;Optimizar el tiempo a la hora de crear temas en Drupal 7&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Buenas prácticas.&lt;/li&gt;
+&lt;li&gt;Context y Context Layouts.&lt;/li&gt;
+&lt;li&gt;Otra forma de maquetar Views.&lt;/li&gt;
+&lt;li&gt;Desarrollo más agil con Drush.&lt;/li&gt;
+&lt;li&gt;Optimización de nuestras CSS con LESS.&lt;/li&gt;
+&lt;li&gt;Metodología de trabajo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Estos son algunos de los temas en los que profundizo en el que será mi primer libro: &quot;Drupal 7 Front-end Development&quot;, que será publicado en octubre y distribuido de forma gratuita gracias a la colaboración de ideup!&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/sergiocerrutti&quot; title=&quot;Ver perfil de usuario.&quot;&gt;sergio.cerrutti&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1600-1700&quot;&gt;2 Octubre 16:00 - 16:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-02&quot;&gt;Sala 2: Cenatic&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/drupal-7-front-end-development&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/drupal-7-front-end-development#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/buenas-practicas">buenas practicas</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/context">context</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/drupal-7">drupal 7</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/less">less</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/metodologia-de-trabajo">metodología de trabajo</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/theming">theming</category>
+ <pubDate>Wed, 10 Aug 2011 17:07:15 +0000</pubDate>
+ <dc:creator>sergio.cerrutti</dc:creator>
+ <guid isPermaLink="false">389 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - iPad</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/97/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>De Drupal al Ipad</title>
+ <link>http://2011.drupalcamp.es/sesiones/de-drupal-al-ipad</link>
+ <description>&lt;p&gt;En esta sesión comentaremos como estamos creando aplicaciones para el Ipad usando Drupal como CMS. Estas aplicaciones están orientadas a dos sectores en concreto, publicaciones de revistas, diarios, magazines y por otro lado, la digitalización de catálogos comerciales de cara a dotar al equipo de ventas de una herramienta portatil que facilita el trabajo.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/iworkwithyou&quot; title=&quot;Ver perfil de usuario.&quot;&gt;iworkwithyou&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1300-1400&quot;&gt;2 Octubre 13:00 - 13:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-01&quot;&gt;Sala 1: Microsoft&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/de-drupal-al-ipad&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/de-drupal-al-ipad#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/cms">CMS</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/drupal">Drupal</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/ipad">iPad</category>
+ <pubDate>Thu, 01 Sep 2011 14:37:52 +0000</pubDate>
+ <dc:creator>iworkwithyou</dc:creator>
+ <guid isPermaLink="false">411 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

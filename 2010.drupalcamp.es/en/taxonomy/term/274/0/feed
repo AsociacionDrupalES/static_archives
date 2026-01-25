@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Plata</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/274/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>VectorSF</title>
+ <link>http://2010.drupalcamp.es/en/sponsors/vectorsf</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-sponsor-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img  class=&quot;imagefield imagefield-field_sponsor_image&quot; width=&quot;487&quot; height=&quot;194&quot; alt=&quot;&quot; src=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/Logo_VectorSF.JPG?1266313633&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-link field-field-sponsor-website&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;http://www.vectorsf.com&quot;&gt;http://www.vectorsf.com&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-userreference field-field-sponsor-attendees&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    agarciav        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    aamartin        &lt;/div&gt;
+              &lt;div class=&quot;field-item odd&quot;&gt;
+                    mfernandezm        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-esponsor/plata">Plata</category>
+ <pubDate>Tue, 16 Feb 2010 09:47:13 +0000</pubDate>
+ <dc:creator>carlos_rincon</dc:creator>
+ <guid isPermaLink="false">349 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Ideup</title>
+ <link>http://2010.drupalcamp.es/en/sponsors/ideup</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-sponsor-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img  class=&quot;imagefield imagefield-field_sponsor_image&quot; width=&quot;510&quot; height=&quot;207&quot; alt=&quot;&quot; src=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/logo_ideup.png?1266225547&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-link field-field-sponsor-website&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;http://ideup.com/&quot;&gt;http://ideup.com/&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-userreference field-field-sponsor-attendees&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    p.cerda        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    s.cerrutti        &lt;/div&gt;
+              &lt;div class=&quot;field-item odd&quot;&gt;
+                    j.garcia        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-esponsor/plata">Plata</category>
+ <pubDate>Mon, 15 Feb 2010 09:19:08 +0000</pubDate>
+ <dc:creator>p.cerda</dc:creator>
+ <guid isPermaLink="false">346 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>CometaTech</title>
+ <link>http://2010.drupalcamp.es/en/sponsors/cometatech</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-sponsor-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img  class=&quot;imagefield imagefield-field_sponsor_image&quot; width=&quot;8222&quot; height=&quot;2508&quot; alt=&quot;&quot; src=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/logo%20cometaTech%20Smile%20molt%20gran.jpg?1265966201&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-link field-field-sponsor-website&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;http://www.cometatech.com/&quot;&gt;http://www.cometatech.com/&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-esponsor/plata">Plata</category>
+ <pubDate>Fri, 12 Feb 2010 09:16:44 +0000</pubDate>
+ <dc:creator>marcg</dc:creator>
+ <guid isPermaLink="false">338 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Investic</title>
+ <link>http://2010.drupalcamp.es/en/sponsors/investic</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-sponsor-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img  class=&quot;imagefield imagefield-field_sponsor_image&quot; width=&quot;829&quot; height=&quot;394&quot; alt=&quot;&quot; src=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/logo_investic.jpg?1264153525&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-link field-field-sponsor-website&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;http://www.investic.net&quot;&gt;http://www.investic.net&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sponsors/investic#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-esponsor/plata">Plata</category>
+ <pubDate>Fri, 22 Jan 2010 09:45:25 +0000</pubDate>
+ <dc:creator>karlos</dc:creator>
+ <guid isPermaLink="false">287 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

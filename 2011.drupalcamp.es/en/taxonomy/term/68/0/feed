@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - drupal facebook</title>
+ <link>http://2011.drupalcamp.es/en/taxonomy/term/68/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Drupal facebook integration</title>
+ <link>http://2011.drupalcamp.es/en/sessions/drupal-facebook-integration</link>
+ <description>&lt;p&gt;English:&lt;br /&gt;
+This session would be a detailed look into the functionality that facebook offers and how to implement all that power in drupal.&lt;br /&gt;
+We would start with facebook popular concepts like &quot;Social Plugins,&lt;br /&gt;
+Social Channels, Graph API and authentification&quot;.&lt;br /&gt;
+Thereafter we would go through most of the important contributed modules that you can use for implementing the above mentioned concepts.&lt;br /&gt;
+Lastly we would show you how to do some really cool stuffs from your own module like registering users and importing facebook profile to your profile content type in drupal.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presenter(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/en/users/citiface&quot; title=&quot;View user profile.&quot;&gt;citiface&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/13-mayo-1100-1200&quot;&gt;1 Octubre 11:00 - 11:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/room-02&quot;&gt;Sala 2: Cenatic&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/en/sessions/drupal-facebook-integration&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/en/sessions/drupal-facebook-integration#comments</comments>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/drupal-facebook">drupal facebook</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/drupal-facebook-integration">drupal facebook integration</category>
+ <pubDate>Wed, 20 Jul 2011 17:34:35 +0000</pubDate>
+ <dc:creator>citiface</dc:creator>
+ <guid isPermaLink="false">368 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

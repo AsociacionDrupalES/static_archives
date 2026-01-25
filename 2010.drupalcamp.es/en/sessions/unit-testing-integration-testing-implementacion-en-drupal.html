@@ -1,0 +1,320 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <title>Unit testing &amp; Integration testing. Implementación en Drupal | DrupalcampSpain</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../sites/drupalcamp.es/files/barcelona2010c_favicon.ico" type="image/x-icon" />
+ <link type="text/css" rel="stylesheet" media="all" href="../../sites/drupalcamp.es/files/css/css_2c4d9fb89ee8f1c7051f7ea1bf03dafa.css" />
+ <!--[if lte IE 7]>
+<link rel="stylesheet" href="/sites/2010.drupalcamp.es/themes/barcelona2010/css/estilo_ie.css" type="text/css" />
+<![endif]-->
+ <script type="text/javascript" src="../../sites/drupalcamp.es/files/js/js_d1c362ba42df77b07c7194dc94652e2b.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "CTools": { "pageId": "page-ac6e93416c1af0c587a4fee4cebb4f62" }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" }, "extlink": { "extTarget": 0, "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" }, "views": { "ajax_path": "/en/views/ajax", "ajaxViews": [ { "view_name": "attendees", "view_display_id": "block_2", "view_args": "", "view_path": "node/348", "view_base_path": "attendees", "view_dom_id": 2, "pager_element": 0 } ] } });
+//--><!]]>
+</script>
+ <script type="text/javascript"> </script>
+</head>
+<body class="sessions">
+<div id="wrap">
+<div id="cabecera">
+<div class="contenedor">
+   <h1 class="oculto">DrupalcampSpain</h1>
+        <div class="menulogin"><div class="menu_izq">&nbsp;</div><ul class="links"><li class="menu-3572 first"><a href="http://drupalcamp.es/node/331/" title="">Actos Sociales</a></li>
+<li class="menu-678"><a href="../news.html" title="Noticias y anuncios del DrupalCamp">News</a></li>
+<li class="menu-3489"><a href="../attendees.html" title="">Attendees</a></li>
+<li class="menu-716"><a href="../forum.html" title="Temas de discusión sobre el DrupalCamp">Forums</a></li>
+<li class="menu-3474"><a href="../frequently-asked-questions.html">FAQ</a></li>
+<li class="menu-2759"><a href="../contact.html" title="">Contact</a></li>
+<li class="menu-3624"><a href="../social-agenda.html" title="">Act. social</a></li>
+<li class="menu-3464"><a href="../user.html" title="Acceso a tus datos de cuenta">My account</a></li>
+<li class="menu-3571 last"><a href="../programa.html" title="">Programa</a></li>
+</ul><div class="menu_der">&nbsp;</div></div>
+		<a href="../../index.html" title="Principal"><img src="../../sites/all/themes/barcelona2010c/img/logo.png" alt="Logotipo" class="logo" /></a> 
+        <div class="menuprincipal"><ul class="links"><li class="menu-3479 first"><a href="../about.html" title="">About</a></li>
+<li class="menu-3634"><a href="../sessions.html" title="">Sessions</a></li>
+<li class="menu-3515"><a href="../sponsors.html" title="">Sponsors</a></li>
+<li class="menu-3490 last"><a href="../simpatizantes.html" title="">Supporters</a></li>
+</ul></div>
+    </div>
+</div>
+<div id="centro">
+<div class="contenedor"></div>
+</div>
+  <div id="cuerpo">
+  <div class="contenedor" style="text-align: left; display: block;">
+    
+    <div id="page">
+     
+      
+      <div id="block-archive_block-archive_block" class="block block-archive_block">
+    <div class="title">Site archived</div>
+  
+  <div class="content">This site has been archived. All the functionality has been disabled and only the content is keeped for historic purposes.</div>
+</div>
+
+
+            <h2 class="title">Unit testing &amp; Integration testing. Implementación en Drupal</h2>
+      
+      
+            <div id="node-348" class="node node-session">
+  
+  
+  
+  <div class="terms"><ul class="links inline"><li class="taxonomy_term_352 first"><a href="../category/etiquetas-de-sesion/integration-testing.html" rel="tag" title="">integration testing</a></li>
+<li class="taxonomy_term_353"><a href="../category/etiquetas-de-sesion/productivity.html" rel="tag" title="">productivity</a></li>
+<li class="taxonomy_term_351"><a href="../category/etiquetas-de-sesion/testing.html" rel="tag" title="">testing</a></li>
+<li class="taxonomy_term_350"><a href="../category/etiquetas-de-sesion/unit-testing.html" rel="tag" title="">unit testing</a></li>
+<li class="taxonomy_term_207"><a href="../category/categorí/casos-reales.html" rel="tag" title="">Casos reales</a></li>
+<li class="taxonomy_term_208"><a href="../category/categorí/construcción-del-sitio.html" rel="tag" title="">Construcción del sitio</a></li>
+<li class="taxonomy_term_211 last"><a href="../category/nivel-de-experiencia/intermedio.html" rel="tag" title="">Intermedio</a></li>
+</ul></div>
+
+  <div class="content"><fieldset class="fieldgroup group-session-logistics"><legend>Logística</legend><div class="field field-type-text field-field-session-day">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Day:&nbsp;</div>
+                    Viernes        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-session-time">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Time:&nbsp;</div>
+                    17:00 - 17:45        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-session-room">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Room:&nbsp;</div>
+                    Sala Cenatic        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-session-duration">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Duration:&nbsp;</div>
+                    45 minutes        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-session-computer">
+    <div class="field-items">
+            <div class="field-item odd">
+                      <div class="field-label-inline-first">
+              Computer:&nbsp;</div>
+                    Usaré mi portátil Linux        </div>
+        </div>
+</div>
+</fieldset>
+<p>Para garantizar el éxito de cualquier proyecto de ingeniería del software, es necesario dedicar entre un 20% y un 50% (de media) a la fase de testeo/pruebas. Cualquier esfuerzo de implementación que permita la automatización de las tareas más comunes de esta fase del desarrollo de un proyecto permitirán acortar los tiempos de entrega, y mejorar la calidad de nuestros procedimientos de trabajo.</p>
+<p>En esta sesión se abarcarán los conceptos de pruebas unitarias ("unit testing") y pruebas de integración ("integration testing"). Se mostrarán ejemplos de implementación de este tipo de pruebas en entornos reales Drupal. Enseñaremos casos de uso básicos de la API de Simpletest y propondremos ejemplos de planes de pruebas de integración para entornos de desarrollo Drupal.</p>
+<p>Si nos llega el tiempo, intentaremos acabar la sesión explicando un modelo completo de plan de pruebas para la validación de un sitio Drupal, según los estándares W3C, apoyándonos en el módulo de <a href="http://al.quimia.net/" rel="nofollow">Alquimia</a> "<a href="http://drupal.org/project/w3c_validator" rel="nofollow">W3C Validator</a>". Esto nos permitirá integrar el módulo junto con nuestro entorno de pruebas de desarrollo, de modo de que no será necesario procesarlas como parte independiente de nuestro procedimiento de trabajo.</p>
+<p><strong>Esta conferencia ya se ha celebrado</strong></p>
+<p>Si te la has perdido y quieres poder verla, o bien quieres volver a echarle un vistazo, la tienes disponible <a href="http://bit.ly/difPTW" rel="nofollow">online</a>. También puedes encontrar todo el material de la charla en la web personal de <a href="http://bit.ly/cLbuL4" rel="nofollow">Javier</a></p>
+<div class="field field-type-emvideo field-field-session-video">
+      <div class="field-label">Video:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="http://www.livestream.com/emision_en_directo/video?clipId=pla_3d1f2fb9-a883-4957-9328-817113786d12"><img src="http://2010.drupalcamp.es/sites/all/themes/barcelona2010c/no-pre.png" alt="See video" title="See video"  width="120" height="90" /></a>        </div>
+        </div>
+</div>
+</div>
+
+  <div class="links"><ul class="links inline"><li class="comment_forbidden first last"><span><a href="../user/login%3Fdestination=node%252F348%2523comment-form.html">Login</a> or <a href="../user/register%3Fdestination=node%252F348%2523comment-form.html">register</a> to post comments</span></li>
+</ul></div>
+</div>
+
+    </div>
+
+        <div id="right-sidebar" class="sidebar"><div id="block-views-attendees-block_4" class="block block-views">
+  
+  <div class="content"><div class="view view-attendees view-id-attendees view-display-id-block_4 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-668.jpg" alt="javier&#039;s picture" title="javier&#039;s picture"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  
+  <div class="views-field-value-1">
+          <label class="views-label-value-1">
+        Nombre Completo:
+      </label>
+                <span class="field-content">Javier Carranza</span>
+  </div>
+  
+  <div class="views-field-value-2">
+                <span class="field-content"><a href="http://al.quimia.net/">http://al.quimia.net/</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+
+<div id="block-block-15" class="block block-block">
+  
+  <div class="content"><a href="../../paquetes-de-patrocinio.html" title="sponsor"><img src="../../sites/all/themes/barcelona2010c/img/necesita.png" alt="DrupalCamp Spain 2010 Sponsor"></a></div>
+</div>
+
+</div>
+      </div>
+  </div>
+  </div>
+
+  <div id="pie">
+  <div class="contenedor">
+  <div class="columnas">
+	<div class="pie_izq"><div id="block-views-attendees-block_2" class="block block-views">
+    <div class="title">Attendees</div>
+  
+  <div class="content"><div class="view view-attendees view-id-attendees view-display-id-block_2 view-dom-id-2">
+        <div class="view-header">
+      <p><a href="../../attendees.html" class="view-all" rel="nofollow">View All</a></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-620.jpg" alt="xandra&#039;s picture" title="xandra&#039;s picture"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-615.png" alt="marcosesperon&#039;s picture" title="marcosesperon&#039;s picture"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-805.jpg" alt="alonsog&#039;s picture" title="alonsog&#039;s picture"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-741.jpg" alt="j.serrano&#039;s picture" title="j.serrano&#039;s picture"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-953.jpg" alt="aggarcia&#039;s picture" title="aggarcia&#039;s picture"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-663.jpg" alt="MarcNavarro&#039;s picture" title="MarcNavarro&#039;s picture"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-600.jpg" alt="miren&#039;s picture" title="miren&#039;s picture"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture">
+  <img src="../../sites/drupalcamp.es/files/imagecache/asistentes/pictures/picture-886.jpg" alt="rsanzante&#039;s picture" title="rsanzante&#039;s picture"  class="imagecache imagecache-asistentes" width="97" height="97" /></div></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+
+</div>	<div class="pie_der"><div id="block-locale-0" class="block block-locale">
+    <div class="title">Languages</div>
+  
+  <div class="content"><ul><li class="en first active"><a href="unit-testing-integration-testing-implementacion-en-drupal.html" class="language-link active">English</a></li>
+<li class="es last"><a href="../../sessions/unit-testing-integration-testing-implementacion-en-drupal.html" class="language-link">Español</a></li>
+</ul></div>
+</div>
+
+<div id="block-views-sponsors-block_2" class="block block-views">
+  
+  <div class="content"><div class="view view-sponsors view-id-sponsors view-display-id-block_2 view-dom-id-3">
+        <div class="view-header">
+      <p><a href="../../sponsors.html" class="view-sponsors" rel="nofollow">View all Sponsors</a></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-sponsor-image-fid">
+                <span class="field-content"><a href="../sponsors/vectorsf.html" class="imagecache imagecache-sponsor-footer imagecache-linked imagecache-sponsor-footer_linked"><img src="../../sites/drupalcamp.es/files/imagecache/sponsor-footer/Logo_VectorSF.JPG" alt="" title=""  class="imagecache imagecache-sponsor-footer" width="210" height="84" /></a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+
+<div id="block-block-16" class="block block-block">
+    <div class="title">Total asistentes</div>
+  
+  <div class="content"><p><span id='total_preregistros'>350</span></p></div>
+</div>
+
+</div>	</div>
+	<div class="texto_pie">
+	<a href="http://2010.drupalcamp.es/en/creditos" title="Quien hace posible todo esto">créditos</a>	</div>
+    
+	</div>
+  </div>
+  <script type="text/javascript" src="../../sites/drupalcamp.es/files/js/js_e6eac597e5dffd88510ac19d73a5d854.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-12669056-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+</body>
+</html>
+

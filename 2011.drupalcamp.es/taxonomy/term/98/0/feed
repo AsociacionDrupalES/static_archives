@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - diseño gráfico</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/98/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Diseño gráfico y Drupal</title>
+ <link>http://2011.drupalcamp.es/sesiones/diseno-grafico-y-drupal</link>
+ <description>&lt;p&gt;Un repaso a los últimos proyectos que hemos desarrollado en Drupal desde un punto de vista del diseño gráfico. Indracompany.com, cartografica.org, CanalTNT.es, Boing.es, Fundacionseres.org entre otros.&lt;br /&gt;
+La idea es comentar aspectos del diseño aplicados al desarrollo en drupal de cara a obtener webs de calidad.&lt;/p&gt;
+&lt;p&gt;Comentaremos aspectos concretos sobre:&lt;br /&gt;
+- Diseño gráfico de plantillas.&lt;br /&gt;
+- Diseño tipográfico.&lt;br /&gt;
+- Colores y branding.&lt;br /&gt;
+- El uso de las imágenes y la definición de la retícula y espacios.&lt;br /&gt;
+- Como adecuar la publicidad a la retícula (o viceversa).&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/iworkwithyou&quot; title=&quot;Ver perfil de usuario.&quot;&gt;iworkwithyou&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/13-mayo-1000-1100&quot;&gt;1 Octubre 10:00 - 10:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-03&quot;&gt;Sala 3: ETSII&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/diseno-grafico-y-drupal&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/diseno-grafico-y-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/diseno-grafico">diseño gráfico</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/interface">interface</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/usabilidad">usabilidad</category>
+ <pubDate>Thu, 01 Sep 2011 14:40:55 +0000</pubDate>
+ <dc:creator>iworkwithyou</dc:creator>
+ <guid isPermaLink="false">412 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

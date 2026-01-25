@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - aplicaciones web</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/58/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Drupal como framework de aplicaciones web</title>
+ <link>http://2011.drupalcamp.es/sesiones/drupal-como-framework-de-aplicaciones-web</link>
+ <description>&lt;p&gt;En ocasiones se habla de Drupal como un CMS (content management system); no obstante, este punto de vista se queda bastante corto porque Drupal va mucho más allá. &lt;/p&gt;
+&lt;p&gt;Drupal es un framework para el desarrollo de aplicaciones web. Como framework ofrece un conjunto de facilidades o servicios, como la gestión de usuarios, la infraestructura para la gestión de nodos, taxonomía, acceso a base de datos, gestión de ficheros, caché y un largo etcétera.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/gomezbl&quot; title=&quot;Ver perfil de usuario.&quot;&gt;gomezbl&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-vnd.oasis.opendocument.presentation&quot;  alt=&quot;application/vnd.oasis.opendocument.presentation icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/x-office-presentation.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/presentacion_0.odp&quot; type=&quot;application/vnd.oasis.opendocument.presentation; length=311296&quot;&gt;presentacion.odp&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1000-1100&quot;&gt;2 Octubre 10:00 - 10:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-01&quot;&gt;Sala 1: Microsoft&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/drupal-como-framework-de-aplicaciones-web&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/drupal-como-framework-de-aplicaciones-web#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/aplicaciones-web">aplicaciones web</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/framework">framework</category>
+ <pubDate>Wed, 25 May 2011 06:44:20 +0000</pubDate>
+ <dc:creator>gomezbl</dc:creator>
+ <guid isPermaLink="false">310 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

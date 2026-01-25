@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - ecommerce</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/18/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Drupal Commerce: La próxima generación de comercio electrónico con Drupal</title>
+ <link>http://2011.drupalcamp.es/sesiones/drupal-commerce-la-proxima-generacion-de-comercio-electronico-con-drupal</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://drupal.org/project/commerce&quot;&gt;Drupal Commerce&lt;/a&gt; ofrece una solución profesional para comercios electrónicos en Drupal 7. &lt;strong&gt;Es una nueva forma de implementar soluciones para tiendas online que se basa en todas las ventajas e innovaciones de la nueva versión de Drupal&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/pcambra&quot; title=&quot;Ver perfil de usuario.&quot;&gt;pcambra&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/drupalcommerce.pdf&quot; type=&quot;application/pdf; length=186010&quot;&gt;drupalcommerce.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1000-1100&quot;&gt;2 Octubre 10:00 - 10:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/auditorio-emergya&quot;&gt;Auditorio Emergya&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Vídeo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-ustream&quot;&gt;&lt;object type=&#039;application/x-shockwave-flash&#039; height=&#039;420&#039; width=&#039;100%&#039; data=&#039;http://ustream.tv/flash/video/17634983&#039; id=&#039;ustream-video-1&#039; &gt;&lt;param name=&#039;movie&#039; value=&#039;http://www.ustream.tv/flash/video/17634983&#039; /&gt;&lt;param name=&#039;allowScriptAccess&#039; value=&#039;always&#039; /&gt;&lt;param name=&#039;quality&#039; value=&#039;best&#039; /&gt;&lt;param name=&#039;scale&#039; value=&#039;noScale&#039; /&gt;&lt;param name=&#039;wmode&#039; value=&#039;transparent&#039; /&gt;&lt;param name=&#039;FlashVars&#039; value=&#039;autoplay=false&#039; /&gt;&lt;param name=&#039;allowfullscreen&#039; value=&#039;true&#039; /&gt;&lt;/object&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/drupal-commerce-la-proxima-generacion-de-comercio-electronico-con-drupal&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/drupal-commerce-la-proxima-generacion-de-comercio-electronico-con-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/commerce">commerce</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/drupal-7">drupal 7</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/ecommerce">ecommerce</category>
+ <pubDate>Fri, 08 Apr 2011 21:55:43 +0000</pubDate>
+ <dc:creator>pcambra</dc:creator>
+ <guid isPermaLink="false">173 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

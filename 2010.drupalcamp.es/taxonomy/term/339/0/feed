@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - community</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/339/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>The Real Power of Drupal: People</title>
+ <link>http://2010.drupalcamp.es/sessions/real-power-drupal-people</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    15:00 - 15:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Forcontu        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil MacOSX        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Drupal is much more than just a piece of software that you download. Whether you are a newbie, expert, coder, designer, or an end user, we all have an effect on the ecosystem where the sum is greater than its parts. We&#039;ll take a look at the big picture of the Drupal world, how to leverage more than just code, and how you can have more impact than you think.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/barcelona-people.pdf&quot; type=&quot;application/pdf; length=2556909&quot;&gt;barcelona-people.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdeAJgI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/real-power-drupal-people#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/community">community</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/people">people</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-TheRealPowerOfDrupalPeople386.flv" fileSize="189058112" type="video/x-flv" duration="2916" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-TheRealPowerOfDrupalPeople992-473.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-TheRealPowerOfDrupalPeople386.flv" length="189058112" type="video/x-flv" />
+ <pubDate>Sun, 14 Feb 2010 01:36:15 +0000</pubDate>
+ <dc:creator>add1sun</dc:creator>
+ <guid isPermaLink="false">343 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

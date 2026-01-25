@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - Emergya</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/115/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Mesa Redonda Emergya - Microsoft: Modelos de negocio en torno a Drupal</title>
+ <link>http://2011.drupalcamp.es/sesiones/mesa-redonda-emergya-microsoft-modelos-de-negocio-en-torno-drupal</link>
+ <description>&lt;p&gt;Nuestros dos patrocinadores oro, Emergya y Microsoft, harán una presentación de unos 15 minutos exponiendo diferentes puntos alrededor de Drupal. Entre otros temas, se comentarán modelos de negocio, oportunidades para empresas y emprendedores y posibilidades del modelo cloud.&lt;/p&gt;
+&lt;p&gt;Finalizadas las presentaciones se abrirá un turno de participación y debate en el cual los asistentes podrán opinar y enriquecer el debate sobre las distintas maneras de concebir distintos modelos de negocio en torno a Drupal.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/nacho-montoya&quot; title=&quot;Ver perfil de usuario.&quot;&gt;Nacho Montoya&lt;/a&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    &lt;a href=&quot;/users/david-salgado&quot; title=&quot;Ver perfil de usuario.&quot;&gt;David Salgado&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/13-mayo-1300-1400&quot;&gt;1 Octubre 13:00 - 13:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/auditorio-emergya&quot;&gt;Auditorio Emergya&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Vídeo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-ustream&quot;&gt;&lt;object type=&#039;application/x-shockwave-flash&#039; height=&#039;420&#039; width=&#039;100%&#039; data=&#039;http://ustream.tv/flash/video/17613774&#039; id=&#039;ustream-video-1&#039; &gt;&lt;param name=&#039;movie&#039; value=&#039;http://www.ustream.tv/flash/video/17613774&#039; /&gt;&lt;param name=&#039;allowScriptAccess&#039; value=&#039;always&#039; /&gt;&lt;param name=&#039;quality&#039; value=&#039;best&#039; /&gt;&lt;param name=&#039;scale&#039; value=&#039;noScale&#039; /&gt;&lt;param name=&#039;wmode&#039; value=&#039;transparent&#039; /&gt;&lt;param name=&#039;FlashVars&#039; value=&#039;autoplay=false&#039; /&gt;&lt;param name=&#039;allowfullscreen&#039; value=&#039;true&#039; /&gt;&lt;/object&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2011.drupalcamp.es/sesiones/mesa-redonda-emergya-microsoft-modelos-de-negocio-en-torno-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/emergya">Emergya</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/microsoft">Microsoft</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/modelos-de-negocio">Modelos de negocio</category>
+ <pubDate>Mon, 19 Sep 2011 18:16:45 +0000</pubDate>
+ <dc:creator>Nacho Montoya</dc:creator>
+ <guid isPermaLink="false">478 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

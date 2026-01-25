@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Preguntas sobre las sesiones</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/218/0</link>
+ <description>¿Tienes alguna duda sobre la planificación de sesiones? Pregunta aquí</description>
+ <language>es</language>
+<item>
+ <title>Donde estan las sesiones online?</title>
+ <link>http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/donde-estan-las-sesiones-online</link>
+ <description>&lt;p&gt;pues eso, me estoy volviendo loco.&lt;/p&gt;
+&lt;p&gt;lo más obvio sería que estubiesen en apartado Sesiones, pero no lo he encontrado por ningún lado.&lt;/p&gt;
+&lt;p&gt;Si estan y alguien pudiese indicarme dódne, muy agradecido estaría ;)&lt;/p&gt;
+&lt;p&gt;Saludos.&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/donde-estan-las-sesiones-online#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/218">Preguntas sobre las sesiones</category>
+ <pubDate>Sun, 28 Feb 2010 22:07:59 +0000</pubDate>
+ <dc:creator>rodrix1985</dc:creator>
+ <guid isPermaLink="false">393 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Gracias a todos</title>
+ <link>http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/gracias-todos</link>
+ <description>&lt;p&gt;Gracias a todos en este Drupal Camp. Ha sido un placer asistir, conoceros y sobre todo ver a la comunidad de Drupal en España que es genial. Espero que podamos repetir el próximo año.&lt;/p&gt;
+&lt;p&gt;Un saludo.&lt;br /&gt;
+César.&lt;br /&gt;
+&lt;a href=&quot;http://www.cesaryjustina.com/&quot; title=&quot;http://www.cesaryjustina.com/&quot; rel=&quot;nofollow&quot;&gt;http://www.cesaryjustina.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://twitter.com/iworkwithyou&quot; title=&quot;http://twitter.com/iworkwithyou&quot; rel=&quot;nofollow&quot;&gt;http://twitter.com/iworkwithyou&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/gracias-todos#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/218">Preguntas sobre las sesiones</category>
+ <pubDate>Sun, 28 Feb 2010 07:17:52 +0000</pubDate>
+ <dc:creator>cesar_martin</dc:creator>
+ <guid isPermaLink="false">392 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Grabar las sesiones</title>
+ <link>http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/grabar-las-sesiones</link>
+ <description>&lt;p&gt;Buenas, con tal cantidad de sesiones interesantes surge la pregunta de ¿a cual voy de las 3 sesiones que se dan a la vez y me son muy interesantes? Por ello pregunto: &lt;/p&gt;
+&lt;p&gt;¿vais a grabar las sesiones para poder verlas más tarde? &lt;/p&gt;
+&lt;p&gt;LA verdad es que sería un acierto poner una cámara (allí donde el ponente deje claro).&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/grabar-las-sesiones#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/218">Preguntas sobre las sesiones</category>
+ <pubDate>Wed, 24 Feb 2010 09:47:06 +0000</pubDate>
+ <dc:creator>cels</dc:creator>
+ <guid isPermaLink="false">378 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Programa / Horario</title>
+ <link>http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/programa-horario</link>
+ <description>&lt;p&gt;Buenas tardes!&lt;/p&gt;
+&lt;p&gt;Cuando podremos saber las distintas sesiones que se darán y en que horario?&lt;/p&gt;
+&lt;p&gt;Gracias&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/programa-horario#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/218">Preguntas sobre las sesiones</category>
+ <pubDate>Thu, 18 Feb 2010 14:28:37 +0000</pubDate>
+ <dc:creator>Francesc</dc:creator>
+ <guid isPermaLink="false">359 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Sesiones interesantes que alguien podría dar</title>
+ <link>http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/sesiones-interesantes-que-alguien-podria-dar</link>
+ <description>&lt;p&gt;Creo que es interesante abrir un hilo para discutir ideas de sesiones que estaría bien que alguien diera (a ver si se anima alguien).&lt;/p&gt;
+&lt;p&gt;Sesiones interesantes (bajo mi punto de vista) podrían ser:&lt;/p&gt;
+&lt;p&gt;* TDD en Drupal. Cómo crear tests para Drupal y así mejorar la estabilidad del producto final.&lt;br /&gt;
+* Cómo se puede contribuir a Drupal. Explicación de qué es un patch, cómo se hace, cómo puedo aplicar patchs de otros para probar nuevos desarrollos, etc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/sesiones-interesantes-que-alguien-podria-dar&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/forum/preguntas-sobre-las-sesiones/sesiones-interesantes-que-alguien-podria-dar#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/218">Preguntas sobre las sesiones</category>
+ <pubDate>Thu, 14 Jan 2010 12:52:30 +0000</pubDate>
+ <dc:creator>rvilar</dc:creator>
+ <guid isPermaLink="false">263 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

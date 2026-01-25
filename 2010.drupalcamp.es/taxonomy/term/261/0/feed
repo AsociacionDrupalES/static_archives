@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - theming</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/261/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Plantillas, como tomar el control sin perder (mucho) pelo en el intento</title>
+ <link>http://2010.drupalcamp.es/sessions/plantillas-como-tomar-el-control-sin-perder-mucho-pelo-en-el-intento</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    11:00 - 11:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;En esta sesión:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Se explicará brevemente la estructura de las plantillas.&lt;/li&gt;
+&lt;li&gt;Se darán directrices generales de como afrontar una plantilla, aplicando tecnicas para la sostenibilidad de la misma.&lt;/li&gt;
+&lt;li&gt;¿De donde viene $content en mi page.tpl.php?&lt;/li&gt;
+&lt;li&gt;PHP el justo, y en template.php. Crea tus propias variables.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I speak fluent english, although I feel most of the audience will not, so the presentation will be in spanish. However, I welcome questions in english during or after the session.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/plantillas_0.pdf&quot; type=&quot;application/pdf; length=539364&quot;&gt;plantillas.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgebBJgI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/plantillas-como-tomar-el-control-sin-perder-mucho-pelo-en-el-intento&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/plantillas-como-tomar-el-control-sin-perder-mucho-pelo-en-el-intento#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/ficheros-tpl">ficheros tpl</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/templatephp">template.php</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/theming">theming</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-PlantillasComoTomarElControlSinPerderMuchoPeloEnElInt600.flv" fileSize="181037627" type="video/x-flv" duration="2842" width="720" height="576"></media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-PlantillasComoTomarElControlSinPerderMuchoPeloEnElInt600.flv" length="181037627" type="video/x-flv" />
+ <pubDate>Tue, 19 Jan 2010 19:08:00 +0000</pubDate>
+ <dc:creator>manuee</dc:creator>
+ <guid isPermaLink="false">275 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - SCRUM y la Gestión de Proyectos WEB.</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/234/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>SCRUM y la Gestión de Proyectos WEB. Enfoque teórico orientado a la práctica.</title>
+ <link>http://2010.drupalcamp.es/sessions/scrum-y-la-gesti%C3%B3n-de-proyectos-web</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    15:00 - 15:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;strong&gt;- No hay nada mas práctico que una buena teoría -&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción, definiciones y aclaración de conceptos relativos a la Gestión de Proyectos.
+&lt;/li&gt;&lt;li&gt;Taxonomía de los proyectos y de los métodos de gestión. Aplicación a los proyectos web.
+&lt;/li&gt;&lt;li&gt;Gestión de Proyectos: paradigma &lt;em&gt;clásico&lt;/em&gt; frente al &lt;em&gt;nuevo&lt;/em&gt;.
+&lt;/li&gt;&lt;li&gt;El &lt;em&gt;nuevo&lt;/em&gt; paradigma y los proyectos web: ¿un caso de simbiosis mutualista?
+&lt;/li&gt;&lt;li&gt;Metodologías que responden al &lt;em&gt;nuevo&lt;/em&gt; paradigma.
+&lt;/li&gt;&lt;li&gt;SCRUM: principios, metodología, técnicas y herramientas.&lt;br /&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/scrum-y-la-gesti%C3%B3n-de-proyectos-web&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/scrum-y-la-gesti%C3%B3n-de-proyectos-web#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/scrum-y-la-gestion-de-proyectos-web-0">SCRUM y la Gestión de Proyectos WEB.</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/negocio">Negocio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-SCRUMYLaGestinDeProyectosWEBEnfoqueTericoOrientadoALa604.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-SCRUMYLaGestinDeProyectosWEBEnfoqueTericoOrientadoALa604-717.jpg" />
+</media:content>
+ <pubDate>Sun, 10 Jan 2010 15:01:24 +0000</pubDate>
+ <dc:creator>isaac.el.cec</dc:creator>
+ <guid isPermaLink="false">246 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

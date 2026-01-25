@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - drupal7</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/66/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>El universo JavaScript en Drupal 7</title>
+ <link>http://2011.drupalcamp.es/sesiones/el-universo-javascript-en-drupal-7</link>
+ <description>&lt;p&gt;Drupal 7 ya empieza a ser una realidad en muchos de nuestros actuales desarrollos. Poco a poco, con el día a día, nos vamos dando cuenta de las novedades que incluye esta versión en temas de APIs, nuevas funcionalidades, nuevos módulos en el núcleo, etc.; aunque, igual que en Drupal 6, hay un pequeño compañero de viaje en nuestros desarrollos sobre el cuál pocos hablan pero con el que sin él, no podríamos vivir: el JavaScript.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/rvilar&quot; title=&quot;Ver perfil de usuario.&quot;&gt;rvilar&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/el-universo-javascript-en-drupal-7&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/el-universo-javascript-en-drupal-7#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/drupal7">drupal7</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/javascript">javascript</category>
+ <pubDate>Wed, 20 Jul 2011 15:50:36 +0000</pubDate>
+ <dc:creator>rvilar</dc:creator>
+ <guid isPermaLink="false">364 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

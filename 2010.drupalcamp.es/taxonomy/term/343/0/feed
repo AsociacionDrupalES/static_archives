@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - digital asset</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/343/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Integración de Drupal con Alfresco ECM a través de CMIS (Content Management Interoperability Services)</title>
+ <link>http://2010.drupalcamp.es/sessions/integracion-de-drupal-con-alfresco-ecm-traves-de-cmis-content-management-interoperability-s</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    17:00 - 17:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Windows        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;h3&gt;Integración de Drupal con Alfresco ECM a través de CMIS (Content Management Interoperability Services)&lt;/h3&gt;
+&lt;p&gt;Cuando integramos Drupal con Alfresco ECM tenemos lo mejor de ambos mundos: Tenemos la funcionalidad de construcción rápida de Websites sofisticados, acceso a todos los módulos de la comunidad Drupal que incorporan más funcionalidades, modelo de desarrollo eficiente, etc., mientras que todos los activos digitales del website que consumirá Drupal se alojarán en Alfresco ECM, es decir, Alfresco ECM será nuestro repositorio documental (img, swf, ppt, doc, pdf, mp3, ...).&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/DrupalCamp2010Bcn-CMIS_Drupal_Alfresco-v1.1.pdf&quot; type=&quot;application/pdf; length=2363095&quot;&gt;DrupalCamp2010Bcn-CMIS_Drupal_Alfresco-v1.1.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/integracion-de-drupal-con-alfresco-ecm-traves-de-cmis-content-management-interoperability-s&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/integracion-de-drupal-con-alfresco-ecm-traves-de-cmis-content-management-interoperability-s#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/alfresco">alfresco</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/cmis">cmis</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/cms">cms</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/digital-asset">digital asset</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/ecm">ecm</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/interoperabilidad">interoperabilidad</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/intranet">intranet</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/repository">repository</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/wcm">wcm</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-IntegracinDeDrupalConAlfrescoECMATravsDeCMISContentMa168.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-IntegracinDeDrupalConAlfrescoECMATravsDeCMISContentMa168-424.jpg" />
+</media:content>
+ <pubDate>Mon, 15 Feb 2010 09:08:20 +0000</pubDate>
+ <dc:creator>rcarhuatocto</dc:creator>
+ <guid isPermaLink="false">345 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

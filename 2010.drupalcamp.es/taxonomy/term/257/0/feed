@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Drush</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/257/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Drush Make y Feature Server</title>
+ <link>http://2010.drupalcamp.es/sessions/drush-make-y-feature-server</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    15:00 - 15:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Windows        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;em&gt;Feature Server&lt;/em&gt; es un sistema &lt;em&gt;Drupal&lt;/em&gt; que permite mantener un catálogo de proyectos (Módulos, Temas y Perfiles de instalación) y de sus versiones, y permite a otros sitios &lt;em&gt;Drupal&lt;/em&gt; conocer las últimas actualizaciones, mediante el módulo &lt;em&gt;Update status&lt;em&gt; del &lt;em&gt;core&lt;/em&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Drush Make&lt;/em&gt; permite describir cuales son los proyectos que forman un sitio Web en un archivo &lt;em&gt;Make&lt;/em&gt; y ejecutarlo para construir automáticamente el &lt;em&gt;codebase&lt;/em&gt; de un sitio.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/Drupalcamp.pdf&quot; type=&quot;application/pdf; length=1614403&quot;&gt;Drupalcamp.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-vnd.openxmlformats-officedocument.presentationml.presentation&quot;&gt;&lt;img class=&quot;field-icon-application-vnd.openxmlformats-officedocument.presentationml.presentation&quot;  alt=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/x-office-presentation.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/Drupalcamp.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=6086494&quot;&gt;Drupalcamp.pptx&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-livestream&quot;&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/drush-make-y-feature-server&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/drush-make-y-feature-server#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/atenea-tech">atenea tech</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/desarrollo">Desarrollo</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/drush">Drush</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/drush-make">Drush Make</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/feature-server">Feature Server</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://www.livestream.com/emision_en_directo/video?clipId=pla_908961dc-7da7-4665-a288-d2da6b90f0e3" type="text/html; charset=utf-8"></media:content>
+ <pubDate>Tue, 19 Jan 2010 14:00:50 +0000</pubDate>
+ <dc:creator>luisortiz</dc:creator>
+ <guid isPermaLink="false">272 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

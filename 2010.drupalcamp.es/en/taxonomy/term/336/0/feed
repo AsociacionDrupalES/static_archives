@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - negocio</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/336/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Presentación de la asociación catalana de empresas para el software libre CatPL</title>
+ <link>http://2010.drupalcamp.es/en/sessions/presentacion-de-la-asociacion-catalana-de-empresas-para-el-software-libre-catpl</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Forcontu        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Albert Calvet, presidente de la CatPL (&lt;a href=&quot;http://www.catpl.org/&quot; title=&quot;http://www.catpl.org/&quot; rel=&quot;nofollow&quot;&gt;http://www.catpl.org/&lt;/a&gt;), asociación catalana de empresas para el software libre, nos presentará la asociación, sus actividades y nos explicará porque debemos asociarnos.&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/presentacion-de-la-asociacion-catalana-de-empresas-para-el-software-libre-catpl#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/asociacion">asociación</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/comunidad">comunidad</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/empresa">empresa</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/negocio">negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <pubDate>Thu, 11 Feb 2010 17:47:21 +0000</pubDate>
+ <dc:creator>albert</dc:creator>
+ <guid isPermaLink="false">336 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - English Forum</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/223/0</link>
+ <description>Forum for questions and general topics in English</description>
+ <language>en</language>
+<item>
+ <title>Offering my help as translator</title>
+ <link>http://2010.drupalcamp.es/en/forum/english-forum/offering-my-help-translator</link>
+ <description>&lt;p&gt;Hello English speakers!&lt;/p&gt;
+&lt;p&gt;I am bilingual and have no trouble switching from Spanish to English, so I can help you find your way around, or help you ask the organizers, ask for a cold beer, find out where is an ATM, or help you ask that cute girl/guy out...  :D&lt;/p&gt;
+&lt;p&gt;So if you see me around (see &lt;a href=&quot;http://drupalcamp.es/users/manuee&quot; rel=&quot;nofollow&quot;&gt;my profile&lt;/a&gt; for a picture), don&#039;t hesitate to ask anything you want in English, or just chat away!&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/forum/english-forum/offering-my-help-translator#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/223">English Forum</category>
+ <pubDate>Thu, 21 Jan 2010 19:27:54 +0000</pubDate>
+ <dc:creator>manuee</dc:creator>
+ <guid isPermaLink="false">285 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

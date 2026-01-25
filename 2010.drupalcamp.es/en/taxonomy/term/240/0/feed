@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - comunidad</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/240/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>LaFarga.cat y punttic.cat. Drupal en la Generalitat de Catalunya</title>
+ <link>http://2010.drupalcamp.es/en/sessions/lafargacat-y-puntticcat-drupal-en-la-generalitat-de-catalunya</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    otro        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Muestra de las experiencias de drupal en la Genralitat de Catalunya alrededor de dos proyectos estrella: lafarga.cat y punntic.cat&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/lafargacat-y-puntticcat-drupal-en-la-generalitat-de-catalunya#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/administracion">administración</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/comunidad">comunidad</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/generalitat">generalitat</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <pubDate>Fri, 19 Feb 2010 14:20:21 +0000</pubDate>
+ <dc:creator>frambla</dc:creator>
+ <guid isPermaLink="false">363 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Presentación de la asociación catalana de empresas para el software libre CatPL</title>
+ <link>http://2010.drupalcamp.es/en/sessions/presentacion-de-la-asociacion-catalana-de-empresas-para-el-software-libre-catpl</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Forcontu        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Albert Calvet, presidente de la CatPL (&lt;a href=&quot;http://www.catpl.org/&quot; title=&quot;http://www.catpl.org/&quot; rel=&quot;nofollow&quot;&gt;http://www.catpl.org/&lt;/a&gt;), asociación catalana de empresas para el software libre, nos presentará la asociación, sus actividades y nos explicará porque debemos asociarnos.&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/presentacion-de-la-asociacion-catalana-de-empresas-para-el-software-libre-catpl#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/asociacion">asociación</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/comunidad">comunidad</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/empresa">empresa</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/negocio">negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <pubDate>Thu, 11 Feb 2010 17:47:21 +0000</pubDate>
+ <dc:creator>albert</dc:creator>
+ <guid isPermaLink="false">336 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Asociación de usuarios de drupal en catalan DRUPAL.CAT: porqué te interesa.</title>
+ <link>http://2010.drupalcamp.es/en/sessions/asociacion-de-usuarios-de-drupal-en-catalan-drupalcat-porque-te-interesa</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Forcontu        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil MacOSX        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;En esta sesión presentaremos la asociación de usuarios de Drupal en lengua catalana DRUPAL.CAT, radicada en el propio Citilab. Explicaremos el como y porqué de la asociación, qué actividades realizamos, como nos financiamos, qué aportamos a la comunidad, qué ventajas tienen nuestros socios, etc.&lt;/p&gt;
+&lt;p&gt;Si eres usuario de drupal en catalán (particular o empresa, desarrollador o principiante), si usas drupal en Catalunya (en cualquier idioma), si quieres organizar una comunidad de usuarios, te interesa esta sesión.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdO5XAI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/asociacion-de-usuarios-de-drupal-en-catalan-drupalcat-porque-te-interesa#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/asociacion">asociación</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/comunidad">comunidad</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-AsociacinDeUsuariosDeDrupalEnCatalanDRUPALCATPorquTeIn559.flv" fileSize="179381153" type="video/x-flv" duration="2815" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-AsociacinDeUsuariosDeDrupalEnCatalanDRUPALCATPorquTeIn522-119.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-AsociacinDeUsuariosDeDrupalEnCatalanDRUPALCATPorquTeIn559.flv" length="179381153" type="video/x-flv" />
+ <pubDate>Sun, 17 Jan 2010 10:30:45 +0000</pubDate>
+ <dc:creator>robertgarrigos</dc:creator>
+ <guid isPermaLink="false">266 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

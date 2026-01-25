@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - high performance</title>
+ <link>http://2011.drupalcamp.es/en/taxonomy/term/108/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Caching out on Nginx</title>
+ <link>http://2011.drupalcamp.es/en/sessions/caching-out-nginx</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://nginx.org&quot;&gt;Nginx&lt;/a&gt; is a high-performance, modern, secure web server that is taking the web by storm. &lt;/p&gt;
+&lt;p&gt;In this session we address the practical issues of using Nginx with drupal and how to take advantage to the fullest of running Drupal behind Nginx.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presenter(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/en/users/perusio&quot; title=&quot;View user profile.&quot;&gt;perusio&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/15-mayo-1100-1200&quot;&gt;2 Octubre 11:00 - 11:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/room-02&quot;&gt;Sala 2: Cenatic&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/en/sessions/caching-out-nginx&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/en/sessions/caching-out-nginx#comments</comments>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/cloud">cloud</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/high-performance">high performance</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/nginx">nginx</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/rendimiento">rendimiento</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/security">security</category>
+ <pubDate>Thu, 15 Sep 2011 21:52:29 +0000</pubDate>
+ <dc:creator>perusio</dc:creator>
+ <guid isPermaLink="false">466 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

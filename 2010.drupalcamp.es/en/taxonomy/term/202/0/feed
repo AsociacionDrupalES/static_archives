@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Oro</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/202/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Brightcove</title>
+ <link>http://2010.drupalcamp.es/en/sponsors/brightcove</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-sponsor-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img  class=&quot;imagefield imagefield-field_sponsor_image&quot; width=&quot;170&quot; height=&quot;58&quot; alt=&quot;&quot; src=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/Brightcove.png?1285836609&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-link field-field-sponsor-website&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;http://www.brightcove.com/&quot;&gt;http://www.brightcove.com/&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Brightcove is the leading online video platform trusted by organizations of all sizes to publish and monetize professional quality video experiences across PCs, tablets, smart phones, and TVs.&lt;/p&gt;
+</description>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-esponsor/oro">Oro</category>
+ <pubDate>Thu, 30 Sep 2010 08:50:44 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">400 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Cenatic</title>
+ <link>http://2010.drupalcamp.es/en/sponsors/cenatic</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-sponsor-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img  class=&quot;imagefield imagefield-field_sponsor_image&quot; width=&quot;470&quot; height=&quot;205&quot; alt=&quot;&quot; src=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/logomarca_completa.gif?1265971588&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-link field-field-sponsor-website&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;http://cenatic.es&quot;&gt;http://cenatic.es&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-esponsor/oro">Oro</category>
+ <pubDate>Fri, 12 Feb 2010 10:46:28 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">339 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Forcontu</title>
+ <link>http://2010.drupalcamp.es/en/sponsors/forcontu</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-sponsor-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img  class=&quot;imagefield imagefield-field_sponsor_image&quot; width=&quot;340&quot; height=&quot;107&quot; alt=&quot;&quot; src=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/logo-forcontu-web.png?1265796756&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-link field-field-sponsor-website&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;http://forcontu.com/&quot;&gt;http://forcontu.com/&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-userreference field-field-sponsor-attendees&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    fran.gil        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Colección de libros Aprende Drupal con Forcontu&lt;/h3&gt;
+&lt;h4&gt;Presentación en exclusiva en la Drupalcamp&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.forcontu.com/libros&quot; target=&quot;_blank&quot; alt=&quot;libros Drupal&quot;&gt;&lt;img src=&quot;http://www.forcontu.com/sites/default/files/libros/libros-drupalcamp.png&quot; style=&quot;float: right&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/en/sponsors/forcontu&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-esponsor/oro">Oro</category>
+ <pubDate>Sat, 23 Jan 2010 10:37:19 +0000</pubDate>
+ <dc:creator>fran.gil</dc:creator>
+ <guid isPermaLink="false">291 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

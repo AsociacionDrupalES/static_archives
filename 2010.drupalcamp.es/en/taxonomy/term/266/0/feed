@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - bibliotecas universitarias</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/266/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Drupal.UPC.  Experiencias en el ámbito universitario con Drupal</title>
+ <link>http://2010.drupalcamp.es/en/sessions/drupalupc-experiencias-en-el-ambito-universitario-con-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    16:00 - 16:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Drupal.UPC es una comunidad nacida dentro del ámbito de la Universidad Politécnica de Cataluña con el objetivo de dar soporte a las nuevas iniciativas Drupal que aparezcan dentro de la propia universidad, así como establecer alianzas con otras comunidades con el fin de desarrollar elementos comunes y crear sinergias, a la vez que poder aportar a la comunidad nuestra experiencia en el ámbito de Drupal.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdjOMwI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/en/sessions/drupalupc-experiencias-en-el-ambito-universitario-con-drupal&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/drupalupc-experiencias-en-el-ambito-universitario-con-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/bibliotecas-universitarias">bibliotecas universitarias</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/gestion-de-recursos">gestión de recursos</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/multisites">multisites</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-DrupalUPCExperienciasEnElMbitoUniversitarioConDrupal724.flv" fileSize="148066896" type="video/x-flv" duration="2333" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-DrupalUPCExperienciasEnElMbitoUniversitarioConDrupal464-240.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-DrupalUPCExperienciasEnElMbitoUniversitarioConDrupal724.flv" length="148066896" type="video/x-flv" />
+ <pubDate>Wed, 20 Jan 2010 08:42:43 +0000</pubDate>
+ <dc:creator>oriol.rico</dc:creator>
+ <guid isPermaLink="false">277 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

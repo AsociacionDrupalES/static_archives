@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - ecommerce</title>
+ <link>http://2011.drupalcamp.es/en/taxonomy/term/18/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Commerce Nuts and bolts</title>
+ <link>http://2011.drupalcamp.es/en/sessions/commerce-nuts-and-bolts</link>
+ <description>&lt;p&gt;Come learn and discuss the inner workings of Drupal Commerce as we walk through the various APIs and systems in Drupal core, our dependencies, and the Commerce modules that you&#039;ll interact with when you develop with Drupal Commerce.&lt;/p&gt;
+&lt;p&gt;The are visible and reshareable online at &lt;a href=&quot;http://www.slideshare.net/Artusamak/drupal-commerce-nuts-and-bolts-seville&quot; title=&quot;http://www.slideshare.net/Artusamak/drupal-commerce-nuts-and-bolts-seville&quot;&gt;http://www.slideshare.net/Artusamak/drupal-commerce-nuts-and-bolts-seville&lt;/a&gt; or you can find them attached to this node.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presenter(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/en/users/artusamak&quot; title=&quot;View user profile.&quot;&gt;Artusamak&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/drupal_commerce_nuts_and_bolts_-_seville.pdf&quot; type=&quot;application/pdf; length=230389&quot;&gt;drupal_commerce_nuts_and_bolts_-_seville.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/13-mayo-1500-1600&quot;&gt;1 Octubre 15:00 - 15:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/room-02&quot;&gt;Sala 2: Cenatic&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+</description>
+ <comments>http://2011.drupalcamp.es/en/sessions/commerce-nuts-and-bolts#comments</comments>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/ecommerce">ecommerce</category>
+ <pubDate>Mon, 12 Sep 2011 11:42:29 +0000</pubDate>
+ <dc:creator>Artusamak</dc:creator>
+ <guid isPermaLink="false">447 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

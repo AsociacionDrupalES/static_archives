@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - rendimiento</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/12/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Rendimiento y escalabilidad con Drupal: errores más comunes</title>
+ <link>http://2011.drupalcamp.es/sesiones/rendimiento-y-escalabilidad-con-drupal-errores-mas-comunes</link>
+ <description>&lt;p&gt;Cuando un sitio web en Drupal comienza a tener cierto tamaño y cantidad de visitas, es normal que aparezcan problemas de rendimiento y escalabilidad.&lt;/p&gt;
+&lt;p&gt;La mayoría de las sesiones que se dan sobre este tema se limitan a enumerar una serie de acciones que se realizan para mejorar el rendimiento. Varnish, memcache, boost, master/slave, etc..&lt;/p&gt;
+&lt;p&gt;Muchos aplican a sus webs estas soluciones sin conocer en profundidad las herramientas que están usando y cometiendo una serie de errores que causan más problemas que soluciones.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/peterlozano&quot; title=&quot;Ver perfil de usuario.&quot;&gt;peterlozano&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/13-mayo-1500-1600&quot;&gt;1 Octubre 15:00 - 15:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/auditorio-emergya&quot;&gt;Auditorio Emergya&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/rendimiento-y-escalabilidad-con-drupal-errores-mas-comunes&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/rendimiento-y-escalabilidad-con-drupal-errores-mas-comunes#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/escalabilidad">escalabilidad</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/memcache">memcache</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/performance">performance</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/rendimiento">rendimiento</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/varnish">varnish</category>
+ <pubDate>Fri, 08 Apr 2011 22:46:06 +0000</pubDate>
+ <dc:creator>peterlozano</dc:creator>
+ <guid isPermaLink="false">174 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

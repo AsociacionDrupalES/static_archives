@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Organiza tus BoF</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/219/0</link>
+ <description>¿Quieres organizar una sesión informal? Aquí puedes coordinarte con otros usuarios.</description>
+ <language>en</language>
+<item>
+ <title>Drupal vs OpenCMS</title>
+ <link>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/drupal-vs-opencms</link>
+ <description>&lt;p&gt;Se me acaba de ocurrir al ver el BOF sobre oracle este tema, alguno ha tenido la experiencia de migrar de OpenCMS a drupal.  O ha tenido que justificarle a un cliente el uso de drupal frente a OpenCMS.&lt;/p&gt;
+&lt;p&gt;Si lo veis bien nos juntamos hoy.&lt;/p&gt;
+&lt;p&gt;salud&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/drupal-vs-opencms#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/219">Organiza tus BoF</category>
+ <pubDate>Sat, 27 Feb 2010 10:39:47 +0000</pubDate>
+ <dc:creator>pablo</dc:creator>
+ <guid isPermaLink="false">389 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Envío de SMS automatizado con Drupal</title>
+ <link>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/envio-de-sms-automatizado-con-drupal</link>
+ <description>&lt;p&gt;Justo ahora estoy terminando un pequeño módulo que permite enviar SMS automáticamente mediante Drupal, utilizando Actions y Triggers, como mandan los cánones.&lt;/p&gt;
+&lt;p&gt;Quien quiera apuntarse, que dé un grito por aquí. O que busque a un cojo de metro ochenta con muletas. No confundir con House.&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/envio-de-sms-automatizado-con-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/219">Organiza tus BoF</category>
+ <pubDate>Wed, 24 Feb 2010 22:37:18 +0000</pubDate>
+ <dc:creator>nachenko</dc:creator>
+ <guid isPermaLink="false">382 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Drupal con Oracle</title>
+ <link>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/drupal-con-oracle</link>
+ <description>&lt;p&gt;Estamos perdiendo muchos proyectos por el hecho no usar Oracle. &lt;/p&gt;
+&lt;p&gt;Se que hay gente que lo ha hecho, pero sinceramente, no me fío. Si algunos lo  habéis hecho, me gustaría escuchar vuestra experiencia.&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/drupal-con-oracle#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/219">Organiza tus BoF</category>
+ <pubDate>Fri, 19 Feb 2010 16:13:24 +0000</pubDate>
+ <dc:creator>dcanete</dc:creator>
+ <guid isPermaLink="false">364 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Encuentro de mujeres drupaleras </title>
+ <link>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/encuentro-de-mujeres-drupaleras</link>
+ <description>&lt;p&gt;Me encantaria conocer a otras mujeres que se dediquen al desarrollo y diseño de webs mediante Drupal o cualquier otra tecnología afín. Creo que puede ser interesante compartir experiencias entre nosotras, saber como nos las apañamos cada una para cohabitar con las máquinas, el php, las css y todo aquello que nos apasiona de la tecnologia, a la vez que nos encargamos del bebé, la cena y la lavadora, por poner sólo algunos ejemplos.En cualquier caso, seguro que nos reimos y pasamos un buen rato.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/en/forum/organiza-tus-bof/encuentro-de-mujeres-drupaleras&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/encuentro-de-mujeres-drupaleras#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/219">Organiza tus BoF</category>
+ <pubDate>Wed, 17 Feb 2010 21:57:24 +0000</pubDate>
+ <dc:creator>nuriarai</dc:creator>
+ <guid isPermaLink="false">356 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Módulos imprescindibles</title>
+ <link>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/modulos-imprescindibles</link>
+ <description>&lt;p&gt;En esta reunion me gustaría debatir los módulos que consideramos imprescindibles. Sobretodo la mejor alternativa en caso de haber varias opciones para la misma funcionalidad.&lt;/p&gt;
+&lt;p&gt;Os invito a que prepareis vuestra lista de favoritos y la publiqueis en este foro.&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/modulos-imprescindibles#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/219">Organiza tus BoF</category>
+ <pubDate>Sun, 14 Feb 2010 18:05:22 +0000</pubDate>
+ <dc:creator>dcanete</dc:creator>
+ <guid isPermaLink="false">344 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Instalaciones Multisitio</title>
+ <link>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/instalaciones-multisitio</link>
+ <description>&lt;p&gt;Hola, basicamente me gustaria hablar sobre ventajas/desventajas, y distintas configuraciones de instalaciones multisitios. Compartiendo o no bases de datos.&lt;br /&gt;
+Seria para Principiantes, que son los que mas sufren estas cosas :)&lt;br /&gt;
+Como seria cada BOF? Se puede mostrar algo? en la propia notebook? o se puede proyectar?&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/instalaciones-multisitio#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/219">Organiza tus BoF</category>
+ <pubDate>Mon, 08 Feb 2010 17:41:35 +0000</pubDate>
+ <dc:creator>ggalanternik</dc:creator>
+ <guid isPermaLink="false">320 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>mejorar el rendimiento de Drupal con auth_cache</title>
+ <link>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/mejorar-el-rendimiento-de-drupal-con-authcache</link>
+ <description>&lt;p&gt;Pues eso, ver y aprender a configurar auth_cache la nueva arma de drupal para volar.&lt;/p&gt;
+&lt;p&gt;Oskar&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/mejorar-el-rendimiento-de-drupal-con-authcache#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/219">Organiza tus BoF</category>
+ <pubDate>Fri, 05 Feb 2010 23:54:39 +0000</pubDate>
+ <dc:creator>oskar</dc:creator>
+ <guid isPermaLink="false">315 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>crear un tema para iphone</title>
+ <link>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/crear-un-tema-para-iphone</link>
+ <description>&lt;p&gt;Un boff interesante podría ser crear un tema para iphone bien montado, en la camp habrá gente muy buena que sabe montar temas de Drupal, convertir un tema de Drupal a iphone no requiere más que tiempo, y una idea clara de como se quiere.&lt;/p&gt;
+&lt;p&gt;Oskar&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/crear-un-tema-para-iphone#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/219">Organiza tus BoF</category>
+ <pubDate>Fri, 05 Feb 2010 23:53:50 +0000</pubDate>
+ <dc:creator>oskar</dc:creator>
+ <guid isPermaLink="false">314 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Views - date - calendar desde cero.</title>
+ <link>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/views-date-calendar-desde-cero</link>
+ <description>&lt;p&gt;La triada views - date - calendar es una de las opciones más interesantes de Drupal para organizar la información, muchos usuarios por desconocimiento clonan la vista original para crear su propia vista.&lt;/p&gt;
+&lt;p&gt;En este BOF veremos como hacerlo desde cero, sin clonar la vista original, sino creando nuestra propia vista con las opciones que nos da esta triada.&lt;/p&gt;
+&lt;p&gt;Oskar&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/views-date-calendar-desde-cero#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/219">Organiza tus BoF</category>
+ <pubDate>Fri, 05 Feb 2010 17:43:34 +0000</pubDate>
+ <dc:creator>oskar</dc:creator>
+ <guid isPermaLink="false">313 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Actualizacion de plantillas a Drupal 7</title>
+ <link>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/actualizacion-de-plantillas-drupal-7</link>
+ <description>&lt;p&gt;Esto sera un BOF de ponerse el mono de trabajo, y migrar alguna plantilla. Aprendamos juntos!&lt;/p&gt;
+&lt;p&gt;¿Que mejor manera de empezar a conocer el nuevo y flamante theme layer de Drupal 7?&lt;/p&gt;
+&lt;p&gt;Esto de las BOFs, ¿hay que solicitar espacio ya? ¿o se hace alli mismo? En cualquier caso, somos los primeros en proponer algo así es que no creo que tengamos problemas jeje =)&lt;/p&gt;
+&lt;p&gt;Venga animaros!&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/forum/organiza-tus-bof/actualizacion-de-plantillas-drupal-7#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/taxonomy/term/219">Organiza tus BoF</category>
+ <pubDate>Thu, 21 Jan 2010 19:22:21 +0000</pubDate>
+ <dc:creator>manuee</dc:creator>
+ <guid isPermaLink="false">284 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

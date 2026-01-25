@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - views</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/231/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Programación con la API de views. Un caso práctico</title>
+ <link>http://2010.drupalcamp.es/en/sessions/programacion-con-la-api-de-views-un-caso-practico</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    17:00 - 17:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Charla-presentación de como trabajar con la API de views. Las posibilidades que ofrece views no se acaba en su interfaz, sino que provee de una gran cantidad de &quot;elementos&quot; que permiten desarrollar sobre la misma, permitiendo ampliar su potencial.&lt;/p&gt;
+&lt;p&gt;Se hablará de cómo en Investic se solucionó un desarrollo en el portal ateneonaider.com haciendo uso de las herramientas de desarrollo de views.&lt;/p&gt;
+&lt;p&gt;Opciones que nos proporciona la API de views:&lt;br /&gt;
+Definir tu propia tabla.&lt;br /&gt;
+Decirle a views que esa tabla existe.&lt;br /&gt;
+Construir tus propios handlers (sort y field).&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgeiqSgI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/programacion-con-la-api-de-views-un-caso-practico#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/api">api</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/merlinofchaos">merlinofchaos</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/modules">modules</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/views">views</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-ProgramacinConLaAPIDeViewsUnCasoPrctico617.flv" fileSize="149408722" type="video/x-flv" duration="2315" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-ProgramacinConLaAPIDeViewsUnCasoPrctico420-182.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-ProgramacinConLaAPIDeViewsUnCasoPrctico617.flv" length="149408722" type="video/x-flv" />
+ <pubDate>Tue, 09 Feb 2010 09:00:51 +0000</pubDate>
+ <dc:creator>trisketonni</dc:creator>
+ <guid isPermaLink="false">322 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Why does Solr shine so bright and more on Apache Solr/Lucene</title>
+ <link>http://2010.drupalcamp.es/en/sessions/why-does-solr-shine-so-bright-and-more-apache-solrlucene</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;This session is an introduction about apache solr/lucene and how to use it in drupal.&lt;br /&gt;
+If there is enough animo I&#039;ll put a proposal for a more advanced session or even a workshop in solr.&lt;/p&gt;
+&lt;p&gt;Required?&lt;br /&gt;
+A bit of drupal knowledge&lt;br /&gt;
+A good ear&lt;/p&gt;
+&lt;p&gt;What will you learn?&lt;br /&gt;
+- Why are so many people fan of it?&lt;br /&gt;
+- Is it expensive? When should I use it?&lt;br /&gt;
+- How can I try it?&lt;br /&gt;
+- What do I need? Can I set it up without using that acquia service?&lt;br /&gt;
+- Make your own google subsite?&lt;br /&gt;
+- Can I integrate ubercart in this?&lt;br /&gt;
+- Where is this development going to?&lt;br /&gt;
+...and much more questions I&#039;ll try to answer!&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/apachesolr.pdf&quot; type=&quot;application/pdf; length=764084&quot;&gt;apachesolr.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/why-does-solr-shine-so-bright-and-more-apache-solrlucene#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/apache-solr">apache solr</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/lucene">lucene</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/performance">performance</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/search">search</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/views">views</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/rendimiento-y-escalabilidad">Rendimiento y escalabilidad</category>
+ <pubDate>Mon, 11 Jan 2010 17:10:47 +0000</pubDate>
+ <dc:creator>nick.veenhof</dc:creator>
+ <guid isPermaLink="false">253 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

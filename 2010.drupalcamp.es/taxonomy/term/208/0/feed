@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Construcción del sitio</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/208/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Presentación de la Colección de libros Aprende Drupal con Forcontu</title>
+ <link>http://2010.drupalcamp.es/sessions/presentacion-de-la-coleccion-de-libros-aprende-drupal-con-forcontu</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    11:00 - 11:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Windows        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;h3&gt;Presentación de la Colección de libros Aprende Drupal con Forcontu&lt;/h3&gt;
+&lt;h4&gt;Presentación en exclusiva en la Drupalcamp&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.forcontu.com/libros&quot; target=&quot;_blank&quot; alt=&quot;libros Drupal&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;En esta sesión os presentaremos la nueva colección de libros en español &lt;strong&gt;Aprende Drupal con Forcontu&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/Presentacion_Aprende_Drupal_con_Forcontu_DrupalcampSpain2010.pdf&quot; type=&quot;application/pdf; length=5377444&quot;&gt;Presentacion_Aprende_Drupal_con_Forcontu_DrupalcampSpain2010.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgeqzUAI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/presentacion-de-la-coleccion-de-libros-aprende-drupal-con-forcontu&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/presentacion-de-la-coleccion-de-libros-aprende-drupal-con-forcontu#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/keynote">Keynote</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-PresentacinDeLaColeccinDeLibrosAprendeDrupalConForcontu290.flv" fileSize="146713946" type="video/x-flv" duration="2262" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-PresentacinDeLaColeccinDeLibrosAprendeDrupalConForcontu612-995.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-PresentacinDeLaColeccinDeLibrosAprendeDrupalConForcontu290.flv" length="146713946" type="video/x-flv" />
+ <pubDate>Tue, 23 Feb 2010 19:01:35 +0000</pubDate>
+ <dc:creator>fran.gil</dc:creator>
+ <guid isPermaLink="false">375 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Spaces/Context/Features/Purl. Qué es y cómo se come?</title>
+ <link>http://2010.drupalcamp.es/sessions/spacescontextfeaturespurl-que-es-y-como-se-come</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Viernes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    15:00 - 15:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;En la búsqueda de una plataforma para una red social a escala regional que permita a cada entidad (usuario, grupo, pueblo) configurar su espacio a gusto, encontramos la receta Spaces/Features/Context/Purl, con el aviso:  Spaces 3 is Alpha, and we mean it.&lt;/p&gt;
+&lt;p&gt;A fecha de hoy, Spaces / Context 3 ya es beta1, y en esta sesión les explicamos cómo sacamos provecho a esta arquitectura Drupal.&lt;/p&gt;
+&lt;p&gt;Después de una presentación del proyecto, la idea es realizar una sesión técnica para ver la utilidad y ventajas de:&lt;/p&gt;
+&lt;p&gt;Drush make&lt;br /&gt;
+Features&lt;br /&gt;
+Spaces (3)&lt;br /&gt;
+Context (3)&lt;/p&gt;
+&lt;p&gt;NOTA:&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/drupalcampspain spaces context features purl.pdf&quot; type=&quot;application/pdf; length=2563960&quot;&gt;drupalcampspain spaces context features purl.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-livestream&quot;&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/spacescontextfeaturespurl-que-es-y-como-se-come&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/spacescontextfeaturespurl-que-es-y-como-se-come#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/context">Context</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/features">Features</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/organic-groups">Organic Groups</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/red-social">red social</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/spaces">Spaces</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://www.livestream.com/emision_en_directo/video?clipId=pla_31de8660-4ca6-40b8-9691-6e60c4d81ca2" type="text/html; charset=utf-8"></media:content>
+ <pubDate>Wed, 17 Feb 2010 10:30:00 +0000</pubDate>
+ <dc:creator>joefarrera</dc:creator>
+ <guid isPermaLink="false">353 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Unit testing &amp; Integration testing. Implementación en Drupal</title>
+ <link>http://2010.drupalcamp.es/sessions/unit-testing-integration-testing-implementacion-en-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Viernes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    17:00 - 17:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Para garantizar el éxito de cualquier proyecto de ingeniería del software, es necesario dedicar entre un 20% y un 50% (de media) a la fase de testeo/pruebas. Cualquier esfuerzo de implementación que permita la automatización de las tareas más comunes de esta fase del desarrollo de un proyecto permitirán acortar los tiempos de entrega, y mejorar la calidad de nuestros procedimientos de trabajo.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-livestream&quot;&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/unit-testing-integration-testing-implementacion-en-drupal&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/unit-testing-integration-testing-implementacion-en-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/integration-testing">integration testing</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/productivity">productivity</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/testing">testing</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/unit-testing">unit testing</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://www.livestream.com/emision_en_directo/video?clipId=pla_3d1f2fb9-a883-4957-9328-817113786d12" type="text/html; charset=utf-8"></media:content>
+ <pubDate>Mon, 15 Feb 2010 10:21:06 +0000</pubDate>
+ <dc:creator>javier</dc:creator>
+ <guid isPermaLink="false">348 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Integración de Drupal con Alfresco ECM a través de CMIS (Content Management Interoperability Services)</title>
+ <link>http://2010.drupalcamp.es/sessions/integracion-de-drupal-con-alfresco-ecm-traves-de-cmis-content-management-interoperability-s</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    17:00 - 17:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Windows        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;h3&gt;Integración de Drupal con Alfresco ECM a través de CMIS (Content Management Interoperability Services)&lt;/h3&gt;
+&lt;p&gt;Cuando integramos Drupal con Alfresco ECM tenemos lo mejor de ambos mundos: Tenemos la funcionalidad de construcción rápida de Websites sofisticados, acceso a todos los módulos de la comunidad Drupal que incorporan más funcionalidades, modelo de desarrollo eficiente, etc., mientras que todos los activos digitales del website que consumirá Drupal se alojarán en Alfresco ECM, es decir, Alfresco ECM será nuestro repositorio documental (img, swf, ppt, doc, pdf, mp3, ...).&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/DrupalCamp2010Bcn-CMIS_Drupal_Alfresco-v1.1.pdf&quot; type=&quot;application/pdf; length=2363095&quot;&gt;DrupalCamp2010Bcn-CMIS_Drupal_Alfresco-v1.1.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/integracion-de-drupal-con-alfresco-ecm-traves-de-cmis-content-management-interoperability-s&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/integracion-de-drupal-con-alfresco-ecm-traves-de-cmis-content-management-interoperability-s#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/alfresco">alfresco</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/cmis">cmis</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/cms">cms</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/digital-asset">digital asset</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/ecm">ecm</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/interoperabilidad">interoperabilidad</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/intranet">intranet</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/repository">repository</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/wcm">wcm</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-IntegracinDeDrupalConAlfrescoECMATravsDeCMISContentMa168.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-IntegracinDeDrupalConAlfrescoECMATravsDeCMISContentMa168-424.jpg" />
+</media:content>
+ <pubDate>Mon, 15 Feb 2010 09:08:20 +0000</pubDate>
+ <dc:creator>rcarhuatocto</dc:creator>
+ <guid isPermaLink="false">345 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Construyendo el futuro: Distribuciones y Productos basados en Drupal</title>
+ <link>http://2010.drupalcamp.es/sessions/construyendo-el-futuro-distribuciones-y-productos-basados-en-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;¿Es un CMS o es un Framework o ambas, o ninguna de las dos? ¿Qué es Drupal y qué queremos que sea? ¿Qué relación existe entre #smallcore y Open Atrium? ¿Por qué Drupal no es Wordpress? &lt;/p&gt;
+&lt;p&gt;Hablaremos de las últimas &quot;tendencias&quot; en el desarrollo de Drupal (Drupal 7, smallcore, D7UX...) y veremos brevemente algunos productos basados en Drupal como Open Atrium, Managing News.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/construyendo-el-futuro-distribuciones-y-productos-basados-en-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/distribuciones">distribuciones</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/smallcore">smallcore</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/negocio">Negocio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-ConstruyendoElFuturoDistribucionesYProductosBasadosEnDru283.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-ConstruyendoElFuturoDistribucionesYProductosBasadosEnDru283-318.jpg" />
+</media:content>
+ <pubDate>Fri, 12 Feb 2010 19:02:53 +0000</pubDate>
+ <dc:creator>Jose Reyero</dc:creator>
+ <guid isPermaLink="false">340 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>SEO DRUPAL EXTRAVAGANZA !</title>
+ <link>http://2010.drupalcamp.es/sessions/seo-drupal-extravaganza</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Viernes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    15:00 - 15:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Windows        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;This session talks about the Search Engine Optimazition (SEO) process and how to integrate it into a Drupal project.&lt;br /&gt;
+It would feature must-have modules for on-page optimization and  i would go through a practical  example of SEO automation using the nodeAPI .&lt;br /&gt;
+Questions and answer session would be in both english and spanish.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/seo-drupal-extravaganza#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/nodeapi">nodeapi</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/seo">SEO</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/negocio">Negocio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-SEODRUPALEXTRAVAGANZA931.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-SEODRUPALEXTRAVAGANZA931-515.jpg" />
+</media:content>
+ <pubDate>Thu, 11 Feb 2010 17:00:40 +0000</pubDate>
+ <dc:creator>koredeola</dc:creator>
+ <guid isPermaLink="false">335 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Programación con la API de views. Un caso práctico</title>
+ <link>http://2010.drupalcamp.es/sessions/programacion-con-la-api-de-views-un-caso-practico</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    17:00 - 17:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Charla-presentación de como trabajar con la API de views. Las posibilidades que ofrece views no se acaba en su interfaz, sino que provee de una gran cantidad de &quot;elementos&quot; que permiten desarrollar sobre la misma, permitiendo ampliar su potencial.&lt;/p&gt;
+&lt;p&gt;Se hablará de cómo en Investic se solucionó un desarrollo en el portal ateneonaider.com haciendo uso de las herramientas de desarrollo de views.&lt;/p&gt;
+&lt;p&gt;Opciones que nos proporciona la API de views:&lt;br /&gt;
+Definir tu propia tabla.&lt;br /&gt;
+Decirle a views que esa tabla existe.&lt;br /&gt;
+Construir tus propios handlers (sort y field).&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgeiqSgI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/programacion-con-la-api-de-views-un-caso-practico#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/api">api</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/merlinofchaos">merlinofchaos</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/modules">modules</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/views">views</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-ProgramacinConLaAPIDeViewsUnCasoPrctico617.flv" fileSize="149408722" type="video/x-flv" duration="2315" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-ProgramacinConLaAPIDeViewsUnCasoPrctico420-182.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-ProgramacinConLaAPIDeViewsUnCasoPrctico617.flv" length="149408722" type="video/x-flv" />
+ <pubDate>Tue, 09 Feb 2010 09:00:51 +0000</pubDate>
+ <dc:creator>trisketonni</dc:creator>
+ <guid isPermaLink="false">322 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Realidad aumentada con Drupal (Layar)</title>
+ <link>http://2010.drupalcamp.es/sessions/realidad-aumentada-con-drupal-layar</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    12:00 - 12:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil MacOSX        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;En esta presentación desde Investic queremos enseñar como integrar la plataforma Layar con Drupal.&lt;br /&gt;
+Layar es una aplicación que permite mediante técnicas de realidad aumentada situar puntos de interés geoposicionados (POIs).&lt;br /&gt;
+En esta charla, veremos los pasos para que drupal provea de puntos de interes (Gmap, Location).Enseñaremos como hacer uso del   modulo en desarrollado por nosotros (fase Dev) y el servidor Porpoise para que se relacione con la arquitectura Layar.&lt;/p&gt;
+&lt;p&gt;Para ver la presentación, Integración de Layar con Drupal ir a este enlace:&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/realidad-aumentada-con-drupal-layar&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/realidad-aumentada-con-drupal-layar#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/android">android</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/arquitectura">arquitectura</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/integracion">integración</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/iphone">Iphone</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/layar">layar</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/modulo">modulo</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/pois">POIs</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/realidad-aumentada">realidad aumentada</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-RealidadAumentadaConDrupalLayar986.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-RealidadAumentadaConDrupalLayar986-151.jpg" />
+</media:content>
+ <pubDate>Tue, 09 Feb 2010 08:14:01 +0000</pubDate>
+ <dc:creator>mael</dc:creator>
+ <guid isPermaLink="false">321 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Building Maps with OpenLayers in Drupal</title>
+ <link>http://2010.drupalcamp.es/sessions/building-maps-openlayers-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    16:00 - 16:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil MacOSX        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;In English.  I will demo and describe how you can make beautiful maps with the &lt;a href=&quot;http://drupal.org/project/openlayers&quot; rel=&quot;nofollow&quot;&gt;Drupal OpenLayers module&lt;/a&gt;, specifically with the (still being developed) 2.x branch that has some great new features.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://openlayers.org/&quot; rel=&quot;nofollow&quot;&gt;OpenLayers&lt;/a&gt; is a free, open-source Javascript library that allows for the presentation of mapping data within a website.  The Drupal OpenLayers modules provides an API to build, store, and present maps easily from the Drupal interface.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-livestream&quot;&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/building-maps-openlayers-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/drupal">drupal</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/geo">Geo</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/mapping">Mapping</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/openlayers">OpenLayers</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://www.livestream.com/emision_en_directo/video?clipId=pla_2c12189b-e5b1-4463-bad9-7a471d3e47b3" type="text/html; charset=utf-8"></media:content>
+ <pubDate>Sun, 07 Feb 2010 22:05:49 +0000</pubDate>
+ <dc:creator>zzolo</dc:creator>
+ <guid isPermaLink="false">316 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Implementando Sitios Multilenguaje</title>
+ <link>http://2010.drupalcamp.es/sessions/implementando-sitios-multilenguaje</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    11:00 - 11:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Forcontu        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Windows        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;En un mundo multiparlante, con poblaciones cada vez mas informatizadas, y con acceso a la Web, proveer sitios en un único idioma, restringe nuestro alcance desde el mismo proyecto.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-vnd.ms-powerpoint&quot;&gt;&lt;img class=&quot;field-icon-application-vnd.ms-powerpoint&quot;  alt=&quot;application/vnd.ms-powerpoint icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/x-office-presentation.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/multilenguaje.ppt&quot; type=&quot;application/vnd.ms-powerpoint; length=912384&quot;&gt;multilenguaje.ppt&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-rar&quot;&gt;&lt;img class=&quot;field-icon-application-rar&quot;  alt=&quot;application/rar icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-octet-stream.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/translated_nodereference.rar&quot; type=&quot;application/rar; length=2081&quot;&gt;translated_nodereference.rar&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdb5XwI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/implementando-sitios-multilenguaje&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/implementando-sitios-multilenguaje#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/224">i18n</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/internacionalizacion">internacionalizacion</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/multilenguaje">multilenguaje</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/multisitio">multisitio</category>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/226">traducción</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-ImplementandoSitiosMultilenguaje111.flv" fileSize="152653586" type="video/x-flv" duration="2381" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-ImplementandoSitiosMultilenguaje196-31.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-ImplementandoSitiosMultilenguaje111.flv" length="152653586" type="video/x-flv" />
+ <pubDate>Fri, 05 Feb 2010 16:45:05 +0000</pubDate>
+ <dc:creator>ggalanternik</dc:creator>
+ <guid isPermaLink="false">312 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

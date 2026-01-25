@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - Sector Público</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/105/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>La competencia de Drupal no es Wordpress</title>
+ <link>http://2011.drupalcamp.es/sesiones/la-competencia-de-drupal-no-es-wordpress</link>
+ <description>&lt;p&gt;Conociendo al enemigo Drupal se hará más fuerte, por tanto es bueno saber cuales son los verdaderos contendientes en el mundo de la gestión de contenidos y cuales son sus fortalezas y debilidades.  &lt;/p&gt;
+&lt;p&gt;En esta sesión expondremos las conclusiones obtenidas después de realizar una exhaustiva prospección de mercado que ayudase a un importante cliente del sector público a elegir la plataforma de gestión de contenidos más adecuada para la gestión de su presencia online.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/davidgil&quot; title=&quot;Ver perfil de usuario.&quot;&gt;david.gil&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/la-competencia-de-drupal-no-es-wordpress&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/la-competencia-de-drupal-no-es-wordpress#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/cms">CMS</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/sector-publico">Sector Público</category>
+ <pubDate>Wed, 14 Sep 2011 11:33:59 +0000</pubDate>
+ <dc:creator>david.gil</dc:creator>
+ <guid isPermaLink="false">457 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

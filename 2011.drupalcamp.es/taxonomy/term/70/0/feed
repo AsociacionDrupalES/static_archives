@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - Drupal</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/70/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>De Drupal al Ipad</title>
+ <link>http://2011.drupalcamp.es/sesiones/de-drupal-al-ipad</link>
+ <description>&lt;p&gt;En esta sesión comentaremos como estamos creando aplicaciones para el Ipad usando Drupal como CMS. Estas aplicaciones están orientadas a dos sectores en concreto, publicaciones de revistas, diarios, magazines y por otro lado, la digitalización de catálogos comerciales de cara a dotar al equipo de ventas de una herramienta portatil que facilita el trabajo.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/iworkwithyou&quot; title=&quot;Ver perfil de usuario.&quot;&gt;iworkwithyou&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1300-1400&quot;&gt;2 Octubre 13:00 - 13:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-01&quot;&gt;Sala 1: Microsoft&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/de-drupal-al-ipad&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/de-drupal-al-ipad#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/cms">CMS</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/drupal">Drupal</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/ipad">iPad</category>
+ <pubDate>Thu, 01 Sep 2011 14:37:52 +0000</pubDate>
+ <dc:creator>iworkwithyou</dc:creator>
+ <guid isPermaLink="false">411 at http://2011.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Drupal &amp; VIM (Los hackers eligen VIM)</title>
+ <link>http://2011.drupalcamp.es/sesiones/drupal-vim-los-hackers-eligen-vim</link>
+ <description>&lt;p&gt;Pocas serán las personas que no conozcan Vim en el mundo de la programación. Vim es uno de los &quot;editores de texto&quot; más poderosos que existen para programadores y como no podría ser de otra manera el mundo de drupal no es ajeno a sus posibilidades. &lt;/p&gt;
+&lt;p&gt;Vim al ser un editor extremadamente ligero y multiplataforma  hace que se encuentre instalado en la mayoría de los sistemas (especialmente en los de tipo Unix), pero su &quot;ligera&quot; curva de aprendizaje hace que muchos opten por opciones menores o muy, muy (que daño ha hecho el nano XD) menores.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/karlosgliberal&quot; title=&quot;Ver perfil de usuario.&quot;&gt;karlosgliberal&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1200-1300&quot;&gt;2 Octubre 12:00 - 12:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-01&quot;&gt;Sala 1: Microsoft&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/drupal-vim-los-hackers-eligen-vim&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/drupal-vim-los-hackers-eligen-vim#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/drupal">Drupal</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/ide">IDE</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/vi">vi</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/vim">vim</category>
+ <pubDate>Thu, 11 Aug 2011 11:54:24 +0000</pubDate>
+ <dc:creator>karlosgliberal</dc:creator>
+ <guid isPermaLink="false">393 at http://2011.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Posicionamiento SEO con Drupal</title>
+ <link>http://2011.drupalcamp.es/sesiones/posicionamiento-seo-con-drupal</link>
+ <description>&lt;p&gt;En octubre, en Málaga se está organizando un &lt;strong&gt;seminario de gestores de contenidos&lt;/strong&gt; con ponencias de WordPress, Joomla y Drupal, concretamente yo seré ponente de Drupal.&lt;/p&gt;
+&lt;p&gt;El título de mi presentación será &#039;&lt;strong&gt;Posicionamiento SEO con Drupal&lt;/strong&gt;&#039; donde pretendo exponer y comentar algunas de las herramientas, módulos y buenas prácticas para mejorar el posicionamiento de una web desarrollada con Drupal así como contestar preguntas de los asistentes sobre SEO con Drupal.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/andy21&quot; title=&quot;Ver perfil de usuario.&quot;&gt;Andy21&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1000-1100&quot;&gt;2 Octubre 10:00 - 10:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-02&quot;&gt;Sala 2: Cenatic&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/posicionamiento-seo-con-drupal&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/posicionamiento-seo-con-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/drupal">Drupal</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/posicionamiento">posicionamiento</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/seo">SEO</category>
+ <pubDate>Tue, 26 Jul 2011 14:26:15 +0000</pubDate>
+ <dc:creator>Andy21</dc:creator>
+ <guid isPermaLink="false">376 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - flickr</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/298/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Agregadores: convirtiendo Drupal en una central de contenidos</title>
+ <link>http://2010.drupalcamp.es/en/sessions/agregadores-convirtiendo-drupal-en-una-central-de-contenidos</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    12:00 - 12:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;La integración con servicios de terceros es un punto fuerte de Drupal, ya que son muchos los módulos (más de 800 según drupal.org) dedicados a esta labor.&lt;/p&gt;
+&lt;p&gt;Nos centraremos en la agregación de contenidos dentro de la plataforma Drupal provenientes de fuentes de noticias o de servicios populares de la web2.0&lt;/p&gt;
+&lt;p&gt;Desde esta perspectiva se verán varias posibilidades de integración con diferentes herramientas, centrándonos sobre todo en la última:&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/drupalcamp-agregadores.pdf&quot; type=&quot;application/pdf; length=653208&quot;&gt;drupalcamp-agregadores.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/en/sessions/agregadores-convirtiendo-drupal-en-una-central-de-contenidos&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/agregadores-convirtiendo-drupal-en-una-central-de-contenidos#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/agregador">agregador</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/facebook">facebook</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/feedapi">feedapi</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/feeds">feeds</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/flickr">flickr</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/integracion-terceros">integracion terceros</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/modulos">módulos</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/rss">rss</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/twitter">twitter</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/web20">web2.0</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-AgregadoresConvirtiendoDrupalEnUnaCentralDeContenidos439.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-AgregadoresConvirtiendoDrupalEnUnaCentralDeContenidos439-354.jpg" />
+</media:content>
+ <pubDate>Tue, 02 Feb 2010 00:40:24 +0000</pubDate>
+ <dc:creator>delineas</dc:creator>
+ <guid isPermaLink="false">305 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

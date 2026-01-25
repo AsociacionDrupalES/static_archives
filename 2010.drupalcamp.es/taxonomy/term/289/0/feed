@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - ejemplos</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/289/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Drupal en la vida real: 8 ejemplos de uso</title>
+ <link>http://2010.drupalcamp.es/sessions/drupal-en-la-vida-real-8-ejemplos-de-uso</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    17:00 - 17:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Forcontu        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;En esta sesión queremos mostrar algunos ejemplos de uso de Drupal en la vida real, 8 sitios en producción basados en Drupal. Cada ejemplo contará con 5 minutos para mostrar como usa Drupal para ofrecer la funcionalidad requerida.&lt;/p&gt;
+&lt;p&gt;Esta es una sesión abierta a todos los participantes de la drupalcamp que tengan un Drupal y que quieran mostrarlo a la comunidad.&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdPKRgI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/drupal-en-la-vida-real-8-ejemplos-de-uso&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/drupal-en-la-vida-real-8-ejemplos-de-uso#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/casos-reales">casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/ejemplos">ejemplos</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-DrupalEnLaVidaReal8EjemplosDeUso342.flv" fileSize="164816919" type="video/x-flv" duration="2541" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-DrupalEnLaVidaReal8EjemplosDeUso124-520.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-DrupalEnLaVidaReal8EjemplosDeUso342.flv" length="164816919" type="video/x-flv" />
+ <pubDate>Sun, 31 Jan 2010 11:10:47 +0000</pubDate>
+ <dc:creator>robertgarrigos</dc:creator>
+ <guid isPermaLink="false">304 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

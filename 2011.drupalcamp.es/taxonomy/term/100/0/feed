@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - aegir</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/100/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Aegir: Un Drupal para gobernarlos a todos</title>
+ <link>http://2011.drupalcamp.es/sesiones/aegir-un-drupal-para-gobernarlos-todos</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://www.aegirproject.org/&quot; target=&quot;_blank&quot;&gt;Aegir&lt;/a&gt; es una aplicación de hosting que permite a programadores y administradores automatizar multitud de tareas relacionadas con la gestión y publicación de sitios web Drupal. &lt;/p&gt;
+&lt;p&gt;Con Aegir es muy fácil instalar, actualizar, publicar y hacer  un backup de una larga red de sites en distintos servidores. A través de su interfaz web (o mediante comandos &lt;a href=&quot;http://drupal.org/project/drush&quot; target=&quot;_blank&quot;&gt;Drush&lt;/a&gt;) se pueden realizar tareas como:&lt;/p&gt;
+&lt;ul&gt;
+&lt;/ul&gt;&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/juampy&quot; title=&quot;Ver perfil de usuario.&quot;&gt;juampy&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/aegir_un_drupal_para_gobernarlos_a_todos.pdf&quot; type=&quot;application/pdf; length=94524&quot;&gt;aegir_un_drupal_para_gobernarlos_a_todos.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1100-1200&quot;&gt;2 Octubre 11:00 - 11:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-01&quot;&gt;Sala 1: Microsoft&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/aegir-un-drupal-para-gobernarlos-todos&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/aegir-un-drupal-para-gobernarlos-todos#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/aegir">aegir</category>
+ <pubDate>Mon, 05 Sep 2011 12:46:15 +0000</pubDate>
+ <dc:creator>juampy</dc:creator>
+ <guid isPermaLink="false">425 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

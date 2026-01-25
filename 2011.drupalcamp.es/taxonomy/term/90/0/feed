@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - bases de datos</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/90/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Drupal + GIS: Convirtiendo Drupal en un GeoCMS</title>
+ <link>http://2011.drupalcamp.es/sesiones/drupal-gis-convirtiendo-drupal-en-un-geocms</link>
+ <description>&lt;p&gt;La información geográfica es cada vez más relevante dentro de los portales web. La posición geográfica de los contenidos de la web puede resultar muy valiosa tanto para los usuarios como para los propios webmasters. Poder filtrar los contenidos por su situación u ofrecer información personalizada en función de la posición del usuario son sólo dos de las muchas posibilidades que puede ofrecer la integración de Drupal con los Sistemas de Información Geográfica.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/plopesc&quot; title=&quot;Ver perfil de usuario.&quot;&gt;plopesc&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/drupal_gisconvirtir.pdf&quot; type=&quot;application/pdf; length=438705&quot;&gt;drupal_gisconvirtir.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1600-1700&quot;&gt;2 Octubre 16:00 - 16:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-01&quot;&gt;Sala 1: Microsoft&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/drupal-gis-convirtiendo-drupal-en-un-geocms&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/drupal-gis-convirtiendo-drupal-en-un-geocms#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/bases-de-datos">bases de datos</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/gis">gis</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/mapping">mapping</category>
+ <pubDate>Sun, 14 Aug 2011 17:48:02 +0000</pubDate>
+ <dc:creator>plopesc</dc:creator>
+ <guid isPermaLink="false">397 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

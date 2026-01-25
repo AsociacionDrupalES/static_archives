@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - usabilidad</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/40/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Diseño gráfico y Drupal</title>
+ <link>http://2011.drupalcamp.es/sesiones/diseno-grafico-y-drupal</link>
+ <description>&lt;p&gt;Un repaso a los últimos proyectos que hemos desarrollado en Drupal desde un punto de vista del diseño gráfico. Indracompany.com, cartografica.org, CanalTNT.es, Boing.es, Fundacionseres.org entre otros.&lt;br /&gt;
+La idea es comentar aspectos del diseño aplicados al desarrollo en drupal de cara a obtener webs de calidad.&lt;/p&gt;
+&lt;p&gt;Comentaremos aspectos concretos sobre:&lt;br /&gt;
+- Diseño gráfico de plantillas.&lt;br /&gt;
+- Diseño tipográfico.&lt;br /&gt;
+- Colores y branding.&lt;br /&gt;
+- El uso de las imágenes y la definición de la retícula y espacios.&lt;br /&gt;
+- Como adecuar la publicidad a la retícula (o viceversa).&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/iworkwithyou&quot; title=&quot;Ver perfil de usuario.&quot;&gt;iworkwithyou&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/13-mayo-1000-1100&quot;&gt;1 Octubre 10:00 - 10:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-03&quot;&gt;Sala 3: ETSII&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/diseno-grafico-y-drupal&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/diseno-grafico-y-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/diseno-grafico">diseño gráfico</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/interface">interface</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/usabilidad">usabilidad</category>
+ <pubDate>Thu, 01 Sep 2011 14:40:55 +0000</pubDate>
+ <dc:creator>iworkwithyou</dc:creator>
+ <guid isPermaLink="false">412 at http://2011.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Creando contenidos accesibles en Drupal</title>
+ <link>http://2011.drupalcamp.es/sesiones/creando-contenidos-accesibles-en-drupal</link>
+ <description>&lt;p&gt;En esta ponencia    realizaremos una introducción a qué es la accesibilidad, los diferentes perfiles de discapacidad, los productos de apoyo que utilizan las personas con discapacidad para navegar por la web y cuales son los principales problemas con los que se suelen encontrar al navegar por internet.&lt;/p&gt;
+&lt;p&gt;Mostraré varios ejemplos de buenas y malas prácticas y podréis ver como afectan las barreras al navegar con productos de apoyo.&lt;/p&gt;
+&lt;p&gt;Veremos algunas buenas prácticas y consejos para que vuestro Drupal sea lo más accesible posible.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/jmortizsilva&quot; title=&quot;Ver perfil de usuario.&quot;&gt;jmortizsilva&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pgp-keys&quot;  alt=&quot;application/pgp-keys icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/application-octet-stream.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/accesibilidad_drupalcamp_2011_definitiva.key&quot; type=&quot;application/pgp-keys; length=270003&quot;&gt;accesibilidad_drupalcamp_2011_definitiva.key&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/13-mayo-1500-1600&quot;&gt;1 Octubre 15:00 - 15:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-01&quot;&gt;Sala 1: Microsoft&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/creando-contenidos-accesibles-en-drupal&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/creando-contenidos-accesibles-en-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/accesibilidad">accesibilidad</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/discapacidad">discapacidad</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/diversidad">diversidad</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/usabilidad">usabilidad</category>
+ <pubDate>Wed, 04 May 2011 07:47:03 +0000</pubDate>
+ <dc:creator>jmortizsilva</dc:creator>
+ <guid isPermaLink="false">287 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Errores en la web</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/220/0</link>
+ <description>¿Has encontrado algún problema en la web?, ¡háznoslo saber!</description>
+ <language>es</language>
+<item>
+ <title>Sugerencia: versión de impresión del programa</title>
+ <link>http://2010.drupalcamp.es/forum/errores-en-la-web/sugerencia-version-de-impresion-del-programa</link>
+ <description>&lt;p&gt;Desde la página del programa seria muy práctico disponer de una versión del programa en pdf o, por lo menos, una versión de la pàgina (hoja de estilos) específica para impresión.&lt;br /&gt;
+Saludos!&lt;/p&gt;
+&lt;p&gt;Núria&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/errores-en-la-web/sugerencia-version-de-impresion-del-programa#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/220">Errores en la web</category>
+ <pubDate>Wed, 24 Feb 2010 09:54:20 +0000</pubDate>
+ <dc:creator>nuriarai</dc:creator>
+ <guid isPermaLink="false">379 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Sugerencia: Imagenes de los usuarios en comentarios</title>
+ <link>http://2010.drupalcamp.es/forum/errores-en-la-web/sugerencia-imagenes-de-los-usuarios-en-comentarios</link>
+ <description>&lt;p&gt;El asunto se explica por si mismo, pero bueno, para justificar mi sugerencia, creo que ayudará a saber quien es quien cuando nos veamos las caras allí, facilitará que la comunidad se conozca más, ayudará a identificar trolls para darles palizas (con cariño), y todo eso ;)&lt;/p&gt;
+&lt;p&gt;Sobra decir que es algo sencillo, luego solo hace falta ajustar un poquito la plantilla si no esta previsto en la misma.&lt;/p&gt;
+&lt;p&gt;Salu2&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/errores-en-la-web/sugerencia-imagenes-de-los-usuarios-en-comentarios#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/220">Errores en la web</category>
+ <pubDate>Sat, 13 Feb 2010 13:41:30 +0000</pubDate>
+ <dc:creator>manuee</dc:creator>
+ <guid isPermaLink="false">341 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>No me aparece ninguna inscripcion</title>
+ <link>http://2010.drupalcamp.es/forum/errores-en-la-web/no-me-aparece-ninguna-inscripcion</link>
+ <description>&lt;p&gt;Hola,&lt;/p&gt;
+&lt;p&gt;Me he inscrito al drupalCamp pero en el apartado de inscripciones no me sale nada.&lt;br /&gt;
+Ademas, en el mensaje de confirmacion de PayPal me aparece un link donde puede ver el estado de mi pedido &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://drupalcamp.es/user/778/order/337&quot; title=&quot;http://drupalcamp.es/user/778/order/337&quot; rel=&quot;nofollow&quot;&gt;http://drupalcamp.es/user/778/order/337&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Pero da un error de acceso denegado.&lt;br /&gt;
+Ademas me gustaria pedir una factura para mi empresa y no se a quien dirigirme para ello (Utilize el Contact form hace 5 dias y todavia no tengo respuesta)&lt;/p&gt;
+&lt;p&gt;Gracias,&lt;/p&gt;
+&lt;p&gt;Javier&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/errores-en-la-web/no-me-aparece-ninguna-inscripcion#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/220">Errores en la web</category>
+ <pubDate>Mon, 08 Feb 2010 13:17:17 +0000</pubDate>
+ <dc:creator>javiercrespoalvez</dc:creator>
+ <guid isPermaLink="false">319 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Orden de los comentarios</title>
+ <link>http://2010.drupalcamp.es/forum/errores-en-la-web/orden-de-los-comentarios</link>
+ <description>&lt;p&gt;Mas que un error, es una sugerencia pero bueno:&lt;/p&gt;
+&lt;p&gt;Pienso que es mas intuitivo poner los mas viejos los primeros, la mayoría de gente esta acostumbrada a esto. Cambiar esto es cuestión de &amp;lt; 1 minuto.&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/errores-en-la-web/orden-de-los-comentarios#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/220">Errores en la web</category>
+ <pubDate>Wed, 20 Jan 2010 13:51:44 +0000</pubDate>
+ <dc:creator>manuee</dc:creator>
+ <guid isPermaLink="false">281 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Porque en la home no hay un enlace, bajo el listado de sesiones, a ver todas las sesiones?</title>
+ <link>http://2010.drupalcamp.es/forum/errores-en-la-web/porque-en-la-home-no-hay-un-enlace-bajo-el-listado-de-sesiones-ver-todas-las</link>
+ <description>&lt;p&gt;No me enrollo más, ya es bastante explicativo el título&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/errores-en-la-web/porque-en-la-home-no-hay-un-enlace-bajo-el-listado-de-sesiones-ver-todas-las#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/220">Errores en la web</category>
+ <pubDate>Wed, 20 Jan 2010 11:23:01 +0000</pubDate>
+ <dc:creator>luisortiz</dc:creator>
+ <guid isPermaLink="false">279 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Asistentes interesados en la sessión</title>
+ <link>http://2010.drupalcamp.es/forum/errores-en-la-web/asistentes-interesados-en-la-session</link>
+ <description>&lt;p&gt;Es sólo una sugerencia. Me gustaría saber cuanta gente está interesada en saber el número de asistentes interesados en una sesión que he propuesto.&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/errores-en-la-web/asistentes-interesados-en-la-session#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/220">Errores en la web</category>
+ <pubDate>Wed, 20 Jan 2010 11:21:22 +0000</pubDate>
+ <dc:creator>sidddi</dc:creator>
+ <guid isPermaLink="false">278 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Estilos en el contenido</title>
+ <link>http://2010.drupalcamp.es/forum/errores-en-la-web/estilos-en-el-contenido</link>
+ <description>&lt;p&gt;Alomejor sería necesario darle un poco de estilos al contenido de la web, ya que actualmente estan todos reseteados y no hay nada que denote el cambio.&lt;/p&gt;
+&lt;p&gt;Por ejemplo, en &lt;a href=&quot;http://drupalcamp.es/forum/preguntas-sobre-las-sesiones/sesiones-interesantes-que-se-alguien-podria-dar&quot; title=&quot;http://drupalcamp.es/forum/preguntas-sobre-las-sesiones/sesiones-interesantes-que-se-alguien-podria-dar&quot; rel=&quot;nofollow&quot;&gt;http://drupalcamp.es/forum/preguntas-sobre-las-sesiones/sesiones-interes...&lt;/a&gt; he puesto listas de contenido &lt;code&gt;/ul&lt;/code&gt; pero queda todo plano sin haber ningún tipo de margen, ni bullet, ni nada que lo manifieste de forma gráfica.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/forum/errores-en-la-web/estilos-en-el-contenido&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/forum/errores-en-la-web/estilos-en-el-contenido#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/220">Errores en la web</category>
+ <pubDate>Thu, 14 Jan 2010 13:00:24 +0000</pubDate>
+ <dc:creator>rvilar</dc:creator>
+ <guid isPermaLink="false">265 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>No aparezco como inscrito.</title>
+ <link>http://2010.drupalcamp.es/forum/errores-en-la-web/no-aparezco-como-inscrito</link>
+ <description>&lt;p&gt;Al inscribirme en la DrupalCamp, se me creo automáticamente una cuenta en la web, pero en esta no aparezco como inscrito. Y si intento añadir mi subscripción, me remite de nuevo al pago, que ya he realizado y tengo confirmado.&lt;/p&gt;
+&lt;p&gt;¿Es un fallo del proceso de registro o estoy haciendo algo mal?&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/errores-en-la-web/no-aparezco-como-inscrito#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/220">Errores en la web</category>
+ <pubDate>Wed, 13 Jan 2010 19:24:08 +0000</pubDate>
+ <dc:creator>rantamplan76</dc:creator>
+ <guid isPermaLink="false">259 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Problemas con el tipo de contenido sesiones: formulario y presentación</title>
+ <link>http://2010.drupalcamp.es/forum/errores-en-la-web/problemas-con-el-tipo-de-contenido-sesiones-formulario-y-presentacion</link>
+ <description>&lt;p&gt;Al intentar editar una sesión que ya ha sido dada de alta, al guardarla, aparece un error con el texto:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+* Se ha detectado una opción ilegal. Por favor contacte al administrador del sitio&lt;br /&gt;
+* Se ha detectado una opción ilegal. Por favor contacte al administrador del sitio
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Y las listas de selección de Duración y Computer aparecen vacías (sin ninguna opción para seleccionar) y en color rojo. Podría ser un problema de permisos o algo parecido.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/forum/errores-en-la-web/problemas-con-el-tipo-de-contenido-sesiones-formulario-y-presentacion&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/forum/errores-en-la-web/problemas-con-el-tipo-de-contenido-sesiones-formulario-y-presentacion#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/220">Errores en la web</category>
+ <pubDate>Tue, 12 Jan 2010 10:57:02 +0000</pubDate>
+ <dc:creator>rvilar</dc:creator>
+ <guid isPermaLink="false">258 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

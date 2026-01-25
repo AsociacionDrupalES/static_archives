@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - Web errors</title>
+ <link>http://2011.drupalcamp.es/en/taxonomy/term/5/0</link>
+ <description>Found a problem with this web? Make us know!</description>
+ <language>en</language>
+<item>
+ <title>Propuesta de bloques en la portada / sidebar</title>
+ <link>http://2011.drupalcamp.es/en/foros/errores-en-la-web/propuesta-de-bloques-en-la-portada-sidebar</link>
+ <description>&lt;p&gt;Para ir dando mas vida a la web y permitir que los asistentes se conozcan, participen etc, estaría bien tener en la portada / sidebar:&lt;/p&gt;
+&lt;p&gt;1. Ultimos temas del foro u contestaciones.&lt;br /&gt;
+2. Sesiones random o ultimas, o ultimos comentarios en sesiones, algo asi.&lt;br /&gt;
+3. Ristra de tuits de la cuenta de tuiter oficial, y/o del hashtag oficial.&lt;/p&gt;
+</description>
+ <comments>http://2011.drupalcamp.es/en/foros/errores-en-la-web/propuesta-de-bloques-en-la-portada-sidebar#comments</comments>
+ <category domain="http://2011.drupalcamp.es/en/taxonomy/term/5">Web errors</category>
+ <pubDate>Fri, 02 Sep 2011 09:51:55 +0000</pubDate>
+ <dc:creator>manuee</dc:creator>
+ <guid isPermaLink="false">418 at http://2011.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Boton de registrarse en compra tu entrada</title>
+ <link>http://2011.drupalcamp.es/en/foros/errores-en-la-web/boton-de-registrarse-en-compra-tu-entrada</link>
+ <description>&lt;p&gt;Un pequeño error de maquetación del botón en &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/drupalcamp-spain-2011&quot; title=&quot;http://2011.drupalcamp.es/drupalcamp-spain-2011&quot;&gt;http://2011.drupalcamp.es/drupalcamp-spain-2011&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;En FF 6.0.1 al menos se ve parte del sprite, y no queda centrado el background-image.&lt;/p&gt;
+</description>
+ <comments>http://2011.drupalcamp.es/en/foros/errores-en-la-web/boton-de-registrarse-en-compra-tu-entrada#comments</comments>
+ <category domain="http://2011.drupalcamp.es/en/taxonomy/term/5">Web errors</category>
+ <pubDate>Fri, 02 Sep 2011 09:37:29 +0000</pubDate>
+ <dc:creator>manuee</dc:creator>
+ <guid isPermaLink="false">416 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

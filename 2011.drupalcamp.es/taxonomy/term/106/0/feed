@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - ajax</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/106/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>AJAX en D7</title>
+ <link>http://2011.drupalcamp.es/sesiones/ajax-en-d7</link>
+ <description>&lt;p&gt;&lt;strong&gt;Drupal 7&lt;/strong&gt; ha avanzado en muchos frentes, pero quizá el más destacado es el de usabilidad.&lt;br /&gt;
+Eso es cierto tanto en la interfaz de administración como en las facilidades que se presentan a los desarrolladores para crear interfaces usables.&lt;br /&gt;
+Hablaremos del &lt;strong&gt;nuevo framework &lt;/strong&gt;de &lt;strong&gt;AJAX&lt;/strong&gt;. Las facilidades que proporciona con las propiedades &lt;em&gt;&#039;#ajax&#039;&lt;/em&gt; de los &lt;em&gt;Render Elements&lt;/em&gt;, los diferentes comandos para no tener que escribir ni una linea de Javascript, AJAX y formularios, ...&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/e0ipso&quot; title=&quot;Ver perfil de usuario.&quot;&gt;e0ipso&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/ajax-en-d7&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/ajax-en-d7#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/ajax">ajax</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/desarrollo">desarrollo</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/drupal-7">drupal 7</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/javascript">javascript</category>
+ <pubDate>Thu, 15 Sep 2011 19:11:09 +0000</pubDate>
+ <dc:creator>e0ipso</dc:creator>
+ <guid isPermaLink="false">463 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - gestión</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/326/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>SCRUM y la Gestión de Proyectos web. Experiencias y casos reales. La pareja: scrum + drupal</title>
+ <link>http://2010.drupalcamp.es/sessions/scrum-y-la-gestion-de-proyectos-web-experiencias-y-casos-reales-la-pareja-scrum-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    16:00 - 16:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;El objetivo de la sesión es compartir nuestras experiencias en la utilización de Scrum en la gestión de proyectos desarrollados con drupal. Mediante casos reales explicaremos cómo organizamos y desarrollamos un proyecto drupal con scrum.&lt;/p&gt;
+&lt;p&gt;- Introducción. Por qué utilizar scrum&lt;br /&gt;
+- Quien es quien con scrum. Roles: &quot;product owner&quot;, &quot;scrum master&quot;, y el equipo&lt;br /&gt;
+- Redacción del Product Backlog&lt;br /&gt;
+- Planificación de sprint&lt;br /&gt;
+- Scrum diario&lt;br /&gt;
+- Retrospectiva de sprint&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/scrum-y-la-gestion-de-proyectos-web-experiencias-y-casos-reales-la-pareja-scrum-drupal&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/scrum-y-la-gestion-de-proyectos-web-experiencias-y-casos-reales-la-pareja-scrum-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/gestion">gestión</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/metodologia-desarrollo">metodología desarrollo</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/planificacion">planificación</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesi%C3%B3n/scrum-y-la-gesti%C3%B3n-de-proyectos-web">SCRUM y la Gestión de Proyectos WEB</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-SCRUMYLaGestinDeProyectosWebExperienciasYCasosRealesL434.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-SCRUMYLaGestinDeProyectosWebExperienciasYCasosRealesL434-423.jpg" />
+</media:content>
+ <pubDate>Tue, 09 Feb 2010 09:18:32 +0000</pubDate>
+ <dc:creator>miren</dc:creator>
+ <guid isPermaLink="false">323 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

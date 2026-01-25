@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - usuarios</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/302/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Construyendo una red social con Drupal</title>
+ <link>http://2010.drupalcamp.es/en/sessions/construyendo-una-red-social-con-drupal</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    10:00 - 10:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Como buena navaja suiza que es, Drupal nos ofrece toda la funcionalidad para la creación de una red social que permita a los usuarios disfrutar de un sitio web donde además de leer y comentar, puedan participar activamente.&lt;/p&gt;
+&lt;p&gt;Se presentarán las ventajas y dificultades que nos podemos encontrar, así como la introducción a algunos módulos que permiten añadir las características habituales de un sitio social. Algunas funcionalidades que se presentarían: &lt;/p&gt;
+&lt;p&gt;Perfiles de usuario con Content Profile&lt;br /&gt;
+Grupos con Organic Groups&lt;br /&gt;
+Relaciones entre usuarios con User Relationships&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/drupalcamp-construyendo-red-social.pdf&quot; type=&quot;application/pdf; length=338768&quot;&gt;drupalcamp-construyendo-red-social.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgeimcgI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/en/sessions/construyendo-una-red-social-con-drupal&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/construyendo-una-red-social-con-drupal#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/facebook">facebook</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/grupos">grupos</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/interesante">interesante</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/modulos">módulos</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/red-social">red social</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/usuarios">usuarios</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/web20">web2.0</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-ConstruyendoUnaRedSocialConDrupal329.flv" fileSize="200314322" type="video/x-flv" duration="3148" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-ConstruyendoUnaRedSocialConDrupal674-505.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-ConstruyendoUnaRedSocialConDrupal329.flv" length="200314322" type="video/x-flv" />
+ <pubDate>Tue, 02 Feb 2010 08:05:42 +0000</pubDate>
+ <dc:creator>delineas</dc:creator>
+ <guid isPermaLink="false">306 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

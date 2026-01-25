@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - hooks</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/52/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Introducción al sistema de hooks de Drupal</title>
+ <link>http://2011.drupalcamp.es/sesiones/introduccion-al-sistema-de-hooks-de-drupal</link>
+ <description>&lt;p&gt;En esta sesión vamos a explicar que es un hook, como usarlo, que potencial tienen y sobretodo vamos a ver que hooks existen en Drupal (como mínimo los mas comunes) i cuando debemos usarlos.&lt;/p&gt;
+&lt;p&gt;Se va a tratar de una charla introductoria para aquella gente que le suene el tema o que haya hecho algún modulo pero quien o tenga claro ni como funciona ni como usarlos&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/quiron&quot; title=&quot;Ver perfil de usuario.&quot;&gt;quiron&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2011.drupalcamp.es/sesiones/introduccion-al-sistema-de-hooks-de-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/desarrollo">desarrollo</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/funciones">funciones</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/hooks">hooks</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/modulos">modulos</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/php">php</category>
+ <pubDate>Tue, 24 May 2011 19:12:36 +0000</pubDate>
+ <dc:creator>quiron</dc:creator>
+ <guid isPermaLink="false">308 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

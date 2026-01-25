@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - localización</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/80/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Construyendo sitios web multilingües con Drupal 7. Casos y módulos.</title>
+ <link>http://2011.drupalcamp.es/sesiones/construyendo-sitios-web-multilinguees-con-drupal-7-casos-y-modulos</link>
+ <description>&lt;p&gt;Presentación de las grandes posibilidades (y pequeñas dificultades) que nos ofrece Drupal para construir webs multilingües, partiendo de algunos ejemplos concretos y viendo los módulos que podemos usar para construirlos. &lt;/p&gt;
+&lt;p&gt;Paso a paso:&lt;/p&gt;
+&lt;p&gt;* Empezaremos explicando algunos conceptos y con la descripción de dos o tres modelos diferentes de sitios web multilingües.&lt;/p&gt;
+&lt;p&gt;* Seguiremos con un análisis más detallado de los elementos funcionales que necesitamos para construir cada caso.&lt;/p&gt;
+&lt;p&gt;* Y traduciremos esos requerimientos funcionales en módulos concretos que nos podemos descargar de Drupal.org&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/jose-reyero&quot; title=&quot;Ver perfil de usuario.&quot;&gt;Jose Reyero&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1100-1200&quot;&gt;2 Octubre 11:00 - 11:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/auditorio-emergya&quot;&gt;Auditorio Emergya&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/construyendo-sitios-web-multilinguees-con-drupal-7-casos-y-modulos&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/construyendo-sitios-web-multilinguees-con-drupal-7-casos-y-modulos#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/i18n">i18n</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/internacionalizacion">internacionalización</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/l10n">l10n</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/localizacion">localización</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/traduccion">traducción</category>
+ <pubDate>Wed, 03 Aug 2011 16:29:43 +0000</pubDate>
+ <dc:creator>Jose Reyero</dc:creator>
+ <guid isPermaLink="false">386 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

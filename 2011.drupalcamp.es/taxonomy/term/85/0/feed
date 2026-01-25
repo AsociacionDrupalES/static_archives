@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - drupal comunidad contribuciones</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/85/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Contribuciones a Drupal.org</title>
+ <link>http://2011.drupalcamp.es/sesiones/contribuciones-drupalorg</link>
+ <description>&lt;p&gt;Esta charla está inspirada en este &lt;a href=&quot;http://vimeo.com/15534982&quot; target=&quot;_blank&quot;&gt;vídeo de Webchick (responsable de Drupal 7)&lt;/a&gt; sobre el estado de la Comunidad de Drupal en 2010.&lt;/p&gt;
+&lt;p&gt;Encontrar tiempo para poder ayudar a que Drupal mejore no es fácil, pero hay una serie de estrategias que pueden ayudarnos a ello. Y lo mejor de todo: es divertidísimo y adictivo :-D.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/juampy&quot; title=&quot;Ver perfil de usuario.&quot;&gt;juampy&lt;/a&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    &lt;a href=&quot;/users/manuee&quot; title=&quot;Ver perfil de usuario.&quot;&gt;manuee&lt;/a&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/pcambra&quot; title=&quot;Ver perfil de usuario.&quot;&gt;pcambra&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-vnd.ms-powerpoint&quot;  alt=&quot;application/vnd.ms-powerpoint icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/x-office-presentation.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/contribuciones_a_drupal_org_.ppt&quot; type=&quot;application/vnd.ms-powerpoint; length=107520&quot;&gt;contribuciones_a_drupal_org_.ppt&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/15-mayo-1500-1600&quot;&gt;2 Octubre 15:00 - 15:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-02&quot;&gt;Sala 2: Cenatic&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/contribuciones-drupalorg&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/contribuciones-drupalorg#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/drupal-comunidad-contribuciones">drupal comunidad contribuciones</category>
+ <pubDate>Thu, 11 Aug 2011 11:49:25 +0000</pubDate>
+ <dc:creator>juampy</dc:creator>
+ <guid isPermaLink="false">392 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

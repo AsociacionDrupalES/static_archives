@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - taxonomy import</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/44/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Node Import y Taxonomy CSV Import: Migrando una web a Drupal.</title>
+ <link>http://2011.drupalcamp.es/sesiones/node-import-y-taxonomy-csv-import-migrando-una-web-drupal</link>
+ <description>&lt;p&gt;En esta sesión se tratará la migración de contenidos a Drupal. &lt;/p&gt;
+&lt;p&gt;Migraremos una web hecha en php/mySQL &quot;a pelo&quot; a un Drupal 6, con sus tipos de contenidos, texto, imágenes, categorías, etc.&lt;/p&gt;
+&lt;p&gt;También explicaremos como migrar una base de datos externa (mySQL, Filemaker, Access, etc) a un sistema Drupal bien estructurado. &lt;/p&gt;
+&lt;p&gt;Para ellos nos basaremos en Node Import y Taxonomy CSV Import. &lt;/p&gt;
+&lt;p&gt;Entraremos en profundidad en campos múltiples, campos de imagen, mapas y localización, y todo tipo de contenido complicaado, haciéndolo en un proceso (relativamente) rápido, pero muy sencillo.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/davidlopez&quot; title=&quot;Ver perfil de usuario.&quot;&gt;david.lopez&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/node-import-y-taxonomy-csv-import-migrando-una-web-drupal&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/node-import-y-taxonomy-csv-import-migrando-una-web-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/migrating">migrating</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/node-import">node import</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/taxonomy-import">taxonomy import</category>
+ <pubDate>Mon, 09 May 2011 00:32:11 +0000</pubDate>
+ <dc:creator>david.lopez</dc:creator>
+ <guid isPermaLink="false">290 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

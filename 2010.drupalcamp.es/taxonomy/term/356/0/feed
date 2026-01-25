@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Organic Groups</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/356/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Spaces/Context/Features/Purl. Qué es y cómo se come?</title>
+ <link>http://2010.drupalcamp.es/sessions/spacescontextfeaturespurl-que-es-y-como-se-come</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Viernes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    15:00 - 15:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil Linux        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;En la búsqueda de una plataforma para una red social a escala regional que permita a cada entidad (usuario, grupo, pueblo) configurar su espacio a gusto, encontramos la receta Spaces/Features/Context/Purl, con el aviso:  Spaces 3 is Alpha, and we mean it.&lt;/p&gt;
+&lt;p&gt;A fecha de hoy, Spaces / Context 3 ya es beta1, y en esta sesión les explicamos cómo sacamos provecho a esta arquitectura Drupal.&lt;/p&gt;
+&lt;p&gt;Después de una presentación del proyecto, la idea es realizar una sesión técnica para ver la utilidad y ventajas de:&lt;/p&gt;
+&lt;p&gt;Drush make&lt;br /&gt;
+Features&lt;br /&gt;
+Spaces (3)&lt;br /&gt;
+Context (3)&lt;/p&gt;
+&lt;p&gt;NOTA:&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/drupalcampspain spaces context features purl.pdf&quot; type=&quot;application/pdf; length=2563960&quot;&gt;drupalcampspain spaces context features purl.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-livestream&quot;&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/spacescontextfeaturespurl-que-es-y-como-se-come&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/spacescontextfeaturespurl-que-es-y-como-se-come#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/context">Context</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/features">Features</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/organic-groups">Organic Groups</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/red-social">red social</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/spaces">Spaces</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://www.livestream.com/emision_en_directo/video?clipId=pla_31de8660-4ca6-40b8-9691-6e60c4d81ca2" type="text/html; charset=utf-8"></media:content>
+ <pubDate>Wed, 17 Feb 2010 10:30:00 +0000</pubDate>
+ <dc:creator>joefarrera</dc:creator>
+ <guid isPermaLink="false">353 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

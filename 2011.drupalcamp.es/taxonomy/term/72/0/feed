@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - groups</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/72/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Construyendo múltiples sitios con Drupal: groups y domain access</title>
+ <link>http://2011.drupalcamp.es/sesiones/construyendo-multiples-sitios-con-drupal-groups-y-domain-access</link>
+ <description>&lt;p&gt;Drupal ofrece múltiples posibilidades, una de las cuáles es la de creación de múltiples sitios a través de una misma instalación. De esta forma, con la misma plataforma podemos generar varios espacios que compartirán recursos y usuarios, pero que podrán tener comportamientos y presentación diferentes.&lt;/p&gt;
+&lt;p&gt;En la sesión se abordará la creación de multisites desde dos puntos de vista diferentes:&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/delineas&quot; title=&quot;Ver perfil de usuario.&quot;&gt;delineas&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/construyendo-multiples-sitios-con-drupal-groups-y-domain-access&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/construyendo-multiples-sitios-con-drupal-groups-y-domain-access#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/domain">domain</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/groups">groups</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/multisites">multisites</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/og">og</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/sitios">sitios</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/themes">themes</category>
+ <pubDate>Tue, 02 Aug 2011 19:30:19 +0000</pubDate>
+ <dc:creator>delineas</dc:creator>
+ <guid isPermaLink="false">382 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

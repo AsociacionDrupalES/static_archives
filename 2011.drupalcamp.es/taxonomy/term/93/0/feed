@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - casetracker</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/93/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Productividad y eficiencia de las corporaciones con Open Atrium al descubierto. Caso de éxito en Ideup!</title>
+ <link>http://2011.drupalcamp.es/sesiones/productividad-y-eficiencia-de-las-corporaciones-con-open-atrium-al-descubierto-caso-de-exit</link>
+ <description>&lt;p&gt;Muchas corporaciones padecen el cáncer de la dispersión de la información que ocasiona pérdidas brutales de tiempo buscando documentos, accesos a sistemas, código fuente de aplicaciones, errores de versiones, repetición de trabajo, pérdida de datos, etc. Esta enfermedad provoca la pérdida de eficiencia de los trabajadores, frustración cotidiana de tener que repetir las cosas, de saberse perdido en el caos y en el desastre, peor aún, cuando cualquier trabajador decide emigrar a mundos mejores y el conocimiento que se concentraba en él queda perdido y sin rastro. Queremos darnos un tiro y huir y perdemos mucho tiempo en labores de ingeniería inversa para encontrar nuevamente una tenue huella de lo que necesitamos.&lt;/p&gt;
+&lt;p&gt;Esto no es metáfora, es una cruel realidad y todo esto y más he visto en diversas compañías en las que he trabajado. Desesperadamente he buscado una fórmula que permitiera de una manera simple y no muy costosa dar organización a los esfuerzos de los equipos que están ansiosos por sacar las cosas adelante y crear proyectos que marquen diferencia en la calidad, tiempos de entrega, escalabilidad, y que marquen una época como caso de éxito.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/citlacom&quot; title=&quot;Ver perfil de usuario.&quot;&gt;citlacom&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-vnd.oasis.opendocument.presentation&quot;  alt=&quot;application/vnd.oasis.opendocument.presentation icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/x-office-presentation.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/productividad_con_openatrium.odp&quot; type=&quot;application/vnd.oasis.opendocument.presentation; length=1807024&quot;&gt;productividad_con_openatrium.odp&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/13-mayo-1200-1300&quot;&gt;1 Octubre 12:00 - 12:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-03&quot;&gt;Sala 3: ETSII&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/productividad-y-eficiencia-de-las-corporaciones-con-open-atrium-al-descubierto-caso-de-exit&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/productividad-y-eficiencia-de-las-corporaciones-con-open-atrium-al-descubierto-caso-de-exit#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/casetracker">casetracker</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/features">features</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/gestion-proyectos">gestion proyectos</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/openatrium">openatrium</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/productividad">productividad</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/versioncontrol">versioncontrol</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/views">Views</category>
+ <pubDate>Sun, 14 Aug 2011 23:24:31 +0000</pubDate>
+ <dc:creator>citlacom</dc:creator>
+ <guid isPermaLink="false">398 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

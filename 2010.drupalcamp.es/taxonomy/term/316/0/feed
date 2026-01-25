@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - integración</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/316/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Realidad aumentada con Drupal (Layar)</title>
+ <link>http://2010.drupalcamp.es/sessions/realidad-aumentada-con-drupal-layar</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    12:00 - 12:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala B        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil MacOSX        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;En esta presentación desde Investic queremos enseñar como integrar la plataforma Layar con Drupal.&lt;br /&gt;
+Layar es una aplicación que permite mediante técnicas de realidad aumentada situar puntos de interés geoposicionados (POIs).&lt;br /&gt;
+En esta charla, veremos los pasos para que drupal provea de puntos de interes (Gmap, Location).Enseñaremos como hacer uso del   modulo en desarrollado por nosotros (fase Dev) y el servidor Porpoise para que se relacione con la arquitectura Layar.&lt;/p&gt;
+&lt;p&gt;Para ver la presentación, Integración de Layar con Drupal ir a este enlace:&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sessions/realidad-aumentada-con-drupal-layar&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/sessions/realidad-aumentada-con-drupal-layar#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/android">android</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/arquitectura">arquitectura</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/integracion">integración</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/iphone">Iphone</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/layar">layar</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/modulo">modulo</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/pois">POIs</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/realidad-aumentada">realidad aumentada</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/avanzado">Avanzado</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-RealidadAumentadaConDrupalLayar986.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-RealidadAumentadaConDrupalLayar986-151.jpg" />
+</media:content>
+ <pubDate>Tue, 09 Feb 2010 08:14:01 +0000</pubDate>
+ <dc:creator>mael</dc:creator>
+ <guid isPermaLink="false">321 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

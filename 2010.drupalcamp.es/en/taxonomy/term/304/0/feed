@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Diseño gráfico</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/304/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Diseño gráfico y Drupal. Nuestra experiencia</title>
+ <link>http://2010.drupalcamp.es/en/sessions/diseno-grafico-y-drupal-nuestra-experiencia</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Sábado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    12:00 - 12:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Puedo usar el PC de la sala (con Linux)        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Hola, somos césar y justina.&lt;br /&gt;
+Somos un estudio de diseño gráfico y usamos drupal para casi todos nuestros proyectos.&lt;br /&gt;
+Nos gustaría enseñaros algunas de los casos que hemos desarrollado porque creo que hemos sabido dotar a Drupal de una capa de diseño interesante que ayuda mucho a vender drupal a los clientes.&lt;/p&gt;
+&lt;p&gt;Entre otros casos os presentaremos estos:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.informeanual2008.indra.es/&quot; title=&quot;http://www.informeanual2008.indra.es/&quot; rel=&quot;nofollow&quot;&gt;http://www.informeanual2008.indra.es/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.congresocnoo.com/&quot; title=&quot;http://www.congresocnoo.com/&quot; rel=&quot;nofollow&quot;&gt;http://www.congresocnoo.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://bid-dimad.org/&quot; title=&quot;http://bid-dimad.org/&quot; rel=&quot;nofollow&quot;&gt;http://bid-dimad.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://dimad.org/&quot; title=&quot;http://dimad.org/&quot; rel=&quot;nofollow&quot;&gt;http://dimad.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.yotambientengoderechos.com/&quot; title=&quot;http://www.yotambientengoderechos.com/&quot; rel=&quot;nofollow&quot;&gt;http://www.yotambientengoderechos.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://vodafone.es/conocenos/patrocinios/esqui/&quot; title=&quot;http://vodafone.es/conocenos/patrocinios/esqui/&quot; rel=&quot;nofollow&quot;&gt;http://vodafone.es/conocenos/patrocinios/esqui/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Un saludo.&lt;br /&gt;
+César.&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/drupal-camp-cesar-2010.pdf&quot; type=&quot;application/pdf; length=1932708&quot;&gt;drupal-camp-cesar-2010.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/diseno-grafico-y-drupal-nuestra-experiencia#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/casos-reales">casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/css">css</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/diseno-grafico">Diseño gráfico</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/dise%C3%B1o-y-usabilidad">Diseño y usabilidad</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-DiseoGrficoYDrupalNuestraExperiencia415.ogv"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-DiseoGrficoYDrupalNuestraExperiencia415-646.jpg" />
+</media:content>
+ <pubDate>Tue, 02 Feb 2010 22:16:27 +0000</pubDate>
+ <dc:creator>cesar_martin</dc:creator>
+ <guid isPermaLink="false">310 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

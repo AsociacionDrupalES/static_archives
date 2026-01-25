@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - mapping</title>
+ <link>http://2011.drupalcamp.es/en/taxonomy/term/30/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Mapping in Drupal using OpenLayers</title>
+ <link>http://2011.drupalcamp.es/en/sessions/mapping-drupal-using-openlayers</link>
+ <description>&lt;p&gt;Since the introduction of Google Maps, mapping has become a familiar task for most users. In this presentation, I&#039;ll show the state of art of mapping using the Drupal CMS and &lt;a href=&quot;http://drupal.org/project/openlayers&quot;&gt;OpenLayers&lt;/a&gt; module suite to create user-friendly and powerful maps in a very short timeframe. This approach to mapping in Drupal relies of familiar building blocks: CCK and Views, and their integration with OpenLayers using concepts such as behaviors, styles and layers. A basic understanding of Views and CCK is necessary.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presenter(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/en/users/pvhee&quot; title=&quot;View user profile.&quot;&gt;pvhee&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/13-mayo-1000-1100&quot;&gt;1 Octubre 10:00 - 10:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/room-02&quot;&gt;Sala 2: Cenatic&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/en/sessions/mapping-drupal-using-openlayers&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/en/sessions/mapping-drupal-using-openlayers#comments</comments>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/mapping">mapping</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/openlayers">openlayers</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/views">Views</category>
+ <pubDate>Tue, 19 Apr 2011 19:11:40 +0000</pubDate>
+ <dc:creator>pvhee</dc:creator>
+ <guid isPermaLink="false">247 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

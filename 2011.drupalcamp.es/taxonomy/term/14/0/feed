@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - crm</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/14/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Usos alternativos de Drupal</title>
+ <link>http://2011.drupalcamp.es/sesiones/usos-alternativos-de-drupal</link>
+ <description>&lt;p&gt;&lt;strong&gt;Contacta conmigo si estás interesado en participar como co-ponente en esa sesión.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Drupal, como framework, permite mucho más que crear páginas web.&lt;/p&gt;
+&lt;p&gt;Existen proyectos donde Drupal se usa para controlar hardware, sistemas de gestíon internos (ej: CRM), backends de contenidos para aplicaciones en java, etc...&lt;/p&gt;
+&lt;p&gt;En esta sesión se enseñarán algunos de estos usos.&lt;/p&gt;
+&lt;p&gt;Se pretende que sea una sesión conjunta presentada por ponentes de distintas empresas donde cada uno pueda exponer su caso.&lt;/p&gt;
+&lt;p&gt;Casos:&lt;/p&gt;
+&lt;p&gt;Pedro Lozano (Alquimia):&lt;/p&gt;
+&lt;ul&gt;
+&lt;/ul&gt;&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/peterlozano&quot; title=&quot;Ver perfil de usuario.&quot;&gt;peterlozano&lt;/a&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    &lt;a href=&quot;/users/isaacelcec&quot; title=&quot;Ver perfil de usuario.&quot;&gt;isaac.el.cec&lt;/a&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/aheredia&quot; title=&quot;Ver perfil de usuario.&quot;&gt;aheredia&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/presupuestos_drupal.pdf&quot; type=&quot;application/pdf; length=1054835&quot;&gt;presupuestos_drupal.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/application-pdf.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/narrowcasting-1024.pdf&quot; type=&quot;application/pdf; length=1818419&quot;&gt;narrowcasting-1024.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/13-mayo-1000-1100&quot;&gt;1 Octubre 10:00 - 10:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/auditorio-emergya&quot;&gt;Auditorio Emergya&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Vídeo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-ustream&quot;&gt;&lt;object type=&#039;application/x-shockwave-flash&#039; height=&#039;420&#039; width=&#039;100%&#039; data=&#039;http://ustream.tv/flash/video/17610970&#039; id=&#039;ustream-video-1&#039; &gt;&lt;param name=&#039;movie&#039; value=&#039;http://www.ustream.tv/flash/video/17610970&#039; /&gt;&lt;param name=&#039;allowScriptAccess&#039; value=&#039;always&#039; /&gt;&lt;param name=&#039;quality&#039; value=&#039;best&#039; /&gt;&lt;param name=&#039;scale&#039; value=&#039;noScale&#039; /&gt;&lt;param name=&#039;wmode&#039; value=&#039;transparent&#039; /&gt;&lt;param name=&#039;FlashVars&#039; value=&#039;autoplay=false&#039; /&gt;&lt;param name=&#039;allowfullscreen&#039; value=&#039;true&#039; /&gt;&lt;/object&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/usos-alternativos-de-drupal&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/usos-alternativos-de-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/crm">crm</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/gestor-documentarl">gestor documentarl</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/hardware">hardware</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/narrowcasting">narrowcasting</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/presupuestos">presupuestos</category>
+ <pubDate>Sat, 09 Apr 2011 11:35:43 +0000</pubDate>
+ <dc:creator>peterlozano</dc:creator>
+ <guid isPermaLink="false">181 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

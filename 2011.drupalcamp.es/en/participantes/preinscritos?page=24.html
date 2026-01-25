@@ -1,0 +1,653 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Atendees | Drupalcamp Spain 2011</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="../../sites/default/files/sevilla2011_favicon.ico" type="image/x-icon"/>
+
+    <link type="text/css" rel="stylesheet" media="all" href="../../modules/book/book.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../modules/node/node.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../modules/system/defaults.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system-menus.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../modules/user/user.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/cck/theme/content-module.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/ctools/css/ctools.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/date/date.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/date/date_popup/themes/datepicker.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/date/date_popup/themes/jquery.timeentry.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/filefield/filefield.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/logintoboggan/logintoboggan.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/panels/css/panels.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/simplenews/simplenews.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/ubercart/uc_attribute/uc_attribute.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/ubercart/uc_order/uc_order.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/ubercart/uc_product/uc_product.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/ubercart/uc_store/uc_store.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../modules/forum/forum.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/cck/modules/fieldgroup/fieldgroup.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/contrib/views/css/views.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/themes/sevilla2011/css/reset.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/themes/sevilla2011/css/estilos.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/themes/sevilla2011/css/javi.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/themes/sevilla2011/css/robert.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/themes/sevilla2011/css/trunks.css%3Fo.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="../../sites/all/themes/sevilla2011/css/manuee.css%3Fo.css"/>
+    <!--[if lte IE 7]>
+    <link rel="stylesheet" href="/sites/all/themes/sevilla2011/css/estilo_ie.css" type="text/css"/>
+    <![endif]-->
+    <script type="text/javascript" src="../../misc/jquery.js%3Fo"></script>
+    <script type="text/javascript" src="../../misc/drupal.js%3Fo"></script>
+    <script type="text/javascript" src="../../sites/all/modules/contrib/google_analytics/googleanalytics.js%3Fo"></script>
+    <script type="text/javascript" src="../../sites/all/modules/contrib/panels/js/panels.js%3Fo"></script>
+    <script type="text/javascript" src="../../sites/all/modules/contrib/views/js/base.js%3Fo"></script>
+    <script type="text/javascript" src="../../sites/all/modules/contrib/views/js/ajax_view.js%3Fo"></script>
+    <script type="text/javascript" src="../../sites/all/modules/contrib/ajaxblocks/ajaxblocks.js%3Fo"></script>
+    <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+      jQuery.extend(Drupal.settings, {"basePath": "/", "googleanalytics": {"trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}, "views": {"ajax_path": "/en/views/ajax", "ajaxViews": [{"view_name": "Participantes", "view_display_id": "page_1", "view_args": "", "view_path": "participantes/preinscritos", "view_base_path": "participantes/preinscritos", "view_dom_id": 1, "pager_element": 0}]}, "ajaxblocks": "blocks=views-attendees-block_1/views-Sponsors-block_12\x26path=participantes/preinscritos\x26page=24"});
+      //--><!]]>
+    </script>
+    <script type="text/javascript"></script>
+</head>
+<body class="participantes">
+<div id="wrap">
+    <div id="cabecera">
+        <div class="contenedor">
+            <h1 class="oculto">Drupalcamp Spain 2011</h1>
+            <div class="menulogin">
+                <div class="menu_izq">&nbsp;</div>
+                <ul class="links">
+                    <li class="menu-762 first"><a href="../atendees.html" title="Atendees">Atendees</a></li>
+                    <li class="menu-329"><a href="../schedule.html" title="">Session schedule</a></li>
+                    <li class="menu-763"><a href="../forum.html" title="Forum">Forum</a></li>
+                    <li class="menu-764"><a href="../contact.html" title="Contact">Contact</a></li>
+                    <li class="menu-767 last"><a href="../user/login.html" title="">Login</a></li>
+                </ul>
+                <div class="menu_der">&nbsp;</div>
+            </div>
+            <a id="mainlogo" href="../../en.html" title="Principal"><img src="../../sites/all/themes/sevilla2011/img/logo.png" alt="Logotipo" class="logo"/></a>
+            <div class="menuprincipal">
+                <ul class="links">
+                    <li class="menu-740 first"><a href="../information.html" title="Information">Information</a></li>
+                    <li class="menu-330"><a href="../sessions.1.html" title="">Sesiones</a></li>
+                    <li class="menu-696"><a href="../news.html" title="Updates and news about the event">News</a></li>
+                    <li class="menu-739 last"><a href="../patrocinadores.html" title="Sponsors">Sponsors</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="centro">
+        <div class="contenedor">
+            <div id="block-locale-0" class="block block-locale">
+                <div class="title">Languages</div>
+
+                <div class="content">
+                    <ul>
+                        <li class="es first"><a href="../../participantes/preinscritos.html" class="language-link">Español</a></li>
+                        <li class="en last active"><a href="preinscritos.html" class="language-link active">English</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div id="cuerpo">
+        <div class="contenedor" style="text-align: left; display: block;">
+
+            <div id="page">
+
+
+                <h2 class="title">Atendees</h2>
+
+
+                <ul class="tabs primary">
+                    <li><a href="../atendees.html">Confirmed atendees</a></li>
+                    <li class="active"><a href="preinscritos.html" class="active">Pre-registered users</a></li>
+                    <li><a href="grafica.html">Chart</a></li>
+                </ul>
+                <div class="view view-Participantes view-id-Participantes view-display-id-page_1 view-dom-id-1">
+
+
+                    <div class="view-content">
+                        <table class="views-view-grid">
+                            <tbody>
+                            <tr class="row-1 row-first">
+                                <td class="col-1">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/martincampos.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/pictures/picture-181.jpg" alt="martincampos&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/martincampos.html" title="View user profile.">martincampos</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-2">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/dclavain.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/pictures/picture-180.jpg" alt="dclavain&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/dclavain.html" title="View user profile.">dclavain</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-3">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/borja.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="borja&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/borja.html" title="View user profile.">borja</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-4">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/davidjguru.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/pictures/picture-178.jpg" alt="davidjguru&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/davidjguru.html" title="View user profile.">davidjguru</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-5">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/bosspetta.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/pictures/picture-177.jpg" alt="bosspetta&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/bosspetta.html" title="View user profile.">bosspetta</a></span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr class="row-2">
+                                <td class="col-1">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/huelvafriki.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="HuelvaFriki&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/huelvafriki.html" title="View user profile.">HuelvaFriki</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-2">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/ainur0.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/pictures/picture-175.png" alt="ainur0&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/ainur0.html" title="View user profile.">ainur0</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-3">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/teresm7.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="teresm7&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/teresm7.html" title="View user profile.">teresm7</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-4">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/mangelrp.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="mangelrp&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/mangelrp.html" title="View user profile.">mangelrp</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-5">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/borjaeguia.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="borjaeguia&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/borjaeguia.html" title="View user profile.">borjaeguia</a></span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr class="row-3">
+                                <td class="col-1">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/fernando-siles.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/pictures/picture-171.jpg" alt="Fernando Siles&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/fernando-siles.html" title="View user profile.">Fernando Siles</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-2">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/m3n0r.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/pictures/picture-170.png" alt="m3n0R&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/m3n0r.html" title="View user profile.">m3n0R</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-3">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/alfem.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="alfem&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/alfem.html" title="View user profile.">alfem</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-4">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/oriole9g.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="oriol_e9g&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/oriole9g.html" title="View user profile.">oriol_e9g</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-5">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/carmen.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="Carmen&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/carmen.html" title="View user profile.">Carmen</a></span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr class="row-4 row-last">
+                                <td class="col-1">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/jamartin.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="jamartin&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/jamartin.html" title="View user profile.">jamartin</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-2">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/carmona.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="carmona&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/carmona.html" title="View user profile.">carmona</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-3">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/alfonsorimada.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="alfonsorimada&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/alfonsorimada.html" title="View user profile.">alfonsorimada</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-4">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/gervet.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="gervet&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/gervet.html" title="View user profile.">gervet</a></span>
+                                    </div>
+                                </td>
+                                <td class="col-5">
+
+                                    <div class="views-field-picture">
+                                        <div class="field-content">
+                                            <div class="picture">
+                                                <a href="../users/juanfernandez.html" title="View user profile."><img src="../../sites/default/files/imagecache/lista-asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="juanfernandez&#039;s picture" title="View user profile." class="imagecache imagecache-lista-asistentes" width="85" height="85"/></a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="views-field-name">
+                                        <span class="field-content"><a href="../users/juanfernandez.html" title="View user profile.">juanfernandez</a></span>
+                                    </div>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="item-list">
+                        <ul class="pager">
+                            <li class="pager-first first"><a href="preinscritos.html" title="Go to first page" class="active">« first</a></li>
+                            <li class="pager-previous"><a href="preinscritos%3Fpage=23.html" title="Go to previous page" class="active">‹ previous</a></li>
+                            <li class="pager-ellipsis">…</li>
+                            <li class="pager-item"><a href="preinscritos%3Fpage=20.html" title="Go to page 21" class="active">21</a></li>
+                            <li class="pager-item"><a href="preinscritos%3Fpage=21.html" title="Go to page 22" class="active">22</a></li>
+                            <li class="pager-item"><a href="preinscritos%3Fpage=22.html" title="Go to page 23" class="active">23</a></li>
+                            <li class="pager-item"><a href="preinscritos%3Fpage=23.html" title="Go to page 24" class="active">24</a></li>
+                            <li class="pager-current">25</li>
+                            <li class="pager-item"><a href="preinscritos%3Fpage=25.html" title="Go to page 26" class="active">26</a></li>
+                            <li class="pager-item"><a href="preinscritos%3Fpage=26.html" title="Go to page 27" class="active">27</a></li>
+                            <li class="pager-item"><a href="preinscritos%3Fpage=27.html" title="Go to page 28" class="active">28</a></li>
+                            <li class="pager-item"><a href="preinscritos%3Fpage=28.html" title="Go to page 29" class="active">29</a></li>
+                            <li class="pager-ellipsis">…</li>
+                            <li class="pager-next"><a href="preinscritos%3Fpage=25.html" title="Go to next page" class="active">next ›</a></li>
+                            <li class="pager-last last"><a href="preinscritos%3Fpage=31.html" title="Go to last page" class="active">last »</a></li>
+                        </ul>
+                    </div>
+
+
+                </div>
+            </div>
+
+            <div id="right-sidebar" class="sidebar">
+                <div id="block-block-18" class="block block-block">
+                    <div class="title">Compra tu entrada</div>
+
+                    <div class="content"><p><a href="../node/117.html"><img src="../../sites/all/themes/sevilla2011/img/centradas.png" alt="Tickets"/></a></p>
+                    </div>
+                </div>
+
+                <div id="block-views-Sponsors-block_11" class="block block-views">
+                    <div class="title">Patrocinadores Oro</div>
+
+                    <div class="content">
+                        <div class="view view-Sponsors view-id-Sponsors view-display-id-block_11 view-dom-id-2">
+
+
+                            <div class="view-content">
+                                <div class="views-row views-row-1 views-row-odd views-row-first x">
+
+                                    <div class="views-field-field-logo-fid">
+                                        <span class="field-content"><a href="http://www.emergya.es/"><img src="../../sites/default/files/imagecache/col_right_240/logo_emergya.png" alt="" title="" class="imagecache imagecache-col_right_240 imagecache-default imagecache-col_right_240_default" width="240" height="72"/></a></span>
+                                    </div>
+                                </div>
+                                <div class="views-row views-row-2 views-row-even views-row-last x">
+
+                                    <div class="views-field-field-logo-fid">
+                                        <span class="field-content"><a href="http://www.microsoft.com/web/gallery/d7devsql.aspx?WT.mc_id=ban-c-es-loc-Drupal-Q2"><img src="../../sites/default/files/imagecache/col_right_240/logo_mslogo-h_web.jpg" alt="" title="" class="imagecache imagecache-col_right_240 imagecache-default imagecache-col_right_240_default" width="240" height="39"/></a></span>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+
+                <div id="block-block-5" class="block block-block">
+
+                    <div class="content">
+                        <div class="social-icons">
+                            <div class="social-icon-img" id="social-twitter-icon">
+                                <a href="http://twitter.com/drupalcampspain"><img src="../../sites/all/themes/sevilla2011/img/twitter-48.png" alt="Twitter" title="Twitter"/></a>
+                            </div>
+                            <div class="social-icon-img" id="social-facebook-icon">
+                                <a href="http://www.facebook.com/group.php?gid=155846719100"><img src="../../sites/all/themes/sevilla2011/img/facebook-48.png" alt="Facebook" title="Facebook"/></a>
+                            </div>
+                            <div class="social-icon-img" id="social-flickr-icon">
+                                <a href="http://www.flickr.com/photos/tags/dcspain2011/"><img src="../../sites/all/themes/sevilla2011/img/flickr-48.png" alt="Flickr" title="Flickr"/></a>
+                            </div>
+                            <div class="social-icon-img" id="social-rss-icon">
+                                <a href="../../noticias/rss"><img src="../../sites/all/themes/sevilla2011/img/rss-48.png" alt="RSS" title="RSS"/></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="block-block-17" class="block block-block">
+
+                    <div class="content">
+                        <div style="text-align: center"><img alt="Drupalcamp Badge" title="Drupalcamp Spain 2011" src="../../sites/all/themes/sevilla2011/img/badge-dcsp11-A-en.png"/></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="pie">
+    <div class="contenedor">
+        <div class="columnas">
+            <div class="pie_izq">
+                <div id="block-views-attendees-block_1" class="block block-views">
+                    <div class="title">Asistentes</div>
+
+                    <div class="content">
+                        <div id="block-views-attendees-block_1-ajax-content" class="ajaxblocks-wrapper">
+                            <script type="text/javascript"></script>
+                            <noscript>
+                                <div class="view view-attendees view-id-attendees view-display-id-block_1 view-dom-id-3">
+
+
+                                    <div class="view-content">
+                                        <div class="views-row views-row-1 views-row-odd views-row-first x">
+
+                                            <div class="views-field-picture">
+                                                <div class="field-content">
+                                                    <div class="picture">
+                                                        <a href="../users/morgothz.html" title="View user profile."><img src="../../sites/default/files/imagecache/asistentes/pictures/picture-47.jpg" alt="morgothz&#039;s picture" title="View user profile." class="imagecache imagecache-asistentes" width="60" height="60"/></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="views-row views-row-2 views-row-even x">
+
+                                            <div class="views-field-picture">
+                                                <div class="field-content">
+                                                    <div class="picture">
+                                                        <a href="../users/killua99.html" title="View user profile."><img src="../../sites/default/files/imagecache/asistentes/pictures/picture-260.jpg" alt="killua99&#039;s picture" title="View user profile." class="imagecache imagecache-asistentes" width="60" height="60"/></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="views-row views-row-3 views-row-odd x">
+
+                                            <div class="views-field-picture">
+                                                <div class="field-content">
+                                                    <div class="picture">
+                                                        <a href="../users/albertosebal.html" title="View user profile."><img src="../../sites/default/files/imagecache/asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="albertosebal&#039;s picture" title="View user profile." class="imagecache imagecache-asistentes" width="60" height="60"/></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="views-row views-row-4 views-row-even x">
+
+                                            <div class="views-field-picture">
+                                                <div class="field-content">
+                                                    <div class="picture">
+                                                        <a href="../users/rmglez.html" title="View user profile."><img src="../../sites/default/files/imagecache/asistentes/sites/all/themes/sevilla2011/img/icono.png" alt="rmglez&#039;s picture" title="View user profile." class="imagecache imagecache-asistentes" width="60" height="60"/></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="views-row views-row-5 views-row-odd x">
+
+                                            <div class="views-field-picture">
+                                                <div class="field-content">
+                                                    <div class="picture">
+                                                        <a href="../users/pmfortun.html" title="View user profile."><img src="../../sites/default/files/imagecache/asistentes/pictures/picture-364.jpg" alt="pmfortun&#039;s picture" title="View user profile." class="imagecache imagecache-asistentes" width="60" height="60"/></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="views-row views-row-6 views-row-even x">
+
+                                            <div class="views-field-picture">
+                                                <div class="field-content">
+                                                    <div class="picture">
+                                                        <a href="../users/laura-fornie.html" title="View user profile."><img src="../../sites/default/files/imagecache/asistentes/pictures/picture-61.png" alt="Laura Fornié&#039;s picture" title="View user profile." class="imagecache imagecache-asistentes" width="60" height="60"/></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="views-row views-row-7 views-row-odd x">
+
+                                            <div class="views-field-picture">
+                                                <div class="field-content">
+                                                    <div class="picture">
+                                                        <a href="../users/fespinosa.html" title="View user profile."><img src="../../sites/default/files/imagecache/asistentes/pictures/picture-403.jpg" alt="fespinosa&#039;s picture" title="View user profile." class="imagecache imagecache-asistentes" width="60" height="60"/></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="views-row views-row-8 views-row-even views-row-last x">
+
+                                            <div class="views-field-picture">
+                                                <div class="field-content">
+                                                    <div class="picture">
+                                                        <a href="../users/rebeco.html" title="View user profile."><img src="../../sites/default/files/imagecache/asistentes/pictures/picture-241.jpg" alt="rebeco&#039;s picture" title="View user profile." class="imagecache imagecache-asistentes" width="60" height="60"/></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="more-link">
+                                        <a href="../attendees.html">
+                                            Todos </a>
+                                    </div>
+
+
+                                </div>
+                            </noscript>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="block-views-Sponsors-block_12" class="block block-views">
+
+                    <div class="content">
+                        <div id="block-views-Sponsors-block_12-ajax-content" class="ajaxblocks-wrapper">
+                            <script type="text/javascript"></script>
+                            <noscript>
+                                <div class="view view-Sponsors view-id-Sponsors view-display-id-block_12 view-dom-id-4">
+                                    <div class="view-header">
+                                        <h3><a href="../../patrocinadores.html" title="Ver todos los patrocinadores">Ver todos los patrocinadores</a></h3>
+                                    </div>
+
+
+                                    <div class="view-content">
+                                        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last x">
+
+                                            <div class="views-field-field-logo-fid">
+                                                <span class="field-content"><a href="http://www.ideup.com/"><img src="../../sites/default/files/imagecache/sponsor_footer/logo_ideup_trazado-1-303x107.png" alt="" title="" class="imagecache imagecache-sponsor_footer imagecache-default imagecache-sponsor_footer_default" width="220" height="78"/></a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </noscript>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="pie_der">
+                <div id="block-views-preinscritos-block_1" class="block block-views">
+                    <div class="title">Total inscritos</div>
+
+                    <div class="content">
+                        <div class="view view-preinscritos view-id-preinscritos view-display-id-block_1 view-dom-id-5">
+
+
+                            <div class="view-content">
+                                <p><span id="total_preregistros">310</span></p>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="texto_pie">
+            <a href="../credits.html" title="Quien hace posible todo esto">credits</a></div>
+
+    </div>
+</div>
+<script type="text/javascript">
+  <!--//--><![CDATA[//><!--
+  var _gaq = _gaq || [];
+  _gaq.push(["_setAccount", "UA-22526153-1"]);
+  _gaq.push(['_setCustomVar', 1, "roles", "anonymous user", 2]);
+  _gaq.push(['_setCustomVar', 3, "nivel_sesion", "[field_session_level-raw]", 3]);
+  _gaq.push(["_trackPageview"]);
+  (function () {
+    var ga = document.createElement("script");
+    ga.type = "text/javascript";
+    ga.async = true;
+    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+  //--><!]]>
+</script>
+</body>
+</html>
+

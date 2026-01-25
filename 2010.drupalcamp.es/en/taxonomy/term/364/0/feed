@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - freelance</title>
+ <link>http://2010.drupalcamp.es/en/taxonomy/term/364/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Aprovecha el networking para potenciar tu negocio</title>
+ <link>http://2010.drupalcamp.es/en/sessions/aprovecha-el-networking-para-potenciar-tu-negocio</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Day:&amp;nbsp;&lt;/div&gt;
+                    Domingo        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time:&amp;nbsp;&lt;/div&gt;
+                    11:00 - 11:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Sala Cenatic        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duration:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil MacOSX        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;Consejos muy básicos sobre networking para freelances o pequeñas empresas que están empezando y quieren darse a conocer tanto en el mundo online como en el mundo real™.&lt;/p&gt;
+&lt;p&gt;Presentación en slideshare: &lt;a href=&quot;http://www.slideshare.net/JordiBufi/aprovecha-el-networking-para-potenciar-tu-negocio&quot; title=&quot;http://www.slideshare.net/JordiBufi/aprovecha-el-networking-para-potenciar-tu-negocio&quot; rel=&quot;nofollow&quot;&gt;http://www.slideshare.net/JordiBufi/aprovecha-el-networking-para-potenci...&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;field field-type-filefield field-field-session-slides&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presentación:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-application-pdf&quot;&gt;&lt;img class=&quot;field-icon-application-pdf&quot;  alt=&quot;application/pdf icon&quot; src=&quot;http://2010.drupalcamp.es/sites/all/modules/filefield/icons/protocons/16x16/mimetypes/application-pdf.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://2010.drupalcamp.es/sites/drupalcamp.es/files/networking.pdf&quot; type=&quot;application/pdf; length=892453&quot;&gt;networking.pdf&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgdjHaAI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/en/sessions/aprovecha-el-networking-para-potenciar-tu-negocio#comments</comments>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/eventos">eventos</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/freelance">freelance</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/identidad-digital">identidad digital</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/negocios">negocios</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/networking">networking</category>
+ <category domain="http://2010.drupalcamp.es/en/category/etiquetas-de-sesion/redes-sociales-verticales">redes sociales verticales</category>
+ <category domain="http://2010.drupalcamp.es/en/category/categor%C3%AD/negocio">Negocio</category>
+ <category domain="http://2010.drupalcamp.es/en/category/nivel-de-experiencia/principiante">Principiante</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-AprovechaElNetworkingParaPotenciarTuNegocio582.flv" fileSize="129343502" type="video/x-flv" duration="1935" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-AprovechaElNetworkingParaPotenciarTuNegocio382-663.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-AprovechaElNetworkingParaPotenciarTuNegocio582.flv" length="129343502" type="video/x-flv" />
+ <pubDate>Wed, 17 Feb 2010 22:52:16 +0000</pubDate>
+ <dc:creator>Jordi Bufí</dc:creator>
+ <guid isPermaLink="false">357 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

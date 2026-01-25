@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - Organize your BoF</title>
+ <link>http://2011.drupalcamp.es/en/taxonomy/term/4/0</link>
+ <description>Do you want to organize a casual session? Here you can coordinate with other users.</description>
+ <language>en</language>
+<item>
+ <title>Visibilidad en la web de los BOFs</title>
+ <link>http://2011.drupalcamp.es/en/foros/organiza-tus-bof/visibilidad-en-la-web-de-los-bofs</link>
+ <description>&lt;p&gt;Creo que aqui en los foros los BOFs no van a ser encontrados por practicamente nadie... hay posibilidad de hacer algo parecido a lo de las sesiones, pero para BOFs?&lt;/p&gt;
+&lt;p&gt;Al menos para antes del evento estaría bien, ya se que luego se pone una pizarra en la entrada y asi es más dinámico y organico pero bueno, no se. Es una idea.&lt;/p&gt;
+</description>
+ <comments>http://2011.drupalcamp.es/en/foros/organiza-tus-bof/visibilidad-en-la-web-de-los-bofs#comments</comments>
+ <category domain="http://2011.drupalcamp.es/en/taxonomy/term/4">Organize your BoF</category>
+ <pubDate>Fri, 02 Sep 2011 09:29:25 +0000</pubDate>
+ <dc:creator>manuee</dc:creator>
+ <guid isPermaLink="false">414 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

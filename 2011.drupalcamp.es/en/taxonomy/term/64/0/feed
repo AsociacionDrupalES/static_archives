@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - Apache Solr</title>
+ <link>http://2011.drupalcamp.es/en/taxonomy/term/64/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Custom search forms with Apache Solr</title>
+ <link>http://2011.drupalcamp.es/en/sessions/custom-search-forms-apache-solr</link>
+ <description>&lt;p&gt;In this session we will work with Apache Solr from the code of a custom module. We will start installing Apache Solr and the &lt;a href=&quot;http://drupal.org/project/apachesolr&quot;&gt;apachesolr module&lt;/a&gt;. Then we will create a custom module with a search form with fields to filter, adding new fields to the Apache Solr schema, working a bit with the Solr query syntax and we will learn how to use some of the hooks and functions of the Apache Solr API.&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presenter(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/en/users/david-hernandez&quot; title=&quot;View user profile.&quot;&gt;David Hernández&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-vnd.oasis.opendocument.presentation&quot;  alt=&quot;application/vnd.oasis.opendocument.presentation icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/x-office-presentation.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/solr.odp&quot; type=&quot;application/vnd.oasis.opendocument.presentation; length=63548&quot;&gt;solr.odp&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/13-mayo-1700-1800&quot;&gt;1 Octubre 17:00 - 17:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/room-02&quot;&gt;Sala 2: Cenatic&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/en/sessions/custom-search-forms-apache-solr&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/en/sessions/custom-search-forms-apache-solr#comments</comments>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/apache-solr">Apache Solr</category>
+ <pubDate>Sun, 10 Jul 2011 11:12:42 +0000</pubDate>
+ <dc:creator>David Hernández</dc:creator>
+ <guid isPermaLink="false">353 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

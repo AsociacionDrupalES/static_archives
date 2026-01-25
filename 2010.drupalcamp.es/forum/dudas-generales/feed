@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - Dudas generales</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/221/0</link>
+ <description>Haz las preguntas que tengas en este foro</description>
+ <language>es</language>
+<item>
+ <title>Sesiones video-retransmitidas</title>
+ <link>http://2010.drupalcamp.es/forum/dudas-generales/sesiones-video-retransmitidas</link>
+ <description>&lt;p&gt;Hola,&lt;/p&gt;
+&lt;p&gt;Sería buena idea grabar todas las sesiones y a posteriori colgarlas en la pagina de la drupalcamp.&lt;/p&gt;
+&lt;p&gt;Podría surgir la duda &quot;quien quiera verlas que pague para la dc&quot;. mmm... si y no:&lt;/p&gt;
+&lt;p&gt;1) La lástima es estar en la DC y en una misma hora haber 3 sesiones muy interesantes.&lt;/p&gt;
+&lt;p&gt;2) El ideal principal de la ifnormátcia debería ser: compartir conocimientos, aunque muchas veces no sea así.&lt;/p&gt;
+&lt;p&gt;A partir de aquí, el tiempo dirá que opción ha sido la escogida finalmente ;)&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/dudas-generales/sesiones-video-retransmitidas#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/221">Dudas generales</category>
+ <pubDate>Thu, 25 Feb 2010 10:16:05 +0000</pubDate>
+ <dc:creator>rodrix1985</dc:creator>
+ <guid isPermaLink="false">383 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Me puedo registrar a la tarde?</title>
+ <link>http://2010.drupalcamp.es/forum/dudas-generales/me-puedo-registrar-la-tarde</link>
+ <description>&lt;p&gt;Hola:&lt;br /&gt;
+Tengo dificil venir a la hora del registro el viernes. Es posible registrarse en cualquier momento del viernes?&lt;br /&gt;
+Existe algun riesgo de hacerlo mas tarde?&lt;br /&gt;
+Muchas gracias.&lt;/p&gt;
+&lt;p&gt;Francesc&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/dudas-generales/me-puedo-registrar-la-tarde#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/221">Dudas generales</category>
+ <pubDate>Wed, 24 Feb 2010 16:30:24 +0000</pubDate>
+ <dc:creator>xescjp</dc:creator>
+ <guid isPermaLink="false">380 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Material post-drupal camp?</title>
+ <link>http://2010.drupalcamp.es/forum/dudas-generales/material-post-drupal-camp</link>
+ <description>&lt;p&gt;Hola a todos,&lt;/p&gt;
+&lt;p&gt;Tras ver el horario de las sesiones veo que no podré asistir a todas las que me interesan porque se solapan, así que querría saber si estará disponible el material de las charlas para poder consultarlo luego (muy útil para saber qué se hizo o dijo en las charlas a las que no pudimos asistir).&lt;/p&gt;
+&lt;p&gt;Creo que sería bastante fácil si se prevee con atelación, pues &quot;solo&quot; basta con que los ponentes cedan su material (puede ser en PDF mismo, y citando la autoría) y luego colgarlo en esta misma web.&lt;/p&gt;
+&lt;p&gt;¿Sería posible? ¿hay algo pensado al respecto?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2010.drupalcamp.es/forum/dudas-generales/material-post-drupal-camp&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2010.drupalcamp.es/forum/dudas-generales/material-post-drupal-camp#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/221">Dudas generales</category>
+ <pubDate>Wed, 24 Feb 2010 09:26:01 +0000</pubDate>
+ <dc:creator>c-c-m</dc:creator>
+ <guid isPermaLink="false">377 at http://2010.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Twitter</title>
+ <link>http://2010.drupalcamp.es/forum/dudas-generales/twitter</link>
+ <description>&lt;p&gt;Gente. No soy un super twitero ni mucho menos, pero podríamos ponernos de acuerdo en un tag para que los que tengan ganas publiquen los twits con ese tag, no?&lt;/p&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/forum/dudas-generales/twitter#comments</comments>
+ <category domain="http://2010.drupalcamp.es/taxonomy/term/221">Dudas generales</category>
+ <pubDate>Mon, 22 Feb 2010 19:39:52 +0000</pubDate>
+ <dc:creator>ggalanternik</dc:creator>
+ <guid isPermaLink="false">369 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

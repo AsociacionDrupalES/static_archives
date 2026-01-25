@@ -1,0 +1,15 @@
+/* bronce and silver sponsors must be in a grid */
+body.patrocinadores #wrap .views-view-grid .views-field-field-logo-fid {
+  margin: 0 auto;
+  width: auto;
+}
+#block-views-Sponsors-block_2 table.views-view-grid,
+#block-views-Sponsors-block_3 table.views-view-grid {
+  width: 95%;
+  margin: 11px auto 22px;
+}
+#block-views-Sponsors-block_2 .views-view-grid td,
+#block-views-Sponsors-block_3 .views-view-grid td { vertical-align: middle; }
+
+#block-views-Sponsors-block_3 .views-view-grid td { width: 30%; }
+#block-views-Sponsors-block_2 .views-view-grid td { width: 48%; }

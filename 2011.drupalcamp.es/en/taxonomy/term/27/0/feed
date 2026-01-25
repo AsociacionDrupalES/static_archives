@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - aggregation</title>
+ <link>http://2011.drupalcamp.es/en/taxonomy/term/27/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Importing and synchronizing content using Feeds</title>
+ <link>http://2011.drupalcamp.es/en/sessions/importing-and-synchronizing-content-using-feeds</link>
+ <description>&lt;p&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href=&quot;http://www.slideshare.net/pvhee/importing-and-synchronizing-content-using-feeds&quot; title=&quot;http://www.slideshare.net/pvhee/importing-and-synchronizing-content-using-feeds&quot;&gt;http://www.slideshare.net/pvhee/importing-and-synchronizing-content-usin...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Have you ever wondered how to import content into Drupal? Have you ever wanted to import thousands of users from an external file, aggregate news from an external RSS file or import taxonomy terms from XML?&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Presenter(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/en/users/pvhee&quot; title=&quot;View user profile.&quot;&gt;pvhee&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/15-mayo-1200-1300&quot;&gt;2 Octubre 12:00 - 12:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/en/room-02&quot;&gt;Sala 2: Cenatic&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/en/sessions/importing-and-synchronizing-content-using-feeds&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/en/sessions/importing-and-synchronizing-content-using-feeds#comments</comments>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/aggregation">aggregation</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/import">import</category>
+ <category domain="http://2011.drupalcamp.es/en/category/tags/migration">migration</category>
+ <pubDate>Tue, 19 Apr 2011 19:06:25 +0000</pubDate>
+ <dc:creator>pvhee</dc:creator>
+ <guid isPermaLink="false">246 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

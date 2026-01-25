@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - integración contínua</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/25/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Calidad e Integración Continua</title>
+ <link>http://2011.drupalcamp.es/sesiones/calidad-e-integracion-continua</link>
+ <description>&lt;p&gt;En la última década, la gestión de la calidad en el software se ha convertido en una prioridad para muchas empresas del sector. Mediante el establecimiento de ciertas normas y con la ayuda de herramientas es posible implantar metodologías de calidad que mejoren sustancialmente el producto, reduzcan costes económicos, aumenten la satisfacción del usuario y desarrollen las capacidades de los programadores.&lt;/p&gt;
+&lt;p&gt;Se propone exponer una guia para la implantación del control de la calidad en equipos de desarrollo a través de la integración continua. Hablaremos, entre otras cosas, de&lt;/p&gt;
+&lt;div class=&quot;field field-type-userreference field-field-presenters&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Ponente(s):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;a href=&quot;/users/carlescliment&quot; title=&quot;Ver perfil de usuario.&quot;&gt;carlescliment&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-filefield field-field-slides&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-application-vnd.oasis.opendocument.presentation&quot;  alt=&quot;application/vnd.oasis.opendocument.presentation icon&quot; src=&quot;http://2011.drupalcamp.es/sites/all/modules/contrib/filefield/icons/x-office-presentation.png&quot; /&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sites/default/files/slides/drupalcamp_presentacion.odp&quot; type=&quot;application/vnd.oasis.opendocument.presentation; length=643334&quot;&gt;drupalcamp_presentacion.odp&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;fieldset class=&quot;fieldgroup group-schedule&quot;&gt;&lt;legend&gt;Schedule info&lt;/legend&gt;&lt;div class=&quot;field field-type-nodereference field-field-session-slot&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Time slot:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/13-mayo-1700-1800&quot;&gt;1 Octubre 17:00 - 17:45&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-nodereference field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    &lt;a href=&quot;/room-01&quot;&gt;Sala 1: Microsoft&lt;/a&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://2011.drupalcamp.es/sesiones/calidad-e-integracion-continua&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2011.drupalcamp.es/sesiones/calidad-e-integracion-continua#comments</comments>
+ <category domain="http://2011.drupalcamp.es/category/tags/calidad">calidad</category>
+ <category domain="http://2011.drupalcamp.es/category/tags/integracion-continua">integración contínua</category>
+ <pubDate>Sat, 16 Apr 2011 11:27:19 +0000</pubDate>
+ <dc:creator>carlescliment</dc:creator>
+ <guid isPermaLink="false">242 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

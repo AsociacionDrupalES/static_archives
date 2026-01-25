@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2010.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>DrupalcampSpain - migrate</title>
+ <link>http://2010.drupalcamp.es/taxonomy/term/282/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Migrate y Table Wizard, o como aprendí a dejar de preocuparme y amar las migraciones</title>
+ <link>http://2010.drupalcamp.es/sessions/migrate-y-table-wizard-o-como-aprendi-dejar-de-preocuparme-y-amar-las-migraciones</link>
+ <description>&lt;fieldset class=&quot;fieldgroup group-session-logistics&quot;&gt;&lt;legend&gt;Logística&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-session-day&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Día:&amp;nbsp;&lt;/div&gt;
+                    Viernes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-time&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Hora:&amp;nbsp;&lt;/div&gt;
+                    15:00 - 15:45        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-room&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Room:&amp;nbsp;&lt;/div&gt;
+                    Auditorio        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-duration&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Duración:&amp;nbsp;&lt;/div&gt;
+                    45 minutes        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-session-computer&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Computer:&amp;nbsp;&lt;/div&gt;
+                    Usaré mi portátil MacOSX        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;En esta sesión le echaremos un vistazo al equipo que forman Table Wizard y Migrate. Con su acción conjunta podremos hacer nuestras migraciones mucho más fáciles.&lt;/p&gt;
+&lt;p&gt;Podéis encontrar las diapositivas de la parte teórica aquí: &lt;a href=&quot;http://blog.modestocaballero.com/post/2010/02/27/table-wizard-y-migrate-las-diapositivas&quot; title=&quot;http://blog.modestocaballero.com/post/2010/02/27/table-wizard-y-migrate-las-diapositivas&quot; rel=&quot;nofollow&quot;&gt;http://blog.modestocaballero.com/post/2010/02/27/table-wizard-y-migrate-...&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;field field-type-emvideo field-field-session-video&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Video:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;emvideo emvideo-video emvideo-bliptv&quot;&gt;&lt;embed src=&quot;http://blip.tv/play/hb8wgea_AgI&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;650&quot; height=&quot;450&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://2010.drupalcamp.es/sessions/migrate-y-table-wizard-o-como-aprendi-dejar-de-preocuparme-y-amar-las-migraciones#comments</comments>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/backup">backup</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/migracion">migración</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/migrate">migrate</category>
+ <category domain="http://2010.drupalcamp.es/category/etiquetas-de-sesion/table-wizard">table wizard</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/casos-reales">Casos reales</category>
+ <category domain="http://2010.drupalcamp.es/category/categor%C3%AD/construcci%C3%B3n-del-sitio">Construcción del sitio</category>
+ <category domain="http://2010.drupalcamp.es/category/nivel-de-experiencia/intermedio">Intermedio</category>
+ <media:content url="http://blip.tv/file/get/Drupalcamp-MigrateYTableWizardOComoAprendADejarDePreocuparmeYAm272.flv" fileSize="163698207" type="video/x-flv" duration="2567" width="720" height="576"> <media:thumbnail url="http://a.images.blip.tv/Drupalcamp-MigrateYTableWizardOComoAprendADejarDePreocuparmeYAm636-814.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Drupalcamp-MigrateYTableWizardOComoAprendADejarDePreocuparmeYAm272.flv" length="163698207" type="video/x-flv" />
+ <pubDate>Tue, 26 Jan 2010 17:08:38 +0000</pubDate>
+ <dc:creator>modesto.caballero</dc:creator>
+ <guid isPermaLink="false">298 at http://2010.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>

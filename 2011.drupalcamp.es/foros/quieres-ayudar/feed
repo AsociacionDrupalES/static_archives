@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2011.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>Drupalcamp Spain 2011 - ¿Quieres ayudar?</title>
+ <link>http://2011.drupalcamp.es/taxonomy/term/6/0</link>
+ <description>Los voluntarios son siempre bienvenidos</description>
+ <language>es</language>
+<item>
+ <title>Aporte: Videotutoriales sobre Drupal</title>
+ <link>http://2011.drupalcamp.es/foros/%C2%BFquieres-ayudar/aporte-videotutoriales-sobre-drupal</link>
+ <description>&lt;p&gt;Quiero compartir con todos vosotros esta url &lt;a href=&quot;http://www.masquebits.com&quot;&gt;http://www.masquebits.comz&lt;/a&gt;, la idea es crear un curso sobre &lt;em&gt;Drupal 6&lt;/em&gt; y pronto se comenzará con el de &lt;em&gt;Drupal 7&lt;em&gt;, el &lt;em&gt;curso online es 100% gratuito&lt;/em&gt;. &lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Continuamente se actualiza la web con videotutoriales nuevos. Se aceptan críticas e ideas de todo tipo.&lt;/p&gt;
+&lt;p&gt;Un saludo&lt;/p&gt;
+</description>
+ <comments>http://2011.drupalcamp.es/foros/%C2%BFquieres-ayudar/aporte-videotutoriales-sobre-drupal#comments</comments>
+ <category domain="http://2011.drupalcamp.es/taxonomy/term/6">¿Quieres ayudar?</category>
+ <pubDate>Thu, 22 Sep 2011 15:07:52 +0000</pubDate>
+ <dc:creator>rob</dc:creator>
+ <guid isPermaLink="false">500 at http://2011.drupalcamp.es</guid>
+</item>
+<item>
+ <title>Me ofrezco como voluntario</title>
+ <link>http://2011.drupalcamp.es/foros/%C2%BFquieres-ayudar/me-ofrezco-como-voluntario</link>
+ <description>&lt;p&gt;Wenas,&lt;/p&gt;
+&lt;p&gt;Contad conmigo para lo que haga falta durante el evento.&lt;/p&gt;
+</description>
+ <comments>http://2011.drupalcamp.es/foros/%C2%BFquieres-ayudar/me-ofrezco-como-voluntario#comments</comments>
+ <category domain="http://2011.drupalcamp.es/taxonomy/term/6">¿Quieres ayudar?</category>
+ <pubDate>Fri, 02 Sep 2011 09:35:59 +0000</pubDate>
+ <dc:creator>manuee</dc:creator>
+ <guid isPermaLink="false">415 at http://2011.drupalcamp.es</guid>
+</item>
+</channel>
+</rss>
