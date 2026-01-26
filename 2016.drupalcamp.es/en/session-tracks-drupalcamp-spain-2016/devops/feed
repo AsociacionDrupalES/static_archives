@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2016.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Spain 2016 - DevOps</title>
+ <link>https://2016.drupalcamp.es/en/session-tracks-drupalcamp-spain-2016/devops</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Hoy estoy muy Ansible</title>
+ <link>https://2016.drupalcamp.es/en/sessions/hoy-estoy-muy-ansible</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;¿Es posible tener la misma configuración, de forma muy sencilla, en el entorno de desarrollo, integración y producción? La respuesta es SÍ.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Ansible es una herramienta para los Dev-Ops. Permite desplegar cientos y cientos de servidores con pantallas negras y cosas de sistemas. O eso se cree. Pero, ¿y si lo aterrizamos a los meros mortales? Ansible, además de ser una potente herramienta de despliegue y orquestación, es una perfecta navaja suiza para las tareas repetibles. Si a ello le sumamos que toda la configuración y &quot;programación&quot; son ficheros YAML cualquier mortal es capaz de leer, modificar esas recetas a su antojo o incluso escribirse las suyas propias. En esta charla veremos Ansible desgranado en lo siguiente.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Cuál es su estructura básica y hasta dónde puede dar de sí. * La importancia de tener toda la configuración en GIT.&lt;/li&gt;
+	&lt;li&gt;La velocidad de despliegue.&lt;/li&gt;
+	&lt;li&gt;Gestiona 1, 1000 o X millones de servidores... con un comando.&lt;/li&gt;
+	&lt;li&gt;Posibilidades de rollback o &quot;defensas&quot; ante un mal despliegue de la configuración o de la aplicación. Ventajas y desventajas con otras herramientas similares (Puppet, Chef, Salt).&lt;/li&gt;
+	&lt;li&gt;Herramientas complementarias.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;¡A automatizar!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-slides field--type-file field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;https://2016.drupalcamp.es/sites/default/files/slides/Hoy%20estoy%20muy%20Ansible.pdf&quot; type=&quot;application/pdf; length=1117293&quot;&gt;Hoy estoy muy Ansible.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speakers:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/en/users/isholgueras&quot;&gt;isholgueras&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-og-vocabulary field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp Spain 2016)&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/en/session-tracks-drupalcamp-spain-2016/devops&quot;&gt;DevOps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 10 Feb 2016 09:26:44 +0000</pubDate>
+ <dc:creator>isholgueras</dc:creator>
+ <guid isPermaLink="false">195 at https://2016.drupalcamp.es</guid>
+ <comments>https://2016.drupalcamp.es/en/sessions/hoy-estoy-muy-ansible#comments</comments>
+</item>
+</channel>
+</rss>

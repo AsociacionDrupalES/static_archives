@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://2016.drupalday.es/gl/noticias" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Noticias</title>
+    <link>https://2016.drupalday.es/gl/noticias</link>
+    <description></description>
+    <language>gl</language>
+     <atom:link href="https://2016.drupalday.es/gl/noticias.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Drupal Day Galicia 2016</title>
+    <link>https://2016.drupalday.es/gl/noticia/drupalday-galicia-2016</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/gl/noticia/drupalday-galicia-2016&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser_big/public/flyer_1.png?itok=Wvc5S1md&amp;amp;timestamp=1461337524 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/flyer_1.png?itok=9z3IdYrT&amp;amp;timestamp=1461337524 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/flyer_1.png?itok=9z3IdYrT&amp;amp;timestamp=1461337524 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/flyer_1.png?itok=9z3IdYrT&amp;amp;timestamp=1461337524 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/flyer_1.png?itok=9z3IdYrT&amp;amp;timestamp=1461337524&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Galego
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/gl/noticia/drupalday-galicia-2016&quot;&gt;Drupal Day Galicia 2016&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;&quot;Drupal Day Galicia 2016&quot; celebrarase en Santiago de Compostela o &lt;strong&gt;12 de novembro&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;É a primeira vez que un evento a nivel nacional relacionado con Drupal celébrase en Galicia. Esperamos que Drupal Day Galicia 2016 sexa o impulso necesario para agrupar á comunidade de drupaleros e drupaleras en Galicia, así como un achegamento á comunidade Drupal Española.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/gl/noticia/drupalday-galicia-2016&quot; class=&quot;&quot;&gt;Ler máis&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 22 Apr 2016 15:14:55 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">74 at https://2016.drupalday.es</guid>
+  </item>
+  </channel>
+</rss>

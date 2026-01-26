@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2016.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Spain 2016 - Site Building &amp; Strategy</title>
+ <link>https://2016.drupalcamp.es/en/session-tracks-drupalcamp-spain-2016/site-building-strategy</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Cómo sacarle partido a tu página con el Marketing de contenidos</title>
+ <link>https://2016.drupalcamp.es/en/sessions/c%C3%B3mo-sacarle-partido-tu-pagina-con-el-marketing-de-contenidos</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Cuando creamos una página web lo que queremos es que la gente nos visite y cuanta más y de mejor calidad, mejor &lt;img alt=&quot;smiley&quot; src=&quot;http://2016.drupalcamp.es/profiles/cod/libraries/ckeditor/plugins/smiley/images/regular_smile.png&quot; style=&quot;height:23px; width:23px&quot; title=&quot;smiley&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El objetivo de esta sesión es presentar las reglas que hay que seguir para plantear una estrategia de marketing de contenidos que ayude a crear y a mantener una audiencia de nuestro site. &amp;nbsp;&lt;br /&gt;
+Se hará hincapié sobre la importancia de la parte técnica y la automatización de procesos necesaria para que la estrategia fluya y funcione.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Cuáles son las claves estratégicas&lt;/li&gt;
+	&lt;li&gt;Cómo elegir los contenidos&lt;/li&gt;
+	&lt;li&gt;Cómo organizar el calendario y qué automatizaciones buscar&lt;/li&gt;
+	&lt;li&gt;Cómo pueden llegar los usuarios a leerte (SEO, redes sociales, mailing – estrategia de distribución)&lt;/li&gt;
+	&lt;li&gt;Cómo organizar un plan de test continuo&lt;/li&gt;
+	&lt;li&gt;KPI y análisis de resultados&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-slides field--type-file field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;https://2016.drupalcamp.es/sites/default/files/slides/presentacionMC2.pdf&quot; type=&quot;application/pdf; length=3362649&quot;&gt;presentacionMC2.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speakers:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/en/users/claudia&quot;&gt;Claudia&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-og-vocabulary field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp Spain 2016)&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/en/session-tracks-drupalcamp-spain-2016/site-building-strategy&quot;&gt;Site Building &amp;amp; Strategy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 09 Mar 2016 19:04:25 +0000</pubDate>
+ <dc:creator>Claudia</dc:creator>
+ <guid isPermaLink="false">305 at https://2016.drupalcamp.es</guid>
+ <comments>https://2016.drupalcamp.es/en/sessions/c%C3%B3mo-sacarle-partido-tu-pagina-con-el-marketing-de-contenidos#comments</comments>
+</item>
+</channel>
+</rss>

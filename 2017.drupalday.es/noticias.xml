@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://2017.drupalday.es/noticias" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Noticias</title>
+    <link>https://2017.drupalday.es/noticias</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://2017.drupalday.es/noticias.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Cosas que debes saber sobre la comida en el drupalday</title>
+    <link>https://2017.drupalday.es/noticia/cosas-que-debes-saber-sobre-la-comida-en-el-drupalday</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/noticia/cosas-que-debes-saber-sobre-la-comida-en-el-drupalday&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser_big/public/drupalday-comida.jpeg?itok=nfzkeeS1&amp;amp;timestamp=1510144167 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupalday-comida.jpeg?itok=y08Xl9w8&amp;amp;timestamp=1510144167 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupalday-comida.jpeg?itok=y08Xl9w8&amp;amp;timestamp=1510144167 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupalday-comida.jpeg?itok=y08Xl9w8&amp;amp;timestamp=1510144167 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupalday-comida.jpeg?itok=y08Xl9w8&amp;amp;timestamp=1510144167&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/cosas-que-debes-saber-sobre-la-comida-en-el-drupalday&quot;&gt;Cosas que debes saber sobre la comida en el drupalday&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Como ya hemos anunciado, en esta edición el drupalday incluye la comida durante el evento. Es una gran oportunidad para hacer networking y charlar con los demás asistentes, por lo que queremos que durante la comida todo salga lo mejor posible. Por eso queremos que todas las personas estén lo mejor informadas posible. A continuación están los puntos que creemos que todo el mundo debe conocer.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/cosas-que-debes-saber-sobre-la-comida-en-el-drupalday&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 07 Nov 2017 12:51:50 +0000</pubDate>
+ <dc:creator>alvar0hurtad0</dc:creator>
+ <guid isPermaLink="false">123 at https://2017.drupalday.es</guid>
+  </item>
+  <item>
+    <title>¿Estás estudiando? te damos razones para asistir al Drupal Day </title>
+    <link>https://2017.drupalday.es/noticia/estas-estudiando-te-damos-razones-para-asistir-al-drupal-day</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/noticia/estas-estudiando-te-damos-razones-para-asistir-al-drupal-day&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser_big/public/drupal_day_2017_escuela_caceres.jpg?itok=OmpbFbnx&amp;amp;timestamp=1509473332 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_day_2017_escuela_caceres.jpg?itok=gp8KsAEg&amp;amp;timestamp=1509473332 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_day_2017_escuela_caceres.jpg?itok=gp8KsAEg&amp;amp;timestamp=1509473332 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_day_2017_escuela_caceres.jpg?itok=gp8KsAEg&amp;amp;timestamp=1509473332 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_day_2017_escuela_caceres.jpg?itok=gp8KsAEg&amp;amp;timestamp=1509473332&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/estas-estudiando-te-damos-razones-para-asistir-al-drupal-day&quot;&gt;¿Estás estudiando? te damos razones para asistir al Drupal Day &lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Drupal como Software Libre también puede ayudar al aprendizaje práctico a través de su comunidad, así que si te interesan los proyectos web o quieres iniciarte en esto de Drupal, desde la organización del Drupal Day Spain 2017 hemos diseñado un itinerario formativo que puede resultar de tu interés: aprendizaje práctico y directo impartido de manera gratuita por las personas más expertas en la tecnología que se reunirán en Cáceres el once de noviembre. Si estudias o investigas, si tienes curiosidad...vente. Y si conoces a otras personas interesadas, no dudes en compartirles este enlace. &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/estas-estudiando-te-damos-razones-para-asistir-al-drupal-day&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 31 Oct 2017 18:02:55 +0000</pubDate>
+ <dc:creator>davidjguru</dc:creator>
+ <guid isPermaLink="false">118 at https://2017.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Disponibles ya las sesiones del Drupal Day 2017</title>
+    <link>https://2017.drupalday.es/noticia/disponibles-ya-las-sesiones-del-drupal-day-2017</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/noticia/disponibles-ya-las-sesiones-del-drupal-day-2017&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser_big/public/caceres-centro-historico.jpg?itok=So671IEi&amp;amp;timestamp=1508712225 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/caceres-centro-historico.jpg?itok=wpQizM32&amp;amp;timestamp=1508712225 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/caceres-centro-historico.jpg?itok=wpQizM32&amp;amp;timestamp=1508712225 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/caceres-centro-historico.jpg?itok=wpQizM32&amp;amp;timestamp=1508712225 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/caceres-centro-historico.jpg?itok=wpQizM32&amp;amp;timestamp=1508712225&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/disponibles-ya-las-sesiones-del-drupal-day-2017&quot;&gt;Disponibles ya las sesiones del Drupal Day 2017&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Ya está disponible la programación de actividades del Drupal Day 2017 que celebraremos en Cáceres el sábado once de noviembre (¡Quedan algo más de dos semanas!) y tras pasar tanto la fase de propuestas como la fase de votaciones ya tenemos disponible un modelado de las sesiones que tendrán lugar en el día más especial de encuentro de la comunidad Drupal. Si quieres consultar directamente el programa &lt;a href=&quot;https://2017.drupalday.es/sesiones&quot; target=&quot;_blank&quot;&gt;clicka aquí&lt;/a&gt;. Si quieres saber un poco mejor los pormenores del plan de actividades, sigue leyendo. &lt;strong&gt;Elige tu propia aventura&lt;/strong&gt;.&lt;strong&gt;&lt;a href=&quot;https://2017.drupalday.es/sesiones&quot; target=&quot;_blank&quot;&gt;https://2017.drupalday.es/sesiones&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/disponibles-ya-las-sesiones-del-drupal-day-2017&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 22 Oct 2017 22:43:45 +0000</pubDate>
+ <dc:creator>davidjguru</dc:creator>
+ <guid isPermaLink="false">117 at https://2017.drupalday.es</guid>
+  </item>
+  <item>
+    <title>¿Debo asistir al Drupal Day? ¿Está indicado para mi?</title>
+    <link>https://2017.drupalday.es/noticia/debo-asistir-al-drupal-day-esta-indicado-para-mi</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/noticia/debo-asistir-al-drupal-day-esta-indicado-para-mi&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser_big/public/drupal_camp_jerez.jpg?itok=fA6g1X_9&amp;amp;timestamp=1508080169 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_camp_jerez.jpg?itok=vG9jzQFv&amp;amp;timestamp=1508080169 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_camp_jerez.jpg?itok=vG9jzQFv&amp;amp;timestamp=1508080169 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_camp_jerez.jpg?itok=vG9jzQFv&amp;amp;timestamp=1508080169 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_camp_jerez.jpg?itok=vG9jzQFv&amp;amp;timestamp=1508080169&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/debo-asistir-al-drupal-day-esta-indicado-para-mi&quot;&gt;¿Debo asistir al Drupal Day? ¿Está indicado para mi?&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;
+Nos llegan comentarios de muchas personas por aquí y por allá preguntando si podrían venir al Drupal Day 2017 y mantenemos conversaciones en el día a día en las que animamos a nuestros interlocutores a interlocutoras a aproximarse, a asistir, a participar en el próximo encuentro de la comunidad Drupal que se celebrará el once de noviembre en Cáceres, Extremadura. &lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/debo-asistir-al-drupal-day-esta-indicado-para-mi&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 15 Oct 2017 15:09:29 +0000</pubDate>
+ <dc:creator>davidjguru</dc:creator>
+ <guid isPermaLink="false">115 at https://2017.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Asistir al Drupal Day 2017: Qué hacer</title>
+    <link>https://2017.drupalday.es/noticia/informacion-relevante-sobre-la-asistencia</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/noticia/informacion-relevante-sobre-la-asistencia&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser_big/public/drupal_camp_spain_2017.jpg?itok=MduTEpE7&amp;amp;timestamp=1507227209 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_camp_spain_2017.jpg?itok=LvN52Dvs&amp;amp;timestamp=1507227209 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_camp_spain_2017.jpg?itok=LvN52Dvs&amp;amp;timestamp=1507227209 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_camp_spain_2017.jpg?itok=LvN52Dvs&amp;amp;timestamp=1507227209 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2017.drupalday.es/sites/default/files/styles/teaser/public/drupal_camp_spain_2017.jpg?itok=LvN52Dvs&amp;amp;timestamp=1507227209&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/informacion-relevante-sobre-la-asistencia&quot;&gt;Asistir al Drupal Day 2017: Qué hacer&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;div&gt;&lt;strong&gt;¡Hola a todos y a todas!&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;La organización del Drupal Day 2017 está en marcha y como ya sabemos, nos encontraremos este año en Cáceres. Estamos cerrando algunos temas que estaban pendientes y son muy importantes, así que tenemos novedades. De cara a realizar los preparativos del evento, aprovechamos para exponer la mecánica de inscripción en el Drupal Day 2017. &lt;strong&gt;¿Has realizado tu alta de usuario en la plataforma?&lt;/strong&gt; bien, ahora queda un segundo paso por realizar. &lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/informacion-relevante-sobre-la-asistencia&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 05 Oct 2017 16:03:01 +0000</pubDate>
+ <dc:creator>estoyausente</dc:creator>
+ <guid isPermaLink="false">114 at https://2017.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Se abre el plazo para proponer sesiones y talleres</title>
+    <link>https://2017.drupalday.es/noticia/abierta-la-inscripcion-de-sesiones-propuestas</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/abierta-la-inscripcion-de-sesiones-propuestas&quot;&gt;Se abre el plazo para proponer sesiones y talleres&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Ya puedes proponer tu sesión para el Drupalday.&lt;/p&gt;
+&lt;p&gt;El plazo termina el 1 de Octubre, pero no lo dejes para el último día.&lt;/p&gt;
+&lt;p&gt;Es una gran oportunidad para dar compartir todo lo que sabes de drupal y toda la comunidad estará encantada de escucharte.&lt;/p&gt;
+&lt;p&gt;Echa un vistazo a la&lt;a href=&quot;https://2017.drupalday.es/pagina/ser-ponente-en-drupal-day-caceres&quot;&gt; guía para ponentes&lt;/a&gt; en la que encontrarás toda la información.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/abierta-la-inscripcion-de-sesiones-propuestas&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 09 Aug 2017 11:19:50 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">16 at https://2017.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Drupal Day 2017</title>
+    <link>https://2017.drupalday.es/noticia/drupal-day-2017-caceres-mola</link>
+    <description>&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/drupal-day-2017-caceres-mola&quot;&gt;Drupal Day 2017&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Presentamos la nueva edición de &lt;strong&gt;Drupal Day&lt;/strong&gt;, esta vez en &lt;strong&gt;Cáceres&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Se celebrará en &lt;strong&gt;Cáceres el día 11 de noviembre&lt;/strong&gt; en &lt;strong&gt;El Garaje 2.0&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Próximamente tendremos más información.&lt;/p&gt;
+&lt;p&gt;Si deseas que puntualmente te lleguen notificaciones sobre el evento, no dudes en &lt;strong&gt;suscribirte al boletín&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;¡Os esperamos!&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/drupal-day-2017-caceres-mola&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 28 Jun 2014 14:07:28 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">13 at https://2017.drupalday.es</guid>
+  </item>
+  </channel>
+</rss>

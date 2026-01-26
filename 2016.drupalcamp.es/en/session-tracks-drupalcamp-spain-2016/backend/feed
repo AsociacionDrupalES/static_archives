@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://2016.drupalcamp.es"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Spain 2016 - Backend</title>
+ <link>https://2016.drupalcamp.es/en/session-tracks-drupalcamp-spain-2016/backend</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Bajarse al behat: haz que tu aplicación se comporte</title>
+ <link>https://2016.drupalcamp.es/en/sessions/bajarse-al-behat-haz-que-tu-aplicaci%C3%B3n-se-comporte</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;En esta sesión introduciremos una nueva categoría de testeo: el &quot;behavioural testing&quot; y en concreto la herramienta behat. Gracias a esta mejora hemos podido dar más solidez a nuestras aplicaciones y dormir más tranquilos por la noche.&lt;/p&gt;
+&lt;p&gt;Primero hablaremos de el nivel de testeo que es posible con behat, como se integra con drupal y como automatizar su ejecución.&lt;/p&gt;
+&lt;p&gt;Una de las grandes ventajas de behat es que usa un lenguaje natural para describir lo que se está testeando. Esto abre la puerta a poder definir nuestra propias frases de test más acordes al dominio de nuestra aplicación.&lt;/p&gt;
+&lt;p&gt;Otro punto interesante es la integración con navegadores reales que nos permite probar la aplicación en multiples entornos y ver exactamente que está pasando cuando algo falla.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Para venir a la sesión hace falta un mínimo de interés en desarrollos de calidad.&lt;/li&gt;
+&lt;li&gt;Durante la sesión se hablara de como introducir behat en tu proceso de desarrollo y se hará una pequeña introducción a caracteristicas más avanzadas de la herramienta&lt;/li&gt;
+&lt;li&gt;No importa si usas drupal 7 u 8 la integración de behat funciona con ambas versiones&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Slides&lt;br /&gt;&lt;a href=&quot;http://rodrigoaguilera.github.io/talk_behat/&quot;&gt;http://rodrigoaguilera.github.io/talk_behat/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speakers:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/en/users/rodrigoaguilera&quot;&gt;rodrigoaguilera&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-og-vocabulary field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp Spain 2016)&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/en/session-tracks-drupalcamp-spain-2016/backend&quot;&gt;Backend&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Spanish&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2016 19:30:38 +0000</pubDate>
+ <dc:creator>rodrigoaguilera</dc:creator>
+ <guid isPermaLink="false">290 at https://2016.drupalcamp.es</guid>
+ <comments>https://2016.drupalcamp.es/en/sessions/bajarse-al-behat-haz-que-tu-aplicaci%C3%B3n-se-comporte#comments</comments>
+</item>
+<item>
+ <title>Migrating data to Drupal 8</title>
+ <link>https://2016.drupalcamp.es/en/sessions/migrando-datos-drupal-8</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;Drupal 8 has a huge power. And one of the modules that give this power is Migrate module. It provides an API, similar to an ETL, to transfer data from one system to Drupal 8.&lt;/p&gt;
+&lt;p&gt;Is it difficult to migrate data to Drupal 8? Well, it&#039;s not so complicated, but you need to know some concepts pretty clear. In this talk I will explain these concepts&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Migrating concetps&lt;/li&gt;
+&lt;li&gt;Modules and commants to start your migration.&lt;/li&gt;
+&lt;li&gt;Needed plugins and classes to start.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;To see this in depth I will do two types of migration:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;A database to Drupal 8&lt;/li&gt;
+&lt;li&gt;Drupal 7 to Drupal 8&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1j5xTS6OCA1y2WTmYvjUPO9CDLnjL-IYFPBFEvJIv7Q8/edit?usp=sharing&quot;&gt;Slides in Google Presentation&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-slides field--type-file field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;https://2016.drupalcamp.es/sites/default/files/slides/Migrating%20data%20to%20Drupal%208%20%282%29.pdf&quot; type=&quot;application/pdf; length=1603633&quot;&gt;Migrating data to Drupal 8 (2).pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-experience field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Drupal level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-speakers field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Speakers:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/en/users/isholgueras&quot;&gt;isholgueras&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-og-vocabulary field--type-entityreference field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp Spain 2016)&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/en/session-tracks-drupalcamp-spain-2016/backend&quot;&gt;Backend&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-language field--type-list-text field--label-above&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Language:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;English&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 24 Feb 2016 15:16:15 +0000</pubDate>
+ <dc:creator>isholgueras</dc:creator>
+ <guid isPermaLink="false">231 at https://2016.drupalcamp.es</guid>
+ <comments>https://2016.drupalcamp.es/en/sessions/migrando-datos-drupal-8#comments</comments>
+</item>
+</channel>
+</rss>

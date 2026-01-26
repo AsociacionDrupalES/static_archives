@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-grid">
+  <head>
+    <meta charset="utf-8" />
+<meta name="title" content="Do your best to make your web page accessible | Drupal Dev Days Seville 2017" />
+<meta name="description" content="Drupal 8 has many features already built-in to get your page accessible as much as possible and the initiative is doing great work. Core themes and modules alone, give you high level of accessibility.
+Why is than even a session for that, you might ask? Because most of the problems come from custom modules and themes built from scratch by developers who don&#039;t have accessibility in their mind." />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="../themes/da_vinci/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="../sessions/do-your-best-make-your-web-page-accessible.html" />
+<link rel="shortlink" href="113.html" />
+<link rel="revision" href="../sessions/do-your-best-make-your-web-page-accessible.html" />
+
+    <title>Do your best to make your web page accessible | Drupal Dev Days Seville 2017</title>
+    <link rel="stylesheet" href="../sites/default/files/css/css_dfMBePu6wyejU6GYRbMQ3owheyaYoDctUHTqo9GCSrs.css%3Foo6uiv.css" media="all" />
+<link rel="stylesheet" href="../sites/default/files/css/css_xQCVwLf7ksHTqost2syhrp8TMHcVr9Y_z83-D6Husqo.css%3Foo6uiv.css" media="all" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/113","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","user":{"uid":0,"permissionsHash":"b797de5b910454d3a0091a6dd8490dbbdb0c5915458325ac699eeb212dc9001c"}}</script>
+
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="../core/assets/vendor/modernizr/modernizr.min.js%3Fv=3.3.1"></script>
+<script src="../sites/default/files/js/js_DMnMf1MFT-GjCw0yzqDE9SNgxE3ft1vQKSgAzHzKITU.js"></script>
+
+  </head>
+  <body class="layout-two-sidebars path-node page-node-type-session">
+
+    <a href="113.html#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+    <div class="layout-container">
+  <a href="113.html#" class="menu-trigger" id="menuButtonTrigger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </a>
+  <nav role="navigation" class="sliding_menu">
+    <div class="wrapper-menu-rw"></div>
+        </nav role="navigation">
+  
+  <div class="content__wrapper">
+          <aside class="layout-sidebar-first" role="complementary">
+            <div class="region region-sidebar-first">
+    <nav role="navigation" aria-labelledby="block-leftsidemenu-menu" id="block-leftsidemenu" class="block block-menu navigation menu--left-side-menu">
+        
+              <ul block="block-leftsidemenu" class="clearfix menu">
+                    <li class="menu-item">
+        <a href="https://www.eventbrite.es/e/drupal-developer-days-seville-2017-tickets-29592776792?">Tickets</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+      </aside>
+    
+          <aside class="layout-sidebar-second" role="complementary">
+            <div class="region region-sidebar-second">
+    <nav role="navigation" aria-labelledby="block-useraccountmenu-menu" id="block-useraccountmenu" class="block block-menu navigation menu--account">
+        
+              <ul block="block-useraccountmenu" class="clearfix menu">
+                    <li class="menu-item">
+        <a href="../user/login.html" data-drupal-link-system-path="user/login">Log in</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+      </aside>
+            <div class="region region-header-left">
+    <nav role="navigation" aria-labelledby="block-headerleftmenu-menu" id="block-headerleftmenu" class="block block-menu navigation menu--header-left-menu">
+        
+              <ul block="block-headerleftmenu" class="clearfix menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="../seville.html">Seville</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="../seville/the-venue.html" data-drupal-link-system-path="node/19">The Venue</a>
+              </li>
+                <li class="menu-item">
+        <a href="../seville/travelling.html" data-drupal-link-system-path="node/24">Travelling</a>
+              </li>
+                <li class="menu-item">
+        <a href="../seville/alternative-plans.html">Alternative Plans</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="../program/schedule/21-03-2017.html" data-drupal-link-system-path="node/126">Program</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="../program/schedule/21-03-2017.html" data-drupal-link-system-path="node/126">Schedule</a>
+              </li>
+                <li class="menu-item">
+        <a href="../program/sprints.html" data-drupal-link-system-path="node/20">Sprints</a>
+              </li>
+                <li class="menu-item">
+        <a href="../program/keynotes.html" title="keynotes">Keynotes</a>
+              </li>
+                <li class="menu-item">
+        <a href="../program/accepted-sessions.html">Accepted sessions</a>
+              </li>
+                <li class="menu-item">
+        <a href="../program/submitted-sessions.html">Submitted sessions</a>
+              </li>
+                <li class="menu-item">
+        <a href="../program/guidelines-for-speakers.html" data-drupal-link-system-path="node/64">Guidelines for speakers</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+        <div class="region region-header-right">
+    <nav role="navigation" aria-labelledby="block-headerrightmenu-menu" id="block-headerrightmenu" class="block block-menu navigation menu--header-right-menu">
+        
+              <ul block="block-headerrightmenu" class="clearfix menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="../community/attendees.html">Community</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="../contact/mentors.html">Mentors</a>
+              </li>
+                <li class="menu-item">
+        <a href="../contact/volunteers.html">Volunteers</a>
+              </li>
+                <li class="menu-item">
+
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="../sponsors/individual-sponsors.html">Individual sponsors</a>
+              </li>
+                <li class="menu-item">
+        <a href="../sponsors/jobs.html">Job offers</a>
+              </li>
+                <li class="menu-item">
+        <a href="../sponsors/badges.html" data-drupal-link-system-path="node/40">Badges</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+    <header class="page__header" role="banner" aria-label="Site header">
+                  <div class="region region-header">
+      <div class="branding">
+      <a href="../index.html" title="Home" rel="home" class="branding__logo">
+      <img src="../themes/da_vinci/logo.svg" alt="Home" />
+    </a>
+      </div>
+<div id="block-headerblock" class="block block-dddsvq-common block-header-block">
+  
+    
+      <h2 class="date-location">March 21-25 2017 <span>Seville, Spain</span></h2>
+
+  </div>
+
+  </div>
+
+      <a href="113.html#" class="menu-button-open" id="menuButtonOpen">
+      </a>
+    </header>
+
+
+              <div class="region region-highlighted">
+    
+
+
+  </div>
+
+    
+            
+    
+    
+    
+    
+    <main role="main">
+      <a id="main-content" tabindex="-1"></a>
+      <div class="layout-content">
+            <div class="region region-content">
+    <div id="block-da-vinci-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Do your best to make your web page accessible</span>
+</h1>
+
+
+  </div>
+
+
+
+  
+<article role="article" class="node node--type-session node--view-mode-full clearfix">
+  <header>
+    
+        
+      </header>
+  <div class="node__content clearfix">
+    
+      <div class="field field--name-field-user-ref field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><article class="profile">
+      
+            <div class="field field--name-field-register-picture field--type-image field--label-hidden field__item">
+          <img src="../themes/da_vinci/images/avatar.svg">
+            <a href="https://www.drupal.org/u/boshtian" target="_blank"><img src="../sites/default/files/styles/crop_150x150/public/2017-02/boshtian_1.png%3Fitok=NcMyUw8k" width="150" height="150" alt="Bostjan Kovac" class="image-style-crop-150x150" /></a>
+      </div>
+      
+            <div class="field field--name-field-register-name field--type-string field--label-hidden field__item">Bostjan Kovac</div>
+      
+            <div class="field field--name-field-register-drupal-name field--type-string field--label-hidden field__item"><a href="https://www.drupal.org/u/boshtian" target="_blank">boshtian</a></div>
+      </article>
+</div>
+          </div>
+  
+            <div class="field field--name-field-session-type field--type-list-string field--label-hidden field__item">Session</div>
+      
+            <div class="field field--name-field-session-level field--type-list-string field--label-hidden field__item">Intermediate</div>
+      
+            <div class="field field--name-field-session-track-type field--type-list-string field--label-hidden field__item">Development</div>
+      
+  <div class="field field--name-field-room field--type-list-integer field--label-inline">
+    <div class="field__label">Room</div>
+              <div class="field__item">Victoria</div>
+          </div>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Drupal 8 has many features already built-in to get your page accessible as much as possible and the initiative is doing great work. Core themes and modules alone, give you high level of accessibility.</p>
+<p>Why is than even a session for that, you might ask? Because most of the problems come from custom modules and themes built from scratch by developers who don't have accessibility in their mind.</p>
+<p>In this session, we will first check what accessibility even means and why should your care about it. We will check some numbers and what are all the different ways of accessing web pages. </p>
+<p>Than we will quickly go through a guidance from W3C to see what's most important and if there are any new items that you should be aware of. </p>
+<p>After that we will do a quick check of where Drupal 8 shines and all the areas where developers can destroy things that are already in core. We will check the most common mistakes that all of us are doing and we're not even aware of them, because everything looks great for you on desktop.</p>
+<p>At the end we will quickly go through a couple of tools that are useful and can help you along the way. </p>
+<p>The main goal of this session from my perspective is to <strong>set accessibility in your mind</strong> and to be aware of it next time you are building your own module or theme.</p>
+</div>
+      
+  </div>
+</article>
+
+<div id="block-mainsponsorsblock" class="block block-dddsvq-sponsors block-main-sponsors-block">
+  
+    
+      <div class="section fp-auto-height sponsors__home-section">
+<div class="sponsors-list__wrapper">
+  <div class="sponsors-list__top-frame"></div>
+  <div class="sponsors-list sponsors-list--platinum">
+            <h2 class="sponsors-list__title sponsors-list__title--platinum">Platinum sponsors</h2>
+        <div class="views-element-container"><div class="block-sponsors view view-sponsors view-id-sponsors view-display-id-block_1 js-view-dom-id-2ea3e550fd08060e9adaeba823d1c7ec4ede38970e1c19254812f3539027fbf1">
+  
+    
+      
+      <div class="view-content">
+      <div>
+  
+  <ul class="sponsors-list__list">
+
+          <li class="sponsors-list__item">    <a href="https://www.ibuildings.com/" title="ibuildings"><img src="../sites/default/files/styles/platinum_width_300/public/2017-03/iblogo-primary-version.png%3Fitok=jm3nHNXW" width="300" height="73" alt="ibuildings" class="image-style-platinum-width-300" /></a>
+
+</li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+</div>
+<div class="sponsors-list sponsors-list--gold">
+            <h2 class="sponsors-list__title sponsors-list__title--gold">Gold sponsors</h2>
+        <div class="views-element-container"><div class="block-sponsors view view-sponsors view-id-sponsors view-display-id-block_2 js-view-dom-id-4c205cad6ea22f90057b6adf62c248dbdf00bb18e96f502800225e1186020474">
+  
+    
+      
+      <div class="view-content">
+      <div>
+  
+  <ul class="sponsors-list__list">
+
+          <li class="sponsors-list__item">    <a href="https://www.comvive.es/" title="Comvive"><img src="../sites/default/files/styles/gold_width_250/public/2017-02/loco&#32;comvive.png%3Fitok=UB73in7r" width="250" height="93" alt="comvive " class="image-style-gold-width-250" /></a>
+
+</li>
+          <li class="sponsors-list__item">    <a href="https://platform.sh" title="Platform.sh"><img src="../sites/default/files/styles/gold_width_250/public/2017-02/logo-dark-2x.png%3Fitok=Lh52Tf-Q" width="250" height="51" alt="Platform.sh" class="image-style-gold-width-250" /></a>
+
+</li>
+          <li class="sponsors-list__item">    <a href="http://www.cocomore.com/" title="Cocomore"><img src="../sites/default/files/styles/gold_width_250/public/2017-01/cocomore_logo_cmyk.png%3Fitok=fYNQ6PV_" width="250" height="60" alt="Cocomore" class="image-style-gold-width-250" /></a>
+
+</li>
+          <li class="sponsors-list__item">    <a href="http://www.ladrupalera.com/" title="La Drupalera"><img src="../sites/default/files/styles/gold_width_250/public/2017-02/Logo&#32;Drupalera.png%3Fitok=0rt-W4Yu" width="250" height="32" alt="Drupalera" class="image-style-gold-width-250" /></a>
+
+</li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+</div>
+<div class="sponsors-list sponsors-list--silver">
+            <h2 class="sponsors-list__title sponsors-list__title--silver">Silver sponsors</h2>
+        <div  class="silver--carousel views-element-container">
+      <a href="http://www.fujitsu.com/es/services/business/" title="Fujitsu "><img src="../sites/default/files/styles/silver_width_200/public/2017-02/logo&#32;fujitsu.png%3Fitok=IFiLHsPz" width="200" height="83" alt="Fujitsu" class="image-style-silver-width-200" /></a>
+
+    <a href="https://www.mydropteam.com/" title="Dropteam"><img src="../sites/default/files/styles/silver_width_200/public/2017-02/drop&#32;team.png%3Fitok=sHbB4hYL" width="200" height="50" alt="Dropteam " class="image-style-silver-width-200" /></a>
+
+    <a href="https://wunder-group.com/" title="Wunder group "><img src="../sites/default/files/styles/silver_width_200/public/2017-02/wundergroup.png%3Fitok=YhbfPeNj" width="200" height="86" alt="Wunder group " class="image-style-silver-width-200" /></a>
+
+    <a href="http://www.ayesa.com/" title="Ayesa"><img src="../sites/default/files/styles/silver_width_200/public/2017-02/logo_ayesa.png%3Fitok=6sMYTx6a" width="200" height="32" alt="Ayesa " class="image-style-silver-width-200" /></a>
+
+    <a href="http://nuvole.org/" title="Nuvole"><img src="../sites/default/files/styles/silver_width_200/public/2017-03/nuvole&#32;logo&#32;drupal&#32;developer&#32;days&#32;2017_0.png%3Fitok=v8hFjYvn" width="200" height="46" alt="Nuvole" class="image-style-silver-width-200" /></a>
+
+    <a href="http://www.everis.com" title="Everis"><img src="../sites/default/files/styles/silver_width_200/public/2017-03/everis.png%3Fitok=Y1GQ79Ts" width="200" height="99" alt="Everis " class="image-style-silver-width-200" /></a>
+
+
+</div>
+
+</div>
+<div class="sponsors-list sponsors-list--bronze">
+            <h2 class="sponsors-list__title sponsors-list__title--bronze">Bronze sponsors</h2>
+        <div  class="bronze--carousel views-element-container">
+      <a href="http://rojomorgan.com/" title="Rojomorgan"><img src="../sites/default/files/styles/bronze_width_150/public/2017-01/logo_web_rojo.png%3Fitok=aPeikhbC" width="150" height="39" alt="Rojomorgan" class="image-style-bronze-width-150" /></a>
+
+    <a href="https://bitnami.com/" title="Bitnami"><img src="../sites/default/files/styles/bronze_width_150/public/2017-01/Bitnami_logo.png%3Fitok=06WvzO0I" width="150" height="52" alt="Bitnami" class="image-style-bronze-width-150" /></a>
+
+    <a href="https://www.lingotek.com/" title="Lingotek"><img src="../sites/default/files/styles/bronze_width_150/public/2017-02/Lingotek_logo_stacked.png%3Fitok=m7T2D_Ig" width="150" height="48" alt="Lingotek" class="image-style-bronze-width-150" /></a>
+
+    <a href="https://www.acquia.com" title="Acquia"><img src="../sites/default/files/styles/bronze_width_150/public/2017-02/acquia_no_tagline.png%3Fitok=hf-jxKuW" width="150" height="31" alt="Acquia" class="image-style-bronze-width-150" /></a>
+
+    <a href="https://www.siteground.com" title="Siteground"><img src="../sites/default/files/styles/bronze_width_150/public/2017-02/logo&#32;siteground&#32;redux.png%3Fitok=G5vxzH_E" width="150" height="31" alt="Siteground" class="image-style-bronze-width-150" /></a>
+
+    <a href="https://www.amazee.io/" title="amazee.io"><img src="../sites/default/files/styles/bronze_width_150/public/2017-02/amazee&#32;io&#32;logo&#32;drupal_0.png%3Fitok=Su_Ye08l" width="62" height="80" alt="Amazee io " class="image-style-bronze-width-150" /></a>
+
+    <a href="http://chipway.com/" title="Chipway "><img src="../sites/default/files/styles/bronze_width_150/public/2017-02/logo-chipway-formation-drupal-paris.png%3Fitok=1hrDHCuY" width="94" height="80" alt="Chipway " class="image-style-bronze-width-150" /></a>
+
+    <a href="https://commerceguys.com/" title="commerce guys"><img src="../sites/default/files/styles/bronze_width_150/public/2017-02/commerce&#32;guys&#32;logo.png%3Fitok=3cKB6QuS" width="150" height="60" alt="Commerce Guys " class="image-style-bronze-width-150" /></a>
+
+    <a href="https://softescu.com/" title="Softescu"><img src="../sites/default/files/styles/bronze_width_150/public/2017-02/Logo&#32;Softescu.png%3Fitok=K6UBnPH3" width="150" height="44" alt="Softescu " class="image-style-bronze-width-150" /></a>
+
+    <a href="https://www.bluespark.com/" title="Bluespark "><img src="../sites/default/files/styles/bronze_width_150/public/2017-03/bluespark&#32;logo.png%3Fitok=Jb5knbNN" width="150" height="42" alt="Bluespark " class="image-style-bronze-width-150" /></a>
+
+    <a href="http://ymbra.com" title="Ymbra"><img src="../sites/default/files/styles/bronze_width_150/public/2017-03/Ymbra&#32;logo.png%3Fitok=752LlTGM" width="150" height="69" alt="Ymbra logo" class="image-style-bronze-width-150" /></a>
+
+    <a href="http://www.eusa.es/" title="Eusa"><img src="../sites/default/files/styles/bronze_width_150/public/2017-03/eusa-color.png%3Fitok=HVQaVAjw" width="125" height="80" alt="Eusa" class="image-style-bronze-width-150" /></a>
+
+
+</div>
+
+</div>
+
+  <div class="sponsors-list__bottom-frame"></div>
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+      </div>        
+    </main>
+  </div>
+
+  <footer role="complementary">
+    <div class="footer__wrapper">
+          <div class="region region-footer-left">
+    <nav role="navigation" aria-labelledby="block-footerleftmenu-menu" id="block-footerleftmenu" class="block block-menu navigation menu--footer-left-menu">
+        
+              <ul block="block-footerleftmenu" class="clearfix menu">
+                    <li class="menu-item">
+        <a href="../news.1.html">News</a>
+              </li>
+                <li class="menu-item">
+        <a href="../contact.1.html">Contact</a>
+              </li>
+                <li class="menu-item">
+        <a href="../code-of-conduct.html" data-drupal-link-system-path="node/17">Code of Conduct</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          <div class="region region-footer">
+    <div id="block-footerblock" class="block block-dddsvq-common block-footer-block">
+  
+    
+      <ul class="social-networks-list">
+            <li class="social, social-twitter">
+            <a href="https://twitter.com/drupaldevdays">twitter</a>
+        </li>
+            <li class="social, social-facebook">
+            <a href="https://www.facebook.com/drupaldevdays">facebook</a>
+        </li>
+    </ul>
+
+  </div>
+<div id="block-copyrightblock" class="block block-dddsvq-common block-copy-right-block">
+  
+    
+      <span>
+  Drupal Developer Days 2017 &#174;
+</span>
+
+  </div>
+
+  </div>
+
+          <div class="region region-footer-right">
+    <div id="block-keywordsfooterblock" class="block block-dddsvq-common block-keywords-footer-block">
+  
+    
+      <span>Drupal.org issue queue tag: DevDaysSeville</span>
+<span>Social media hashtag: #drupaldevdays</span>
+
+  </div>
+
+  </div>
+
+    </div>
+  </footer>
+  <div class="footer__push"></div>
+
+  
+</div>
+    
+    <script src="../sites/default/files/js/js_rxI2X_V7ayQ0S3CzP69Py5erwcmEmIeP2qvLHos-ONk.js"></script>
+
+  </body>
+</html>

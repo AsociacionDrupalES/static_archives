@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://2016.drupalday.es/noticias" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Noticias</title>
+    <link>https://2016.drupalday.es/noticias</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://2016.drupalday.es/noticias.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Ruta Hook Compostelano + Fiesta Drupal Day</title>
+    <link>https://2016.drupalday.es/noticia/ruta-compostela-fiesta-drupal-day</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/noticia/ruta-compostela-fiesta-drupal-day&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser_big/public/santiago_ocio.jpg?itok=P-y4gLGY&amp;amp;timestamp=1478271946 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/santiago_ocio.jpg?itok=9jmiH--_&amp;amp;timestamp=1478271946 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/santiago_ocio.jpg?itok=9jmiH--_&amp;amp;timestamp=1478271946 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/santiago_ocio.jpg?itok=9jmiH--_&amp;amp;timestamp=1478271946 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/santiago_ocio.jpg?itok=9jmiH--_&amp;amp;timestamp=1478271946&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/ruta-compostela-fiesta-drupal-day&quot;&gt;Ruta Hook Compostelano + Fiesta Drupal Day&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;No todo van a ser sesiones en el &lt;strong&gt;&lt;em&gt;Drupal Day&lt;/em&gt;&lt;/strong&gt;! La previsión de la organización es &lt;em&gt;&lt;strong&gt;clausurar el evento entre las 18:30 y 19:00&lt;/strong&gt;&lt;/em&gt; horas para luego conocer la zona vieja de Compostela visitando los lugares más míticos, con sus respectivas paradas en los establecimientos hosteleros correspondientes. &lt;/p&gt;
+&lt;h3&gt;&lt;u&gt;&lt;strong&gt;Ruta del hook Compostelano&lt;/strong&gt;&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;De 20:00 a 22:30 recorreremos la zona vieja realizando paradas en :&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/ruta-compostela-fiesta-drupal-day&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 04 Nov 2016 15:05:46 +0000</pubDate>
+ <dc:creator>apermuyleal</dc:creator>
+ <guid isPermaLink="false">96 at https://2016.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Canal Telegram Drupal Day</title>
+    <link>https://2016.drupalday.es/noticia/canal-telegram-drupal-day</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/noticia/canal-telegram-drupal-day&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser_big/public/telegram.jpg?itok=iE2Pydls&amp;amp;timestamp=1476517664 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/telegram.jpg?itok=dkGMyAG_&amp;amp;timestamp=1476517664 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/telegram.jpg?itok=dkGMyAG_&amp;amp;timestamp=1476517664 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/telegram.jpg?itok=dkGMyAG_&amp;amp;timestamp=1476517664 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/telegram.jpg?itok=dkGMyAG_&amp;amp;timestamp=1476517664&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/canal-telegram-drupal-day&quot;&gt;Canal Telegram Drupal Day&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Para agilizar la publicación de noticias relacionadas con el evento, hemos creado un &lt;strong&gt;&lt;em&gt;canal público&lt;/em&gt;&lt;/strong&gt; de &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;. Esta es la URL del canal :&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size:14px&quot;&gt;&lt;a href=&quot;http://telegram.me/drupaldayscq2016&quot;&gt;http://telegram.me/drupaldayscq2016&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/canal-telegram-drupal-day&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 15 Oct 2016 07:47:44 +0000</pubDate>
+ <dc:creator>apermuyleal</dc:creator>
+ <guid isPermaLink="false">95 at https://2016.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Sesiones aceptadas para el Drupal Day 2016</title>
+    <link>https://2016.drupalday.es/noticia/sesiones-aceptadas-para-el-drupal-day-2016</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/noticia/sesiones-aceptadas-para-el-drupal-day-2016&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser_big/public/drupalcon-portland-group-photo.png?itok=tbEGibVG&amp;amp;timestamp=1476204768 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/drupalcon-portland-group-photo.png?itok=0GcbDGMT&amp;amp;timestamp=1476204768 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/drupalcon-portland-group-photo.png?itok=0GcbDGMT&amp;amp;timestamp=1476204768 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/drupalcon-portland-group-photo.png?itok=0GcbDGMT&amp;amp;timestamp=1476204768 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/drupalcon-portland-group-photo.png?itok=0GcbDGMT&amp;amp;timestamp=1476204768&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/sesiones-aceptadas-para-el-drupal-day-2016&quot;&gt;Sesiones aceptadas para el Drupal Day 2016&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Hola Drupaleros/as! Hoy, por fin, publicamos las sesiones definitivas para el &lt;strong&gt;&lt;em&gt;#DrupalDayES&lt;/em&gt;&lt;/strong&gt; que se celebrará en Santiago de Compostela el próximo 12 de Noviembre. Las sesiones aceptadas para el Drupal Day 2016 :&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/sesiones-aceptadas-para-el-drupal-day-2016&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 11 Oct 2016 16:52:48 +0000</pubDate>
+ <dc:creator>apermuyleal</dc:creator>
+ <guid isPermaLink="false">93 at https://2016.drupalday.es</guid>
+  </item>
+  <item>
+    <title>ABIERTA LA INSCRIPCION DE SESIONES PROPUESTAS</title>
+    <link>https://2016.drupalday.es/noticia/apertura-call-papers</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/noticia/apertura-call-papers&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser_big/public/bullhorn.jpg?itok=MYh0kZTg&amp;amp;timestamp=1473095354 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/bullhorn.jpg?itok=ogGux5Oq&amp;amp;timestamp=1473095354 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/bullhorn.jpg?itok=ogGux5Oq&amp;amp;timestamp=1473095354 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/bullhorn.jpg?itok=ogGux5Oq&amp;amp;timestamp=1473095354 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/bullhorn.jpg?itok=ogGux5Oq&amp;amp;timestamp=1473095354&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/apertura-call-papers&quot;&gt;ABIERTA LA INSCRIPCION DE SESIONES PROPUESTAS&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Desde el día &lt;strong&gt;&lt;em&gt;5 de Septiembre y hasta el 5 de Octubre de 2016 &lt;/em&gt;&lt;/strong&gt;podrás proponer tu sesión para el Drupal Day 2016. El día &lt;em&gt;&lt;strong&gt;10 de Octubre se publicarán las sesiones seleccionadas&lt;/strong&gt;&lt;/em&gt;.  Antes de enviar tu propuesta de sesión recomendamos leer con detenimiento los &lt;a href=&quot;http://2016.drupalday.es/pagina/criterios-de-seleccion-de-sesiones&quot;&gt;&quot;Criterios de selección&quot; &lt;/a&gt;e &lt;a href=&quot;http://2016.drupalday.es/pagina/informacion-para-ponentes&quot;&gt;&quot;Información para ponentes&quot;&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/apertura-call-papers&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 05 Sep 2016 17:09:14 +0000</pubDate>
+ <dc:creator>apermuyleal</dc:creator>
+ <guid isPermaLink="false">80 at https://2016.drupalday.es</guid>
+  </item>
+  <item>
+    <title>Drupal Day Galicia 2016</title>
+    <link>https://2016.drupalday.es/noticia/drupalday-galicia-2016</link>
+    <description>&lt;div class=&quot;field field-name-field-imagen&quot;&gt;&lt;a href=&quot;/noticia/drupalday-galicia-2016&quot;&gt;&lt;picture &gt;
+&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser_big/public/flyer_1.png?itok=Wvc5S1md&amp;amp;timestamp=1461337524 1x&quot; media=&quot;(min-width: 0px)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/flyer_1.png?itok=9z3IdYrT&amp;amp;timestamp=1461337524 1x&quot; media=&quot;(min-width: 46em) and (max-width: 61.19em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/flyer_1.png?itok=9z3IdYrT&amp;amp;timestamp=1461337524 1x&quot; media=&quot;(min-width: 61.2em) and (max-width: 70.49em)&quot; /&gt;
+&lt;source srcset=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/flyer_1.png?itok=9z3IdYrT&amp;amp;timestamp=1461337524 1x&quot; media=&quot;(min-width: 70.5em)&quot; /&gt;
+&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+&lt;img  src=&quot;https://2016.drupalday.es/sites/default/files/styles/teaser/public/flyer_1.png?itok=9z3IdYrT&amp;amp;timestamp=1461337524&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+&lt;/picture&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Idioma &lt;/label&gt;
+ Español
+&lt;/div&gt;
+&lt;h2 class=&quot;node__title&quot;  property=&quot;dc:title&quot;&gt;&lt;a href=&quot;/noticia/drupalday-galicia-2016&quot;&gt;Drupal Day Galicia 2016&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;&quot;Drupal Day Galicia 2016&quot; se celebrará en Santiago de Compostela el &lt;strong&gt;12 de noviembre&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Es la primera vez que un evento a nivel nacional relacionado con Drupal se celebra en Galicia. Esperamos que Drupal Day Galicia 2016 sea el impulso necesario para agrupar a la comunidad de drupaleros y drupaleras en Galicia, así como un acercamiento a la comunidad Drupal Española.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-node-link&quot;&gt;&lt;a href=&quot;/noticia/drupalday-galicia-2016&quot; class=&quot;&quot;&gt;Leer más&lt;/a&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 22 Apr 2016 15:05:24 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">73 at https://2016.drupalday.es</guid>
+  </item>
+  </channel>
+</rss>
