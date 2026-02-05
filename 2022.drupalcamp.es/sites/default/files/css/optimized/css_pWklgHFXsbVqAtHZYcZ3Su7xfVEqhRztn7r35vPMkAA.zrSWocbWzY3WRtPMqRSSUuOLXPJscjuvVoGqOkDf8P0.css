@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at https://2022.drupalcamp.es/modules/contrib/adminimal_admin_toolbar/css/toolbar.override.css. */
+.toolbar-horizontal .toolbar-tray .menu-item + .menu-item,.toolbar .toolbar-tray-horizontal .menu-item:last-child{border-left:none;border-right:none;}.toolbar-horizontal .toolbar-tray{border-bottom-color:#000;box-shadow:none;}
+/* Source and licensing information for the above line(s) can be found at https://2022.drupalcamp.es/modules/contrib/adminimal_admin_toolbar/css/toolbar.override.css. */

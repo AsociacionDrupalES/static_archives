@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at https://2022.drupalcamp.es/core/misc/drupal.init.js. */
+if(window.jQuery)jQuery.noConflict();document.documentElement.className+=' js';(function(Drupal,drupalSettings){var domReady=function domReady(callback){var listener=function listener(){callback();document.removeEventListener('DOMContentLoaded',listener)};if(document.readyState!=='loading'){setTimeout(callback,0)}else document.addEventListener('DOMContentLoaded',listener)};domReady(function(){Drupal.attachBehaviors(document,drupalSettings)})})(Drupal,window.drupalSettings)
+/* Source and licensing information for the above line(s) can be found at https://2022.drupalcamp.es/core/misc/drupal.init.js. */

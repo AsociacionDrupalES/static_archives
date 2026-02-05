@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at https://2022.drupalcamp.es/themes/custom/drupalcamp/js/custom/header/language.js. */
+(function($,Drupal){'use strict';Drupal.behaviors.languageOpen={attach:function attach(context,settings){var language=document.querySelector('.block-language ul');language.onclick=function(){language.classList.toggle('open')}}}})(jQuery,Drupal)
+/* Source and licensing information for the above line(s) can be found at https://2022.drupalcamp.es/themes/custom/drupalcamp/js/custom/header/language.js. */

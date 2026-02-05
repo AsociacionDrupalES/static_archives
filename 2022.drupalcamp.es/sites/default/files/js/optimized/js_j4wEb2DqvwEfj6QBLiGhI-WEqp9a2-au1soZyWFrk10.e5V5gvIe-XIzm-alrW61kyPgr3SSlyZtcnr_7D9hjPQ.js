@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at https://2022.drupalcamp.es/core/themes/claro/js/dropbutton.js. */
+(function(Drupal){Drupal.theme.dropbuttonToggle=function(options){return"<li class=\"dropbutton-toggle\"><button type=\"button\" class=\"dropbutton__toggle\"><span class=\"visually-hidden\">".concat(options.title,"</span></button></li>")}})(Drupal)
+/* Source and licensing information for the above line(s) can be found at https://2022.drupalcamp.es/core/themes/claro/js/dropbutton.js. */

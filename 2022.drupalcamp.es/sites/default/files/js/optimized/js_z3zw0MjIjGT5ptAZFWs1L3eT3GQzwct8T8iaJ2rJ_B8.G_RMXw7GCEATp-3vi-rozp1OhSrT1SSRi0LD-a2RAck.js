@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at https://2022.drupalcamp.es/core/misc/polyfills/element.matches.js. */
+if(!Element.prototype.matches)Element.prototype.matches=Element.prototype.msMatchesSelector||Element.prototype.webkitMatchesSelector;
+/* Source and licensing information for the above line(s) can be found at https://2022.drupalcamp.es/core/misc/polyfills/element.matches.js. */

@@ -1,0 +1,4 @@
+/* Source and licensing information for the line(s) below can be found at https://2022.drupalcamp.es/modules/contrib/blazy/js/plugin/blazy.loading.min.js. */
+!function(i){"use strict";function n(n){return i.chain(n,function(n){var c="loading",n=[n,i.closest(n,'[class*="'+c+'"]')];i.each(n,function(n){var a;i.isElm(n)&&(a=n.className,i.contains(a,c)&&(n.className=a.replace(/(\S+)loading/g,"")))})})}i.unloading=n,i.fn.unloading=function(){return n(this)}}(dBlazy);
+
+/* Source and licensing information for the above line(s) can be found at https://2022.drupalcamp.es/modules/contrib/blazy/js/plugin/blazy.loading.min.js. */

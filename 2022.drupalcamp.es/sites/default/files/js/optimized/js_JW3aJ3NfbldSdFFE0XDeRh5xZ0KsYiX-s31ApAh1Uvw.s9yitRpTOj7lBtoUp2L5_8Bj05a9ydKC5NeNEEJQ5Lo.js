@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at https://2022.drupalcamp.es/themes/custom/drupalcamp/js/custom/header/hamburguer.js. */
+(function($,Drupal){'use strict';Drupal.behaviors.hamburguerOpen={attach:function attach(context){var hamburguer=document.querySelector('.hamburguer'),menu=document.querySelector('.menu--container ');hamburguer.onclick=function(){hamburguer.classList.toggle('open');menu.classList.toggle('open');document.body.classList.toggle('menu-open')}}}})(jQuery,Drupal)
+/* Source and licensing information for the above line(s) can be found at https://2022.drupalcamp.es/themes/custom/drupalcamp/js/custom/header/hamburguer.js. */
