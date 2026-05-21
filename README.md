@@ -40,3 +40,9 @@ The following sites are mapped in this repository:
 - [2025.drupalcamp.es](./2025.drupalcamp.es)
 - [2025.drupaliberia.eu](./2025.drupaliberia.eu)
 
+## Command to get a site
+
+```
+cd sites
+wget -mpEk https://2026.drupaliberia.eu
+```
