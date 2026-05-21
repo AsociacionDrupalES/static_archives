@@ -1,0 +1,18 @@
+<svg width="42" height="42" viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg">
+  <rect x="7" y="9" width="28" height="24" rx="3"
+        fill="none" stroke="#0e8044" stroke-width="2"/>
+  <line x1="7" y1="15" x2="35" y2="15"
+        stroke="#0e8044" stroke-width="2"/>
+  <line x1="15" y1="6" x2="15" y2="12"
+        stroke="#0e8044" stroke-width="2" stroke-linecap="round"/>
+  <line x1="27" y1="6" x2="27" y2="12"
+        stroke="#0e8044" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- small date squares -->
+  <rect x="12" y="18" width="4" height="4" fill="#0e8044"/>
+  <rect x="19" y="18" width="4" height="4" fill="#0e8044"/>
+  <rect x="26" y="18" width="4" height="4" fill="#0e8044"/>
+  <rect x="12" y="25" width="4" height="4" fill="#0e8044"/>
+  <rect x="19" y="25" width="4" height="4" fill="#0e8044"/>
+  <rect x="26" y="25" width="4" height="4" fill="#0e8044"/>
+</svg>
