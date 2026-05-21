@@ -1,0 +1,30 @@
+x-lagoon-project:
+  # Lagoon project name (leave `&lagoon-project` when you edit this)
+  &lagoon-project aed-static-sites
+
+x-environment:
+  &default-environment
+    LAGOON_PROJECT: *lagoon-project
+    # Route that should be used locally, if you are using pygmy, this route *must* end with .docker.amazee.io
+    LAGOON_ROUTE: &default-url http://${COMPOSE_PROJECT_NAME:-drupal-base}.docker.amazee.io
+    # Uncomment if you would like to have the system behave like in production
+    LAGOON_ENVIRONMENT_TYPE: production
+
+services:
+  nginx:
+    build:
+      context: .
+      dockerfile: lagoon/nginx.dockerfile
+    labels:
+      lagoon.type: nginx
+    ports:
+      - "8080" # exposes the port 8080 with a random local port, find it with `docker-compose port nginx 8080`
+    environment:
+      << : *default-environment # loads the defined environment variables from the top
+      LAGOON_LOCALDEV_URL: *default-url
+    networks:
+      - amazeeio-network
+
+networks:
+  amazeeio-network:
+    external: true
