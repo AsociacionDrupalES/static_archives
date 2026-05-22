@@ -17,30 +17,37 @@ environments:
   main:
     routes:
       - nginx:
+           - drupalcamp.es: *ROUTE
+           - www.drupalcamp.es: *ROUTE
            - 2010.drupalcamp.es: *ROUTE
            - 2011.drupalcamp.es: *ROUTE
-           - 2011.drupalday.es: *ROUTE
            - 2012.drupalcamp.es: *ROUTE
-           - 2012.drupalday.es: *ROUTE
            - 2013.drupalcamp.es: *ROUTE
-           - 2013.drupalday.es: *ROUTE
            - 2014.drupalcamp.es: *ROUTE
-           - 2014.drupalday.es: *ROUTE
            - 2015.drupalcamp.es: *ROUTE
-           - 2015.drupalday.es: *ROUTE
            - 2016.drupalcamp.es: *ROUTE
-           - 2016.drupalday.es: *ROUTE
            - 2017.drupalcamp.es: *ROUTE
-           - 2017.drupalday.es: *ROUTE
            - 2018.drupalcamp.es: *ROUTE
            - 2019.drupalcamp.es: *ROUTE
-           - 2019.drupalday.es: *ROUTE
            - 2020.drupalcamp.es: *ROUTE
            - 2022.drupalcamp.es: *ROUTE
            - 2023.drupalcamp.es: *ROUTE
            - 2024.drupalcamp.es: *ROUTE
-           - 2024.drupaliberia.eu: *ROUTE
            - 2025.drupalcamp.es: *ROUTE
+           - drupalday.es: *ROUTE
+           - www.drupalday.es: *ROUTE
+           - 2011.drupalday.es: *ROUTE
+           - 2012.drupalday.es: *ROUTE
+           - 2013.drupalday.es: *ROUTE
+           - 2014.drupalday.es: *ROUTE
+           - 2015.drupalday.es: *ROUTE
+           - 2016.drupalday.es: *ROUTE
+           - 2017.drupalday.es: *ROUTE
+           - 2019.drupalday.es: *ROUTE
+           - drupaliberia.eu: *ROUTE
+           - www.drupaliberia.eu: *ROUTE
+           - 2024.drupaliberia.eu: *ROUTE
            - 2025.drupaliberia.eu: *ROUTE
+           - 2026.drupaliberia.eu: *ROUTE
            - barcelona2012.drupaldays.org: *ROUTE
            - seville2017.drupaldays.org: *ROUTE
