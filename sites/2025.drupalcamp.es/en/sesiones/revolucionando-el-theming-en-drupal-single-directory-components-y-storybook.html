@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="Esta sesión os guiará a través de dos potentes herramientas del panorama frontend de Drupal: Single-Directory Components (SDC) y el módulo de Storybook. Como autor tanto de la iniciativa SDC en el núcleo de Drupal como del módulo de Storybook, presentaré cómo estas herramientas fueron diseñadas para funcionar en conjunto. Exploraremos cómo SDC ayuda a crear componentes reutilizables y autocontenidos, y cómo el módulo de Storybook permite construir, visualizar y probar estos componentes de forma aislada. Os mostraré cómo construir interfaces de usuario atractivas, consistentes y fáciles de mantener, mejorando al mismo tiempo la colaboración entre desarrolladores frontend y backend. En esta sesión, aprenderéis: Los fundamentos de los Single-Directory Components y cómo empezar a usarlos en vuestros temas. Cómo aprovechar el módulo de Storybook para crear una guía de estilos viva (living style guide) para vuestros proyectos de Drupal. La potente sinergia entre SDC y Storybook, y cómo crear un flujo de trabajo de desarrollo fluido. Mejores prácticas y consejos avanzados del creador de ambos módulos. La hoja de ruta futura para el desarrollo basado en componentes en Drupal.Tanto si eres un themer experimentado como si estás empezando con el frontend de Drupal, espero que aprendas algo nuevo y te lleves nueva inspiración para tus proyectos." />
+<link rel="canonical" href="revolucionando-el-theming-en-drupal-single-directory-components-y-storybook.html" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="../../themes/custom/drupalcamp/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="und" href="revolucionando-el-theming-en-drupal-single-directory-components-y-storybook.html" />
+
+    <title>Revolucionando el theming en Drupal: Single-Directory Components y Storybook | DrupalCamp Spain 2025</title>
+    <link rel="stylesheet" media="all" href="../../sites/default/files/css/css_G3lCcxC0c83h61irAAciaOpTnODl-gpk7tf9DNFaptU.css%3Fdelta=0&amp;language=en&amp;theme=drupalcamp&amp;include=eJyNj1EOAiEMRC8Ey5FMhXElQktoSdTTu9E16g_xc2ZeOtMoHSFKbcJg0yX10ahEqs37k4ihuzhBzqD0F-IreEy5IqtMgUYrvGUrmGIK1Sx8SDDKZYoardN86Ps3ll6p5DvcJw9H0h9.css" />
+<link rel="stylesheet" media="all" href="../../sites/default/files/css/css_cd_Hynlq_Chws56Xeo7xcevPHviAoiRL5XZTatSYkjI.css%3Fdelta=1&amp;language=en&amp;theme=drupalcamp&amp;include=eJyNj1EOAiEMRC8Ey5FMhXElQktoSdTTu9E16g_xc2ZeOtMoHSFKbcJg0yX10ahEqs37k4ihuzhBzqD0F-IreEy5IqtMgUYrvGUrmGIK1Sx8SDDKZYoardN86Ps3ll6p5DvcJw9H0h9.css" />
+
+    
+  </head>
+  <body class="path-node page-node-type-session">
+        <a href="revolucionando-el-theming-en-drupal-single-directory-components-y-storybook.html#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header class="header" role="banner">
+  <div class="header__logo">
+      <div class="region region-header-logo">
+    <div id="block-drupalcamp-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="../../en.html" rel="home" class="site-logo">
+      <div class="logo">
+  <img src="../../themes/custom/drupalcamp/logo.svg" alt="Home" fetchpriority="high" class="logo__image">
+</div>
+    </a>
+        <div class="site-name">
+      <a href="../../en.html" rel="home">DrupalCamp Spain 2025</a>
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+  <button class="header__toggle" aria-label="Open menu">
+    <span class="header__toggle-line"></span>
+    <span class="header__toggle-line"></span>
+    <span class="header__toggle-line"></span>
+  </button>
+  <div class="header__container">
+    <div class="header__menu">
+      <button class="header__close" aria-label="Close menu">×</button>
+      <div class="header__menu__content">
+          <div class="region region-header-content">
+    <nav role="navigation" aria-labelledby="block-drupalcamp-main-navigation-menu" id="block-drupalcamp-main-navigation" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-drupalcamp-main-navigation-menu">Main navigation</h2>
+  
+
+        
+        <ul class="header-menu">
+      <li class="header-menu__item header-menu__item--has-children">
+      <a href="../cidade-da-cultura.html"
+         class="header-menu__link"
+         aria-expanded="false">
+        The Camp
+      </a>
+              <ul class="header-menu__submenu" aria-hidden="true">
+                      <li class="header-menu__submenu-item">
+              <a href="../cidade-da-cultura.html" class="header-menu__submenu-link">Venue</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../como-llegar-a-la-cidade-da-cultura.html" class="header-menu__submenu-link">Getting to</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../sessions/schedule.html" class="header-menu__submenu-link">Schedule</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../node/139.html" class="header-menu__submenu-link">La comida</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../sessions.html" class="header-menu__submenu-link">Sessions</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../node/109.html" class="header-menu__submenu-link">Training</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../dinner.html" class="header-menu__submenu-link">Dinner</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../../sites/default/files/media/document/2025-03/dossier-patrocinio-2025.pdf" class="header-menu__submenu-link">Sponsorship dossier</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../voluntariado.html" class="header-menu__submenu-link">Volunteering</a>
+            </li>
+                  </ul>
+          </li>
+      <li class="header-menu__item header-menu__item--has-children">
+      <a href="../business-day-2025.html"
+         class="header-menu__link"
+         aria-expanded="false">
+        Business Day
+      </a>
+              <ul class="header-menu__submenu" aria-hidden="true">
+                      <li class="header-menu__submenu-item">
+              <a href="../business-day-2025.html" class="header-menu__submenu-link">Information and schedule</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../node/65.html" class="header-menu__submenu-link">Splash Awards</a>
+            </li>
+                  </ul>
+          </li>
+      <li class="header-menu__item header-menu__item--has-children">
+      <a href="../sobre-santiago.html"
+         class="header-menu__link"
+         aria-expanded="false">
+        The city
+      </a>
+              <ul class="header-menu__submenu" aria-hidden="true">
+                      <li class="header-menu__submenu-item">
+              <a href="../sobre-santiago.html" class="header-menu__submenu-link">¿Por qué Santiago?</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../how-get-santiago.html" class="header-menu__submenu-link">Getting to</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../gastronomia.html" class="header-menu__submenu-link">Food &amp; Drink</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../que-hacer-en-santiago.html" class="header-menu__submenu-link">What to do</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../where-stay.html" class="header-menu__submenu-link">Accommodation</a>
+            </li>
+                  </ul>
+          </li>
+  </ul>
+  
+
+
+  </nav>
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" id="block-drupalcamp-language-switcher" role="navigation">
+  
+    
+      <ul class="links"><li hreflang="es" data-drupal-link-system-path="node/106"><a href="../../es/sesiones/revolucionando-el-theming-en-drupal-single-directory-components-y-storybook.html" class="language-link" hreflang="es" data-drupal-link-system-path="node/106"><span class="short-text">ES</span><span class="full-text">Español</span></a></li><li hreflang="en" data-drupal-link-system-path="node/106" class="is-active" aria-current="page"><a href="revolucionando-el-theming-en-drupal-single-directory-components-y-storybook.html" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/106" aria-current="page"><span class="short-text">EN</span><span class="full-text">English</span></a></li><li hreflang="gl" data-drupal-link-system-path="node/106"><a href="../../gl/sesiones/revolucionando-el-theming-en-drupal-single-directory-components-y-storybook.html" class="language-link" hreflang="gl" data-drupal-link-system-path="node/106"><span class="short-text">GL</span><span class="full-text">Galego</span></a></li></ul>
+  </div>
+<nav role="navigation" aria-labelledby="block-drupalcamp-quick-actions-menu" id="block-drupalcamp-quick-actions" class="block block-menu navigation menu--quick-actions">
+            
+  <h2 class="visually-hidden" id="block-drupalcamp-quick-actions-menu">Acciones rápidas</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="../sessions/schedule.html" target="_blank" class="link--button link--button--primary" data-drupal-link-system-path="sessions/schedule">Buy tickets</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+      </div>
+    </div>
+  </div>
+</header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <main role="main">
+          <div class="page-title" style="background-image: url('../../themes/custom/drupalcamp/images/page-title/default.webp');">
+  <div class="page-title__content">
+      <div class="region region-title">
+    <div id="block-drupalcamp-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1><span class="field field--name-title field--type-string field--label-hidden">Revolucionando el theming en Drupal: Single-Directory Components y Storybook</span>
+</h1>
+
+
+  </div>
+
+  </div>
+
+  </div>
+</div>
+    
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-drupalcamp-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="106" class="node node--type-session node--view-mode-full">
+  
+  <div  data-component-id="drupalcamp:session_detail">
+  <div class="sidebar component-background-image component-background-color component-background-color-gray" style="--bg-img: url(../../themes/custom/drupalcamp/images/noise.jpg);">
+    <a href="../sessions/schedule.html" class="sidebar--back-button">Back</a>
+    <div class="speakers"><article class="profile">
+  <div  data-component-id="drupalcamp:user">
+  <div class="avatar"><svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 425.2 425.2" version="1.1" id="svg123">
+  <metadata id="metadata127"></metadata>
+  <defs id="defs4">
+    <style id="style2">.cls-1{isolation:isolate;}.cls-2{fill:#fff;}.cls-3{fill:#ed4a30;}.cls-4{fill:#d93826;}.cls-5{fill:#2b1c18;stroke:#2b1c18;stroke-width:0.25px;}.cls-16,.cls-25,.cls-5{stroke-miterlimit:10;}.cls-23,.cls-6{fill:none;}.cls-6{stroke:#1e1512;}.cls-17,.cls-23,.cls-6,.cls-9{stroke-linecap:round;stroke-linejoin:round;}.cls-17,.cls-6{stroke-width:0.75px;}.cls-7{fill:#983535;}.cls-8{fill:#a63b3f;}.cls-14,.cls-16,.cls-9{fill:#37261f;}.cls-16,.cls-9{stroke:#37261f;}.cls-10{fill:#0462a1;}.cls-11{fill:#e69e79;}.cls-12{fill:#f5b48e;}.cls-13{fill:#eaa787;}.cls-15{fill:#805c4a;}.cls-17{stroke:#000;}.cls-18{fill:#c98464;}.cls-19{fill:#57220a;mix-blend-mode:multiply;}.cls-20{fill:#efae8b;}.cls-21{fill:#e38d7b;}.cls-22{fill:#e8a585;}.cls-23{stroke:#1d1d1b;}.cls-24{fill:#e29d83;}.cls-25{fill:#3d2a23;stroke:#3d2a23;}</style>
+  </defs>
+  <title id="title6">Mateu_by Pabs</title>
+  <g id="g6216" transform="matrix(1.1481425,0,0,1.0514829,-43.721302,-21.531681)">
+    <g id="g121" class="cls-1" style="isolation:isolate">
+      <path style="fill:#ed4a30" class="cls-3" d="m 306.57164,394.27208 c 21.46,-4.7 -5.59,-25.66 -9.5,-29.62 -15.7,-15.91 -36.51,-21.13 -58.51,-25.13 -22,-4 -38.54,-8.27 -60.49,-4 -11.46,2.22 -23.3,5.45 -31.85,13.39 -8.55,7.94 -36.2,31.27 -29.71,41 3.17,4.73 31.88,-1.62 36.79,1.27 16.34,9.62 32.91,19.33 51.18,24.4 a 110.35,110.35 0 0 0 65.79,-2.5 c 13.67,-4.9 20.18,-15.28 36.3,-18.81 z" id="path10"></path>
+      <path style="fill:#d93826" class="cls-4" d="m 303.61164,385.43208 c 0,0 -5.76,-3.27 -17.83,-12.66 -12.07,-9.39 -107.33,-21.47 -123.42,-15.43 -16.09,6.04 -22.52,9.62 -21,13.19 1.52,3.57 162.25,14.9 162.25,14.9 z" id="path12"></path>
+      <path style="fill:#ed4a30" class="cls-3" d="m 157.66164,364.05208 c 0,0 -73.109976,19.45 -84.509976,36.85 -11.4,17.4 -7.38,24.14 -7.38,24.14 l 305.189976,2 c 0,0 -4.69,-32.87 -83.76,-44.27 -24.56,-3.48 -129.54,-18.72 -129.54,-18.72 z" id="path26"></path>
+      <path style="fill:#0462a1" class="cls-10" d="m 215.09164,414.90208 c 31.14,4.08 70.84,-0.79 88.52,-29.48 -4.7,-0.95 -9.71,-1.83 -15.07,-2.6 -24.56,-3.54 -129.53,-18.78 -129.53,-18.78 0,0 -7.3,1.94 -17.63,5.14 12.3,28.35 44.54,41.91 73.71,45.72 z" id="path28"></path>
+      <path style="fill:#e39269;fill-opacity:1" class="cls-11" d="m 219.35164,402.05208 c 16,3.52 33,6.43 49.08,1.82 a 48.74,48.74 0 0 0 22.72,-13.7 c 1,-1.07 1.88,-2.17 2.77,-3.28 a 77.66,77.66 0 0 0 -6.72,-4.06 c 0,0 -24.9,-12.75 2.46,-44.27 13.55,-15.62 -113.88,-32.87 -113.88,-32.87 0,0 6,45.61 -20.72,60.15 a 91.81,91.81 0 0 1 -8.53,4 c 16.69,21.4 47.84,26.69 72.82,32.21 z" id="path38"></path>
+      <g id="g2744" transform="matrix(0.97649644,-0.23534689,0.19738825,0.97649644,-39.726177,61.076249)">
+        <path id="path14" d="m 250.08067,57.589446 c 0,0 4.48,-5.59 4.25,-8.5 -0.23,-2.91 -8.27,-16.32 -19,-16.55 -10.73,-0.23 -17.19,1.79 -23.92,2.69 -6.73,0.9 -10.27,3.8 -14.54,8.53 -4.27,4.73 -6.48,7.38 -8,11.41 -1.52,4.03 -5.81,9.39 -4,11.85 1.81,2.46 4.25,5.81 4.25,8.27 0,2.46 -2.69,7.38 0.89,6.93 0,0 -0.45,6.26 2.91,5.14 3.36,-1.12 65.28,-24.82 68,-25.26 2.72,-0.44 -10.84,-4.51 -10.84,-4.51 z" class="cls-5" style="fill:#2b1c18;stroke:#2b1c18;stroke-width:0.25px;stroke-miterlimit:10"></path>
+        <path id="path16" d="m 248.79067,46.699446 c -3.61,-3.55 -7.65,-6.81 -12.39,-8.6 -9.81,-3.71 -21.17,-0.4 -29.59,5.85 -8.42,6.25 -14.51,15.08 -20.42,23.74 a 50.28,50.28 0 0 1 37.85,-24.81 c 4.32,-0.46 8.8,-0.32 12.81,1.35 a 40.55,40.55 0 0 0 -47.17,30.61 64,64 0 0 1 23.31,-21.92 c 9.53,-5 20.7,-7.21 31.3,-5.26 a 64.41,64.41 0 0 0 -38.41,15.84 c -3.53,3.11 -7,7.48 -5.88,12.07 a 80.81,80.81 0 0 1 16.62,-11.06 c 5.61,-2.8 11.91,-5 18.08,-3.84 a 0.93,0.93 0 0 1 -1.66,0" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path18" d="m 259.45067,61.139446 c 0,0 -5.81,-7.82 -19.68,-5.81 a 19.59,19.59 0 0 0 -16.54,14.31 z" class="cls-7" style="fill:#983535"></path>
+        <path id="path20" d="m 238.97067,60.569446 a 2.77,2.77 0 0 0 0.79,-1.36 l -2.93,0.4 c -0.35,0 -0.85,0 -0.87,-0.34 -0.02,-0.34 0.17,-0.34 0.33,-0.46 l 1.42,-1 c 0.26,-0.18 0.55,-0.48 0.39,-0.75 a 0.64,0.64 0 0 0 -0.52,-0.25 4.09,4.09 0 0 0 -1.7,0.24 l -0.66,0.27 a 15.72,15.72 0 0 0 -1.59,0.93 38,38 0 0 0 -7.28,5.66 6.16,6.16 0 0 1 1.44,-2.49 10.32,10.32 0 0 0 -2.88,3.44 1.6,1.6 0 0 0 -0.13,1.09 l -0.18,0.25 0.19,-0.21 a 0.57,0.57 0 0 0 0.39,0.42 1.31,1.31 0 0 0 0.84,-0.12 123.84,123.84 0 0 1 15.06,-4.67 c 0.49,-0.11 1.1,-0.39 1,-0.85 z" class="cls-8" style="fill:#a63b3f"></path>
+        <path id="path22" d="m 235.22067,57.289446 0.66,-0.27 1.42,-0.59 c -1.3,-0.47 -2.07,0 -3.31,0.64 a 20.84,20.84 0 0 0 -5.93,4 l -0.27,0.3 a 25.71,25.71 0 0 1 4.92,-3 c 0.83,-0.33 1.67,-0.71 2.51,-1.08 z" class="cls-8" style="fill:#a63b3f"></path>
+        <path id="path24" d="m 333.00067,114.05945 a 41.82,41.82 0 0 0 -12.54,-18.210004 4.13,4.13 0 0 1 2.25,0.54 43.73,43.73 0 0 0 -13.21,-12.63 21,21 0 0 1 -4.49,-3.18 c 1.17,0.52 4.48,1.91 5.72,1.56 -5.29,-3.29 -12.54,-7.88 -17.83,-11.18 a 66.94,66.94 0 0 0 -8.56,-4.77 57.61,57.61 0 0 0 -9.09,-2.91 c -7.56,-2.68 -16.19,-4.75 -23.53,-4.35 a 71.72,71.72 0 0 0 -32.19,9.61 220.75,220.75 0 0 0 -25.71,17.22 c -6,4.92 -10.74,10.73 -16.1,19.230004 -5.36,8.5 -12.08,18.77 -14.58,27.77 -2.5,9 -5.14,21 -5.58,23 -0.44,2 20.79,19 29.73,17.89 8.94,-1.11 127.67,-31.53 133,-27.73 5.33,3.8 14.54,2.46 14.54,2.46 0,0 4.23,-21.04 -1.83,-34.32 z" class="cls-9" style="fill:#37261f;stroke:#37261f;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path30" d="m 173.74067,76.219446 a 21.29,21.29 0 0 0 1.6,16.87 23.5,23.5 0 0 0 13.2,10.790004" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path32" d="m 171.73067,72.319446 a 27.48,27.48 0 0 0 10.47,28.749994" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path34" d="m 157.59067,166.30945 a 20.65,20.65 0 0 0 -7.11,2.78 34.38,34.38 0 0 0 -13.69,44" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path36" d="m 161.82067,165.51945 a 20.6,20.6 0 0 0 -7.51,1.38 34.4,34.4 0 0 0 -21.81,40.65" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path40" d="m 332.59067,135.38945 c 0,0 4.47,24.37 3.8,31.08 -0.67,6.71 -2,14.09 -2.46,18.78 -0.46,4.69 -8.5,29.51 -11.4,37.79 -2.9,8.28 -5.59,12.52 -8.72,26.16 -3.13,13.64 -6.71,29.29 -8.05,37.78 -1.34,8.49 -10.29,35.1 -14.76,41.36 -4.47,6.26 -17.66,19.68 -24.86,24.15 a 50.63,50.63 0 0 1 -47.4,3.36 c -21.91,-9.62 -38.68,-21 -46,-25.49 -7.32,-4.49 -18.34,-5.82 -19,-32.87 -0.66,-27.05 -3.58,-41.59 -0.89,-60.81 0,0 -15,3.13 -16.77,-10.74 -1.77,-13.87 9.16,-25.93 10.73,-32.42 1.57,-6.49 0,-25.93 4.92,-32 4.92,-6.07 8.72,-10.06 13.41,-9.16 4.69,0.9 10.51,4.24 10.29,7.6 0,0 8.72,-31.08 27.95,-46.28 8.27,-4.48 10.95,-8.5 26.38,-7.38 15.43,1.12 25.26,4 32.42,4.47 7.16,0.47 15.87,-5.37 24.37,-5.81 8.5,-0.44 34,13 39.8,20.34 5.8,7.34 6.24,10.09 6.24,10.09 z" class="cls-12" style="fill:#f3a87d;fill-opacity:1"></path>
+        <path id="path42" d="m 332.25067,135.38945 c 0,0 -0.45,-2.68 -6.26,-10.06 -5.81,-7.38 -31.3,-20.79 -39.8,-20.34 a 35.3,35.3 0 0 0 -9.21,2 1.24,1.24 0 0 1 0.14,1 c -2.91,11.28 0.87,22.52 1.62,33.82 0.79,11.77 -0.46,23.78 -1.82,35.46 -1.19,10.15 -3.19,20.13 -5.27,30.13 -2.26,10.9 -4.24,21.42 -3.76,32.59 0.54,12.62 4.79,33.29 -2.51,41.31 -4.83,5.31 -7.55,7.64 -7.78,15.11 -0.16,5.13 0.48,10.25 0.14,15.37 a 83.81,83.81 0 0 1 -5.71,23.78 c -2.61,6.75 -6.17,13.24 -11.43,18.29 a 65.93,65.93 0 0 1 -7.17,6 51.53,51.53 0 0 0 32.42,-7.44 c 7.15,-4.47 20.34,-17.89 24.82,-24.15 4.48,-6.26 13.41,-32.86 14.75,-41.36 1.34,-8.5 4.92,-24.15 8.05,-37.78 3.13,-13.63 5.81,-17.89 8.72,-26.16 2.91,-8.27 11,-33.09 11.4,-37.79 0.4,-4.7 1.79,-12.07 2.46,-18.78 0.67,-6.71 -3.8,-31 -3.8,-31 z" class="cls-13" style="fill:#e79b77;fill-opacity:1"></path>
+        <path id="path44" d="m 156.66067,227.15945 c 2.87,-3.7 7.25,-5.7 9.91,-9.62 0.3,-0.44 0.57,-0.91 0.85,-1.36 0.19,-3.18 0.42,-6.34 0.66,-9.49 0.95,-12.58 3.22,-22.89 4.49,-35.43 0.46,-4.5 3.71,-10.74 3.7,-15.36 -2,-1.4 -8.1,-3.06 -10.48,-3.51 l -0.45,-0.06 c -0.06,0.19 -0.12,0.39 -0.18,0.56 -3.45,10 -4.43,21.08 -5.38,31.6 -1,10.72 -1.75,21.47 -3.76,32.06 -1.16,6.09 -4.18,13.53 -4.76,20.39 h 0.38 a 32.55,32.55 0 0 1 5.02,-9.78 z" class="cls-14" style="fill:#37261f"></path>
+        <path id="path46" d="m 296.49067,309.62945 c -4.24,1.81 -10.56,4.44 -14.66,0.93 -5.65,-4.87 -4.54,-14.44 -10.15,-19.74 -6.39,-6 -16.62,-3.33 -24.32,-2.24 -8.09,1.15 -19.88,-1.2 -24.69,6.86 -2.53,4.24 -3.21,10.95 -8,13.49 -8.68,4.56 -21.05,-9.23 -26.3,-14.37 -10.14,-9.93 -16.83,-20.65 -19.79,-34.74 -2.65,-12.58 -3.38,-32.61 -2.78,-45.48 -0.19,0.23 -0.38,0.45 -0.58,0.67 -2.86,3 -6.43,4.8 -8.77,8.39 a 33.67,33.67 0 0 0 -5.07,13.6 c -1.21,16 1.61,37.11 2.2,60.7 0.67,27.05 11.63,28.4 19,32.87 7.37,4.47 24.15,15.87 46.06,25.49 a 50.63,50.63 0 0 0 47.4,-3.36 c 7.16,-4.47 20.35,-17.88 24.82,-24.14 2.29,-3.21 5.75,-11.76 8.77,-20.47 a 32.11,32.11 0 0 1 -3.14,1.54 z" class="cls-15" style="opacity:0.75;fill:#805c4a"></path>
+        <path id="path48" d="m 245.61067,207.38945 c -0.22,-0.67 -1.56,-8.28 -9.83,-9.84 -8.27,-1.56 -19,0.89 -25.49,0.45 -6.49,-0.44 -15,-0.23 -17.22,3.13 -2.22,3.36 4.25,2.68 8,2 3.75,-0.68 8.05,0.45 12.52,0.89 4.47,0.44 10.29,0.23 13.86,0.9 3.57,0.67 8.28,2.46 11,2.9 2.72,0.44 7.16,-0.43 7.16,-0.43 z" class="cls-16" style="fill:#37261f;stroke:#37261f;stroke-miterlimit:10"></path>
+        <path id="path50" d="m 280.72067,208.75945 a 19,19 0 0 1 9.83,-6.26 c 6,-1.34 11.63,-3.36 16.32,-2 4.69,1.36 12.75,6.48 15,7.82 2.25,1.34 4.25,8.72 2.91,8.72 -1.34,0 -9.61,-2 -15,-4.92 -5.39,-2.92 -12.3,-1.79 -19,-1.56 -6.7,0.23 -10.06,-1.8 -10.06,-1.8 z" class="cls-16" style="fill:#37261f;stroke:#37261f;stroke-miterlimit:10"></path>
+        <path id="path52" d="m 225.04067,220.57945 c 0,0 -3.57,10.51 -1.11,16.32 2.46,5.81 7.37,6.57 10.5,1.56 2.24,-3.57 4,-6 4.48,-15.42 0.41,-8.72 -5.15,-11 -6.94,-10.51 -1.79,0.49 -5.36,2.01 -6.93,8.05 z" class="cls-17" style="stroke:#000000;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path54" d="m 296.58067,239.75945 c 0,0 2.54,-10.81 -0.47,-16.36 -3.01,-5.55 -8,-5.83 -10.61,-0.54 -1.88,3.78 -3.42,6.4 -3,15.79 0.43,8.71 6.18,10.41 7.92,9.79 1.74,-0.62 5.18,-2.49 6.16,-8.68 z" class="cls-17" style="stroke:#000000;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path56" d="m 267.43067,238.19945 c 0,0 6.54751,37.89728 4.16751,42.45728 -2.38,4.56 -10.12751,5.07272 -20.70751,4.50272 -14.07,-0.77 -10.93,-4.25 -10.93,-4.25 0,0 14.70244,5.72459 25.74244,-2.07541 5.81,-4.05 1.72756,-40.63459 1.72756,-40.63459 z" class="cls-18" style="fill:#c98464"></path>
+        <path id="path58" d="m 338.35067,98.089446 a 39.78,39.78 0 0 1 -2.42,41.930004" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path60" d="m 347.04067,106.52945 a 55.88,55.88 0 0 1 -11.7,44.12" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path style="mix-blend-mode:multiply;fill:#57220a;stroke-width:0.5753364" id="path62" d="m 294.59694,110.00793 c 0,0.84574 -0.65589,1.78354 -1.50163,1.78354 -0.84575,0 -1.94464,-0.91479 -1.94464,-1.72601 a 1.72601,1.72601 0 1 1 3.45202,0 z" class="cls-19"></path>
+        <path id="path64" d="m 263.52067,63.399446 a 56.82,56.82 0 0 1 39.86,40.870004" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path66" d="m 230.23067,102.63945 c 0.71,-8.210004 5.8,-15.450004 11.84,-21.070004 6.04,-5.62 13.12,-10 19.42,-15.3" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path68" d="m 249.73067,98.939446 a 53.84,53.84 0 0 1 12.24,-30.48" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path70" d="m 284.55067,98.589446 -8.94,-19.21 c -1.91,-4.1 -3.87,-8.28 -7,-11.6 -3.13,-3.32 -7.52,-5.69 -12,-5.17" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path72" d="m 214.90067,108.29945 a 92.44,92.44 0 0 1 34.3,-37.540004" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path74" d="m 240.06067,98.269446 a 34.88,34.88 0 0 1 13.89,-22.37" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path76" d="m 271.20067,101.99945 c -2.42,-10.840004 -4.86,-21.720004 -8.68,-32.150004 -1.59,-4.3 -3.78,-8.91 -8,-10.69" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path78" d="m 255.19067,106.67945 c -1.44,-6.00001 -0.23,-12.400004 2.2,-18.070004 2.43,-5.67 6,-10.76 9.63,-15.79" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path80" d="m 242.44067,100.95944 a 38.13,38.13 0 0 1 11.08,-24.849994" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path82" d="m 296.84067,95.919446 c -1.5,-4.22 -2.07,-8.71 -3.3,-13 -1.23,-4.29 -3.28,-8.61 -6.93,-11.2 -3.05,-2.15 -6.88,-2.88 -10.6,-3.2" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path84" d="m 334.64067,143.65945 c 7.4,-2.26 11.32,-10.43 12.62,-18.06 2.11,-12.32 -0.68,-25.890004 -9.32,-34.910004" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path86" d="m 267.67067,309.99945 a 4.37,4.37 0 0 0 -3,-1 c -5.34,0.22 -22.24,0.9 -32.31,1.27 -12.07,0.45 -17,13.42 -15.65,22.81 1.35,9.39 11.18,15.65 14.31,14.31 3.13,-1.34 8,-12.07 8,-12.07 0,0 -7.22,-9.51 2.65,-9.23 9.87,0.28 15.1,-0.77 15.68,0.73 0.58,1.5 -0.45,7.15 -6.71,10.28 0,0 -0.89,9.39 2.69,9.39 3.58,0 21.91,-16.09 23.25,-22.35 1.09,-4.97 -5.89,-11.55 -8.91,-14.14 z" class="cls-11" style="fill:#e69e79"></path>
+        <path id="path88" d="m 165.83067,211.29945 c -2.69,-0.5 -8.39,2.35 -8.39,2.35 0,0 -1.9,6.87 -4,13.08 -2.53,7.37 -2.19,17.79 0,30.18 4,22.81 8.72,22.47 8.72,22.47 0,0 -10.09,-32.22 -2.87,-55.18 0,0 -2.16,15.27 1.19,19.3 0,0 -1.68,-10.4 3,-26.5 0,0 0.67,11.74 -0.67,14.76 -0.49,1.08 0.36,0.17 1.6,-1.68 1.13,-5.15 1.41,-13.75 1.42,-18.78 z" class="cls-16" style="fill:#37261f;stroke:#37261f;stroke-miterlimit:10"></path>
+        <path id="path90" d="m 156.43067,172.75945 c 0,0 -1,14.42 -2.34,21.47 -1.34,7.05 -0.67,17.77 -2.69,20.45 -2.02,2.68 -5.7,0.34 -4.69,-1.34 a 23.32,23.32 0 0 0 3.35,-11.74 128.31,128.31 0 0 1 2,-19.45 20.5,20.5 0 0 1 4.37,-9.39 z" class="cls-11" style="fill:#e39269;fill-opacity:1"></path>
+        <path id="path92" d="m 220.82067,257.17945 c -2.53,1.18 -5.21,2.28 -8,2.15 -3,-0.15 -5.66,-1.68 -8.14,-3.31 -4.33,-2.85 -8.67,-6.61 -9.57,-11.72 -0.46,-2.61 0.54,-5.9 3.13,-6.47 a 6.36,6.36 0 0 1 2.9,0.22 43.18,43.18 0 0 1 11.94,5 36,36 0 0 0 6.14,3.45 c 5.6,2.07 9.69,-1.4 14.75,-1.23 -0.83,5.67 -8.51,9.73 -13.15,11.91 z" class="cls-20" style="fill:#eda279;fill-opacity:1"></path>
+        <path id="path94" d="m 227.39067,315.94945 c 1.85,2.15 13.32,9.48 15.55,9.67 3.8,0.33 7.6,0.69 10.21,0.93 4.11,0.38 8.18,-2.42 10.64,-5.13 10.12,-11.17 1.34,-3.57 -12.9,-2.38 z" class="cls-21" style="fill:#e38d7b"></path>
+        <path id="path96" d="m 189.56067,274.92945 a 6.77,6.77 0 0 0 -1,2.58 5.71,5.71 0 0 0 6.71,6.43 6,6 0 0 0 4.23,-3.28 6.43,6.43 0 0 0 0,-5.39 c -2.02,-4.42 -7.5,-4.26 -9.94,-0.34 z" class="cls-20" style="fill:#eda279;fill-opacity:1"></path>
+        <path id="path98" d="m 291.75067,280.15945 a 6.75,6.75 0 0 0 -1,2.59 5.72,5.72 0 0 0 6.72,6.42 6,6 0 0 0 4.22,-3.28 6.43,6.43 0 0 0 0,-5.39 c -2.01,-4.42 -7.5,-4.26 -9.94,-0.34 z" class="cls-22" style="fill:#e59975;fill-opacity:1"></path>
+        <path id="path100" d="m 227.24067,315.29945 c 0.44,0.14 7.53,3.32 21,3 10.28,-0.22 16.33,-0.83 20.44,-4.36" class="cls-23" style="fill:none;stroke:#1d1d1b;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path102" d="m 285.71067,262.64945 a 18.57,18.57 0 0 0 5.4,0.79 c 3.82,0.1 7.79,-0.34 11.07,-2.3 3.28,-1.96 5.68,-5.74 5.1,-9.52 -2.23,-0.48 -4.46,0.54 -6.63,1.24 a 24.87,24.87 0 0 1 -13.31,0.47 c -4.2,-1 -7.3,-4 -11,-5.33 -1.47,5.51 4.39,12.96 9.37,14.65 z" class="cls-24" style="fill:#de9174;fill-opacity:1"></path>
+        <path style="opacity:0.98999999;fill:#3d2a23;stroke:#3d2a23;stroke-miterlimit:10" id="path104" d="m 221.43067,73.139446 c -11.6,6.24 -22.66,14.12 -30.16,25 l 3.4,-0.91 a 139.17,139.17 0 0 1 -15.66,22.360004 3.55,3.55 0 0 0 -1.18,2.55 c 0.05,0.38 0.23,0.74 0.31,1.11 a 4.42,4.42 0 0 1 -0.46,2.38 72,72 0 0 0 -4.67,20.2 c 3,-1 5.29,-3.56 7.16,-6.16 a 55,55 0 0 0 8.11,-16.64 33.77,33.77 0 0 1 2.51,-7.18 26,26 0 0 1 5,-5.85 l 15.17,-14.420004 a 76.28,76.28 0 0 1 10.43,-8.82 c 2.51,-1.65 5.23,-3 7.52,-5 1.23,-1.05 2.31,-2.25 3.5,-3.34 2.82,-2.56 6.18,-4.42 9.35,-6.53 3.38,-2.13 6.46,-4.68 9.58,-7.13 0.93,-0.75 2,-1.91 1.42,-3 -1.34,-2.62 -12.67,2.83 -14.7,3.64 a 164.06,164.06 0 0 0 -16.63,7.74 z" class="cls-25"></path>
+        <path id="path106" d="m 217.79067,80.029446 c -4.63,1.64 -8.36,5.08 -12,8.43 -8.08,7.53 -16.25,15.180004 -22.14,24.520004 -5.89,9.34 -9.35,20.73 -7.06,31.54" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path108" d="m 179.14067,144.24945 c 4.57,-14.66 13.69,-27.57 24.43,-38.55 10.74,-10.980004 23.13,-20.170004 35.46,-29.320004" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path110" d="m 233.28067,76.149446 a 86.17,86.17 0 0 0 -45.72,53.000004" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path112" d="m 193.30067,90.699446 a 109.9,109.9 0 0 0 -28.56,68.280004" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path id="path114" d="m 172.39067,154.97945 c -1.84,-12.25 0.88,-24.84 5.69,-36.25 4.81,-11.41 11.67,-21.840004 18.47,-32.190004" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path style="opacity:0.98999999;fill:#3d2a23;stroke:#3d2a23;stroke-miterlimit:10" id="path116" d="m 324.70067,105.53945 a 61.21,61.21 0 0 0 -4.2,-6.150004 l -7,-9.4 c -4.53,-6.08 -9.79,-12.63 -17.27,-13.92 a 3.21,3.21 0 0 0 1.17,2 5.58,5.58 0 0 0 -2.92,-0.88 c -0.31,3 2,5.51 4.05,7.68 4.77,5 9.15,10.4 13.51,15.769994 l 3.62,4.46001 c 4.05,5 8.14,10 10.67,15.94 l 1.08,-0.12 c 0.14,0 1,4.31 2.7,3.1 1.05,-0.74 -0.51,-4.9 -0.74,-5.86 a 47.64,47.64 0 0 0 -4.67,-12.62 z" class="cls-25"></path>
+        <path id="path118" d="m 321.37067,118.75945 c -1.94,-11.26 -8.34,-21.190004 -14.75,-30.650004 a 93.64,93.64 0 0 0 -10.71,-13.78 48.5,48.5 0 0 0 -15,-10.23" class="cls-6" style="fill:none;stroke:#1e1512;stroke-width:0.75px;stroke-linecap:round;stroke-linejoin:round"></path>
+        <path style="mix-blend-mode:multiply;fill:#57220a;stroke-width:0.82748044" id="path62-3" d="m 198.76106,298.99659 c 0,1.2164 -0.94333,2.56519 -2.15973,2.56519 -1.21639,0 -2.79688,-1.31569 -2.79688,-2.48244 a 2.4824413,2.4824413 0 1 1 4.96488,0 z" class="cls-19"></path>
+      </g>
+    </g>
+  </g>
+</svg></div>
+  <div class="name">Mateu (e0ipso)</div>
+</div>
+</article>
+</div>
+    <ul class="tags ul--pills--inline ul--pills--small">
+                          
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../../es/taxonomy/term/61/schedule.html" class="tag__link">
+          Saturday a 12:00 - 12:45
+          </a>
+      </li>
+
+
+                                
+  <li  data-component-id="drupalcamp:tag" class="tag">
+          Auditorio: Balidea
+      </li>
+
+
+                                  
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../taxonomy/term/8/sessions.html" class="tag__link">
+          Intermediate
+          </a>
+      </li>
+
+
+                                    
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../../es/taxonomy/term/31/sessions.html" class="tag__link">
+          Frontend
+          </a>
+      </li>
+
+  
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../../es/taxonomy/term/30/sessions.html" class="tag__link">
+          Backend
+          </a>
+      </li>
+
+
+                                  
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../sessions%3Flanguage=es.html" class="tag__link">
+          Spanish
+          </a>
+      </li>
+
+                  </ul>
+  </div>
+  <div class="content">
+    
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>Esta sesión os guiará a través de dos potentes herramientas del panorama <em>frontend</em> de Drupal: Single-Directory Components (SDC) y el módulo de Storybook. Como autor tanto de la iniciativa SDC en el núcleo de Drupal como del módulo de Storybook, presentaré cómo estas herramientas fueron diseñadas para funcionar en conjunto. Exploraremos cómo SDC ayuda a crear componentes reutilizables y autocontenidos, y cómo el módulo de Storybook permite construir, visualizar y probar estos componentes de forma aislada. Os mostraré cómo construir interfaces de usuario atractivas, consistentes y fáciles de mantener, mejorando al mismo tiempo la colaboración entre desarrolladores <em>frontend</em> y <em>backend</em>.</p>
+<p><strong>En esta sesión, aprenderéis:</strong></p>
+<ul>
+<li>Los fundamentos de los Single-Directory Components y cómo empezar a usarlos en vuestros temas.</li>
+<li>Cómo aprovechar el módulo de Storybook para crear una guía de estilos viva (<em>living style guide</em>) para vuestros proyectos de Drupal.</li>
+<li>La potente sinergia entre SDC y Storybook, y cómo crear un flujo de trabajo de desarrollo fluido.</li>
+<li>Mejores prácticas y consejos avanzados del creador de ambos módulos.</li>
+<li>La hoja de ruta futura para el desarrollo basado en componentes en Drupal.Tanto si eres un <em>themer</em> experimentado como si estás empezando con el <em>frontend</em> de Drupal, espero que aprendas algo nuevo y te lleves nueva inspiración para tus proyectos.</li>
+</ul>
+</div>
+      
+  </div>
+</div>
+
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+      <footer role="contentinfo" class="footer">
+  <div class="footer__top">
+    <p class="footer__top__title h3">Acknowledgements</p>
+    <div class="footer__top__logos">
+      <a href="https://asociaciondrupal.es/" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/aed.svg" alt="Asociación Española de Drupal">
+      </a>
+      <a href="https://www.drupal.org/association" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/drupal-association.svg" alt="Drupal Association">
+      </a>
+      <a href="https://amtega.xunta.gal/" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/amtega.svg" alt="Axencia para a modernización tecnolóxica de Galicia">
+      </a>
+      <a href="https://cntg.xunta.gal/web/cntg" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/cntg.svg" alt="Centro de Novas Tecnoloxías de Galicia">
+      </a>
+    </div>
+  </div>
+  <div class="footer__pre-links">
+    <div class="footer__logo">
+      <img src="../../themes/custom/drupalcamp/logo-white.png" alt="DrupalCamp Santiago 2025" />
+    </div>
+    <div class="footer__social">
+      <a href="https://www.linkedin.com/showcase/drupalcamp-spain/" title="Linkedin" class="footer__social__icon" target="_blank"><svg width="30" height="29" viewBox="0 0 30 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.125 0.134277C1.81332 0.134277 0.75 1.1976 0.75 2.50928V26.2593C0.75 27.5709 1.81332 28.6343 3.125 28.6343H26.875C28.1866 28.6343 29.25 27.5709 29.25 26.2593V2.50928C29.25 1.1976 28.1866 0.134277 26.875 0.134277H3.125ZM9.4912 6.47192C9.50012 7.98598 8.3668 8.91891 7.02195 8.91223C5.75503 8.90555 4.65065 7.89692 4.65733 6.47415C4.66402 5.13598 5.72163 4.06055 7.09543 4.09172C8.48925 4.1229 9.50012 5.14489 9.4912 6.47192ZM15.4429 10.8404H11.4529H11.4506V24.3935H15.6677V24.0773C15.6677 23.4758 15.6672 22.8741 15.6667 22.2723C15.6655 20.6671 15.6641 19.0602 15.6723 17.4555C15.6745 17.0658 15.6922 16.6606 15.7925 16.2887C16.1687 14.8993 17.4179 14.0021 18.8117 14.2226C19.7068 14.3627 20.2989 14.8816 20.5483 15.7255C20.7021 16.2531 20.7711 16.8209 20.7777 17.3709C20.7958 19.0296 20.7933 20.6883 20.7907 22.3472C20.7898 22.9327 20.7888 23.5185 20.7888 24.104V24.3913H25.0193V24.0662C25.0193 23.3505 25.019 22.635 25.0185 21.9195C25.0177 20.1311 25.0168 18.3428 25.0215 16.5538C25.0238 15.7455 24.937 14.9484 24.7388 14.1669C24.4427 13.0046 23.8304 12.0427 22.8351 11.3481C22.1293 10.8537 21.3544 10.5354 20.4883 10.4997C20.3897 10.4956 20.2902 10.4903 20.1903 10.4849C19.7475 10.4609 19.2973 10.4366 18.8739 10.522C17.6627 10.7647 16.5985 11.3191 15.7947 12.2965C15.7013 12.4086 15.6099 12.5224 15.4736 12.6923L15.4429 12.7308V10.8404ZM4.99593 24.3979H9.193V10.8492H4.99593V24.3979Z" fill="currentColor"/>
+</svg>
+<span class="visually-hidden">Linkedin de DrupalCamp Spain</span></a>
+      <a href="https://www.instagram.com/drupalcampspain/" title="Instagram" class="footer__social__icon" target="_blank"><svg width="30" height="29" viewBox="0 0 30 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.3333 0.134277H8.66667C4.29442 0.134277 0.75 3.6787 0.75 8.05094V20.7176C0.75 25.0898 4.29442 28.6343 8.66667 28.6343H21.3333C25.7056 28.6343 29.25 25.0898 29.25 20.7176V8.05094C29.25 3.6787 25.7056 0.134277 21.3333 0.134277ZM26.4792 20.7176C26.4705 23.5559 24.1716 25.8547 21.3333 25.8634H8.66667C5.8283 25.8547 3.52953 23.5559 3.52083 20.7176V8.05094C3.52953 5.21258 5.8283 2.9138 8.66667 2.90511H21.3333C24.1716 2.9138 26.4705 5.21258 26.4792 8.05094V20.7176ZM22.5208 8.44678C23.3953 8.44678 24.1042 7.73789 24.1042 6.86344C24.1042 5.989 23.3953 5.28011 22.5208 5.28011C21.6464 5.28011 20.9375 5.989 20.9375 6.86344C20.9375 7.73789 21.6464 8.44678 22.5208 8.44678ZM15 7.25928C11.065 7.25928 7.875 10.4493 7.875 14.3843C7.875 18.3193 11.065 21.5093 15 21.5093C18.9351 21.5093 22.125 18.3193 22.125 14.3843C22.1293 12.4933 21.3799 10.6786 20.0428 9.34149C18.7056 8.00438 16.891 7.25507 15 7.25928ZM10.6458 14.3843C10.6458 16.789 12.5952 18.7384 15 18.7384C17.4048 18.7384 19.3542 16.789 19.3542 14.3843C19.3542 11.9795 17.4048 10.0301 15 10.0301C12.5952 10.0301 10.6458 11.9795 10.6458 14.3843Z" fill="currentColor"/>
+</svg>
+<span class="visually-hidden">Instagram de DrupalCamp Spain</span></a>
+      <a href="https://www.youtube.com/channel/UCJlthEUN__9_-KWFQ_-0fLg" title="Youtube" class="footer__social__icon" target="_blank"><svg width="32" height="24" viewBox="0 0 32 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M31.1889 4.40484C31.0086 3.73573 30.6562 3.12552 30.1667 2.63494C29.6772 2.14437 29.0678 1.79054 28.3991 1.60868C25.9196 0.927843 16 0.91676 16 0.91676C16 0.91676 6.08203 0.905676 3.60095 1.55643C2.93266 1.74666 2.3245 2.10549 1.83485 2.59847C1.34519 3.09146 0.990486 3.70204 0.804784 4.37159C0.150867 6.85109 0.144534 11.9938 0.144534 11.9938C0.144534 11.9938 0.1382 17.1618 0.787367 19.6159C1.15153 20.9728 2.22028 22.0448 3.57878 22.4105C6.08362 23.0913 15.9763 23.1024 15.9763 23.1024C15.9763 23.1024 25.8959 23.1135 28.3754 22.4643C29.0443 22.2828 29.6543 21.9298 30.145 21.4402C30.6357 20.9506 30.9901 20.3415 31.1731 19.6729C31.8286 17.195 31.8334 12.0539 31.8334 12.0539C31.8334 12.0539 31.865 6.88434 31.1889 4.40484ZM12.827 16.758L12.835 7.25801L21.0794 12.0159L12.827 16.758Z" fill="currentColor"/>
+</svg>
+<span class="visually-hidden">YouTube de Asociación Española de Drupal</span></a>
+      <a href="https://github.com/AsociacionDrupalES" title="GitHub" class="footer__social__icon" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M10 0c5.523 0 10 4.59 10 10.253 0 4.529-2.862 8.371-6.833 9.728-.507.101-.687-.219-.687-.492 0-.338.012-1.442.012-2.814 0-.956-.32-1.58-.679-1.898 2.227-.254 4.567-1.121 4.567-5.059 0-1.12-.388-2.034-1.03-2.752.104-.259.447-1.302-.098-2.714 0 0-.838-.275-2.747 1.051A9.396 9.396 0 0 0 10 4.958a9.375 9.375 0 0 0-2.503.345C5.586 3.977 4.746 4.252 4.746 4.252c-.543 1.412-.2 2.455-.097 2.714-.639.718-1.03 1.632-1.03 2.752 0 3.928 2.335 4.808 4.556 5.067-.286.256-.545.708-.635 1.371-.57.262-2.018.715-2.91-.852 0 0-.529-.985-1.533-1.057 0 0-.975-.013-.068.623 0 0 .655.315 1.11 1.5 0 0 .587 1.83 3.369 1.21.005.857.014 1.665.014 1.909 0 .271-.184.588-.683.493C2.865 18.627 0 14.783 0 10.253 0 4.59 4.478 0 10 0"/></svg>
+<span class="visually-hidden">GitHub de DrupalCamp</span></a>
+    </div>
+  </div>
+  <div class="footer__links">
+    <p class="footer__links__copyright">© 2025 <a href="https://asociaciondrupal.es/" target="_blank">Asociación Española de Drupal</a></p>
+    <div>
+        <nav role="navigation" aria-labelledby="block-drupalcamp-footer-menu" id="block-drupalcamp-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-drupalcamp-footer-menu">Footer</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="../selection-criteria-talks.html" data-drupal-link-system-path="node/3">Selection criteria</a>
+              </li>
+                <li class="menu-item">
+        <a href="../guide-speakers.html" data-drupal-link-system-path="node/6">Guide for Speakers</a>
+              </li>
+                <li class="menu-item">
+        <a href="../code-conduct.html" data-drupal-link-system-path="node/7">Code of conduct</a>
+              </li>
+                <li class="menu-item">
+        <a href="../contact.html" data-drupal-link-system-path="contact">Contact</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+    </div>
+  </div>
+</footer>
+  
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"en\/","currentPath":"node\/106","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":true,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"0","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":true,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":[],"extExcludeNoreferrer":""}},"field_group":{"component_formatter":{"mode":"compact","context":"view","settings":{"ui_patterns":{"component_id":"drupalcamp:user","variant_id":null,"props":{"attributes":{"source_id":"attributes","source":{"value":""}},"back_route":{"source_id":"textfield","source":{"value":"view.session_schedule.page_1"}},"background_color":{"source_id":"select","source":{"value":""}},"size":{"source_id":"select","source":{"value":""}},"show_link":{"source_id":"checkbox","source":{"value":0}}},"slots":{"description":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"field_description"},"_weight":"0"}]},"tags":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"field_time_slot"},"_weight":"0"},{"source_id":"field_group_child","source":{"field_group_child":"field_r"},"_weight":"1"},{"source_id":"field_group_child","source":{"field_group_child":"field_audience"},"_weight":"2"},{"source_id":"field_group_child","source":{"field_group_child":"field_session_category"},"_weight":"3"},{"source_id":"field_group_child","source":{"field_group_child":"field_language"},"_weight":"4"}]},"speakers":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"field_speakers"},"_weight":"0"}]},"name":{"sources":[{"source_id":"field_group_child","source":{"derivable_context":"field:taxonomy_term:room:name","field:taxonomy_term:session_category:name":{"value":{"sources":[{"source_id":"field_formatter:taxonomy_term:session_category:name","source":{"type":"string","third_party_settings":{"nomarkup":{"enabled":"1","separator":"|","referenced_entity":""}},"settings":{"link_to_entity":0}},"_weight":"0"}]}},"field:taxonomy_term:session_audience:name":{"value":{"sources":[{"source_id":"field_formatter:taxonomy_term:session_audience:name","source":{"type":"string","third_party_settings":{"nomarkup":{"enabled":"1","separator":"|","referenced_entity":""}},"settings":{"link_to_entity":0}},"_weight":"0"}]}},"field:taxonomy_term:room:name":{"value":{"sources":[{"source_id":"field_formatter:taxonomy_term:room:name","source":{"type":"string","third_party_settings":{"nomarkup":{"enabled":"1","separator":"|","referenced_entity":""}},"settings":{"link_to_entity":0}},"_weight":"0"}]}},"field_group_child":"field_display_name"},"_weight":"0"}]},"url":{"sources":[{"source_id":"entity_link","source":{"template":"event_platform:schedule","absolute":0},"_weight":"0"}]},"avatar":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"user_picture"},"_weight":"0"}]}}},"show_empty_fields":"1","label_as_html":0}}},"user":{"uid":0,"permissionsHash":"da9ca443319b83cce41f856fdadd7b29ed944b5e184fb0ea1cc289b1690e7576"}}</script>
+<script src="../../sites/default/files/js/js_0Yn2E7406eCW0SPhdT8LFivQ1RBCmL1cOZ4tw2dqEnY.js%3Fscope=footer&amp;delta=0&amp;language=en&amp;theme=drupalcamp&amp;include=eJxLzi9K1U_Ozy3Iz0vNKynWSykqLUjMSU7MLdDVzUhNTEkt0kkmqEQ3NzWvVCe1oiQnMy9bHyKvB-UCAC43JY4"></script>
+
+  </body>
+</html>
