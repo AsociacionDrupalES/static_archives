@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="In the dynamic landscape of performance optimization and DevOps, the compelling allure of cloud-native solutions and the software that supports them often overshadows a crucial understanding of their potential drawbacks, hidden complexities, and often, hidden costs. While powerful, blindly embracing any technology without rigorous critical thinking and evaluating alternative approaches can lead to suboptimal architectural outcomes, unexpected expenses, and long-term technical debt for your Drupal projects. This talk will provide a deep dive into the nuanced architectural considerations across cloud and non-cloud solutions, placing significant emphasis on the imperative of critical thinking and detailed scenario evaluation in selecting the truly optimal approach for Drupal. We will specifically explore what it means to architect Drupal in a cloud-native fashion, examining the patterns, tools, and methodologies involved, as well as the real-world implications. Through compelling case studies and practical architectural insights, we&#039;ll uncover specific instances where non-cloud or hybrid approaches have proven superior for Drupal&#039;s unique needs, challenging common assumptions about cloud-native superiority. Crucially, we&#039;ll unveil proven strategies for identifying and effectively navigating the often-overlooked hidden costs associated with various architectural decisions. We&#039;ll cover key areas including: Why the cloud is so compelling, the myths surrounding &quot;Cloud-Native&quot; and its supposed universal superiority, and the specific considerations for making Drupal truly cloud-native. You&#039;ll gain a deeper understanding of various hidden costs – not just financial, but also operational and complexity costs. The session will feature illuminating case studies that highlight successful (and sometimes less successful) architectural choices, fostering a framework for critical thinking in technology evaluation. By the end, you&#039;ll be better equipped to mitigate risks, maximize benefits, and begin building a more resilient, performant, and future-proof architecture for Drupal. Our main goal is to empower attendees to prioritize continuous learning and experimentation in their quest for optimal technology solutions for Drupal, moving beyond mere trend-following. By embracing a strategic mindset and applying critical thinking to architectural choices, organizations can confidently navigate the complexities of technology, uncover hidden opportunities for innovation, and drive sustained success in the digital age." />
+<link rel="canonical" href="architecting-drupal-hosting-navigating-cloud-native-realities-and-strategic-choices.html" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="../../themes/custom/drupalcamp/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="und" href="architecting-drupal-hosting-navigating-cloud-native-realities-and-strategic-choices.html" />
+
+    <title>Architecting Drupal hosting: Navigating Cloud-Native Realities and Strategic Choices for Performance &amp; DevOps | DrupalCamp Spain 2025</title>
+    <link rel="stylesheet" media="all" href="../../sites/default/files/css/css_G3lCcxC0c83h61irAAciaOpTnODl-gpk7tf9DNFaptU.css%3Fdelta=0&amp;language=es&amp;theme=drupalcamp&amp;include=eJyNj1EOAiEMRC8Ey5FMhXElQktoSdTTu9E16g_xc2ZeOtMoHSFKbcJg0yX10ahEqs37k4ihuzhBzqD0F-IreEy5IqtMgUYrvGUrmGIK1Sx8SDDKZYoardN86Ps3ll6p5DvcJw9H0h9.css" />
+<link rel="stylesheet" media="all" href="../../sites/default/files/css/css_cd_Hynlq_Chws56Xeo7xcevPHviAoiRL5XZTatSYkjI.css%3Fdelta=1&amp;language=es&amp;theme=drupalcamp&amp;include=eJyNj1EOAiEMRC8Ey5FMhXElQktoSdTTu9E16g_xc2ZeOtMoHSFKbcJg0yX10ahEqs37k4ihuzhBzqD0F-IreEy5IqtMgUYrvGUrmGIK1Sx8SDDKZYoardN86Ps3ll6p5DvcJw9H0h9.css" />
+
+    
+  </head>
+  <body class="path-node page-node-type-session">
+        <a href="architecting-drupal-hosting-navigating-cloud-native-realities-and-strategic-choices.html#main-content" class="visually-hidden focusable skip-link">
+      Pasar al contenido principal
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header class="header" role="banner">
+  <div class="header__logo">
+      <div class="region region-header-logo">
+    <div id="block-drupalcamp-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="../../index.html" rel="home" class="site-logo">
+      <div class="logo">
+  <img src="../../themes/custom/drupalcamp/logo.svg" alt="Inicio" fetchpriority="high" class="logo__image">
+</div>
+    </a>
+        <div class="site-name">
+      <a href="../../index.html" rel="home">DrupalCamp Spain 2025</a>
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+  <button class="header__toggle" aria-label="Open menu">
+    <span class="header__toggle-line"></span>
+    <span class="header__toggle-line"></span>
+    <span class="header__toggle-line"></span>
+  </button>
+  <div class="header__container">
+    <div class="header__menu">
+      <button class="header__close" aria-label="Close menu">×</button>
+      <div class="header__menu__content">
+          <div class="region region-header-content">
+    <nav role="navigation" aria-labelledby="block-drupalcamp-main-navigation-menu" id="block-drupalcamp-main-navigation" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-drupalcamp-main-navigation-menu">Navegación principal</h2>
+  
+
+        
+        <ul class="header-menu">
+      <li class="header-menu__item header-menu__item--has-children">
+      <a href="../cidade-da-cultura.html"
+         class="header-menu__link"
+         aria-expanded="false">
+        La Camp
+      </a>
+              <ul class="header-menu__submenu" aria-hidden="true">
+                      <li class="header-menu__submenu-item">
+              <a href="../cidade-da-cultura.html" class="header-menu__submenu-link">Venue</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../../node/125.html" class="header-menu__submenu-link">Cómo llegar</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../sessions/schedule.html" class="header-menu__submenu-link">Programa</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../la-comida.html" class="header-menu__submenu-link">La comida</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../sessions.html" class="header-menu__submenu-link">Sesiones</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../formacion-cntg.html" class="header-menu__submenu-link">Formación</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../la-cena.html" class="header-menu__submenu-link">La cena</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../../sites/default/files/media/document/2025-03/dossier-patrocinio-2025.pdf" class="header-menu__submenu-link">Dossier de patrocinio</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../voluntariado.html" class="header-menu__submenu-link">Voluntariado</a>
+            </li>
+                  </ul>
+          </li>
+      <li class="header-menu__item header-menu__item--has-children">
+      <a href="../business-day-2025.html"
+         class="header-menu__link"
+         aria-expanded="false">
+        Business Day
+      </a>
+              <ul class="header-menu__submenu" aria-hidden="true">
+                      <li class="header-menu__submenu-item">
+              <a href="../business-day-2025.html" class="header-menu__submenu-link">Información y programa</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../splash-awards.html" class="header-menu__submenu-link">Splash Awards</a>
+            </li>
+                  </ul>
+          </li>
+      <li class="header-menu__item header-menu__item--has-children">
+      <a href="../sobre-santiago.html"
+         class="header-menu__link"
+         aria-expanded="false">
+        La Ciudad
+      </a>
+              <ul class="header-menu__submenu" aria-hidden="true">
+                      <li class="header-menu__submenu-item">
+              <a href="../sobre-santiago.html" class="header-menu__submenu-link">¿Por qué Santiago?</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../como-llegar-santiago.html" class="header-menu__submenu-link">Cómo llegar</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../gastronomia.html" class="header-menu__submenu-link">Gastronomía</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../que-hacer-en-santiago.html" class="header-menu__submenu-link">Qué hacer</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../donde-alojarse.html" class="header-menu__submenu-link">Dónde alojarse</a>
+            </li>
+                  </ul>
+          </li>
+  </ul>
+  
+
+
+  </nav>
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" id="block-drupalcamp-language-switcher" role="navigation">
+  
+    
+      <ul class="links"><li hreflang="es" data-drupal-link-system-path="node/100" class="is-active" aria-current="page"><a href="architecting-drupal-hosting-navigating-cloud-native-realities-and-strategic-choices.html" class="language-link is-active" hreflang="es" data-drupal-link-system-path="node/100" aria-current="page"><span class="short-text">ES</span><span class="full-text">Español</span></a></li><li hreflang="en" data-drupal-link-system-path="node/100"><a href="../../en/sesiones/architecting-drupal-hosting-navigating-cloud-native-realities-and-strategic-choices.html" class="language-link" hreflang="en" data-drupal-link-system-path="node/100"><span class="short-text">EN</span><span class="full-text">English</span></a></li><li hreflang="gl" data-drupal-link-system-path="node/100"><a href="../../gl/sesiones/architecting-drupal-hosting-navigating-cloud-native-realities-and-strategic-choices.html" class="language-link" hreflang="gl" data-drupal-link-system-path="node/100"><span class="short-text">GL</span><span class="full-text">Galego</span></a></li></ul>
+  </div>
+<nav role="navigation" aria-labelledby="block-drupalcamp-quick-actions-menu" id="block-drupalcamp-quick-actions" class="block block-menu navigation menu--quick-actions">
+            
+  <h2 class="visually-hidden" id="block-drupalcamp-quick-actions-menu">Acciones rápidas</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="../sessions/schedule.html" target="_blank" class="link--button link--button--primary" data-drupal-link-system-path="sessions/schedule">Ver programa</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+      </div>
+    </div>
+  </div>
+</header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <main role="main">
+          <div class="page-title" style="background-image: url('../../themes/custom/drupalcamp/images/page-title/default.webp');">
+  <div class="page-title__content">
+      <div class="region region-title">
+    <div id="block-drupalcamp-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1><span class="field field--name-title field--type-string field--label-hidden">Architecting Drupal hosting: Navigating Cloud-Native Realities and Strategic Choices for Performance &amp; DevOps</span>
+</h1>
+
+
+  </div>
+
+  </div>
+
+  </div>
+</div>
+    
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-drupalcamp-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="100" class="node node--type-session node--view-mode-full">
+  
+  <div  data-component-id="drupalcamp:session_detail">
+  <div class="sidebar component-background-image component-background-color component-background-color-gray" style="--bg-img: url(../../themes/custom/drupalcamp/images/noise.jpg);">
+    <a href="../sessions/schedule.html" class="sidebar--back-button">Atrás</a>
+    <div class="speakers"><article class="profile">
+  <div  data-component-id="drupalcamp:user">
+  <div class="avatar">  <img loading="lazy" src="../../sites/default/files/styles/thumbnail/public/pictures/2025-09/avatar.jpeg.webp%3Fitok=p1EWfr3I" width="100" height="100" alt="Profile picture for user niteman" class="image-style-thumbnail" />
+
+
+</div>
+  <div class="name">Pedro González Serrano (NITEMAN)</div>
+</div>
+</article>
+</div>
+    <ul class="tags ul--pills--inline ul--pills--small">
+                          
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../taxonomy/term/56/schedule.html" class="tag__link">
+          Viernes a 15:00 - 15:45
+          </a>
+      </li>
+
+
+                                
+  <li  data-component-id="drupalcamp:tag" class="tag">
+          Sala 2: AED
+      </li>
+
+
+                                  
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../taxonomy/term/8/sessions.html" class="tag__link">
+          Intermedio
+          </a>
+      </li>
+
+
+                                  
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../taxonomy/term/38/sessions.html" class="tag__link">
+          DevOps
+          </a>
+      </li>
+
+
+                                  
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../sessions%3Flanguage=en.html" class="tag__link">
+          Inglés
+          </a>
+      </li>
+
+                  </ul>
+  </div>
+  <div class="content">
+    
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>In the dynamic landscape of performance optimization and DevOps, the compelling allure of cloud-native solutions and the software that supports them often overshadows a crucial understanding of their potential drawbacks, hidden complexities, and often, hidden costs. While powerful, blindly embracing any technology without rigorous critical thinking and evaluating alternative approaches can lead to suboptimal architectural outcomes, unexpected expenses, and long-term technical debt for your Drupal projects.</p>
+<p>This talk will provide a deep dive into the nuanced architectural considerations across cloud and non-cloud solutions, placing significant emphasis on the imperative of critical thinking and detailed scenario evaluation in selecting the truly optimal approach for Drupal. We will specifically explore what it means to <strong>architect Drupal in a cloud-native fashion</strong>, examining the patterns, tools, and methodologies involved, as well as the real-world implications. Through compelling <strong>case studies and practical architectural insights</strong>, we'll uncover specific instances where non-cloud or hybrid approaches have proven superior for Drupal's unique needs, challenging common assumptions about cloud-native superiority. Crucially, we'll unveil proven strategies for identifying and effectively navigating the often-overlooked hidden costs associated with various architectural decisions.</p>
+<p>We'll cover key areas including: Why the cloud is so compelling, the myths surrounding "Cloud-Native" and its supposed universal superiority, and the specific considerations for <strong>making Drupal truly cloud-native</strong>. You'll gain a deeper understanding of various hidden costs – not just financial, but also operational and complexity costs. The session will feature illuminating case studies that highlight successful (and sometimes less successful) architectural choices, fostering a framework for critical thinking in technology evaluation. By the end, you'll be better equipped to mitigate risks, maximize benefits, and begin building a more resilient, performant, and <strong>future-proof architecture for Drupal</strong>.</p>
+<p>Our main goal is to empower attendees to prioritize continuous learning and experimentation in their quest for optimal technology solutions for Drupal, moving beyond mere trend-following. By embracing a strategic mindset and applying critical thinking to architectural choices, organizations can confidently navigate the complexities of technology, uncover hidden opportunities for innovation, and drive sustained success in the digital age.</p>
+</div>
+      
+  </div>
+</div>
+
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+      <footer role="contentinfo" class="footer">
+  <div class="footer__top">
+    <p class="footer__top__title h3">Agradecimientos</p>
+    <div class="footer__top__logos">
+      <a href="https://asociaciondrupal.es/" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/aed.svg" alt="Asociación Española de Drupal">
+      </a>
+      <a href="https://www.drupal.org/association" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/drupal-association.svg" alt="Drupal Association">
+      </a>
+      <a href="https://amtega.xunta.gal/" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/amtega.svg" alt="Axencia para a modernización tecnolóxica de Galicia">
+      </a>
+      <a href="https://cntg.xunta.gal/web/cntg" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/cntg.svg" alt="Centro de Novas Tecnoloxías de Galicia">
+      </a>
+    </div>
+  </div>
+  <div class="footer__pre-links">
+    <div class="footer__logo">
+      <img src="../../themes/custom/drupalcamp/logo-white.png" alt="DrupalCamp Santiago 2025" />
+    </div>
+    <div class="footer__social">
+      <a href="https://www.linkedin.com/showcase/drupalcamp-spain/" title="Linkedin" class="footer__social__icon" target="_blank"><svg width="30" height="29" viewBox="0 0 30 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.125 0.134277C1.81332 0.134277 0.75 1.1976 0.75 2.50928V26.2593C0.75 27.5709 1.81332 28.6343 3.125 28.6343H26.875C28.1866 28.6343 29.25 27.5709 29.25 26.2593V2.50928C29.25 1.1976 28.1866 0.134277 26.875 0.134277H3.125ZM9.4912 6.47192C9.50012 7.98598 8.3668 8.91891 7.02195 8.91223C5.75503 8.90555 4.65065 7.89692 4.65733 6.47415C4.66402 5.13598 5.72163 4.06055 7.09543 4.09172C8.48925 4.1229 9.50012 5.14489 9.4912 6.47192ZM15.4429 10.8404H11.4529H11.4506V24.3935H15.6677V24.0773C15.6677 23.4758 15.6672 22.8741 15.6667 22.2723C15.6655 20.6671 15.6641 19.0602 15.6723 17.4555C15.6745 17.0658 15.6922 16.6606 15.7925 16.2887C16.1687 14.8993 17.4179 14.0021 18.8117 14.2226C19.7068 14.3627 20.2989 14.8816 20.5483 15.7255C20.7021 16.2531 20.7711 16.8209 20.7777 17.3709C20.7958 19.0296 20.7933 20.6883 20.7907 22.3472C20.7898 22.9327 20.7888 23.5185 20.7888 24.104V24.3913H25.0193V24.0662C25.0193 23.3505 25.019 22.635 25.0185 21.9195C25.0177 20.1311 25.0168 18.3428 25.0215 16.5538C25.0238 15.7455 24.937 14.9484 24.7388 14.1669C24.4427 13.0046 23.8304 12.0427 22.8351 11.3481C22.1293 10.8537 21.3544 10.5354 20.4883 10.4997C20.3897 10.4956 20.2902 10.4903 20.1903 10.4849C19.7475 10.4609 19.2973 10.4366 18.8739 10.522C17.6627 10.7647 16.5985 11.3191 15.7947 12.2965C15.7013 12.4086 15.6099 12.5224 15.4736 12.6923L15.4429 12.7308V10.8404ZM4.99593 24.3979H9.193V10.8492H4.99593V24.3979Z" fill="currentColor"/>
+</svg>
+<span class="visually-hidden">Linkedin de DrupalCamp Spain</span></a>
+      <a href="https://www.instagram.com/drupalcampspain/" title="Instagram" class="footer__social__icon" target="_blank"><svg width="30" height="29" viewBox="0 0 30 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.3333 0.134277H8.66667C4.29442 0.134277 0.75 3.6787 0.75 8.05094V20.7176C0.75 25.0898 4.29442 28.6343 8.66667 28.6343H21.3333C25.7056 28.6343 29.25 25.0898 29.25 20.7176V8.05094C29.25 3.6787 25.7056 0.134277 21.3333 0.134277ZM26.4792 20.7176C26.4705 23.5559 24.1716 25.8547 21.3333 25.8634H8.66667C5.8283 25.8547 3.52953 23.5559 3.52083 20.7176V8.05094C3.52953 5.21258 5.8283 2.9138 8.66667 2.90511H21.3333C24.1716 2.9138 26.4705 5.21258 26.4792 8.05094V20.7176ZM22.5208 8.44678C23.3953 8.44678 24.1042 7.73789 24.1042 6.86344C24.1042 5.989 23.3953 5.28011 22.5208 5.28011C21.6464 5.28011 20.9375 5.989 20.9375 6.86344C20.9375 7.73789 21.6464 8.44678 22.5208 8.44678ZM15 7.25928C11.065 7.25928 7.875 10.4493 7.875 14.3843C7.875 18.3193 11.065 21.5093 15 21.5093C18.9351 21.5093 22.125 18.3193 22.125 14.3843C22.1293 12.4933 21.3799 10.6786 20.0428 9.34149C18.7056 8.00438 16.891 7.25507 15 7.25928ZM10.6458 14.3843C10.6458 16.789 12.5952 18.7384 15 18.7384C17.4048 18.7384 19.3542 16.789 19.3542 14.3843C19.3542 11.9795 17.4048 10.0301 15 10.0301C12.5952 10.0301 10.6458 11.9795 10.6458 14.3843Z" fill="currentColor"/>
+</svg>
+<span class="visually-hidden">Instagram de DrupalCamp Spain</span></a>
+      <a href="https://www.youtube.com/channel/UCJlthEUN__9_-KWFQ_-0fLg" title="Youtube" class="footer__social__icon" target="_blank"><svg width="32" height="24" viewBox="0 0 32 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M31.1889 4.40484C31.0086 3.73573 30.6562 3.12552 30.1667 2.63494C29.6772 2.14437 29.0678 1.79054 28.3991 1.60868C25.9196 0.927843 16 0.91676 16 0.91676C16 0.91676 6.08203 0.905676 3.60095 1.55643C2.93266 1.74666 2.3245 2.10549 1.83485 2.59847C1.34519 3.09146 0.990486 3.70204 0.804784 4.37159C0.150867 6.85109 0.144534 11.9938 0.144534 11.9938C0.144534 11.9938 0.1382 17.1618 0.787367 19.6159C1.15153 20.9728 2.22028 22.0448 3.57878 22.4105C6.08362 23.0913 15.9763 23.1024 15.9763 23.1024C15.9763 23.1024 25.8959 23.1135 28.3754 22.4643C29.0443 22.2828 29.6543 21.9298 30.145 21.4402C30.6357 20.9506 30.9901 20.3415 31.1731 19.6729C31.8286 17.195 31.8334 12.0539 31.8334 12.0539C31.8334 12.0539 31.865 6.88434 31.1889 4.40484ZM12.827 16.758L12.835 7.25801L21.0794 12.0159L12.827 16.758Z" fill="currentColor"/>
+</svg>
+<span class="visually-hidden">YouTube de Asociación Española de Drupal</span></a>
+      <a href="https://github.com/AsociacionDrupalES" title="GitHub" class="footer__social__icon" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M10 0c5.523 0 10 4.59 10 10.253 0 4.529-2.862 8.371-6.833 9.728-.507.101-.687-.219-.687-.492 0-.338.012-1.442.012-2.814 0-.956-.32-1.58-.679-1.898 2.227-.254 4.567-1.121 4.567-5.059 0-1.12-.388-2.034-1.03-2.752.104-.259.447-1.302-.098-2.714 0 0-.838-.275-2.747 1.051A9.396 9.396 0 0 0 10 4.958a9.375 9.375 0 0 0-2.503.345C5.586 3.977 4.746 4.252 4.746 4.252c-.543 1.412-.2 2.455-.097 2.714-.639.718-1.03 1.632-1.03 2.752 0 3.928 2.335 4.808 4.556 5.067-.286.256-.545.708-.635 1.371-.57.262-2.018.715-2.91-.852 0 0-.529-.985-1.533-1.057 0 0-.975-.013-.068.623 0 0 .655.315 1.11 1.5 0 0 .587 1.83 3.369 1.21.005.857.014 1.665.014 1.909 0 .271-.184.588-.683.493C2.865 18.627 0 14.783 0 10.253 0 4.59 4.478 0 10 0"/></svg>
+<span class="visually-hidden">GitHub de DrupalCamp</span></a>
+    </div>
+  </div>
+  <div class="footer__links">
+    <p class="footer__links__copyright">© 2025 <a href="https://asociaciondrupal.es/" target="_blank">Asociación Española de Drupal</a></p>
+    <div>
+        <nav role="navigation" aria-labelledby="block-drupalcamp-footer-menu" id="block-drupalcamp-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-drupalcamp-footer-menu">Pie de página</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="../criterios-de-seleccion-de-charlas.html" data-drupal-link-system-path="node/3">Criterios de selección</a>
+              </li>
+                <li class="menu-item">
+        <a href="../guia-para-ponentes.html" data-drupal-link-system-path="node/6">Guía para ponentes</a>
+              </li>
+                <li class="menu-item">
+        <a href="../codigo-de-conducta.html" data-drupal-link-system-path="node/7">Código de conducta</a>
+              </li>
+                <li class="menu-item">
+        <a href="../../contact.html" data-drupal-link-system-path="contact">Contacto</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+    </div>
+  </div>
+</footer>
+  
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"es\/","currentPath":"node\/100","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"es"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowLabel":"(abre en una nueva ventana)","extTargetNoOverride":true,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"0","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":true,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":[],"extExcludeNoreferrer":""}},"field_group":{"component_formatter":{"mode":"compact","context":"view","settings":{"ui_patterns":{"component_id":"drupalcamp:user","variant_id":null,"props":{"attributes":{"source_id":"attributes","source":{"value":""}},"back_route":{"source_id":"textfield","source":{"value":"view.session_schedule.page_1"}},"background_color":{"source_id":"select","source":{"value":""}},"size":{"source_id":"select","source":{"value":""}},"show_link":{"source_id":"checkbox","source":{"value":0}}},"slots":{"description":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"field_description"},"_weight":"0"}]},"tags":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"field_time_slot"},"_weight":"0"},{"source_id":"field_group_child","source":{"field_group_child":"field_r"},"_weight":"1"},{"source_id":"field_group_child","source":{"field_group_child":"field_audience"},"_weight":"2"},{"source_id":"field_group_child","source":{"field_group_child":"field_session_category"},"_weight":"3"},{"source_id":"field_group_child","source":{"field_group_child":"field_language"},"_weight":"4"}]},"speakers":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"field_speakers"},"_weight":"0"}]},"name":{"sources":[{"source_id":"field_group_child","source":{"derivable_context":"field:taxonomy_term:room:name","field:taxonomy_term:session_category:name":{"value":{"sources":[{"source_id":"field_formatter:taxonomy_term:session_category:name","source":{"type":"string","third_party_settings":{"nomarkup":{"enabled":"1","separator":"|","referenced_entity":""}},"settings":{"link_to_entity":0}},"_weight":"0"}]}},"field:taxonomy_term:session_audience:name":{"value":{"sources":[{"source_id":"field_formatter:taxonomy_term:session_audience:name","source":{"type":"string","third_party_settings":{"nomarkup":{"enabled":"1","separator":"|","referenced_entity":""}},"settings":{"link_to_entity":0}},"_weight":"0"}]}},"field:taxonomy_term:room:name":{"value":{"sources":[{"source_id":"field_formatter:taxonomy_term:room:name","source":{"type":"string","third_party_settings":{"nomarkup":{"enabled":"1","separator":"|","referenced_entity":""}},"settings":{"link_to_entity":0}},"_weight":"0"}]}},"field_group_child":"field_display_name"},"_weight":"0"}]},"url":{"sources":[{"source_id":"entity_link","source":{"template":"event_platform:schedule","absolute":0},"_weight":"0"}]},"avatar":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"user_picture"},"_weight":"0"}]}}},"show_empty_fields":"1","label_as_html":0}}},"user":{"uid":0,"permissionsHash":"da9ca443319b83cce41f856fdadd7b29ed944b5e184fb0ea1cc289b1690e7576"}}</script>
+<script src="../../sites/default/files/js/js_EIEURQ0KJTPLFGdu3V-3jiA1l3-vJ0cU_MJb_UaC1b4.js%3Fscope=footer&amp;delta=0&amp;language=es&amp;theme=drupalcamp&amp;include=eJxLzi9K1U_Ozy3Iz0vNKynWSykqLUjMSU7MLdDVzUhNTEkt0kkmqEQ3NzWvVCe1oiQnMy9bHyKvB-UCAC43JY4"></script>
+
+    <div style="padding: 10px; width: 250px; float: right; background: #ffffffa8; color: black; font-style: italic; font-size: 14px; display: flex; justify-content: flex-end; align-items: center;">Hosting powered by <a href="https://amazee.io/">amazee.io</a> <img src="../../sites/default/files/amazee.svg" alt="amazee.io" height="30" style="display: inline; max-height: 50px; max-width: 50px; margin-left: 10px;"></div>
+</body>
+</html>
