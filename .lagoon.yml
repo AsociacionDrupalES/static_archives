@@ -48,6 +48,6 @@ environments:
            - www.drupaliberia.eu: *ROUTE
            - 2024.drupaliberia.eu: *ROUTE
            - 2025.drupaliberia.eu: *ROUTE
-           - 2026.drupaliberia.eu: *ROUTE
+             #- 2026.drupaliberia.eu: *ROUTE
            - barcelona2012.drupaldays.org: *ROUTE
            - seville2017.drupaldays.org: *ROUTE
