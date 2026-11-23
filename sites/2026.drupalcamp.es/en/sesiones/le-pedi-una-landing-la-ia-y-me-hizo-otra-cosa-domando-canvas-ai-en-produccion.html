@@ -1,0 +1,818 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ html--node--176.html.twig
+   ▪️ html--node--%.html.twig
+   ▪️ html--node.html.twig
+   ✅ html.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/html.html.twig' -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot > * { display: none !important; } form.antibot noscript { display: block !important; }</style>
+</noscript><meta name="description" content="Hace unos meses nos tocó empezar a montar landings con Drupal Canvas en un sitio que ya llevaba años en producción. El tema antiguo seguía funcionando y no se podía apagar de un día para otro, así que había que convivir con dos temas durante toda la migración. Y con la condición de que las landings salieran del design system, no de lo que le apeteciera al modelo ese día. Porque eso es lo primero que descubres cuando activas Canvas AI. Le pides una landing y te la hace. Lo que pasa es que te la hace distinta cada vez. Coge componense monta la estructura a su manera y saca páginas que luego no pasan revisión de diseño. Para un equipo de contenido eso es peor que no tener nada, porque genera trabajo en vez de quitarlo. En la charla cuento el recorrido desde ahí hasta algo que el equipo usa de verdad. Y también las veces que nos equivocamos, que fueron unas cuantas. Paso por cuatro cosas. La primera es que Canvas asume que tu sitio tiene un tema, y ahí no hay una palanca donde elegir otro. Lo que sí hay, si te pones a cambiarlo por tu cuenta, es una lista de cosas que pueden fallar. Cuento en qué rutas hay que meterse y en cuáles hay que quitarse de en medio, que es la mitad del trabajo. La segunda, dónde guardas tus SDC. Los teníamos en el tema nuevo y en el library de Canvas no salía ni uno. Estaban bien escritos, estaban instalados, y simplemente no aparecían. Cuento la solución, su lógica, y por qué en una migración progresiva te deja fuera de juego. La tercera es cómo se le pone correa a la IA. La estructura de la landing la decidimos nosotros y el contenido lo escribe el modelo. Lo resolvimos con un orquestador propio que pregunta antes de construir en lugar de adivinar. Y la cuarta, lo que cuesta ir por delante de contrib. Para cambiar el comportamiento de tres líneas acabamos copiando un controlador entero, y desde entonces vemos cómo se va quedando atrás: mejoras que entran en el propio Canvas y a nosotros no nos llegan, una firma que cambió y que seguimos llamando mal sin que nadie se queje, mensajes de error que perdimos por el camino. Los mantenedores ya se están moviendo en esa dirección, aunque todavía de forma experimental. Hablo de cuándo merece la pena tirarse a la piscina y cuándo toca esperar." />
+<link rel="canonical" href="le-pedi-una-landing-la-ia-y-me-hizo-otra-cosa-domando-canvas-ai-en-produccion.html" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="../../themes/custom/drupalcamp/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="und" href="le-pedi-una-landing-la-ia-y-me-hizo-otra-cosa-domando-canvas-ai-en-produccion.html" />
+
+    <title>Le pedí una landing a la IA y me hizo otra cosa: domando Canvas AI en producción | DrupalCamp Spain 2026</title>
+    <link rel="stylesheet" media="all" href="../../sites/default/files/css/css_56L-xN-jrppg-9VfcctGI3ZSYNh9ARw7WnFLby1Nisk.css%3Fdelta=0&amp;language=en&amp;theme=drupalcamp&amp;include=eJyNj1EOAiEMRC8Ey5FMhXElQktoSdTTu9E16g_xc2ZeOtMoHSFKbcJg0yX10ahEqs37k4ihuzhBzqD0F-IreEy5IqtMgUYrvGUrmGIK1Sx8SDDKZYoardN86Ps3ll6p5DvcJw9H0h9.css" />
+<link rel="stylesheet" media="all" href="../../sites/default/files/css/css_jtImLet6A49NL_raDXeDZGrEFHsFiHy4-PtreH45O4E.css%3Fdelta=1&amp;language=en&amp;theme=drupalcamp&amp;include=eJyNj1EOAiEMRC8Ey5FMhXElQktoSdTTu9E16g_xc2ZeOtMoHSFKbcJg0yX10ahEqs37k4ihuzhBzqD0F-IreEy5IqtMgUYrvGUrmGIK1Sx8SDDKZYoardN86Ps3ll6p5DvcJw9H0h9.css" />
+
+    
+  </head>
+  <body class="path-node page-node-type-session">
+        <a href="le-pedi-una-landing-la-ia-y-me-hizo-otra-cosa-domando-canvas-ai-en-produccion.html#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable9/templates/content/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ page--node--176.html.twig
+   ▪️ page--node--%.html.twig
+   ▪️ page--node.html.twig
+   ✅ page.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/page.html.twig' -->
+<div class="layout-container">
+
+  <!-- 🥝 Component start: drupalcamp:header --><header class="header" role="banner">
+  <div class="header__logo">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--header-logo.html.twig
+   ✅ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/region.html.twig' -->
+  <div class="region region-header-logo">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--drupalcamp-branding.html.twig
+   ✅ block--system-branding-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block--system-branding-block.html.twig' -->
+<div id="block-drupalcamp-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="../drupalcamp-spain-2026.html" rel="home" class="site-logo">
+      <!-- 🥜 Component start: drupalcamp:logo --><div class="logo">
+  <img src="../../themes/custom/drupalcamp/logo.svg" alt="Home" fetchpriority="high" class="logo__image">
+</div>
+<!-- 🥜 Component end: drupalcamp:logo -->    </a>
+        <div class="site-name">
+      <a href="../drupalcamp-spain-2026.html" rel="home">DrupalCamp Spain 2026</a>
+    </div>
+    </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block--system-branding-block.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/region.html.twig' -->
+
+
+  </div>
+  <button class="header__toggle" aria-label="Open menu">
+    <span class="header__toggle-line"></span>
+    <span class="header__toggle-line"></span>
+    <span class="header__toggle-line"></span>
+  </button>
+  <div class="header__container">
+    <div class="header__menu">
+      <button class="header__close" aria-label="Close menu">×</button>
+      <div class="header__menu__content">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--header-content.html.twig
+   ✅ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/region.html.twig' -->
+  <div class="region region-header-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--drupalcamp-main-navigation.html.twig
+   ▪️ block--system-menu-block--main.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-drupalcamp-main-navigation-menu" id="block-drupalcamp-main-navigation" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-drupalcamp-main-navigation-menu">Main navigation</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--main.html.twig
+   ✅ menu--main.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/navigation/menu--main.html.twig' -->
+
+        <!-- 🥤 Component start: drupalcamp:header-menu --><ul class="header-menu">
+      <li class="header-menu__item header-menu__item--has-children">
+      <a href="../drupalcamp-spain-2026.html"
+         class="header-menu__link"
+         aria-expanded="false">
+        Drupalcamp
+      </a>
+              <ul class="header-menu__submenu" aria-hidden="true">
+                      <li class="header-menu__submenu-item">
+              <a href="../sessions/schedule.html" class="header-menu__submenu-link">Schedule</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../venue-talent-garden.html" class="header-menu__submenu-link">Talent Garden</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../getting-talent-garden.html" class="header-menu__submenu-link">Cómo llegar a Talent Garden</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../../sites/default/files/media/document/2026-05/drupalcamp2026_dossier_patrocinio.pdf" class="header-menu__submenu-link">Sponsorship dossier</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../voluntariado.html" class="header-menu__submenu-link">Volunteering</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../accessibility-and-inclusion.html" class="header-menu__submenu-link">Accesibilidad e Inclusión</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../guide-companions.html" class="header-menu__submenu-link">Guía para acompañantes</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../lunch-and-dinner.html" class="header-menu__submenu-link">La comida y la cena</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../drupalcamp-spain-2026-social-event-mercado-de-san-anton.html" class="header-menu__submenu-link">Social Event</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../node/147.html" class="header-menu__submenu-link">Entradas sin coste para personas desempleadas y estudiantes</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../tour-guiado.html" class="header-menu__submenu-link">Tour guiado</a>
+            </li>
+                  </ul>
+          </li>
+      <li class="header-menu__item header-menu__item--has-children">
+      <a href="../business-day-2026.html"
+         class="header-menu__link"
+         aria-expanded="false">
+        Business Day
+      </a>
+              <ul class="header-menu__submenu" aria-hidden="true">
+                      <li class="header-menu__submenu-item">
+              <a href="../business-day-2026.html" class="header-menu__submenu-link">Information and schedule</a>
+            </li>
+                  </ul>
+          </li>
+      <li class="header-menu__item header-menu__item--has-children">
+      <a href="../about-madrid.html"
+         class="header-menu__link"
+         aria-expanded="false">
+        Sobre Madrid
+      </a>
+              <ul class="header-menu__submenu" aria-hidden="true">
+                      <li class="header-menu__submenu-item">
+              <a href="../getting-madrid.html" class="header-menu__submenu-link">Cómo llegar a Madrid</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../getting-around-madrid.html" class="header-menu__submenu-link">Cómo moverse por Madrid</a>
+            </li>
+                      <li class="header-menu__submenu-item">
+              <a href="../where-stay-madrid.html" class="header-menu__submenu-link">Dónde alojarse en Madrid</a>
+            </li>
+                  </ul>
+          </li>
+  </ul>
+<!-- 🥤 Component end: drupalcamp:header-menu -->  
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/navigation/menu--main.html.twig' -->
+
+
+  </nav>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block--system-menu-block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--drupalcamp-language-switcher.html.twig
+   ▪️ block--language-block--language-interface.html.twig
+   ▪️ block--language-block.html.twig
+   ▪️ block--language.html.twig
+   ✅ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block.html.twig' -->
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" id="block-drupalcamp-language-switcher" role="navigation">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'links__language_block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ links--language-block.html.twig
+   ▪️ links--language-block.html.twig
+   ✅ links.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/navigation/links.html.twig' -->
+<ul class="links"><li data-drupal-language="es" data-drupal-link-system-path="node/176"><a href="../../es/sesiones/le-pedi-una-landing-la-ia-y-me-hizo-otra-cosa-domando-canvas-ai-en-produccion.html" class="language-link" hreflang="es" data-drupal-link-system-path="node/176"><span class="short-text">ES</span><span class="full-text">Español</span></a></li><li data-drupal-language="en" data-drupal-link-system-path="node/176" class="is-active" aria-current="page"><a href="le-pedi-una-landing-la-ia-y-me-hizo-otra-cosa-domando-canvas-ai-en-produccion.html" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/176" aria-current="page"><span class="short-text">EN</span><span class="full-text">English</span></a></li></ul>
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/navigation/links.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--drupalcamp-quick-actions.html.twig
+   ▪️ block--system-menu-block--quick-actions.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-drupalcamp-quick-actions-menu" id="block-drupalcamp-quick-actions" class="block block-menu navigation menu--quick-actions">
+            
+  <h2 class="visually-hidden" id="block-drupalcamp-quick-actions-menu">Acciones rápidas</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__quick_actions' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ menu--quick-actions.html.twig
+   ✅ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/navigation/menu.html.twig' -->
+
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="../../sites/default/files/media/document/2026-09/drupalcamp2026_sponsorship_dossier_en_uk_with_prices.pdf" target="_blank" class="link--button link--button--primary">Sponsorship dossier</a>
+              </li>
+        </ul>
+  
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/navigation/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block--system-menu-block.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/region.html.twig' -->
+
+
+      </div>
+    </div>
+  </div>
+</header>
+<!-- 🥝 Component end: drupalcamp:header -->
+  
+  
+
+  
+
+  
+
+  
+
+  <main role="main">
+          <!-- 🥢 Component start: drupalcamp:page-title --><div class="page-title" style="background-image: url('../../themes/custom/drupalcamp/images/page-title/Madrid.svg');">
+  <div class="page-title__content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--title.html.twig
+   ✅ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/region.html.twig' -->
+  <div class="region region-title">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--drupalcamp-page-title.html.twig
+   ▪️ block--page-title-block.html.twig
+   ▪️ block--core.html.twig
+   ✅ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block.html.twig' -->
+<div id="block-drupalcamp-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page_title' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/content/page-title.html.twig' -->
+
+  <h1>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--title--session.html.twig
+   ✅ field--node--title.html.twig
+   ▪️ field--node--session.html.twig
+   ▪️ field--title.html.twig
+   ▪️ field--string.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/field/field--node--title.html.twig' -->
+<span class="field field--name-title field--type-string field--label-hidden">Le pedí una landing a la IA y me hizo otra cosa: domando Canvas AI en producción</span>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/field/field--node--title.html.twig' -->
+
+</h1>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/content/page-title.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/region.html.twig' -->
+
+
+  </div>
+</div>
+<!-- 🥢 Component end: drupalcamp:page-title -->    
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--content.html.twig
+   ✅ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/region.html.twig' -->
+  <div class="region region-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--drupalcamp-messages.html.twig
+   ✅ block--system-messages-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/themes/stable9/templates/block/block--system-messages-block.html.twig' -->
+<div data-drupal-messages-fallback class="hidden"></div>
+
+<!-- END OUTPUT from 'core/themes/stable9/templates/block/block--system-messages-block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--drupalcamp-content.html.twig
+   ▪️ block--system-main-block.html.twig
+   ▪️ block--system.html.twig
+   ✅ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block.html.twig' -->
+<div id="block-drupalcamp-content" class="block block-system block-system-main-block">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--176--full.html.twig
+   ▪️ node--176.html.twig
+   ▪️ node--session--full.html.twig
+   ✅ node--session.html.twig
+   ▪️ node--full.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/content/node--session.html.twig' -->
+
+<article data-history-node-id="176" class="node node--type-session node--view-mode-full">
+  
+  <!-- 🥪 Component start: drupalcamp:session_detail --><div  data-component-id="drupalcamp:session_detail">
+  <div class="sidebar component-background-image component-background-color component-background-color-gray" style="--bg-img: url(../../themes/custom/drupalcamp/images/noise.jpg);">
+    <a href="../sessions.html" class="sidebar--back-button">Back</a>
+    <div class="speakers">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ field--nomarkup.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'user' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/user/user.html.twig' -->
+<article class="profile">
+  <!-- 🥜 Component start: drupalcamp:user --><div  data-component-id="drupalcamp:user">
+  <div class="avatar">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ field--nomarkup.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_style' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/field/image-style.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/field/image.html.twig' -->
+<img loading="lazy" src="../../sites/default/files/styles/thumbnail/public/pictures/2026-09/alexis-martinez-foto-carnet.png.webp%3Fitok=gxNZ_2IO" width="75" height="100" alt="Profile picture for user amartinezm" class="image-style-thumbnail" />
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/field/image.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/field/image-style.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/field/image-formatter.html.twig' -->
+
+
+<!-- END OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+
+</div>
+  <div class="name">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ field--nomarkup.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+Alexis Martínez
+<!-- END OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+
+</div>
+</div>
+<!-- 🥜 Component end: drupalcamp:user --></article>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/user/user.html.twig' -->
+
+
+<!-- END OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+
+</div>
+    <ul class="tags ul--pills--inline ul--pills--small">
+                                                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ field--nomarkup.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'taxonomy_term' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ taxonomy-term--8.html.twig
+   ▪️ taxonomy-term--session-audience.html.twig
+   ✅ taxonomy-term.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/content/taxonomy-term.html.twig' -->
+<!-- 🥚 Component start: drupalcamp:tag -->  
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../taxonomy/term/8/sessions.html" class="tag__link">
+          Intermediate
+          </a>
+      </li>
+<!-- 🥚 Component end: drupalcamp:tag -->
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/content/taxonomy-term.html.twig' -->
+
+
+<!-- END OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+
+
+                                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ field--nomarkup.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'taxonomy_term' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ taxonomy-term--47.html.twig
+   ▪️ taxonomy-term--session-category.html.twig
+   ✅ taxonomy-term.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/content/taxonomy-term.html.twig' -->
+<!-- 🥚 Component start: drupalcamp:tag -->  
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../taxonomy/term/47/sessions.html" class="tag__link">
+          AI
+          </a>
+      </li>
+<!-- 🥚 Component end: drupalcamp:tag -->
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/content/taxonomy-term.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'taxonomy_term' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ taxonomy-term--30.html.twig
+   ▪️ taxonomy-term--session-category.html.twig
+   ✅ taxonomy-term.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/content/taxonomy-term.html.twig' -->
+<!-- 🥚 Component start: drupalcamp:tag -->  
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../../es/taxonomy/term/30/sessions.html" class="tag__link">
+          Backend
+          </a>
+      </li>
+<!-- 🥚 Component end: drupalcamp:tag -->
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/content/taxonomy-term.html.twig' -->
+
+
+<!-- END OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+
+
+                                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ field--nomarkup.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+<!-- 🥚 Component start: drupalcamp:tag -->  
+  <li  data-component-id="drupalcamp:tag" class="tag--has-link tag">
+          <a href="../sessions%3Flanguage=es.html" class="tag__link">
+          Spanish
+          </a>
+      </li>
+<!-- 🥚 Component end: drupalcamp:tag -->
+<!-- END OUTPUT from 'modules/contrib/nomarkup/templates/field--nomarkup.html.twig' -->
+
+
+                  </ul>
+  </div>
+  <div class="content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-description--session.html.twig
+   ▪️ field--node--field-description.html.twig
+   ▪️ field--node--session.html.twig
+   ▪️ field--field-description.html.twig
+   ✅ field--text-long.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/field/field--text-long.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p dir="ltr">Hace unos meses nos tocó empezar a montar landings con Drupal Canvas en un sitio que ya llevaba años en producción. El tema antiguo seguía funcionando y no se podía apagar de un día para otro, así que había que convivir con dos temas durante toda la migración. Y con la condición de que las landings salieran del design system, no de lo que le apeteciera al modelo ese día.</p>
+<p dir="ltr">Porque eso es lo primero que descubres cuando activas Canvas AI. Le pides una landing y te la hace. Lo que pasa es que te la hace distinta cada vez. Coge componense monta la estructura a su manera y saca páginas que luego no pasan revisión de diseño. Para un equipo de contenido eso es peor que no tener nada, porque genera trabajo en vez de quitarlo.</p>
+<p dir="ltr">En la charla cuento el recorrido desde ahí hasta algo que el equipo usa de verdad. Y también las veces que nos equivocamos, que fueron unas cuantas.</p>
+<p dir="ltr">Paso por cuatro cosas.</p>
+<p dir="ltr">La primera es que Canvas asume que tu sitio tiene un tema, y ahí no hay una palanca donde elegir otro. Lo que sí hay, si te pones a cambiarlo por tu cuenta, es una lista de cosas que pueden fallar. Cuento en qué rutas hay que meterse y en cuáles hay que quitarse de en medio, que es la mitad del trabajo.</p>
+<p dir="ltr">La segunda, dónde guardas tus SDC. Los teníamos en el tema nuevo y en el library de Canvas no salía ni uno. Estaban bien escritos, estaban instalados, y simplemente no aparecían. Cuento la solución, su lógica, y por qué en una migración progresiva te deja fuera de juego.</p>
+<p dir="ltr">La tercera es cómo se le pone correa a la IA. La estructura de la landing la decidimos nosotros y el contenido lo escribe el modelo. Lo resolvimos con un orquestador propio que pregunta antes de construir en lugar de adivinar.</p>
+<p dir="ltr">Y la cuarta, lo que cuesta ir por delante de contrib. Para cambiar el comportamiento de tres líneas acabamos copiando un controlador entero, y desde entonces vemos cómo se va quedando atrás: mejoras que entran en el propio Canvas y a nosotros no nos llegan, una firma que cambió y que seguimos llamando mal sin que nadie se queje, mensajes de error que perdimos por el camino. Los mantenedores ya se están moviendo en esa dirección, aunque todavía de forma experimental. Hablo de cuándo merece la pena tirarse a la piscina y cuándo toca esperar.</p>
+</div>
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/field/field--text-long.html.twig' -->
+
+
+  </div>
+</div>
+<!-- 🥪 Component end: drupalcamp:session_detail -->
+</article>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/content/node--session.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/region.html.twig' -->
+
+
+    </div>
+    
+    
+  </main>
+
+      <!-- 🥞 Component start: drupalcamp:footer --><footer role="contentinfo" class="footer">
+  <div class="footer__top">
+    <p class="footer__top__title h3">Acknowledgements</p>
+    <div class="footer__top__logos">
+      <a href="https://asociaciondrupal.es/" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/aed.svg" alt="Asociación Española de Drupal">
+      </a>
+      <a href="https://www.drupal.org/association" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/drupal-association.svg" alt="Drupal Association">
+      </a>
+      <a href="https://amazee.io/" target="_blank">
+        <img src="../../themes/custom/drupalcamp/images/acknowledgements/amazee-io.svg" alt="Amazee" style="height: 60px;">
+      </a>
+    </div>
+  </div>
+  <div class="footer__pre-links">
+    <div class="footer__logo">
+      <img src="../../themes/custom/drupalcamp/logo-white.svg" alt="DrupalCamp Madrid 2026" />
+    </div>
+    <div class="footer__social">
+      <a href="https://www.linkedin.com/showcase/drupalcamp-spain/" title="Linkedin" class="footer__social__icon" target="_blank"><svg width="30" height="29" viewBox="0 0 30 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.125 0.134277C1.81332 0.134277 0.75 1.1976 0.75 2.50928V26.2593C0.75 27.5709 1.81332 28.6343 3.125 28.6343H26.875C28.1866 28.6343 29.25 27.5709 29.25 26.2593V2.50928C29.25 1.1976 28.1866 0.134277 26.875 0.134277H3.125ZM9.4912 6.47192C9.50012 7.98598 8.3668 8.91891 7.02195 8.91223C5.75503 8.90555 4.65065 7.89692 4.65733 6.47415C4.66402 5.13598 5.72163 4.06055 7.09543 4.09172C8.48925 4.1229 9.50012 5.14489 9.4912 6.47192ZM15.4429 10.8404H11.4529H11.4506V24.3935H15.6677V24.0773C15.6677 23.4758 15.6672 22.8741 15.6667 22.2723C15.6655 20.6671 15.6641 19.0602 15.6723 17.4555C15.6745 17.0658 15.6922 16.6606 15.7925 16.2887C16.1687 14.8993 17.4179 14.0021 18.8117 14.2226C19.7068 14.3627 20.2989 14.8816 20.5483 15.7255C20.7021 16.2531 20.7711 16.8209 20.7777 17.3709C20.7958 19.0296 20.7933 20.6883 20.7907 22.3472C20.7898 22.9327 20.7888 23.5185 20.7888 24.104V24.3913H25.0193V24.0662C25.0193 23.3505 25.019 22.635 25.0185 21.9195C25.0177 20.1311 25.0168 18.3428 25.0215 16.5538C25.0238 15.7455 24.937 14.9484 24.7388 14.1669C24.4427 13.0046 23.8304 12.0427 22.8351 11.3481C22.1293 10.8537 21.3544 10.5354 20.4883 10.4997C20.3897 10.4956 20.2902 10.4903 20.1903 10.4849C19.7475 10.4609 19.2973 10.4366 18.8739 10.522C17.6627 10.7647 16.5985 11.3191 15.7947 12.2965C15.7013 12.4086 15.6099 12.5224 15.4736 12.6923L15.4429 12.7308V10.8404ZM4.99593 24.3979H9.193V10.8492H4.99593V24.3979Z" fill="currentColor"/>
+</svg>
+<span class="visually-hidden">Linkedin de DrupalCamp Spain</span></a>
+      <a href="https://www.instagram.com/drupalcampspain/" title="Instagram" class="footer__social__icon" target="_blank"><svg width="30" height="29" viewBox="0 0 30 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.3333 0.134277H8.66667C4.29442 0.134277 0.75 3.6787 0.75 8.05094V20.7176C0.75 25.0898 4.29442 28.6343 8.66667 28.6343H21.3333C25.7056 28.6343 29.25 25.0898 29.25 20.7176V8.05094C29.25 3.6787 25.7056 0.134277 21.3333 0.134277ZM26.4792 20.7176C26.4705 23.5559 24.1716 25.8547 21.3333 25.8634H8.66667C5.8283 25.8547 3.52953 23.5559 3.52083 20.7176V8.05094C3.52953 5.21258 5.8283 2.9138 8.66667 2.90511H21.3333C24.1716 2.9138 26.4705 5.21258 26.4792 8.05094V20.7176ZM22.5208 8.44678C23.3953 8.44678 24.1042 7.73789 24.1042 6.86344C24.1042 5.989 23.3953 5.28011 22.5208 5.28011C21.6464 5.28011 20.9375 5.989 20.9375 6.86344C20.9375 7.73789 21.6464 8.44678 22.5208 8.44678ZM15 7.25928C11.065 7.25928 7.875 10.4493 7.875 14.3843C7.875 18.3193 11.065 21.5093 15 21.5093C18.9351 21.5093 22.125 18.3193 22.125 14.3843C22.1293 12.4933 21.3799 10.6786 20.0428 9.34149C18.7056 8.00438 16.891 7.25507 15 7.25928ZM10.6458 14.3843C10.6458 16.789 12.5952 18.7384 15 18.7384C17.4048 18.7384 19.3542 16.789 19.3542 14.3843C19.3542 11.9795 17.4048 10.0301 15 10.0301C12.5952 10.0301 10.6458 11.9795 10.6458 14.3843Z" fill="currentColor"/>
+</svg>
+<span class="visually-hidden">Instagram de DrupalCamp Spain</span></a>
+      <a href="https://www.youtube.com/channel/UCJlthEUN__9_-KWFQ_-0fLg" title="Youtube" class="footer__social__icon" target="_blank"><svg width="32" height="24" viewBox="0 0 32 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M31.1889 4.40484C31.0086 3.73573 30.6562 3.12552 30.1667 2.63494C29.6772 2.14437 29.0678 1.79054 28.3991 1.60868C25.9196 0.927843 16 0.91676 16 0.91676C16 0.91676 6.08203 0.905676 3.60095 1.55643C2.93266 1.74666 2.3245 2.10549 1.83485 2.59847C1.34519 3.09146 0.990486 3.70204 0.804784 4.37159C0.150867 6.85109 0.144534 11.9938 0.144534 11.9938C0.144534 11.9938 0.1382 17.1618 0.787367 19.6159C1.15153 20.9728 2.22028 22.0448 3.57878 22.4105C6.08362 23.0913 15.9763 23.1024 15.9763 23.1024C15.9763 23.1024 25.8959 23.1135 28.3754 22.4643C29.0443 22.2828 29.6543 21.9298 30.145 21.4402C30.6357 20.9506 30.9901 20.3415 31.1731 19.6729C31.8286 17.195 31.8334 12.0539 31.8334 12.0539C31.8334 12.0539 31.865 6.88434 31.1889 4.40484ZM12.827 16.758L12.835 7.25801L21.0794 12.0159L12.827 16.758Z" fill="currentColor"/>
+</svg>
+<span class="visually-hidden">YouTube de Asociación Española de Drupal</span></a>
+      <a href="https://github.com/AsociacionDrupalES" title="GitHub" class="footer__social__icon" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M10 0c5.523 0 10 4.59 10 10.253 0 4.529-2.862 8.371-6.833 9.728-.507.101-.687-.219-.687-.492 0-.338.012-1.442.012-2.814 0-.956-.32-1.58-.679-1.898 2.227-.254 4.567-1.121 4.567-5.059 0-1.12-.388-2.034-1.03-2.752.104-.259.447-1.302-.098-2.714 0 0-.838-.275-2.747 1.051A9.396 9.396 0 0 0 10 4.958a9.375 9.375 0 0 0-2.503.345C5.586 3.977 4.746 4.252 4.746 4.252c-.543 1.412-.2 2.455-.097 2.714-.639.718-1.03 1.632-1.03 2.752 0 3.928 2.335 4.808 4.556 5.067-.286.256-.545.708-.635 1.371-.57.262-2.018.715-2.91-.852 0 0-.529-.985-1.533-1.057 0 0-.975-.013-.068.623 0 0 .655.315 1.11 1.5 0 0 .587 1.83 3.369 1.21.005.857.014 1.665.014 1.909 0 .271-.184.588-.683.493C2.865 18.627 0 14.783 0 10.253 0 4.59 4.478 0 10 0"/></svg>
+<span class="visually-hidden">GitHub de DrupalCamp</span></a>
+    </div>
+  </div>
+  <div class="footer__links">
+    <p class="footer__links__copyright">© 2026 <a href="https://asociaciondrupal.es/" target="_blank">Asociación Española de Drupal</a></p>
+    <div>
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--footer.html.twig
+   ▪️ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/region--footer.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--drupalcamp-footer.html.twig
+   ▪️ block--system-menu-block--footer.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-drupalcamp-footer-menu" id="block-drupalcamp-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-drupalcamp-footer-menu">Footer</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__footer' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ menu--footer.html.twig
+   ✅ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/navigation/menu.html.twig' -->
+
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="../selection-criteria-talks.html" data-drupal-link-system-path="node/3">Selection criteria</a>
+              </li>
+                <li class="menu-item">
+        <a href="../guide-speakers.html" data-drupal-link-system-path="node/6">Guide for Speakers</a>
+              </li>
+                <li class="menu-item">
+        <a href="../code-conduct.html" data-drupal-link-system-path="node/7">Code of conduct</a>
+              </li>
+                <li class="menu-item">
+        <a href="../contact.html" data-drupal-link-system-path="contact">Contact</a>
+              </li>
+        </ul>
+  
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/navigation/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/block/block--system-menu-block.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/region--footer.html.twig' -->
+
+
+    </div>
+  </div>
+</footer>
+<!-- 🥞 Component end: drupalcamp:footer -->  
+</div>
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/themes/stable9/templates/content/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"en\/","currentPath":"node\/176","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":true,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"0","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":true,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":[],"extExcludeNoreferrer":""}},"field_group":{"component_formatter":{"mode":"compact","context":"view","settings":{"ui_patterns":{"component_id":"drupalcamp:user","variant_id":null,"props":{"attributes":{"source_id":"attributes","source":{"value":""}},"back_route":{"source_id":"textfield","source":{"value":"view.session_list.page_1"}},"background_color":{"source_id":"select","source":{"value":""}},"size":{"source_id":"select","source":{"value":""}}},"slots":{"description":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"field_description"},"_weight":"0"}]},"tags":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"field_time_slot"},"_weight":"0"},{"source_id":"field_group_child","source":{"field_group_child":"field_r"},"_weight":"1"},{"source_id":"field_group_child","source":{"field_group_child":"field_audience"},"_weight":"2"},{"source_id":"field_group_child","source":{"field_group_child":"field_session_category"},"_weight":"3"},{"source_id":"field_group_child","source":{"field_group_child":"field_language"},"_weight":"4"}]},"speakers":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"field_speakers"},"_weight":"0"}]},"name":{"sources":[{"source_id":"field_group_child","source":{"derivable_context":"field:taxonomy_term:session_audience:name","field:taxonomy_term:session_category:name":{"value":{"sources":[{"source_id":"field_formatter:taxonomy_term:session_category:name","source":{"type":"string","third_party_settings":{"nomarkup":{"enabled":"1","separator":"|","referenced_entity":""}},"settings":{"link_to_entity":0}},"_weight":"0"}]}},"field:taxonomy_term:session_audience:name":{"value":{"sources":[{"source_id":"field_formatter:taxonomy_term:session_audience:name","source":{"type":"string","third_party_settings":{"nomarkup":{"enabled":"1","separator":"|","referenced_entity":""}},"settings":{"link_to_entity":0}},"_weight":"0"}]}},"field_group_child":"field_display_name"},"_weight":"0"}]},"url":{"sources":[{"source_id":"entity_link","source":{"template":"event_platform:sessions","absolute":0},"_weight":"0"}]},"avatar":{"sources":[{"source_id":"field_group_child","source":{"field_group_child":"user_picture"},"_weight":"0"}]}}},"show_empty_fields":"1","label_as_html":0}}},"user":{"uid":0,"permissionsHash":"cb21f868040c8aefb750036d54b3854f11538dcee6f86372270b00a8c3a01449"}}</script>
+<script src="../../sites/default/files/js/js_V_bhi-ngfmhPQYfIItB-7kT5lY5rxhckRM3JLPzcsBU.js%3Fscope=footer&amp;delta=0&amp;language=en&amp;theme=drupalcamp&amp;include=eJxLzi9K1U_Ozy3Iz0vNKynWSykqLUjMSU7MLdDVzUhNTEkt0kkmqEQ3NzWvVCe1oiQnMy9bHyKvB-UCAC43JY4"></script>
+
+  </body>
+</html>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/drupalcamp/templates/layout/html.html.twig' -->
+

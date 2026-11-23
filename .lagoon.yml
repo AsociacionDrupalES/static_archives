@@ -34,6 +34,7 @@ environments:
            - 2023.drupalcamp.es: *ROUTE
            - 2024.drupalcamp.es: *ROUTE
            - 2025.drupalcamp.es: *ROUTE
+           - 2026.drupalcamp.es: *ROUTE
            - drupalday.es: *ROUTE
            - www.drupalday.es: *ROUTE
            - 2011.drupalday.es: *ROUTE
